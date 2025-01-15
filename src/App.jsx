@@ -4,19 +4,24 @@ import uchnuqta from "/uchnuqta.svg";
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
+  const [showPopup, setShowPopup] = useState(false);
   const [loginInput, setLoginInput] = useState("");
   const [passwordInput, setPasswordInput] = useState("");
 
   // Oldindan belgilangan login va parol
-  const predefinedLogin = "admin";
-  const predefinedPassword = "12345";
+  const predefinedLogin = "sizdahosiz";
+  const predefinedPassword = "sizdahosiz";
 
   const handleLogin = () => {
     if (
       loginInput === predefinedLogin &&
       passwordInput === predefinedPassword
     ) {
-      setIsAuthenticated(true);
+      setShowPopup(true);
+      setTimeout(() => {
+        setShowPopup(false);
+        setIsAuthenticated(true);
+      }, 4000);
     } else {
       alert("Login yoki parol noto'g'ri");
     }
@@ -24,6 +29,14 @@ function App() {
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
+      {showPopup && (
+        <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-50 flex items-center justify-center">
+          <div className="bg-white p-6 rounded-lg shadow-lg text-center">
+            <h2 className="text-xl font-bold mb-4">Ha, bilaman</h2>
+            <p className="text-gray-600">Sizning ma'lumotlaringiz to'g'ri.</p>
+          </div>
+        </div>
+      )}
       {isAuthenticated ? (
         <Test />
       ) : (
