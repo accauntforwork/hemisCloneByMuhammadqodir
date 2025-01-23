@@ -1,2942 +1,2378 @@
-Kreativ pedagogikaning asosiy maqsadi nima?
-====
-Talabalarni tartibga solish
-====
-#Talabalarning ijodkorligini rivojlantirish
-====
-Darslarni tez o’tkazish
-====
-O'qituvchilarning bilimini oshirish
+ 
 ++++
-Qaysi usul kreativ fikrlashni rag'batlantirishda eng samarali hisoblanadi?
+1.	Bu platforma o’qituvchi va o’quvchilar o’rtasidagi fan doirasida o’zaro muloqot vositasi hisoblanadi va bu  orqali o’qituvchilar kurslar yaratishi, talabalarga topshiriqlarni yuborishi va ularga izoh berishi, shuningdek, talabalarning fikr-mulohazalarini qabul qilishi mumkin.Bu qaysi platforma
 ====
-#Muammoli o'qitish
+#Google classroom
 ====
-An'anaviy o'qitish
+Google meet
+====
+Learning apps.org
+====
+Interacty.com
+
+++++
+
+2.	Learning.apps.org da qanday fanlarga oid topshiriq shabloni(namunasi)mavjud 
+====
+Informatika va At
+====
+Xorijiy tillar
+====
+Aniq fanlar
+====
+#Barcha fanlarga oid
+
+++++
+
+3.	Learning.apps.org da foydalanuvchi yaratgan loyihalar qaysi bo’limda saqlanadi
+====
+Все упражнения
+====
+#Мои упражнения
+====
+Новое упражнения
+====
+Коллекцию упражнения
+
+++++
+
+4.	Interacty saytida foydalanishning qanday ta’riflari mavjud
+====
+#Ta’lim,Biznes tariflari
+====
+Standart,Pro tariflari
+====
+Mutlaqo bepul,hech qanday tarif turi mavjud emas
+====
+Bazoviy,Standart,Professional
+
+++++
+
+5.	Wordwall  saytida foydalanishning qanday ta’riflari mavjud
+====
+Ta’lim,Biznes tariflari
+====
+Standart,Pro tariflari
+====
+Mutlaqo bepul,hech qanday tarif turi mavjud emas
+====
+#Bazoviy,Standart,Professional
+
+++++
+
+6.	Learning.apps.org saytida foydalanishning qanday ta’riflari mavjud
+====
+Ta’lim,Biznes tariflari
+====
+Standart,Pro tariflari
+====
+#Mutlaqo bepul,hech qanday tarif turi mavjud emas
+====
+Bepul,Standart,Professional
+
+++++
+====
+Bloklar tartibi ko’rinib turadi
+
+++++
+7.	Ta’lim oluvchilari bir xil saviyada, bir xil yoshda, bilimi jihatidan ham teng bо‘lgan jamoani doimiy boshqarib turuvchi, nazorat qiluvchi pedagog kim deb ataladi
+====
+Pedagog
+====
+#Sinf rahbar
+====
+Fan o’qituvchisi
+====
+Yordamchi
+
+++++
+
+8.	Chaynword metodiga to’g’ri tarif berilgan javobni toping
+====
+Oʻquvchini (sharoitga qarab) guruhlarga ajratiladi, mavzu  guruh a’zolariga beriladi, guruh a’zolari tomonidan yakka holda o’z fikrini bildiradilar, har bir guruh a’zosi oʻzi ishlagan tarqatma materiallarining oʻng burchagiga guruh raqamini yozadi, chap burchagiga esa oʻzining biron-bir belgisini chizib qoʻyadi va vazifa bajarilgan tarqatma  materiallar boshqa guruhlarga “charxpalak aylanmasi”  yoʻnalishida almashtiriladi;
+====
+Bir varaq oq qog`ozda (vatman yoki A-3 varag`i) baliq skeleti chiziladi  (boshi, kemirchagi, qovurg`alari).Yuqoridagi «suyagiga» muammo ifodalanishi, pastidagiga esa - ushbu muammo mavjudligini  isbotlovchi faktlar yozib qo`yiladi. 
+====
+Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
+====
+#Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
+
+
+++++
+
+9.	Baliq skleti metodiga to’g’ri tarif berilgan javobni toping
+====
+Oʻquvchini (sharoitga qarab) guruhlarga ajratiladi, mavzu  guruh a’zolariga beriladi, guruh a’zolari tomonidan yakka holda o’z fikrini bildiradilar, har bir guruh a’zosi oʻzi ishlagan tarqatma materiallarining oʻng burchagiga guruh raqamini yozadi, chap burchagiga esa oʻzining biron-bir belgisini chizib qoʻyadi va vazifa bajarilgan tarqatma  materiallar boshqa guruhlarga “charxpalak aylanmasi”  yoʻnalishida almashtiriladi;
+====
+#Bir varaq oq qog`ozda (vatman yoki A-3 varag`i) baliq skeleti chiziladi  (boshi, kemirchagi, qovurg`alari).Yuqoridagi «suyagiga» muammo ifodalanishi, pastidagiga esa - ushbu muammo mavjudligini  isbotlovchi faktlar yozib qo`yiladi. 
+====
+Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
+====
+Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
+
+++++
+
+10.	Charxpalak texnologiyasi metodiga to’g’ri tarif berilgan javobni toping
+====
+#Oʻquvchini (sharoitga qarab) guruhlarga ajratiladi, mavzu  guruh a’zolariga beriladi, guruh a’zolari tomonidan yakka holda o’z fikrini bildiradilar, har bir guruh a’zosi oʻzi ishlagan tarqatma materiallarining oʻng burchagiga guruh raqamini yozadi, chap burchagiga esa oʻzining biron-bir belgisini chizib qoʻyadi va vazifa bajarilgan tarqatma  materiallar boshqa guruhlarga “charxpalak aylanmasi”  yoʻnalishida almashtiriladi;
+====
+Bir varaq oq qog`ozda (vatman yoki A-3 varag`i) baliq skeleti chiziladi  (boshi, kemirchagi, qovurg`alari).Yuqoridagi «suyagiga» muammo ifodalanishi, pastidagiga esa - ushbu muammo mavjudligini  isbotlovchi faktlar yozib qo`yiladi. 
+====
+Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
+====
+Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
+
+++++
+
+11.	Venn diagrammasi metodiga to’g’ri tarif berilgan javobni toping
+====
+Oʻquvchini (sharoitga qarab) guruhlarga ajratiladi, mavzu  guruh a’zolariga beriladi, guruh a’zolari tomonidan yakka holda o’z fikrini bildiradilar, har bir guruh a’zosi oʻzi ishlagan tarqatma materiallarining oʻng burchagiga guruh raqamini yozadi, chap burchagiga esa oʻzining biron-bir belgisini chizib qoʻyadi va vazifa bajarilgan tarqatma  materiallar boshqa guruhlarga “charxpalak aylanmasi”  yoʻnalishida almashtiriladi;
+====
+Bir varaq oq qog`ozda (vatman yoki A-3 varag`i) baliq skeleti chiziladi  (boshi, kemirchagi, qovurg`alari).Yuqoridagi «suyagiga» muammo ifodalanishi, pastidagiga esa - ushbu muammo mavjudligini  isbotlovchi faktlar yozib qo`yiladi. 
+====
+#Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
+====
+Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
+
+++++
+
+12.	FSMU metodiga to’g’ri tarif berilgan qatorni toping
+====
+#Fikringizni bayon eting,fikringizning   bayoniga sabab   kо‘rsating, kо‘rsatilgan  sababingizni  isbotlab misol (dalil)   keltiring, fikringizni umumlashtiring kabilida vaziyat  taxlil etiladi
+====
+Tahlil qilinayotgan obektning kuchli tomon, kuchsiz tomon, imkoniyatlar, ziddiyatlar haqida so’z boradi va tahlil etiladi
+====
+
+Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
+====
+Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
+
+++++
+
+
+13.	Swot-Tahlil metodiga to’g’ri tarif berilgan qatorni toping
+====
+Fikringizni bayon eting,fikringizning   bayoniga sabab   kо‘rsating, kо‘rsatilgan  sababingizni  isbotlab misol (dalil)   keltiring, fikringizni umumlashtiring kabilida vaziyat  taxlil etiladi
+====
+#Tahlil qilinayotgan obektning kuchli tomon, kuchsiz tomon, imkoniyatlar, ziddiyatlar haqida so’z boradi va tahlil etiladi
+====
+
+Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
+====
+Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
+
+++++
+
+14.	O‘quvchilarga nazariy bilimlarni berish asosida ularda amaliy ko‘nikma va malakalarni shakllantirish, ularning bilish qobiliyatlarini o‘stirish va dunyoqarashlarini tarbiyalashga yo‘naltirilgan jarayon nima deb ataladi
+====
+#Ta’lim
+====
+Bilim olish
+====
+Dars
+====
+O’quv fani
+
+++++
+
+15.	Elektron vositalar yaratishning mazmun bosqichiga to’g’ri tarif berilgan qatorni toping
+====
+#bu bosqichda elektron vositalarning axborot-ta’lim resurslarini shakllantirish va uning axborot ta’minoti mazmuni yaratiladi
+====
+bu bosqichda elektron vositalar yaratishning texnik jihatlari bilan bir qatorda, elektron ta’limni tashkil etish, axborot-ta’lim resurslariga bo‘lgan talabni aniqlash maqsadida foydalanuvchilar bo‘yicha statistik ma’lumotlarni yig‘ish va tahlil etish amalga oshiriladi
+====
+bu bosqichda elektron vositalardan o‘quv jarayonida foydalanish metodikasini ishlab chiqish, maslahat xizmatlarini bajarish yo‘lga qo‘yiladi
+====
+bu bosqichda o‘quv materiallarini mazmunan yopiq, minimal hajmga ega modullarga ajratiladi
+
+++++
+
+16.	Elektron vositalar yaratishning tashkiliy bosqichiga to’g’ri tarif berilgan qatorni toping
+====
+bu bosqichda elektron vositalarning axborot-ta’lim resurslarini shakllantirish va uning axborot ta’minoti mazmuni yaratiladi
+====
+#bu bosqichda elektron vositalar yaratishning texnik jihatlari bilan bir qatorda, elektron ta’limni tashkil etish, axborot-ta’lim resurslariga bo‘lgan talabni aniqlash maqsadida foydalanuvchilar bo‘yicha statistik ma’lumotlarni yig‘ish va tahlil etish amalga oshiriladi
+====
+bu bosqichda elektron vositalardan o‘quv jarayonida foydalanish metodikasini ishlab chiqish, maslahat xizmatlarini bajarish yo‘lga qo‘yiladi
+====
+bu bosqichda o‘quv materiallarini mazmunan yopiq, minimal hajmga ega modullarga ajratiladi
+
+++++
+
+17.	Elektron vositalar yaratishning metodik ta’minot  bosqichiga to’g’ri tarif berilgan qatorni toping
+====
+bu bosqichda elektron vositalarning axborot-ta’lim resurslarini shakllantirish va uning axborot ta’minoti mazmuni yaratiladi
+====
+bu bosqichda elektron vositalar yaratishning texnik jihatlari bilan bir qatorda, elektron ta’limni tashkil etish, axborot-ta’lim resurslariga bo‘lgan talabni aniqlash maqsadida foydalanuvchilar bo‘yicha statistik ma’lumotlarni yig‘ish va tahlil etish amalga oshiriladi
+====
+#bu bosqichda elektron vositalardan o‘quv jarayonida foydalanish metodikasini ishlab chiqish, maslahat xizmatlarini bajarish yo‘lga qo‘yiladi
+====
+bu bosqichda o‘quv materiallarini mazmunan yopiq, minimal hajmga ega modullarga ajratiladi
+
+++++
+
+18.	Elektron vositalar yaratishning ko’rgazmalilik tamoyili haqida to’g’ri tarif berilgan qatorni toping
+====
+O‘quv materiallarining mohiyatiga e’tibor qaratish maqsadida talaba istalgan vaqtda kompyuter ko‘magiga ega bo‘lishi kerak.
+====
+#Elektron darsliklar modullari matn va vizuallashtirilgan materiallarning ma’lum nisbatini saqlagan holda illustratsiyalar va kadrlar jamlanmasidan iborat bo‘lishi zarur
+====
+O‘quv materiallarining asosiy mazmunini qamrab olgan har bir modul o‘zida gipermurojaatga ega kalit so‘zlar,nazariy materiallar bo‘yicha nazorat savollari, namunalar, mustaqil yechish uchun masalalar; modul bo‘yicha nazorat savollariga ega bo’lishi kerak
+====
+O‘quv materiallarini mazmunan yopiq, minimal hajmga ega modullarga ajratilgan bo’lishi kerak
+
+++++
+
+19.	Elektron vositalar yaratishning to’laqonlilik tamoyili haqida to’g’ri tarif berilgan qatorni toping
+====
+O‘quv materiallarining mohiyatiga e’tibor qaratish maqsadida talaba istalgan vaqtda kompyuter ko‘magiga ega bo‘lishi kerak.
+====
+Elektron darsliklar modullari matn va vizuallashtirilgan materiallarning ma’lum nisbatini saqlagan holda illustratsiyalar va kadrlar jamlanmasidan iborat bo‘lishi zarur
+====
+#O‘quv materiallarining asosiy mazmunini qamrab olgan har bir modul o‘zida gipermurojaatga ega kalit so‘zlar,nazariy materiallar bo‘yicha nazorat savollari, namunalar, mustaqil yechish uchun masalalar; modul bo‘yicha nazorat savollariga ega bo’lishi kerak
+====
+O‘quv materiallarini mazmunan yopiq, minimal hajmga ega modullarga ajratilgan bo’lishi kerak
+
+++++
+20.	QR kod qayerda ixtiro qilingan
+====
+Amerikada
+====
+#Yaponiyada
+====
+Janubiy Koreyada
+====
+Germaniyada
+
+++++
+
+21.	QR kod dastlab qanday maqsadda qo’llanilgan
+====
+#Avtomobil sanoatida
+====
+Savdo-sotiq sanoatida
+====
+Oziq-ovqat sanoatida
+====
+Qishloq xo’jalik sanoatida
+
+++++
+
+22.	QR koddan  talimiy maqsadlarda foydalanilganda qanday malumotlarni qr kodga joylashtirish mumkin
+====
+Taqdimotlar
+====
+Video,audiolar
+====
+Ssilkalar
+====
+#Barchasi
+
+++++
+
+23.	Ikki o’lchamli shtrix kod bu-
+====
+VR
+====
+AR
+====
+#QR
+====
+BM
+
+++++
+24.	O‘qitish jarayonining shakllari,  usullari,  tamoyillari,  mazmuni pedagogikaning qaysi qismida o’rganiladi
+====
+Metodika
+====
+Uslubiyot
+====
+#Didaktika
+====
+Pedagogika
+
+++++
+
+25.	Bevosita o‘qituvchi rahbarligida muayyan o‘quvchilar guruhi bilan olib boriladigan ta’lim jarayonining asosiy shakli nima deb ataladi
+====
+Ta’lim
+====
+Bilim olish
+====
+#Dars
+====
+O’quv fani
+
+++++
+
+26.	Idrok etish, o‘rganish, mashq qilish va muayyan tajriba asosida xulq-atvor hamda faoliyat ko‘nikma, malakalarining mustahkamlanib, mavjud bilimlarning takomillashib, boyib borish jarayoni nima deb ataladi
+====
+Ta’lim
+====
+#Bilim olish
+====
+Dars
+====
+O’quv fani
+
+++++
+
+27.	O‘qituvchi va o‘quvchilar o‘rtasida tashkil etiluvchi hamda ilmiy bilimlarni o‘zlashtirishga yo‘naltirilgan pedagogik jarayon nima deb atladi
+====
+O’quv fani
+====
+#Ta’lim jarayoni
+====
+Dars
+====
+Ta’lim mazmuni
+
+++++
+
+28.	Ta’lim muassasalarida o‘qitilishi yo‘lga qo‘yilgan hamda o‘zida muayyan fan bo‘yicha umumiy yoki mutaxassislik bilim asoslarini jamlagan manba.
+====
+Ta’lim mazmuni
+====
+Ta’lim jarayoni
+====
+Dars
+====
+#O’quv fani
+
+++++
+
+29.	Davlat ta’lim standartlari asosida belgilab berilgan hamda ma’lum sharoitda muayyan fanlar bo‘yicha o‘zlashtirilishi nazarda tutilgan ilmiy bilimlar mohiyati.
+====
+O’quv fani
+====
+Ta’lim jarayoni
+====
+Dars
+====
+#Ta’lim mazmuni
+
+++++
+
+30.	Didaktik sakkizburchak nimalrdan iborat
+====
+O’qituvchi, o’qishning maqsadi, o’qitishning vazifasi, talabalar guruhi,o’qitish metodi,tashkiliy sharoit,olingan bilimlarni nazorat qilish,o’qitishda qo’llaniluvchi vositalar
+====
+O’qituvchi, o’quv materialining mazmuni,o’qitishning vazifasi, talabalar guruhi,o’qitish metodi,tashkiliy sharoit,olingan bilimlarni nazorat qilish,o’qitishda qo’llaniluvchi vositalar
+====
+# O’qituvchi, o’quv materialining mazmuni , o’qishning maqsadi, talabalar guruhi, o’qitish metodi, tashkiliy sharoit, olingan bilimlarni nazorat qilish, o’qitishda qo’llaniluvchi vositalar
+====
+O’qituvchi, o’quv materialining mazmuni,o’qitishning vazifasi, talabalar guruhi, o’qitish metodi,tashkiliy sharoit,mustaqil ta’lim, o’qitishda qo’llaniluvchi vositalar
+
+++++
+
+31.	Amerikalik investor va startaplar asoschisi ………. Huffingon Post nashrida virtual reallik sohasini AQShda shiddat bilan rivojlanayotgan sohalar qatoriga qo‘shgan. 
+====
+Kemeron Kleyn
+====
+#Jorj Bill
+====
+Kickstarter
+====
+Maykl Uilliam
+
+++++
+
+32.	Virtual reallik garniturasini ishlab chiqarish uchun mablag‘ yig‘ishni boshlagan kompaniya qaysi
+====
+#Kickstarter  platformasida Oculus startapi
+====
+Kickstarter  platformasida Plaxonic Technology startapti
+====
+Kickstarter  platformasida  Techasoft startapti
+====
+Kickstarter  platformasida Geomotiv startapti
+
+++++
+
+33.	Virtual reallik garniturasini ishlab chiqarish uchun mablag‘ yig‘ishni qaysi yilda boshlandi
+====
+2011
+====
+2014
+====
+2015
+====
+#2012
+
+++++
+
+34.	Virtual reallik garniturasini ishlab chiqarish uchun qancha mablag‘  yig’ilgan va bu qancha vaqtda amalga oshirilgan
+====
+250ming$ 24 soatda
+====
+200 ming$ 5 soatda
+====
+#250 ming$ 4 soatda
+====
+200ming $  4 soatda
+
+++++
+
+35.	Sotuvga chiqqan ilk virtuallik garniturasi qanday nomlanadi
+====
+#Oculus Rift CV1
+====
+Sagit Oculus  Quest 1
+====
+Oculus Go 1
+====
+Rift Go1
+
+++++
+
+36.	Ilk virtuallik garniturasi qachon sotuvga chiqarilgan
+====
+2011-yilda
+====
+2012-yilda
+====
+2014-yilda
+====
+#2015-yilda
+
+++++
+
+37.	Sezgi (ko‘rish, eshitish va sezish) organlari orqali sun’iy dunyoni anglash axborot muhiti nima deb ataladi
+====
+AR
+====
+#VR
+====
+Periferik qurilma
+====
+Immersivlik
+
+++++
+
+38.	Insonning o‘zini virtual voqelikda his qilishi nima deb ataladi
+====
+AR
+====
+VR
+====
+Interfaollik
+====
+#Immersivlik
+
+++++
+
+39.	Insonning real vaqtda virtual voqelikdagi obyektlar bilan o‘zaro muloqotda bo‘lishi, ularga ta’sir ko‘rsatishi nima deb ataladi
+====
+AR
+====
+VR
+====
+#Interfaollik
+====
+Immersivlik
+
+++++
+
+40.	Immersivlik bu-….
+====
+Insonning real vaqtda virtual voqelikdagi obyektlar bilan o‘zaro muloqotda bo‘lishi, ularga ta’sir ko‘rsatishi
+====
+#Insonning o‘zini virtual voqelikda his qilishi 
+====
+Sezgi (ko‘rish, eshitish va sezish) organlari orqali sun’iy dunyoni anglash axborot muhiti 
+====
+Foydalanuvchi tomonidan yaratilgan 3D virtual muhit 
+
+++++
+
+41.	Inson miyasidagi neyronlar virtual elementlarga qanday javob beradi.
+====
+#haqiqiy dunyo elementlariga javob bergani kabi
+====
+bazilarini  haqiqiy dunyo elementlariga javob bergani kabi bazilarini esa yo’q
+====
+Faqat xayoliy tarzda javob beradi
+====
+Barchasi to’g’ri
+
+++++
+
+42.	Foydalanuvchi tomonidan yaratilgan 3D virtual muhit nima deb ataladi
+====
+Virtual muhit
+====
+#Virtual olam
+====
+To’ldirilgan voqelik
+====
+Virtual reallik
+
+++++
+
+43.	Har qanday qurilma ekrani orqali har qanday raqamli ma’lumot (rasm, video, matn, grafika va h. k.)ni proeksiyalash nima deb atladi
+====
+Virtual muhit
+====
+Virtual olam
+====
+#To’ldirilgan voqelik
+====
+Virtual reallik
+
+++++
+
+44.	Dunyo bo‘ylab masofa, vaqt va joylashishni belgilaydigan sun’iy yo‘ldosh navigatsiya tizimi nima deb ataladi
+====
+AR
+====
+VR
+====
+QR kod
+====
+#Gps
+
+++++
+
+45.	Qanday virtual voqelik turlari mavjud
+====
+Immersiv,noimmersiv,yarim immersiv
+====
+Immersiv,yarim immersiv,immersiv bo’lmagan
+=====
+#Yarim immersiv,to’liq immersiv,immersiv bo’lmagan
+====
+Immersiv,to’liq immersiv,immersiv bo’lmagan
+
+++++
+
+46.	Kompyuter ekrani yoki VR ko‘zoynaklaridan foydalanib, virtual muhitda harakat qilish mumkin, ammo vizuallikni yaxshilash uchun jismoniy hislar yetishmaydi. Ushbu tarif qaysi virtual  voqelik haqida
+====
+#Yarim immersiv voqelik
+====
+To’liq immersiv voqelik
+====
+Immersiv bo’lmagan voqelik
+====
+Immersiv voqelik
+
+++++
+
+47.	Bunday voqelik haqiqiy virtual tajribani ta’minlaydi. Bunda odam o‘zini virtual dunyoda jismonan mavjuddek, u yerda sodir bo‘layotgan voqealarda ishtirok etayotgandek sezadi. Haqiqiy virtual tajribani ta’minlash uchun sensorli detektorlar bilan jihozlangan VR ko‘zoynaklar, qo‘lqoplar,virtual kostyum kabi maxsus uskunalar talab qilinadi. Ushbu tarif qaysi virtual  voqelik haqida
+====
+Yarim immersiv voqelik
+====
+#To’liq immersiv voqelik
+====
+Immersiv bo’lmagan voqelik
+====
+Immersiv voqelik
+
+++++
+
+48.	Insonning o‘z tajribasidan kelib chiqqan holda kompyuter orqali virtual muhitdagi qahramon yoki harakatlarni boshqarishi. Bunda virtual muhit inson bilan to‘g‘ridan-to‘g‘ri aloqada bo‘lmaydi. Ushbu tarif qaysi virtual  voqelik haqida
+====
+Yarim immersiv voqelik
+====
+To’liq immersiv voqelik
+====
+#Immersiv bo’lmagan voqelik
+====
+Immersiv voqelik
+
+++++
+
+49.	Foydalanuvchilarning turli manzillardan turib, virtual muhitda 3D proeksiyalangan qahramonlar shaklida birlashishi qanday virtual  voqelikka kiradi
+====
+#Hamkorlikdagi voqelik
+====
+To’liq immersiv voqelik
+====
+Immersiv bo’lmagan virtual  voqelik
+====
+Immersiv voqelik
+
+++++
+
+50.	PlayerUnknowns Battlegrounds (PUBG)  mobil o‘yinning virtual muhiti qanday virtual  voqelikka misol bo‘la oladi.
+====
+Immersiv voqelik
+====
+To’liq immersiv voqelik
+====
+Immersiv bo’lmagan virtual  voqelik
+====
+#Hamkorlikdagi voqelik
+
+++++
+
+51.	Maxsus tarzda kodlangan, kvadrat ko‘rinishida tasvirlangan ma’lumot nima deb ataladi
+====
+VR
+====
+AR
+====
+#QR
+====
+Gps
+
+++++
+52.	Usul so’zi qaysi tildan olingan?
+====
+Arab
+====
+ #yunon 
+====
+Sharq tillari
+ ====
+Grek
+
+++++
+
+53.	O’qituvchi o’quvchi  munosabati qaysi metodda yaqqol namoyon bo’ladi
+====
+#Nofaol 
+====
+ Interfaol 
+====
+Faol 
+====
+to’g’ri javob yo’q
+
+++++
+
+54.	Oqituvchi o’quvchi o’qituvchi  munosabati qaysi metodda yaqqol namoyon bo’ladi?
+====
+Nofaol 
+====
+Interfaol
+====
+ #Faol 
+====
+to’g’ri javob yo’q
+
+++++
+
+55.	Oqituvchi  o’quvchi  o’quvchi  o’qituvchi  munosabati qaysi metodda yaqqol namoyon bo’ladi
+====
+Nofaol 
+====
+#Interfaol
+====
+ Faol 
+====
+to’g’ri javob yo’q
+
+++++
+56.	Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lgan metod turi
+====
+#Charxpalak
+====
+Keys-stadi 
+====
+So’rovnoma 
+====
+BBB
+
+++++
+57.	Darslarda ko’p qo’llaniladigan metod turlaridan bo’lib  kuchli tomon,kuchsiz tomon,imkoniyatlar,ziddiyatlar haqida so’z boradi Qaysi metod turi haqida so’z bormoqda
+====
+Muammoli vaziyat
+====
+FSMU
+====
+ #Swot-taxlil 
+====
+Rolli-o’yin
+++++
+58.	………-taqvim reja asosida tanlanadi
+====
+Darsning maqsadi 
+====
+#Darsning mavzusi
+====
+ Darsning turi 
+====
+Darsning metodi
+
+++++
+
+59.	Dars maqsadiga ko’ra nechchi xil bo‘ladi:
+====
+#3 
+====
+4 
+====
+  5
+ ====
+2
+
+++++
+
+60.	Usul bu-
+====
+#bilish yo’li 
+====
+ mavzu xaritasi 
+====
+faoliyat 
+====
+yo’l
+
+++++
+
+61.	Ta’lim uchun mos metod tanlayotganda nimalarga e’tibor berish kerak
+====
+Darsning maqsadiga,mavzuning mazmuniga,ta’lim oluvchi imkoniyatlariga ko’ra
+====
+Ta’lim oluvchilar soniga,yoshiga,darsning texnik jihozlariga,darsning maqsadiga
+====
+Ta’lim beruvchining mahoratiga,texnik shart sharoitlarga ko’ra, tarbiyaviy qoidalarga
+====
+#a va b javoblar
+
+++++
+
+62.	O’quvchilar faoliyatiga ko’ra ta’lim metodlari nechchi turli bo’ladi
+====
+4 
+====
+2 
+====
+#3 
+====
+5
+
+++++
+
+63.	Olinayotgan bilim va tajribalarni hayotda qo’llay olish qobilyatini baholovchi dastur qanday ataladi
+====
+Timss
+====
+Tallis
+====
+#Pisa
+====
+Pirls
+
+++++
+
+64.	Yangi avlod Informatika darsliklari qaysi  modelga asoslangan
+====
+3K
+====
+ #4K
+ ====
+K 
+====
+To’g’ri javob yo’q
+
+++++
+
+65.	……..….-oʻquvchilarning biror maqsadga erishish uchun jamoada ishlash koʻnikmasidir
+====
+Kommunikativlik 
+====
+#Kollobratsiya 
+====
+Kreativ fikrlash 
+====
+Tanqidiy fikrlash
+
+++++
+
+66.	Kollobratsiya  bu-….
+====
+oʻquvchilarning boshqalar bilan muloqotga kirishish qobiliyatini anglatadi
+====
+#oʻquvchilarning biror maqsadga erishish uchun jamoada ishlash koʻnikmasidir
+====
+O’quvchilarning  muammolarga tahliliy nuqtayi nazardan yondashish ko’nikmasi
+====
+O‘quvchilarining savodxonlik va hisoblash ko‘nikmalarini baholash ko’nikmasi
+
+++++
+
+67.	Kommunikativlik  bu-….
+====
+#oʻquvchilarning boshqalar bilan muloqotga kirishish qobiliyatini anglatadi
+====
+oʻquvchilarning biror maqsadga erishish uchun jamoada ishlash koʻnikmasidir
+====
+O’quvchilarning  muammolarga tahliliy nuqtayi nazardan yondashish ko’nikmasi
+====
+O‘quvchilarining savodxonlik va hisoblash ko‘nikmalarini baholash ko’nikmasi
+
+++++
+
+68.	……-oʻquvchilarning boshqalar bilan muloqotga kirishish qobiliyatini anglatadi.
+====
+#Kommunikativlik 
+====
+Kollobratsiya 
+====
+Kreativ fikrlash 
+====
+Tanqidiy fikrlash
+
+++++
+
+69.	Bolalar muammolarga tahliliy nuqtayi nazardan yondashishni oʻrganadi. Qaysi kompetensiya haqida so’z bormoqda
+====
+Kommunikativlik 
+====
+Kollobratsiya 
+====
+Kreativ fikrlash 
+====
+#Tanqidiy fikrlash
+
+++++
+
+70.	Yangi avlod darsliklarini tayyorlashda nimalarga e’tibor qaratilgan
+====
+o’quvchi yoshi, darslikdagi metodlar, darslik dizayni, tarbiyaviy ahamiyatiga
+====
+#o’quvchining yoshi,darslik vazni,darslik dizayniga
+====
+Tarbiyaviy maqsad,Darslikdagi metodlarga, o’quvchining yoshi,darslik vazniga
+====
+To’g’ri javob yo’q
+
+++++
+
+71.	Darsning  rivojlantiruvchi maqsadiga nimalar kiradi
+====
+ nutq madaniyatini; vatanparvarlikni; mehnatga ongli munosabatni, yangi tushunchalarni shakllantirish;
+====
+yangi tushunchalarni shakllantirish; bilimlardagi yetishmovchiliklarni bartaraf etish; bilimlarni umumlashtirish va tizimga solish; tushunchalar orasidagi bog’lanishlarni aniqlash  tushunchalarni shakllantirish
+====
+ dunyoqarash g’oyalari va muammolarini aniqlash; talim oluvchilarda u  yoki  bu harakatni, voqealarni baholash bo’yicha bilimlarni  shakllantirish; xulosa chiqarishga tayyorlash, o’zlashtirishga erishish.  ta’lim olishga ijobiy munosabatni; estetik qarashlarni; e’tiqodni shakllantirish
+====
+# dars  jarayonida  talim oluvchilarning  psixologik sifatlarini diqqat, xotira, texnik taffakkur va bilish qobiliyatlarini shakllantirishdir
+
+++++
+
+72.	Imom Gazzoliy fikriga ko’ra ilimning boshi-…
+====
+Yod olish
+====
+ #Jim turish 
+====
+unga amal qilish
+ ====
+Bilmaganlarga tarqatish
+
+++++
+
+73.	Imom Gazzoliy fikriga ko’ra Jim turish bu ilim olishning ….dir .
+====
+#Ilm olishning boshidir
+====
+Ilmning  olishning yakunidir
+====
+Ilm olishning ikkinchi shartidir
+====
+Ilm olishning beshinchi shartidir
+
+++++
+
+74.	Imom Gazzoliy fikriga ko’ra ilim olishning  beshinchi sharti -…
+====
+Yod olish 
+====
+Jim turish 
+====
+unga amal qilish
+====
+ #Bilmaganlarga tarqatish
+
+++++
+
+75.	Imom Gazzoliy fikriga ko’ra ilim olishning  to’rtinchi sharti -…
+====
+Yod olish 
+====
+Jim turish 
+====
+#unga amal qilish 
+====
+Bilmaganlarga tarqatish
+
+++++
+
+76.	Imom Gazzoliy fikriga ko’ra ilim olishning  uchinchi sharti -…
+====
+#Yod olish 
+====
+Jim turish
+ ====
+unga amal qilish 
+====
+Bilmaganlarga tarqatish
+
+++++
+
+77.	Imom Gazzoliy fikriga ko’ra ilim olishning  ikkinchi sharti -…
+====
+Yod olish 
+====
+Jim turish
+====
+ #e’tibor bilan eshitish 
+====
+Bilmaganlarga tarqatish
+
+++++
+
+78.	Darsni tashkil etishda pedagog o’z oldiga  qanday savollar qo’yadi
+====
+nimani o’qitamiz, qayerda o’qitamiz, nima uchun o’qitamiz
+====
+qanday o’qitamiz, nimaga o’qitamiz,qaysi metoddan foydalanamiz
+====
+#nega o’qitamiz,nimani o’qitamiz,qanday o’qitamiz
+====
+nimani o’qitamiz,qayerda o’qitamiz,qanday o’qitamiz
+
+++++
+
+79.	Aqliy xujum Interfaol ta’limning qaysi  asosiy shakliga kiradi
+====
+grafik organayzer 
+====
+#strategiya 
+====
+interfaol metod 
+====
+o’yin 
+
+
+++++
+
+80.	Blits-so’rov Interfaol ta’limning qaysi  asosiy shakliga kiradi
+====
+grafik organayzer 
+====
+strategiya 
+====
+#interfaol metod 
+====
+o’yin 
+
+++++
+
+81.	Baliq skleti  Interfaol ta’limning qaysi  asosiy shakliga kiradi
+====
+#grafik organayzer 
+====
+strategiya 
+====
+interfaol metod 
+====
+o’yin 
+
+++++
+
+82.	Klaster Interfaol ta’limning qaysi  asosiy shakliga kiradi
+====
+#grafik organayzer 
+====
+strategiya 
+====
+interfaol metod 
+====
+o’yin 
+
+++++
+
+83.	Egallagan bilimlardan amalda foydalanish nima deyiladi
+====
+bilish  
+====
+#qo’llash 
+====
+tushunish 
+====
+Taxlil
+
+++++
+
+84.	Faktlarni tushunchalarni kategoriyalarni aytib berish nima deyiladi
+====
+#bilish 
+====
+qo’llash 
+====
+tushunish 
+====
+Taxlil
+
+++++
+
+85.	O’z so’zlari bilan mazmunni yoritish izohlash bu-...
+====
+bilish 
+====
+qo’llash 
+====
+#tushunish 
+====
+Taxlil
+
+++++
+
+86.	Umumlashtirish xulosa qilish bu-....
+====
+bilish 
+====
+qo’llash 
+====
+Tushunish
+====
+ #sintez
+
+++++
+
+87.	Obektlarni elementlarga ajratgan xolda chuqur o’rganish nima deyiladi
+====
+bilish 
+====
+qo’llash 
+====
+tushunish 
+====
+#taxlil
+
+++++
+
+88.	Obektga munosabatni bildirish,zaruratni aniqlash nima deyiladi
+====
+#baholash 
+====
+qo’llash 
+====
+tushunish 
+====
+Taxlil
+
+++++
+
+89.	Ta’lim jarayonining ma’lum bosqichida o’quv maqsadlariga erishilganlik darajasini oldindan belgilangan mezonlar  asosida o’lchash nima deb ataladi
+====
+# Baho qo’yish
+  ====
+nazorat o’tkazish 
+====
+o’rganish jarayoni 
 ====
 Tekshirish
-====
-Repetitsiya
-++++
-Kreativ pedagogikada “brainstorming” usuli nima?
-====
-Yozma ishlarni tahlil qilish
-====
-#G'oyalarni erkin tarzda ishlab chiqish
-====
-Ma'lumotlarni yig'ish
-====
-Sinfda tartibni saqlash
-++++
-Talabalar o'rtasida ijodiy muhokama o'tkazishning afzalliklari qaysilar?
-====
-#Har bir talabani erkin fikrlashga undash
-====
-Faqat kuchli talabalarni ajratish
-====
-O'qituvchining mavqeini oshirish
-====
-Tez o'qitish
-++++
-Kreativ pedagogikaning qaysi elementi o'qituvchining ijodiy yondashuvini talab qiladi?
-====
-Dars rejasini tayyorlash
-====
-#Sinfda muammolarni hal qilish
-====
- O'quv materiallarini tayyorlash
-====
-Talabalarga baho berish
-++++
-Ijodiy faoliyatni rag'batlantirish uchun qaysi muhit zarur?
-====
- Raqobatli muhit
-====
-Yopiq va qattiq muhit
-====
-#Ochiq va qo'llab-quvvatlovchi muhit
-====
-Tashqi ta'sirga qarshi muhit
-++++
-Kreativ pedagogikada qaysi amaliyot eng muhim hisoblanadi?
-====
-#Sinfda jamoaviy ishlash
-====
-Faqat individual ish
-====
-Muammoli vaziyatlarni bartaraf etish
-====
-O'z-o'zini nazorat qilish
-++++
-
-Qanday faoliyat talabalarni ijodkorlikka undaydi?
-====
-Monologlar
-====
-#Rolli o'yinlar
-====
-Mustaqil ishlar
-====
-So'zlashuv
-++++
-Kreativ fikrlashni rivojlantirishda qaysi qobiliyat muhimdir?
-====
-#Tanqidiy fikrlash
-====
-Faqat yodlash
-====
-O'zini himoya qilish
-====
-Boshqaruv qobiliyati
-++++
-Kreativ pedagogikada "interdisiplinar yondashuv" nima?
-====
-Faqat bitta fan bilan shug'ullanish
-====
-#Bir nechta fanlarni birlashtirib o'qitish
-====
-Faqat amaliy mashg'ulotlarga e'tibor berish
-====
-Faqat nazariy bilimlarni o'rganish
-++++
-Ijodiy muhitni yaratish uchun qaysi metodlar ishlatiladi?
-====
-An'anaviy ta'lim
-====
-Mustaqil o'qitish
-====
-#Kooperativ o'qitish
-====
-Tez-tez baholash
-++++
-Kreativ pedagogikada qaysi narsa muhim?
-====
-O'quvchilarning qoidalarni bilishi
-====
-#O'quvchilarning fikrlash erkinligi
-====
-O'quvchilarning baholanishi
-====
-O'qituvchining ko'rsatmalari
-++++
-Kreativ o'quv jarayonining asosiy xususiyati?
-====
-Sifatli bilim olish
-====
-O'quvchilarni faqat nazariyaga o'rgatish
- ====
-#Amaliy tajribalarni yaratish
-====
-Faqat yozma ishlar
-++++
-Ijodiy fikrlash qobiliyatini rivojlantirishda qaysi faoliyat samarali?
-====
-O'qituvchi tomonidan berilgan topshiriqlar
-====
- #Guruhda muhokama
-====
-Faqat individual o'qish
-====
-Yozma ishlar
-++++
-O'qituvchining ijodiy roli nima?
-====
-Faqat bilim berish
-====
-#Talabalarni motivatsiya qilish
-====
-Baho berish
-====
-Qoidalarga rioya qilish
-++++
-Kreativ pedagogikada o'quvchilar qanday vazifalarni bajarishi kerak?
-====
-Faqat o'qituvchining ko'rsatmalariga amal qilish
-====
-#O'z fikrlarini erkin ifodalash
-====
-Faqat o'z-o'zini nazorat qilish
-====
-An'anaviy bilimlarni yodlash
-++++
-Kreativ o'qitishning qanday usullari mavjud?
-====
-#Amaliy va nazariy
-====
-Faqat nazariy
-====
-Faqat amaliy
- ====
-An'anaviy
-++++
-Sinfdagi ijodiy muhitni yaratish uchun qaysi omillar muhim?
-====
-Raqobat
- ====
-Yopiq muhit
-====
-#Ochiq muloqot
-====
-Sifatli ta'lim
-++++
-O'qituvchilar qaysi usullar orqali ijodiy fikrlashni rivojlantirishlari mumkin?
-====
-Ko'p sonli baholash
-====
-#O'zaro muloqot
-====
-Yopiq topshiriqlar
-====
- Faqat nazariy bilimlar
-++++
-Kreativ pedagogikada “rol o'yinlari” nima?
-====
-Faqat qoidalarni o'rganish
-====
-#Muammolarni yechish uchun o'ynash
- ====
-Mavzuni yodlash
-====
-O'quvchilarni baholash
-++++
-Kreativ fikrlashni rivojlantirishda qaysi faoliyat muhim?
-====
-Yozma ishlar
-====
-#Guruh ishlari
-====
- Monologlar
-====
-Faqat testlar
-++++
-Kreativ pedagogikaning bir qismi sifatida qaysi yondashuv qo'llaniladi?
-====
-An'anaviy yondashuv
-====
- #Talabalar markazidagi yondashuv
- ====
-O'qituvchi markazidagi yondashuv
-====
-Baho berish markazidagi yondashuv
-++++
-Ijodiy ta'lim muhitida qaysi xislatlar zarur?
-====
- Boshqaruv va nazorat
- ====
-#Mustaqillik va erkinlik
-====
-Faqat qoidalar
- ====
-Tez-tez baholash
-++++
-Talabalarni ijodiy fikrlashga undashda qaysi rol o'ynaydi?
-====
-#O'qituvchi
-====
-Faqat ota-onalar
-====
- Faqat sinfdoshlar
-====
- Faqat muallimlar
-++++
-Kreativ pedagogikada “o'z-o'zini baholash” nima?
-====
-O'qituvchining baholashi
-====
-#Talabaning o'z faoliyatini tahlil qilish
-====
-Sinfdagi baholarni taqqoslash
-====
-O'qituvchining qoidalari
-++++
-O'qituvchilar qaysi texnologiyalarni ishlatishlari mumkin?
-====
- Faqat an'anaviy usullar
- ====
-#Multimedia va interaktiv usullar
-====
- Faqat yozma ishlar
- ====
-Faqat auditoriya
-++++
-Ijodiy o'quv jarayonida talabalar qanday rol o'ynashlari kerak?
-====
-Faqat o'qituvchini tinglash
-====
-#Faol ishtirok etish
-====
- Faqat sinfdan chiqish
- ====
-O'zaro baholash
-++++
-Kreativ fikrlashni rivojlantirishda qaysi usullar qo'llaniladi?
-====
-O'qituvchi tomonidan berilgan vazifalar
-====
-#Muloqot va muhokama
-====
- Faqat yodlash
-====
-Sinfda tartib
-++++
-Kreativ pedagogikada qaysi muhit o'zgarishlarga tayyor bo'lishi kerak?
-====
-Yopiq muhit
-====
-#Ochiq va dinamik muhit
-====
- Faqat nazoratli muhit
- ====
-Faqat an'anaviy muhit
-++++
-Kreativ fikrlashda qaysi imkoniyatlar mavjud?
-====
-Faqat yozma ishlar
-====
-#Har xil g'oyalarni birlashtirish
-====
-An'anaviy bilimlarni o'rganish
- ====
-Faqat o'qituvchini tinglash
-++++
-Ijodiy pedagogikaning asosiy tamoyillaridan biri?
-====
-Faqat nazariy bilimlar
-====
-#Har qanday muammoga innovatsion yondashuv
-====
-O'quvchilarning bahosi
-====
-O'qituvchilarning nazorati
-++++
-Kreativ o'qitishda "muvaffaqiyatga erishish" tushunchasi nima?
-====
-Faqat yuqori baholar
-====
-#O'z fikrlarini ifodalash qobiliyati
-====
-Faqat o'qituvchining nazorati
-====
-O'zaro raqobat
-++++
-Kreativ pedagogikada “talabalarni rag'batlantirish” nima?
-====
-Faqat baholar bilan
-====
-#O'z fikrlarini erkin ifodalashga undash
-====
-Faqat muallimlarning ko'rsatmalari
-====
-Faqat sinfdagi qoidalar
-++++
-Ijodiy fikrlashda muammoli vaziyatlar qanday rol o'ynaydi?
-====
-Faqat baho olish
-====
-#Yangi g'oyalarni yaratish imkoniyatini beradi
-====
-O'zaro raqobat
-====
-O'qituvchining nazorati
-++++
-Kreativ o'qitishda “kooperativ o'qitish” nima?
-====
-Faqat individual ish
-====
-#O'quvchilarni birlashtirib ishlash
-====
-O'qituvchining bitta usuli
- ====
-Faqat nazorat
-++++
-Kreativ pedagogikada o'zaro munosabatlar qanday muhim?
-====
-Faqat nazorat
-====
-Faqat raqobat
-====
-#Ochiq muloqot va hamkorlik
-====
-Faqat o'qituvchini tinglash
-++++
-Ijodiy o'qitishda "fikir almashish" qanday muhim?
-====
-O'quvchilarning individual ishlari
-====
-#O'zaro tajriba va g'oyalarni baham ko'rish
-====
-Faqat o'qituvchi tomonidan berilgan ishlar
-====
-Faqat yodlash
-++++
-Kreativ pedagogikada sinf muhiti qanday bo'lishi kerak?
-====
-Yopiq va qat'iy
-====
-#Ochiq va qo'llab-quvvatlovchi
-====
-Faqat baholarni berish
-====
-O'zaro raqobatli
-++++
-Kreativ pedagogikaning asosiy tamoyillaridan biri?
-====
-An'anaviy o'qitish
-====
-#O'quvchilarning erkin fikrlashlari
-====
-Faqat nazorat qilish
-====
-Faqat yodlash
-++++
-Kreativ fikrlashni rivojlantirishda qaysi usullar eng samarali?
-====
-O'qituvchining an'anaviy yondashuvi
-====
-#O'zaro bahs-munozara
-====
-Faqat yozma ishlar
-====
-Faqat sinfda nazorat
-++++
-Kreativ o'qitishda “ijodiy muhokama” nima?
-====
-#O'quvchilar o'rtasida muloqot
-====
-Faqat o'qituvchining ko'rsatmalari
-====
-O'zaro raqobat
-====
-Faqat nazorat
-++++
-Kreativ pedagogikada “g'oya ishlab chiqish” jarayoni nima?
-====
-Faqat nazariy bilimlar
-====
-#O'zaro muhokama va ijodiy fikrlash
-====
-Faqat sinfdan chiqish
-====
-Faqat o'qituvchini tinglash
-++++
-Kreativ fikrlashni rivojlantirishda qaysi qobiliyat muhimdir?
-====
-Faqat yodlash
-====
-#Muammolarni hal qilish
-====
-Faqat nazorat
-====
-O'qituvchining qoidalari
-++++
-Kreativ pedagogikada “multimedia” qanday rol o'ynaydi?
-====
-Faqat nazorat
-====
-#Talabalarni rag'batlantirish
-====
-Faqat an'anaviy ta'lim
-====
-Faqat yozma ishlar
-++++
-Ijodiy o'qitish jarayonida qaysi usullar qo'llaniladi?
-====
-Faqat an'anaviy metodlar
-====
-#Ko'p qirrali va innovatsion yondashuvlar
-====
-Faqat yozma ishlar
-====
-Faqat testlar
-++++
-Kreativ pedagogikada qaysi g'oyalar muhim?
-====
-An'anaviy g'oyalar
-====
-#Innovatsion g'oyalar
-====
- Faqat yozma ishlar
- ====
-Faqat nazorat
-++++
-Ijodiy faoliyatda qaysi omillar muhim?
-====
-Raqobat
- ====
-#Ochiqlik va erkinlik
-====
- Faqat baholar
- ====
-Faqat nazorat
-++++
-Kreativ fikrlashda qaysi fazilatlar muhim?
-====
-Yodlash qobiliyati
- ====
-#Tanqidiy fikrlash
-====
- Faqat nazorat
- ====
-Faqat amaliy ishlar
-++++
-Kreativ pedagogikada “ijodiy loyiha” nima?
-====
-Faqat yozma ishlar
-====
-#Amaliy faoliyatlar va g'oyalarni birlashtirish
-====
-Faqat nazorat
-====
-Faqat an'anaviy ta'lim
-++++
-Ijodiy ta'limda qanday baholash usullari qo'llaniladi?
-====
-Faqat an'anaviy baholar
-====
-#O'quvchilarning ijodiy faoliyatini baholash
-====
-Faqat yozma ishlar
-====
-Faqat testlar
-++++
-Kreativ pedagogikada o'quvchilar qaysi rolni o'ynaydi?
-====
-Faqat tinglovchi
- ====
-#Faol ishtirokchi
-====
-Faqat nazorat
-====
-Faqat amaliy ishlar
-++++
-Kreativ o'qitishda qaysi metodlar qo'llaniladi?
-====
-An'anaviy usullar
-====
-#Interaktiv va kooperativ usullar
-====
-Faqat yozma ishlar
-====
-Faqat testlar
-++++
-Ijodiy fikrlashni rivojlantirishda qaysi resurslar muhim?
-====
-Faqat an'anaviy ta'lim
-====
-#Multimedia va innovatsion resurslar
-====
-Faqat yozma ishlar
-====
-Faqat sinfdan chiqish
-++++
-Kreativ pedagogikada “tashabbus” qanday muhim?
-====
-Faqat o'qituvchining ko'rsatmalari
-====
-#O'quvchilarning o'z g'oyalarini ifodalash imkoniyati
-====
-Faqat baholar
-====
-Faqat amaliy ishlar
-++++
-Kreativ fikrlashni rivojlantirishda qaysi qobiliyat muhimdir?
-====
-#Tanqidiy fikrlash
-====
-====
-Faqat yodlash
-====
-Faqat nazorat
-====
-Faqat o'qituvchi tomonidan berilgan ishlar
-++++
-Kreativ pedagogikada “munosabat” qanday rol o'ynaydi?
-====
-Faqat o'qituvchining rolini belgilash
-====
-#O'quvchilar o'rtasidagi muloqot va hamkorlik
-====
-Faqat nazorat
-====
-Faqat an'anaviy ta'lim
-++++
-Kreativ fikrlashda “g'oya” qanday muhim?
-====
-Faqat yozma ishlar
-====
-#O'zaro muloqot va yangi g'oyalar yaratish
-====
-Faqat nazorat
-====
-Faqat testlar
-++++
-Ijodiy o'qitishda “ko'p qirrali yondashuv” nima?
-====
-Faqat an'anaviy ta'lim
-====
-#Turli metodlarni birlashtirish
-====
-Faqat yozma ishlar
-====
-Faqat baholar
-++++
-Kreativ pedagogikada "o'quv jarayoni" qanday bo'lishi kerak?
-====
-Faqat nazorat
- ====
-#Ochiq va innovatsion
-====
-Faqat amaliy ishlar
-====
-Faqat yozma ishlar
-++++
-Kreativ fikrlashni rivojlantirishda qaysi metodlar samarali?
-====
-Faqat an'anaviy
-====
-#Innovatsion va interaktiv metodlar
-====
-Faqat yozma ishlar
-====
-Faqat testlar
-====
-++++
-Ijodiy pedagogikada “tashabbuskorlik” nima?
-====
-Faqat o'qituvchining ko'rsatmalari
-====
-#O'quvchilarning o'z g'oyalarini ilgari surish
-====
-Faqat nazorat
-====
-Faqat baholar
-++++
-Kreativ pedagogikada “o'zaro baholash” nima?
-====
-Faqat o'qituvchining baholari
-====
-#O'quvchilar o'rtasida baholash va fikr almashish
-====
-Faqat amaliy ishlar
-====
-Faqat nazorat
-====
-++++
-Kreativ fikrlashda “ijtimoiy o'zaro ta'sir” qanday muhim?
-====
-Faqat yozma ishlar
-====
-#O'quvchilarning bir-biriga ta'siri
-====
-Faqat nazorat
-====
-Faqat baholar
-++++
-Ijodiy ta'limda qaysi baholash usullari qo'llaniladi?
-====
-Faqat an'anaviy baholar
-====
-#O'quvchilarning ijodiy faoliyatini baholash
-====
-Faqat yozma ishlar
-====
-Faqat testlar
-++++
-Kreativ pedagogikada “muloqot” qanday rol o'ynaydi?
-====
-Faqat baholar
-====
-#O'quvchilar o'rtasida tajriba va fikr almashish
-====
-Faqat nazorat
-====
-Faqat amaliy ishlar
-++++
-Kreativ fikrlashni rivojlantirishda qaysi muhim?
-=====
-Faqat yodlash
-====
-#O'z fikrlarini erkin ifodalash
-====
-Faqat nazorat
-====
-Faqat testlar
-++++
-Ijodiy o'qitishda qaysi metodlar qo'llaniladi?
-====
-An'anaviy usullar
-====
-#Innovatsion va interaktiv usullar
- ====
-Faqat yozma ishlar
-====
-Faqat testlar
-++++
-Kreativ pedagogikada “ijtimoiy muhit” qanday muhim?
-====
-Faqat nazorat
-====
-#O'quvchilar o'rtasidagi ijtimoiy aloqalar
-====
-Faqat baholar
- ====
-Faqat yozma ishlar
-++++
-Kreativ fikrlashda “erkinlik” qanday muhim?
-====
-Faqat nazorat
-====
-#O'quvchilarning o'z g'oyalarini erkin ifodalash imkoniyati
-====
-Faqat baholar
-====
-Faqat amaliy ishlar
-++++
-Ijodiy ta'limda qaysi baholash usullari qo'llaniladi?
-====
-Faqat an'anaviy baholar
-====
-#O'quvchilarning ijodiy faoliyatini baholash
-====
-Faqat yozma ishlar
-====
-Faqat testlar
-++++
-Kreativ pedagogikada o'quv jarayonida qaysi element muhim?
-====
-Faqat yozma ishlar
-====
-#Interaktivlik
-====
-Faqat nazorat
-====
-Faqat baholar
-++++
-Ijodiy o'quv jarayonida o'quvchilarning o'zaro munosabatlari qanday bo'lishi kerak?
- ====
- Faqat raqobat
- ====
- #Hamkorlik va o'zaro yordam
- ====
- Faqat nazorat
- ====
- Faqat amaliy ishlar
-++++
-Kreativ pedagogikada "motivatsiya" qanday rol o'ynaydi?
-====
-Faqat baholar
-====
-#O'quvchilarning qiziqishini oshirish
-====
-Faqat an'anaviy ta'lim
-====
-Faqat nazorat
-++++
-Ijodiy o'qitishda muammolarni hal qilish qanday amalga oshiriladi?
-====
-Faqat yodlash
-====
-#Ijodiy fikrlash orqali
-====
-Faqat o'qituvchining ko'rsatmalari
-====
-Faqat testlar
-++++
-Kreativ pedagogikada qaysi muhit o'quvchilarga yordam beradi?
-====
-Yopiq va qat'iy muhit
-====
-#Ochiq va qo'llab-quvvatlovchi muhit
-====
-Faqat an'anaviy muhit
-====
-Faqat nazorat
-++++
-Kreativ fikrlashni rivojlantirishda qaysi usul samarali?
-====
-Faqat yozma ishlar
-====
-#O'zaro munosabatlar va muhokama
-====
-Faqat testlar
-====
-Faqat amaliy ishlar
-++++
-Ijodiy ta'limda qaysi baholash tizimi muhim?
-====
-Faqat an'anaviy baholar
-====
-#Ijodiy faoliyatni baholash tizimi
-====
-Faqat yodlash
-====
-Faqat nazorat
-++++
-Kreativ pedagogikada o'quvchilarni qanday rag'batlantirish mumkin?
- ====
- Faqat baholar bilan
- ====
- #Ularning ijodiy ishlari orqali
- ====
-Faqat nazorat
- ====
-Faqat amaliy ishlar
-++++
-Ijodiy fikrlashda qaysi strategiya samarali?
- ====
- Faqat nazorat
- ====
- #O'z fikrlarini erkin ifodalash
- ====
-Faqat yozma ishlar
- ====
-Faqat baholar
-++++
-Kreativ o'qitishda o'quvchilar qanday rol o'ynaydi?
- ====
- Faqat tinglovchi
- ====
-#Faol ishtirokchilar
- ====
- Faqat amaliy ishlar
- ====
-Faqat nazorat
-++++
-Kreativ fikrlashni rivojlantirishda qanday metodlar ishlatiladi?
- ====
- Faqat an'anaviy
- ====
-#Innovatsion va interaktiv metodlar
- ====
- Faqat yozma ishlar
- ====
- Faqat testlar
-++++
-Ijodiy o'qitishda “kooperativ o'qitish” nima?
- ====
- Faqat individual ish
- ====
-#O'quvchilarni birlashtirib ishlash
- ====
- Faqat nazorat
- ====
- Faqat amaliy ishlar
-++++
-Kreativ pedagogikada “muloqot” qanday muhim?
- ====
- Faqat baholar
- ====
- O'quvchilarning fikrlarini baham ko'rish
- ====
- Faqat nazorat
- ====
-Faqat yozma ishlar
-++++
-Ijodiy ta'limda o'quvchilarning qobiliyatlarini qanday baholash mumkin?
- ====
- Faqat an'anaviy baholar
- ====
-#Ijodiy va innovatsion yondashuvlar bilan
- ====
-Faqat yodlash
- ====
- Faqat nazorat
-++++
-Kreativ pedagogikada “ijodiy muammolar” qanday ahamiyatga ega?
- ====
- Faqat nazorat
- ====
-#Yangi g'oyalarni yaratish imkonini beradi
- ====
- Faqat amaliy ishlar
- ====
-Faqat baholar
-++++
-Kreativ fikrlashni rivojlantirishda qaysi ko'nikmalar muhim?
-====
-Faqat yodlash
- ====
-#Tanqidiy fikrlash va ijodiy yechimlar
- ====
- Faqat nazorat
- ====
- Faqat yozma ishlar
-++++
-Ijodiy o'qitishda "o'zaro baholash" qanday ahamiyatga ega?
- ====
- Faqat o'qituvchining baholari
- ====
- #O'quvchilar o'rtasida konstruktiv fikr almashish
- ====
- Faqat amaliy ishlar
- ====
- Faqat nazorat
-++++
-Kreativ pedagogikada o'quvchilarni qanday tayyorlash kerak?
- ====
- Faqat an'anaviy usullar
- ====
-#Ijodiy fikrlash va muammolarni hal qilishga tayyorlash
- ====
- Faqat nazorat
- ====
- Faqat baholar
-++++
-Ijodiy ta'limda o'qituvchilarning roli qanday?
- ====
- Faqat nazorat
- ====
-#O'quvchilarga yo'l ko'rsatish va rag'batlantirish
- ====
-Faqat baholar
- ====
- Faqat yozma ishlar
-++++
-Kreativ fikrlashni rivojlantirishda o'quvchilar qanday yondashuvni tanlashlari kerak?
- ====
- Faqat yozma ishlar
- ====
- #O'z fikrlarini erkin ifodalash va ijodiy muhokama
- ====
- Faqat nazorat
- ====
- Faqat baholar
-++++
-Kreativ pedagogikada “hamkorlik” qanday ahamiyatga ega?
- ====
- Faqat nazorat
- ====
-#O'quvchilar o'rtasida o'zaro yordam va fikr almashish
- ====
- Faqat baholar
- ====
-Faqat amaliy ishlar
-++++
-Ijodiy o'qitishda qaysi tamoyil muhim?
- ====
- Faqat yodlash
- ====
- #O'quvchilarning erkin fikrlashlarini qo'llab-quvvatlash
- ====
- Faqat nazorat
- ====
- Faqat yozma ishlar
-++++
-Kreativ fikrlashni rivojlantirishda “rag'bat” qanday bo'lishi kerak?
- ====
- Faqat baholar
- ====
-#Ijodiy ishlarga qiziqish yaratish
- ====
- Faqat nazorat
- ====
- Faqat yozma ishlar
-++++
-Ijodiy ta'limda qanday metodlar eng samarali?
- ====
- Faqat an'anaviy
- ====
-#Interaktiv va ijodiy yondashuvlar
- ====
- Faqat testlar
- ====
- Faqat yozma ishlar
-++++
-Kreativ pedagogikada o'quvchilar qaysi qobiliyatlarni rivojlantirishlari kerak?
- ====
- Faqat yodlash
- ====
-#Ijodiy va tanqidiy fikrlash
- ====
- Faqat nazorat
- ====
-Faqat amaliy ishlar
-++++
-Ijodiy o'qitishda "fikr almashish" qanday ahamiyatga ega?
- ====
- Faqat nazorat
- ====
-#O'quvchilarning ijodiy fikrlarini rivojlantirish
- ====
- Faqat baholar
- ====
-Faqat yozma ishlar
-++++
-Kreativ fikrlashni rivojlantirishda qaysi resurslar muhim?
- ====
- Faqat an'anaviy ta'lim
- ====
-#Multimedia va innovatsion materiallar
- ====
- Faqat yozma ishlar
- ====
-Faqat sinfdan chiqish
-++++
-Ijodiy ta'limda o'quvchilar qanday faoliyatlarni amalga oshirishlari kerak?
-====
-Faqat yozma ishlar
-====
-#Amaliy va ijodiy faoliyat
-====
-Faqat nazorat
-====
- Faqat baholar
-++++
-Kreativ pedagogikada "kreativ muhit" qanday bo'lishi kerak?
-====
- Faqat baholar
-====
- Ochiq va qo'llab-quvvatlovchi
-====
- Faqat nazorat
-====
-Faqat an'anaviy ta'lim
-++++
-Kreativ pedagogika nima?
-====
- #O‘qituvchi va o‘quvchilar o‘rtasida qat'iy intizomni talab qiladigan ta'lim jarayoni
-====
-O‘quvchilarning kreativ fikrlashini rivojlantirishga qaratilgan ta'lim jarayoni
-====
-Faoliyatga asoslangan ta'lim shakli
-====
- O‘quv dasturlarini qattiq rioya qilish
-++++
-Kreativ pedagogikada asosiy rolni kim o‘ynaydi?
-====
- O‘qituvchi
-====
-#O‘quvchi
-====
-Darsliklar
-====
- Ma'muriyat
-++++
-Qaysi metod kreativ pedagogikaga mos keladi?
-====
- An’anaviy ma'ruzalar
-====
- #Interaktiv va amaliy mashg‘ulotlar
-====
-Faqat test ishlash
-====
-Faqat nazariy bilimlarni berish
-++++
-Kreativ pedagogikada talabalarning ishtiroki qanday bo‘lishi kerak?
-====
- Passiv, faqat tinglash
-====
-#Faol va ijodiy
-====
-Faqat ma'lumot yodlash
-====
-O‘qituvchining ko‘rsatmasiga amal qilish
-++++
-Kreativ pedagogikada baholash qanday amalga oshiriladi?
- ====
-Faqat testlar orqali
-====
- #Jarayonli va amaliy mashg‘ulotlar orqali
-====
- O‘quv materiallarini yodlash orqali
-====
- O‘qituvchining bahosi asosida
-
-++++
-Kreativ pedagogikada muammolarni hal qilish qanday yondashuv bilan amalga oshiriladi?
- ====
-Faqat standart javoblar bilan
- ====
-#Yangi va kreativ usullar bilan
- ====
-O‘qituvchining tayyor javoblari bilan
-====
- Faqat darslikka asoslanib
-++++
-Kreativ pedagogikada qaysi faoliyat samaralidir?
-====
- Darsliklarni yod olish
- ====
-#Amaliy ishlar va loyihalar yaratish
-====
- Faqat testlarni yechish
- ====
-Faqat eslatma olish
-++++
-Kreativ pedagogikaning asosiy tamoyillaridan biri nima?
-====
- Faqat o‘qituvchi markazida o‘qitish
- ====
-#Talabaning shaxsiy qobiliyatlarini rivojlantirish
- ====
-Standart darsliklarga asoslanish
-====
- Qattiq nazorat
-++++
-Kreativ pedagogikada muhit qanday bo‘lishi kerak?
-====
- Rasmiy va qat'iy
- ====
-#Erkin va ijodiy fikrlashga rag'batlantiruvchi
- ====
-Qattiq qoidalarga asoslangan
- ====
-Raqobatga asoslangan
-++++
-Kreativ pedagogikaning asosiy komponentlaridan biri nima?
- ====
-Standartlashtirilgan darsliklar
- ====
-#O'quvchilarning individual qobiliyatlarini rivojlantirish
-====
- Qattiq nazorat
-====
- Faqat nazariy bilimlar
-++++
-Kreativ pedagogikada qanday o'quv metodlari qo'llaniladi?
- ====
-Faqat ma'ruza usuli
-====
-#Interaktiv va tajriba asosidagi metodlar
- ====
-Yodlash va qaytarish
-====
- Qattiq dars rejasi
-++++
-Kreativ pedagogikada o'quvchilarning qanday xususiyatlari rivojlanadi?
- ====
-Passiv tinglovchilik
- ====
-#Tanqidiy va ijodiy fikrlash
- ====
-Faqat ma'lumot yodlash
- ====
-Qattiq tartib-intizom
-++++
-Kreativ pedagogikada muammolarni hal qilish uchun qaysi strategiya samaraliroq?
- ====
-Standart yechimlarni taqdim etish
- ====
-#O'quvchilarga o'z yechimlarini topishga imkon berish
- ====
-Faqat darslikka asoslanish
- ====
-Qattiq nazorat qilish
-++++
-Kreativ pedagogikada qanday baholash usuli qo'llaniladi?
- ====
-Faqat yozma testlar
-====
- ====
-#Loyiha va portfel baholash
- ====
-Yodlash va qaytarish
- ====
-Faqat og'zaki savollar
-++++
-Kreativ pedagogikaning asosiy tamoyillaridan biri nima?
- ====
-O'quvchilarga faqat ma'lumot yetkazish
- ====
-#O'quvchilarning mustaqil fikrlashini qo'llab-quvvatlash
-====
- Qattiq intizom va tartib
-====
- Faqat darsliklarga asoslanish
-++++
-Kreativ pedagogikada o'qituvchining roli qanday ta'riflanadi?
- ====
-Faqat ma'lumot beruvchi
- ====
- #Mentor va yo'lboshchi
- ====
-Qattiq nazorat qiluvchi
- ====
-Faqat dars rejasini bajaruvchi
-++++
-Kreativ pedagogikada qanday muhit yaratiladi?
-====
- Qat'iy va rasmiy
-====
-#Erkin va qo'llab-quvvatlovchi
-====
- Raqobatga asoslangan
- ====
-Faqat jiddiy
-++++
-Kreativ pedagogikada qaysi usul o'quvchilarning ijodkorligini oshiradi?
- ====
-Faqat darsliklarni o'qish
-====
- #Brainstorming sessiyalari
- ====
-Qattiq testlar
-====
- Faqat og'zaki ma'ruzalar
-++++
-Kreativ pedagogikada qanday o'quv faoliyati qo'llaniladi?
-====
- Faqat individual ishlash
-====
- #Guruhda loyiha ishlari
- ====
-Yodlash va qaytarish
-====
- Qattiq dars rejasi
-++++
-Kreativ pedagogikada o'quvchilarning qanday roli bor?
-====
- Passiv tinglovchilar
-====
-#Faol tadqiqotchilar
-====
- Faqat ma'lumot oluvchilar
- ====
-Qattiq tartib-intizomda ishlovchilar
-++++
-Kreativ pedagogikada o'quvchilarning qanday motivatsiyasi muhim?
-====
-Faqat baholash natijalari
- ====
-#Ichki motivatsiya va qiziqish
-====
- Faqat tashqi mukofotlar
- ====
-Qattiq nazorat qilish
-++++
-Kreativ pedagogikada qanday dars rejasi samaraliroq?
- ====
-Qattiq va o'zgarmas dars rejasi
- ====
-#Moslashuvchan va o'quvchilarning ehtiyojlariga mos dars rejasi
- ====
-Faqat standart darsliklarga asoslangan rejasi
- ====
-O'quvchilar ishtirok qilmaydigan rejasi
-++++
-Kreativ pedagogikada qanday usul o'quvchilarning ijodiy potensialini oshiradi?
-====
- Faqat nazariy darslar
- ====
-#Amaliy va interaktiv mashg'ulotlar
- ====
-Yodlash va qaytarish
-====
- Qattiq nazorat qilish
-++++
-Kreativ pedagogikada o'quvchilarning qanday fikrlash uslublari qo'llaniladi?
- ====
-Faqat analitik fikrlash
- ====
-Divergent va konvergent fikrlash
-====
- Faqat konstruktiv fikrlash
- ====
-Faqat reaktiv fikrlash
-++++
-Kreativ pedagogikada o'quvchilarning qanday aloqalari rivojlanadi?
- ====
-Faqat o'qituvchi bilan
- ====
-Guruh a'zolari bilan hamkorlikda
-====
- Faqat mustaqil ishlash
- ====
-Qattiq nazorat ostida
-++++
-Kreativ pedagogikada qanday baholash vositasi samaraliroq?
-====
- Faqat testlar
-====
- #Portfel va loyiha ishlari
- ====
-Faqat yodlash darajasi
-====
- O'quvchilarning qat'iy bahosi
-++++
-Kreativ pedagogikada qanday muammolarni hal qilish usuli qo'llaniladi?
-====
-Faqat standart javoblar
- ====
-Yangi va innovativ yondashuvlar
- ====
-Faqat darslikka asoslangan yechimlar
- ====
-Qattiq nazorat orqali
-++++
-Kreativ pedagogikada qanday rol o'ynaydi o'quvchilarning o'zaro ta'siri?
- ====
-Faqat raqobatni oshiradi
-====
-#Hamkorlik va fikr almashishga yordam beradi
-====
- Passiv tinglashni kuchaytiradi
- ====
-O'quvchilarning mustaqilligini cheklaydi
-++++
-Kreativ pedagogikada qanday metod o'quvchilarning qiziqishini oshiradi?
-====
- Qattiq nazorat va intizom
-====
-#O'yinlar va simulyatsiyalar
-====
- Faqat darsliklarni o'qish
-====
- Yodlash va qaytarish
-++++
-Kreativ pedagogikada qanday yondashuv samaraliroq?
- ====
-Faqat ma'ruzalar
- ====
-#Fikrlarni mustaqil rivojlantirish
- ====
-Qattiq dars rejasi
- ====
-Faqat testlar
-++++
-Kreativ pedagogikada o'quvchilarning qanday rollari qo'llaniladi?
- ====
-Faqat tinglovchilar
- ====
-#Tadqiqotchilar va yaratuvchilar
- ====
-Faqat ma'lumot oluvchilar
-====
- Qattiq nazorat ostida ishlovchilar
-++++
-Kreativ pedagogikada qanday o'quv materiallari ishlatiladi?
- ====
-Faqat standart darsliklar
- ====
-#Interaktiv va multimedia materiallari
- ====
-Faqat qog'oz va ruchkalar
-====
- Qattiq nazorat vositalari
-++++
-Kreativ pedagogikada qanday o'quv strategiyasi qo'llaniladi?
- ====
-Faqat individual ishlash
-====
-#Hamkorlikda ishlash va guruh ishlari
-====
- Faqat ma'ruzalar
- ====
-Yodlash va qaytarish
-++++
-Kreativ pedagogikada qanday muammolarni yaratish samaraliroq?
- ====
-Oddiy va bir xil muammolar
-====
-#O'quvchilarning qobiliyatini sinovdan o'tkazadigan va ularga yangi yondashuvlarni talab qiladigan muammolar
-====
- Faqat nazariy muammolar
- ====
-Javobi allaqachon ma'lum bo'lgan muammolar
-++++
-Kreativ pedagogikada qanday motivatsiya turi qo'llaniladi?
- ====
-Faqat tashqi mukofotlar
- ====
-#Ichki motivatsiya va o'quvchilarning qiziqishi
-====
- Faqat baholash natijalari
-====
- Qattiq nazorat
-++++
-Kreativ pedagogikada qanday muhit talab qilinadi?
- ====
-Qat'iy va rasmiy
- ====
-#Erkin, qo'llab-quvvatlovchi va stimulyatsiya qiluvchi
- ====
-Raqobatga asoslangan
- ====
-Faqat jiddiy va strestli
-++++
-Kreativ pedagogikada qanday baholash usuli afzal ko'riladi?
-====
- Faqat standart testlar
-====
- #Formativ baholash va doimiy tahlil
-====
- Faqat yakuniy imtihonlar
- ====
-Yodlash darajasi
-++++
-Kreativ pedagogikada o'quvchilarning qanday roli mavjud?
- ====
-Passiv tinglovchilar
- ====
-#Faol va ijodiy ishtirokchilar
- ====
-Faqat ma'lumot qabul qiluvchilar
-====
- Nazorat ostidagi ishchilar
-++++
-Kreativ pedagogikada o'quvchilarga qanday imkoniyatlar beriladi?
- ====
-Faqat ma'ruzalarni tinglash
- ====
-#Mustaqil fikrlash va yangi g'oyalarni ishlab chiqish
- ====
-Faqat standart javoblarni berish
-====
- Qattiq intizom va tartib
-++++
-Kreativ pedagogikada qanday metodologiya qo'llaniladi?
- ====
-Faqat konstruktivizm
- ====
-#Ko'pgina yondashuvlarning kombinatsiyasi
- ====
-Faqat behaviorizm
- ====
-Faqat an'anaviy metodlar
-++++
-Kreativ pedagogikada qanday o'qituvchilar talab qilinadi?
- ====
-Faqat ma'ruzalar o'qiydigan
- ====
-#Innovator va motivator rolini o'ynaydigan
- ====
-Qattiq nazorat qiluvchi
- ====
-Faqat bilim yetkazuvchi
-++++
-Kreativ pedagogikada qanday baholash vositasi ishlatiladi?
- ====
-Faqat yozma testlar
- ====
-#Portfel va loyiha ishlari
-====
- Faqat og'zaki savollar
- ====
-Yodlash darajasi
-++++
-Kreativ pedagogikada o'quvchilarning qanday qobiliyatlari rivojlanadi?
- ====
-Faqat yodlash qobiliyati
- ====
-#Tanqidiy tahlil va muammolarni hal qilish qobiliyati
-====
- Faqat ma'lumot qabul qilish
- ====
-Qattiq tartib-intizomda ishlash
-++++
-Kreativ pedagogikada qanday yondashuv qo'llaniladi?
- ====
-Faqat an'anaviy yondashuv
- ====
-#Yaratilish va tajriba asosidagi yondashuv
- ====
-Faqat ma'ruzalar
- ====
-Yodlash va qaytarish
-++++
-Kreativ pedagogikada qanday texnologiyalar qo'llaniladi?
- ====
-Faqat qog'oz va ruchkalar
-====
-#Raqamli vositalar, interaktiv taxtalar va multimedia
- ====
-Faqat kitoblar
- ====
-Yodlash uchun kartalar
-++++
-Kreativ pedagogikada qanday faoliyatlar samaraliroq?
-====
- Faqat individual ishlash
- ====
-Guruhda loyiha ishlari va brainstorming sessiyalari
- ====
-Faqat testlarni yechish
- ====
-Yodlash mashqlari
-++++
-
-Ijodiy ta'limda qanday metodlar qo'llaniladi? 
-==== 
-Faqat an'anaviy 
-==== 
-# Interaktiv va innovatsion 
-==== 
- Faqat yozma ishlar 
-==== 
- Faqat baholash 
-++++
-Kreativ pedagogikada "o'zaro ta'sir" nima uchun muhim? 
-==== 
- Faqat o'qituvchi uchun 
-==== 
- Faqat baholar uchun 
-==== 
-# O'quvchilar o'rtasida fikr almashish uchun 
-==== 
-Faqat nazorat uchun 
 
 ++++
 
-Kreativ fikrlashni rivojlantirishda qaysi elementlar zarur? 
-==== 
-Faqat yodlash 
-==== 
-# Tanqidiy fikr va ijodiy muammolarni hal qilish 
-==== 
-Faqat sinf ichidagi faoliyatlar 
-==== 
-Faqat yozma ishlar 
+90.	Talim oluvchi  mustaqil хulosa va qaror qabul qiladi, ijodiy fikrlay oladi, mustaqil mushohada yuritadi, olgan bilimini amalda qoʻllay oladi, fanning (mavzuning) mohiyatini tushunadi, biladi, ifodalay oladi, aytib beradi hamda fan (mavzu) boʻyicha tasavvurga ega deb topilganda nechchi baho qo’yiladi
+====
+#5baho 
+====
+4 baho 
+====
+3 baho 
+====
+2 baho
 
 ++++
 
-Ijodiy o'qitishda qanday vazifalar amalga oshiriladi? 
-==== 
-Faqat nazorat 
-====
- #Ijodiy loyiha va ishlanmalar 
-==== 
- Faqat sinfda o'qitish 
-==== 
-Faqat baholarni berish 
-++++
-Kreativ pedagogikada muhim bo'lgan motivatsiya turi qaysi? 
-==== 
-Tashqi motivatsiya 
-==== 
-#Ichki motivatsiya 
-==== 
-Faqat baho uchun motivatsiya 
-==== 
-Raqobat motivatsiyasi 
-++++
-Ijodiy ta'lim jarayonida qaysi faktorlar muhim? 
-==== 
-Faqat materiallar 
-====
- #O'quvchilar va o'qituvchilar o'rtasidagi munosabatlar 
-==== 
-Faqat sinfning kattaligi 
-==== 
-Faqat nazorat 
-++++
-O'quvchilarning ijodiy qobiliyatlarini baholashda qaysi metodlar samarali? 
-====
-Faqat yozma testlar 
-==== 
-#Portfel va loyiha asosida baholash 
-==== 
-Faqat baholar 
-==== 
-Faqat sinf ichidagi nazorat 
-++++
-Ijodiy o'qitishda o'quvchilar qanday rol o'ynaydi? 
-==== 
-Faqat tinglovchi 
-==== 
-#Faol ishtirokchi 
-==== 
-Faqat o'qituvchini kuzatuvchi 
-==== 
-Faqat baho olish uchun ishtirok etuvchi 
-++++
-Ijodiy fikrlashni rivojlantirishda qanday jarayonlar muhim? 
-==== 
-Faqat yodlash 
-====
-#Fikr almashish va muhokama 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat baholar 
-++++
-Kreativ pedagogikada qanday baholash tizimi qo'llaniladi? 
-==== 
-Faqat summativ baholash 
-==== 
-#Formativ va summativ baholash 
-==== 
-Faqat an'anaviy baholash 
-==== 
-Faqat sinf ichidagi nazorat 
-++++
-O'quvchilar ijodiy faoliyatlarda qanday ko'nikmalarni o'zlashtirishi kerak? 
-==== 
-Faqat yodlash 
-==== 
-#Tanqidiy va ijodiy fikrlash 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat nazorat qilish 
-++++
-Ijodiy o'qitishda "o'zaro baholash" qanday ahamiyatga ega? 
-==== 
-Faqat o'qituvchining baholari 
-====
-#O'quvchilar o'rtasida fikr almashish 
-==== 
-Faqat sinfdagi nazorat 
-==== 
-Faqat baholar 
-++++
-Kreativ pedagogikada "yangilik yaratish" qanday amalga oshiriladi? 
-==== 
-Faqat an'anaviy usullar 
-==== 
-#O'quvchilarni yangi g'oyalar bilan rag'batlantirish orqali 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat nazorat 
-++++
-Ijodiy ta'limda o'quvchilarning qanday faoliyatlari muhim? 
-==== 
-Faqat nazorat 
-==== 
-#Amaliy va ijodiy faoliyat 
-==== 
-Faqat baholar 
-====
-Faqat sinfdagi o'qituvchilar bilan aloqa 
-++++
-Kreativ pedagogikada "ijtimoiy o'zaro ta'sir" qanday ahamiyatga ega? 
-==== 
-Faqat nazorat 
-==== 
-#O'quvchilar o'rtasida fikr almashish va o'zaro yordam 
-==== 
-Faqat baholar 
-==== 
-Faqat yozma ishlar 
-++++
-Ijodiy fikrlashni rivojlantirishda qanday metodlar qo'llaniladi? 
-==== 
-Faqat an'anaviy 
-====
-#Innovatsion va interaktiv metodlar 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat testlar 
-++++
-Kreativ pedagogikada o'quvchilarning ijodiy qobiliyatlarini rivojlantirish uchun qanday muhit yaratish kerak? 
-==== 
-Faqat qat'iy qoidalar 
-====
-#Ochiq va qo'llab-quvvatlovchi muhit 
-==== 
-Faqat nazorat 
-==== 
-Faqat an'anaviy 
-++++
-Ijodiy o'qitishda "muloqot" qanday ahamiyatga ega? 
-==== 
-Faqat o'qituvchining fikrlarini qabul qilish 
-====
-#O'quvchilar o'rtasida fikr almashish 
-==== 
-Faqat baholarni olish 
-==== 
-Faqat sinf ichidagi nazorat 
-++++
-Kreativ fikrlashni rivojlantirishda qanday vositalar qo'llaniladi? 
-==== 
-Faqat an'anaviy materiallar 
-====
- #Multimedia va innovatsion materiallar 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat sinfdan chiqish 
-++++
-Ijodiy ta'limda o'quvchilarning muvaffaqiyati qanday baholanadi? 
-==== 
-Faqat baholar 
-==== 
-#Ularning ijodiy va amaliy ishlari asosida 
-==== 
-Faqat nazorat 
-==== 
-Faqat yozma ishlar 
-++++
-Kreativ pedagogikada "kreativ fikrlash" qanday baholanadi? 
-==== 
-Faqat nazorat 
-==== 
-#O'quvchilarning innovatsion g'oyalar ishlab chiqish qobiliyati 
-==== 
-Faqat baholar 
-==== 
-Faqat amaliy ishlar 
-++++
-Ijodiy o'qitishda "muhokama" qanday ahamiyatga ega? 
-==== 
-Faqat o'qituvchining fikrlarini qabul qilish 
-====
-#O'quvchilarning fikrlarini rivojlantirish 
-==== 
-Faqat baholarni olish 
-==== 
-Faqat sinf ichidagi nazorat 
-++++
-Kreativ fikrlashni rivojlantirishda qanday ko'nikmalar muhim? 
-==== 
-Faqat yodlash 
-==== 
-#Tanqidiy fikrlash va ijodiy muammolarni hal qilish 
-==== 
-Faqat nazorat 
-==== 
-Faqat yozma ishlar 
-++++
-Ijodiy ta'limda qanday jarayonlar muhim? 
-==== 
-Faqat an'anaviy 
-====
-#Interaktiv va ijodiy jarayonlar 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat testlar 
-++++
-Kreativ pedagogikada o'quvchilarning o'zaro ta'siri qanday ahamiyatga ega? 
-==== 
-Faqat nazorat 
-==== 
-#O'zaro o'rganish va fikr almashish 
-==== 
-Faqat baholar 
-==== 
-Faqat amaliy ishlar 
-++++
-Ijodiy o'qitishda "o'zaro baholash" qanday ahamiyatga ega? 
-==== 
-Faqat o'qituvchining baholari 
-====
-# O'quvchilar o'rtasida o'zaro yordam 	
-==== 
-Faqat amaliy ishlar 
-==== 
-Faqat nazorat 
-++++
-Kreativ fikrlashni rivojlantirishda qanday usullar qo'llaniladi? 
-==== 
-Faqat an'anaviy 
-==== 
-# Tanqidiy va ijodiy yondashuvlar 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat testlar 
-++++
-Ijodiy ta'limda qanday jarayonlar muhim? 
-==== 
-Faqat an'anaviy 
-==== 
-# Interaktiv va ijodiy jarayonlar 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat testlar 
-++++
-Kreativ pedagogikada o'quvchilarning ijodiy qobiliyatlarini rivojlantirishda qanday yondashuvlar asosiy? 
-==== 
-Faqat nazorat 
-==== 
-# Ijodiy va innovatsion yondashuvlar 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat baholar 
-++++
-Ijodiy o'qitishda o'quvchilarning qanday qobiliyatlari rivojlanadi? 
-==== 
-Faqat yodlash 
-==== 
-# Ijodiy fikrlash va muammolarni hal qilish 
-==== 
-Faqat nazorat 
-==== 
-Faqat baholar 
-++++
-Kreativ fikrlashni rivojlantirishda qaysi usullar qo'llaniladi? 
-==== 
-Faqat an'anaviy 
-==== 
-# Tanqidiy va ijodiy yondashuvlar 
-==== 
- Faqat yozma ishlar 
-==== 
-Faqat testlar 
-++++
-Ijodiy ta'limda o'quvchilarning muvaffaqiyati qanday baholanadi? 
-==== 
-Faqat baholar 
-==== 
-# Ularning ijodiy va amaliy ishlari asosida 
-==== 
-Faqat nazorat 
-==== 
-Faqat yozma ishlar 
-++++
-Kreativ pedagogikada "kreativ fikrlash" qanday baholanadi? 
-==== 
-Faqat nazorat 
-==== 
-# O'quvchilarning innovatsion g'oyalar ishlab chiqish qobiliyati 
-==== 
-Faqat baholar 
-==== 
-Faqat amaliy ishlar 
-++++
-Ijodiy o'qitishda "o'zaro baholash" qanday ahamiyatga ega? 
-==== 
-Faqat o'qituvchining baholari 
-==== 
-# O'quvchilar o'rtasida o'zaro yordam 
-==== 
-Faqat amaliy ishlar 
-==== 
-Faqat nazorat 
-++++
-Kreativ fikrlashni rivojlantirishda qanday ko'nikmalar muhim? 
-==== 
-Faqat yodlash 
-==== 
-# Tanqidiy fikrlash va ijodiy muammolarni hal qilish 
-==== 
-Faqat nazorat 
-==== 
-Faqat yozma ishlar 
-++++
-Ijodiy ta'limda qanday jarayonlar muhim? 
-==== 
-Faqat an'anaviy 
-==== 
-# Interaktiv va ijodiy jarayonlar 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat testlar 
-++++
-Kreativ pedagogikada o'quvchilarning o'zaro ta'siri qanday ahamiyatga ega? 
-==== 
-Faqat nazorat 
-==== 
-# O'zaro o'rganish va fikr almashish 
-==== 
-Faqat baholar 
-==== 
-Faqat amaliy ishlar 
-++++
-Ijodiy o'qitishda "muloqot" qanday amalga oshiriladi?
-==== 
-Faqat an'anaviy 
-==== 
-# O'quvchilar o'rtasida ochiq fikr almashish 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat testlar 
-++++
-Kreativ pedagogikada "maqsadga yo'naltirilgan ta'lim" nimani anglatadi?
-==== 
-Faqat nazorat 
-==== 
-# O'quvchilarni muayyan maqsadlar bilan rag'batlantirish 
-==== 
- Faqat baholar 
-==== 
-Faqat amaliy ishlar 
-++++
-Ijodiy fikrlashni rivojlantirishda qanday metodlar eng samarali?
-==== 
-Faqat an'anaviy 
-==== 
-# Innovatsion va ijodiy metodlar 
-==== 
-Faqat yozma ishlar 
-==== 
-Faqat testlar 
-++++
-Kreativ pedagogikada o'quvchilar qanday o'zaro ta'sir qilishlari kerak?
-==== 
-Faqat raqobat 
-==== 
-# Hamkorlik va o'zaro yordam 
-==== 
-Faqat nazorat 
-==== 
- Faqat baholar 
-++++
-Ijodiy o'qitishda "muhokama" qanday ahamiyatga ega?
-==== 
-Faqat nazorat 
-==== 
-# O'quvchilarning fikrlarini rivojlantirish 
-==== 
-Faqat baholar 
-==== 
-Faqat yozma ishlar 
-++++
-Kreativ fikrlashni rivojlantirishda qanday vositalar muhim?
-==== 
-Faqat an'anaviy 
-==== 
-# Multimedia va innovatsion materiallar 
-==== 
-Faqat yozma ishlar 
-==== 
- Faqat sinfdan chiqish 
-++++
-Ijodiy ta'limda o'quvchilar qanday faoliyatlarni amalga oshirishlari kerak? 
-==== 
-Faqat yozma ishlar 
-==== 
-#Amaliy va ijodiy faoliyat 
-==== 
-Faqat nazorat 
-==== 
- Faqat baholar 
-++++
-Ijodiy fikrlashni rivojlantirishda o'quvchilar qanday qobiliyatlarni o'zlashtirishi kerak? 
-==== 
-Faqat yodlash 
-==== 
-# Tanqidiy va ijodiy fikrlash 
-==== 
-Faqat nazorat 
-==== 
-Faqat yozma ishlar 
-++++
-Kreativ pedagogikada "ijtimoiy o'zaro ta'sir" qanday ahamiyatga ega?
-==== 
-Faqat nazorat 
-==== 
-# O'quvchilarning ijodiy fikrlarini qo'llab-quvvatlash 
-==== 
-Faqat baholar 
-==== 
-Faqat yozma ishlar 
-++++
-Ijodiy ta'limda "yangilik yaratish" qanday amalga oshiriladi?
-==== 
-Faqat an'ianaviy metodlar 
-==== 
-# O'quvchilarni yangi g'oyalar bilan rag'batlantirish orqali 
-====
-Faqat testlar 
-==== 
-Faqat nazorat 
-++++
-Kreativ pedagogikada o'quvchilarga qanday yondashuv qo'llaniladi?
-====
-#O'quvchilarga ma'lumot berishdan ko'ra, ularni mustaqil fikrlashga o'rgatish
-====
-O'qituvchi doimiy ravishda rahbarlik qiladi
-====
-O'quvchilar faqat o'qituvchi ko'rsatmalariga amal qiladi
-====
-Ta'lim faqat eksperimentlarga asoslanadi
-++++
-Yaratqonlikni rivojlantirishda eng muhim omil qaysi?
-====
-Ko'proq bilim olish
-====
-#Amaliy mashg'ulotlar va tajribalar
-====
-Yaratqonlikka xalaqit beruvchi me'yorlarga rioya qilish
-====
-Nazorat va jazo tizimining samarali bo'lishi
-++++
-O'quvchilarni yaratqonlikka yo'naltirish uchun qanday metodlar ishlatiladi?
-====
-Klassik ta'lim metodlari
-====
-#Loyihalar asosidagi ta'lim va guruh ishlari
-====
-Faoliyatga asoslangan sinovlar
-====
-Yagona to'g'ri javobga asoslangan savollar
-++++
-O'qituvchi uchun kreativ pedagogika qanday rol o'ynaydi?
-====
-O'qituvchi faqat bilim beruvchi bo'lib qoladi
-====
-#O'qituvchi o'quvchilarni qo'llab-quvvatlovchi va ularga yo'l-yo'riq ko'rsatuvchi shaxs bo'ladi
-====
-O'qituvchi faqat nazorat qiladi
-====
-O'qituvchi o'quvchilarga to'liq mustaqil ishlashni buyuradi
- 
-++++
-Kreativ pedagogikaning samarali ishlashini ta'minlash uchun qanday shartlar zarur?
-====
-O'quvchilarga ko'proq vaqt ajratish
-====
-#O'qituvchining o'zini doimiy ravishda rivojlantirishi
-====
-Faol va passiv usullarni birlashtirish
-====
-O'quvchilarning maxsus malakalarga ega bo'lishi
-++++
-Kreativ ta'limda o'quvchilarni qiziqtirishning eng samarali usuli qaysi?
-====
-Nazariy ma'ruzalar
-====
-#O'yin va simulyatsiyalar orqali o'rgatish
-====
-Yuqori darajadagi intellektual musobaqalar
-====
-Davomli sinov va tekshiruvlar
-++++
-Yaratqonlikni rivojlantirishda nima eng muhim o'quvchilarga yordam beradi?
-====
-Ko'proq dars soatlari
-====
-#O'z-o'zini tahlil qilish va fikrlarni ochiq ifodalash
-====
-Jazo va mukofot tizimi
-====
-Qattiq tuzilgan reja asosida ishlash
-++++
-Kreativ pedagogika metodlari qaysi ta'lim tizimida ko'proq qo'llaniladi?
+91.	Ta’lim oluvchilar  fan dasturini oʻzlashtirmagan, fanning (mavzuning) mohiyatini tushunmaydi hamda fan (mavzu) boʻyicha tasavvurga ega emas deb topilganda nechchi baho qo’yiladi
 ====
-Yangi boshlovchi o'qituvchilarga asoslangan tizimda
+5baho 
 ====
-#O'quvchilarning qiziqishlari va ehtiyojlarini hisobga olgan tizimda
+4 baho 
 ====
-Akademik tizimda
+3 baho
 ====
-O'quvchilarni boshqarish tizimida
+ #2 baho
+
 ++++
-Kreativ pedagogikaning asosiy printsiplari qanday?
+
+92.	Talim oluvchi olgan bilimini amalda qoʻllay oladi, fanning (mavzuning) mohiyatni tushunadi, biladi, ifodalay oladi, aytib beradi hamda fan (mavzu) boʻyicha tasavvurga ega deb topilganda nechchi baho qo’yiladi
 ====
-Faoliyatga asoslanish, o'quvchilarga mustaqil fikrlashni rivojlantirish, o'qituvchining qo'llab-quvvatlashi
+5baho 
 ====
-#O'qituvchi o'quvchilarga o'z fikrini ochiq ifodalashga imkon berishi kerak
+4 baho 
 ====
-O'quvchilarga individual yondashmaslik
+#3 baho 
 ====
-O'qituvchi faqat bilim beruvchi sifatida faollashadi
+2 baho
+
 ++++
-Kreativ pedagogika usullari qaysi jihatdan an'anaviy ta'limdan farq qiladi?
+
+93.	Baholash jarayonidagi ta’lim beruvchining xatolari nimalardan iborat
 ====
-#O'qituvchi va o'quvchi o'rtasida faol hamkorlik mavjud
+xayrixohlik,yoqtirish, o’z fikrini o’zgartirmaslik,o’rtacha baho berish,yuqori talab qo’yish,yoqtirmaslik
 ====
-O'quvchilar faqat o'qituvchidan ma'lumot olishadi
+yuqori talab qo’yish,yoqtirmaslik,yoqtirish, xayrixohlik, o’rtacha baho berish, o’z fikrini o’zgartirmaslik,
 ====
-Ta'lim jarayoni faqat testlar asosida olib boriladi
+#o’z fikrini o’zgartirmaslik, xayrixohlik, yoqtirmaslik, o’rtacha baho berish, yuqori talab qo’yish
 ====
-O'qituvchi doimiy ravishda faqat ma'ruzalar o'qiydi
+to’g’ri javob yo’q
+
 ++++
-Kreativ pedagogikaning qaysi xususiyati o'qituvchi va o'quvchi o'rtasidagi aloqalarni rivojlantiradi?
+
+94.	Bahoning  biroz  yuqoriroq  bo’lishiga  olib  kelishi mumkin bo’lgan ta’lim beruvchining xatosi bu-
 ====
-O'quvchilarga barcha savollarga javob berishning yagona to'g'ri yo'li mavjud
+#xayrixohlik xatosi
 ====
-O'qituvchi faqat nazorat qilish uchun o'qitadi
+o’z fikrini o’zgartirmaslik
 ====
-#O'quvchilarni o'z fikrlarini ifodalashga rag'batlantirish
+yuqori talab qo’yish
 ====
-O'qituvchi faqat ma'lumot taqdim etadi
+ o’rtacha baho berish
+
 ++++
-O'quvchilarni yaratqonlikka yo'naltirish uchun qaysi metod samarali hisoblanadi?
+
+95.	Ta’lim oluvchilarning  o’rtacha baho olishiga sabab bo’luvchi  ta’lim beruvchining xatosi bu-
 ====
-Yagona yechimga asoslangan vazifalar
+xayrixohlik xatosi
 ====
-#Yaratqonlikni o'rgatish uchun guruh ishlari va muammolarni hal qilish
+ o’z fikrini o’zgartirmaslik
 ====
-Sinf ichidagi qat'iy me'yorlarga rioya qilish
+yuqori talab qo’yish
 ====
-O'qituvchining doimiy nazorati
+#o’rtacha baho berish
+
 ++++
-O'qituvchining kreativ yondashuvi o'quvchilarga qanday ta'sir qiladi?
+
+96.	Ta’lim beruvchining o’ta yaxshi yoki o’ta yomon baho berishdan qo’rqish xatosi bu-
 ====
-#O'quvchilar mustaqil fikrlashga o'rganadi
+xayrixohlik xatosi
 ====
-O'quvchilar doimo o'qituvchidan yordam olishadi
+o’z fikrini o’zgartirmaslik
 ====
-O'quvchilar faqat o'qituvchining ko'rsatmalariga amal qiladi
+yuqori talab qo’yish
 ====
-O'quvchilar faqat muayyan mavzuda bilim olishadi
+#o’rtacha baho berish
+
 ++++
-Kreativ pedagogika doirasida o'quvchilar qanday resurslardan foydalanishi mumkin?
+
+97.	Ta’lim oluvchilarning  biroz pastroq baho olishiga sabab bo’luvchi  ta’lim beruvchining xatosi bu
 ====
-Faqat kitoblar va darsliklar
+xayrixohlik xatosi
 ====
-#O'quvchilarning o'zaro fikr almashishlari, internet resurslari va ijodiy vositalar
+ o’z fikrini o’zgartirmaslik
 ====
-Yagona o'quv dasturini qayta ko'rib chiqish
+# yuqori talab qo’yish
 ====
-O'qituvchining barcha ishlanmalari
+o’rtacha baho berish
+
 ++++
-Kreativ pedagogikaning asosiy g'oyalaridan biri nima?
+
+98.	Bir marta sodir bo’lgan voqea tufayli ta’lim beruvchida biror ta’lim oluvchi  to’g’risida  qolgan  ijobiy  yoki  salbiy  taassurot,  keyinchalik  bu  ta’lim oluvchining shaxsiyatiga oid barcha boshqa xususiyatlariga e’tibor bermasligiga olib keladi Bu ta’lim beruvchining qaysi xatosiga kiradi
 ====
-O'quvchilarga faqat matematik va ilmiy fanlar o'rgatiladi
+xayrixohlik xatosi
 ====
-#O'quvchilarda yaratqonlik va yangilikka intilishning rivojlanishi
+# o’z fikrini o’zgartirmaslik
 ====
-O'quvchilarni faqat nazariy bilimlar bilan ta'minlash
+ yuqori talab qo’yish
 ====
-O'qituvchining har doim yakuniy qarori
+o’rtacha baho berish
+
 ++++
-Yaratqonlikni rivojlantirishda qanday o'qituvchilik yondashuvi ishlatiladi?
+
+99.	Kundalik.com,emaktab va elektron jurnalni kirib kelishi nimani o’zgartirdi
 ====
-Faoliyatni rejalashtirishdan oldin qat'iy maqsad qo'yish
+ta’lim oluvchilar maktabga bormaydilar uyda onlayn tarzda ta’lim oladilar
 ====
-O'quvchilarga doimiy ravishda yangi bilimlar berish
+ota-onalar farzandlarini videokamera orqali hatti harakatini kuzatishi mumkin
 ====
-#O'quvchilarga yangi imkoniyatlar yaratish, yangi fikrlarni sinash va o'rganish
+#qog’oz tejaladi,barchasi elektron holatda
 ====
-O'qituvchining faqat nazorat qilish usuli
+ta’lim oluvchilar faqat elektron holatda kitoblardan foydalanadilar
+
 ++++
-O'quvchilarga kreativ ta'limni qanday tarzda etkazish mumkin?
+
+100.	Kundalik uz qaysi portalning muqobili hisoblanadi
 ====
-#Loyihalar va ijodiy ishlanmalar orqali
+#Dnevnik.ru 
 ====
-Yagona to'g'ri javobga asoslangan savollar
+emaktab 
 ====
-Ko'p miqdordagi nazariy ma'ruzalar orqali
+dnevnik.com.
 ====
-Sinov va testlarga asoslanib
+emaktab.com
+
 ++++
-Kreativ pedagogikada qanday pedagogik metodlar qo'llaniladi?
+
+101.	Psixologlar fikriga ko’ra talabalar dastlab …….. daqiqa, so‘ngra darsni tugashidan oldin……daqiqa ma’ruzani diqqat bilan eshitar, qolgan paytda xayolga berilar ekan 
 ====
-#Faol o'qish va guruhli muhokamalar
+dastlabki 15 daqiqa va tugashidan oldingi 15 daqiqa
 ====
-Faoliyatga asoslangan individual ishlar
+#dastlabki 20 daqiqa va tugashidan oldingi 20 daqiqa
 ====
-Tezkor sinovlar va testlar
+dastlabki 10 daqiqa va tugashidan oldingi 10 daqiqa
 ====
-Klassik dars tizimi
+dastlabki 5 daqiqa va tugashidan oldingi 5 daqiqa
+
 ++++
-O'qituvchining kreativ pedagogika doirasida qaysi vazifasi eng muhim?
+
+102.	Tarixiy manbalarga ko’ra  maruza dastlab qayerda paydo bo’lgan
 ====
-#O'quvchilarga o'zlarini ifodalash va mustaqil fikr yuritish imkonini berish
+Yunonistonda 
 ====
-O'quvchilarni faqat ma'lumot olishga majbur qilish
+Rimda 
 ====
-O'quvchilarni doimiy ravishda nazorat qilish
+ Markaziy Osiyoda  
 ====
-O'qituvchi faqat dars berish bilan cheklanadi
+#Gretsiyada
+
 ++++
-Kreativ pedagogika qanday ta'limda qo'llaniladi?
+
+103.	Tarixiy manbalarga ko’ra  maruzaning rivojlanishi qaysi davlatlarga to’g’ri keladi
 ====
-An'anaviy va qat'iy sinf tizimida
+Yunonistonda 
 ====
-#O'quvchilarga erkin fikrlash imkonini beruvchi tizimda
+#Rimda 
 ====
-O'qituvchining faqat nazoratini ta'minlovchi tizimda
+Markaziy Osiyoda 
 ====
-O'qituvchining faqat mustahkam bilim berishiga asoslangan tizimda
+Gretsiyada
+
 ++++
-Kreativ pedagogikada qanday metodik yondashuvlar qo'llaniladi?
+
+104.	Tarixiy manbalarga ko’ra  maruzaning rivojlanishi Markaziy Osiyoda  qanday ko’rinish bergan
 ====
-Mustahkam darsliklar bilan ishlash
+#Mamun Akademiyasidagi ilmiy munozaralarda,turli madrasalardagi tashkil etilgan o’qitish jarayonida
 ====
-#Faol o'qish, muammolarni hal qilish va kooperativ ta'lim
+Ko’chalarda ochiq tabiat qo’ynida 
 ====
-Yagona to'g'ri javoblar orqali ishlash
+Kinoteatrlarda
 ====
-O'qituvchi faqat ma'ruzalar o'qish
+barchasi xató
+
 ++++
-Kreativ pedagogika doirasida o'qituvchi va o'quvchi o'rtasidagi munosabat qanday bo'lishi kerak?
+
+105.	Maktabgacha va maktab ta’limi vazirligi tomonidan nechta  umumta’lim maktabida baholashning mezonga asoslangan tizimini joriy etish to‘g‘risida qaror qabul qilindi. 
 ====
-O'qituvchi faqat bilim beruvchi
+400 ta maktabda
 ====
-#O'qituvchi va o'quvchi o'rtasida hamkorlik va erkin fikr almashish
+300 ta maktabda
 ====
-O'qituvchi o'quvchilarga faqat topshiriqlar beradi
+#500 ta maktabda
 ====
-O'qituvchi faqat nazorat qiladi
+Bunday tizim joriy etilmagan
+
 ++++
-O'quvchilarni yaratqonlikka yo'naltirishda qaysi usullar eng samarali?
+
+106.	Belgilangan oʼquv topshiriqlarini, tahsil  oluvchilarning mustaqil va ijodiy bajarishlari asosida oʼtadigan oʼquv  faoliyati qanday nomlanadi
 ====
-Sinf ichida qat'iy qoida va me'yorlarga rioya qilish
+Amaliy ta’lim
 ====
-#Kichik guruhlar va muammolar asosida faoliyatlar
+#Mustaqil ta’lim
 ====
-Faqat sinovlar va testlar orqali
+Aralash ta’lim
 ====
-Yagona yechimga asoslangan ishlanmalar
-++++ss
-Kreativ pedagogikada o'quvchilarning qanday jihatlari rivojlanadi?
+Noan’anaviy ta’lim
+
+++++
+
+107.	O’quvchilar mustaqil ishlarining hajmini belgilashda quyidagi jihatlarni e’tiborga olish lozim
+====
+#fanning axborot manbalari bilan ta’minlanganlik darajasi, o’qish bosqichi, fanning o’ziga xos xususiyati va o’zlashtirishdagi qiyinchilik darajasi,o’quvchining tayanch bilimi
+====
+O’quvchilarning yoshi,kerakli adabiyotlar mavjudligi,bilim,ko’nikma va malaka qobilyatlari
+====
+4K modelini qay darajada o’zlashtirganligi, o’qish bosqichi, fanning o’ziga xos xususiyati va o’zlashtirishdagi qiyinchilik darajasi,o’quvchining tayanch bilimi
+====
+o’quvchining tayanch bilimi, kerakli adabiyotlar mavjudligi, tarbiyaviy rivojlantiruvchi maqsadi
+
+++++
+
+108.	Mustaqil ish  uchun beriluvchi topshiriqlar qanday bo’ladi
+====
+Referat,mavzu bo’yicha testlar
+====
+Mavzuni mustaqil o’zlashtirish
+====
+Ko’rgazmali vositalar tayyorlash
+====
+#Barchasi to’g’ri
+
+++++
+
+109.	O‘quv maqsadli elektron vositalarni yaratishning muhim bosqichlari qaysilar
+====
+#Mazmun bosqichi,tashkiliy bosqich,metodik taminot bosqichi
+====
+Mazmun bosqichi , asosiy bosqich,tugallanish bosqichi
+====
+O’rgatuvchi bosqich,mashq qildiruvchi bosqich,nazorat qiluvchi bosqich
+====
+Uzluksiz va davriy yangilanuvchi bosqichlar
+
+++++
+
+110.	O‘quv maqsadli elektron vositalarni yaratish qanday konseptual tamoyillarga ega bo‘lishi lozim
+====
+Kvantlash tamoyili,  integratsiya tamoyili, Ochiqlik tamoyili, uzviylik tamoyili, Yaxlitlik tamoyili
+====
+#Maqsadga yo‘naltirilganlik tamoyili, integratsiya tamoyili, to‘laqonlilik tamoyili, yaxlitlik tamoyili, ochiqlik tamoyili
+====
+Moslashuvchanlik tamoyili,  integratsiya tamoyili, maqsadga yo‘naltirilganlik tamoyili, ochiqlik tamoyili, yaxlitlik tamoyili
+====
+Yaxlitlik tamoyili,aniqlilik tamoyili, maqsadga yo‘naltirilganlik tamoyili, ochiqlik tamoyili,umumiylik tamoyili
+
+++++
+
+111.	……..lar kompyuter texnologiyalariga asoslangan o‘qitish metodlaridan foydalanishga mo‘ljallangan  vositasi bo‘lib, undan mustaqil ta’lim olishda va o‘quv materiallarini har tomonlama samarali o‘zlashtirishda foydalanish mumkin
+====
+#Elektron darslik
+====
+Ko’rgazmali vosita
+====
+Didaktik o’yinlar
+====
+Elektron nazorat dastur
+
+++++
+
+112.	Elektron darsliklar qanday qismlardan iborat bo‘lishi zarur
+====
+Asosiy,  tashkiliy,mazmunli
+====
+Individual,jamoaviy
+====
+Tartibli,ixtiyoriy
+====
+#O‘rgatuvchi ,mashq qildiruvchi ,nazorat qiluvchi
+
+++++
+
+113.	O‘quv materiallarini taqdim etishi bo‘yicha elektron darsliklar qanday bo’ladi
+====
+Asosiy,  tashkiliy,mazmunli
+====
+Individual,jamoaviy
+====
+#Tartibli,ixtiyoriy
+====
+O‘rgatuvchi ,mashq qildiruvchi ,nazorat qiluvchi
+
+++++
+
+114.	Elektron darsliklar foydalanish maqsadlariga ko’ra qanday turli boladi
+====
+Asosiy,  tashkiliy,mazmunli
 ====
-O'qituvchiga bo'lgan ishonch
+#Individual,jamoaviy
 ====
-#Mustaqil fikrlash va ijodiy yondashuvlar
+Tartibli,ixtiyoriy
 ====
-Faqat tayyor bilimlarni o'rganish
+O‘rgatuvchi ,mashq qildiruvchi ,nazorat qiluvchi
+
+++++
+
+115.	O‘quv materiallari va axborotlarni yangilash bo‘yicha elektron darsliklar qanday turli bo’ladi
+====
+Individual,jamoaviy
+====
+Tartibli,ixtiyoriy
+====
+#Uzluksiz va davriy 
 ====
-O'qituvchining talablariga rioya qilish
+O‘rgatuvchi ,mashq qildiruvchi ,nazorat qiluvchi
+
 ++++
-O'qituvchining kreativ pedagogika doirasida qanday roli bor?
+116.	Grafik muharirlar qaysilar
 ====
-O'qituvchi faqat bilim beruvchi
+Ps,Ai,Blender,Id,Im
 ====
-#O'qituvchi o'quvchilarning ijodiy fikrlarini qo'llab-quvvatlovchi rahbar
+Im, Id,Pr,Ae
 ====
-O'qituvchi faqat sinov va testlarni o'tkazadi
+
+# Id,Pr,Ae,Ps
 ====
-O'qituvchi faqat didaktik materiallar yaratadi
+Corel draw,Im,Id,Ps
+
 ++++
-Kreativ pedagogika metodlari qaysi ta'lim jarayonlarida qo'llaniladi?
+
+117.	Ilmiy va muhandislik dasturiy vositalariga qaysi dasturlar kiradi
 ====
-Faqat akademik ta'limda
+ Ps,Ai,Blender,Id,Im
 ====
-#O'quvchilarga yaratqonlikni o'rgatishda samarali bo'lgan jarayonlarda
+ Blender,Auto Cad, Solid Cad,StruCad
 ====
-Faqat sinov va testlarga asoslangan jarayonlarda
+Auto Cad, Nano cad,Solid Cad,StruCad
 ====
-O'qituvchining faqat qattiq nazoratida
+# Blender,Auto Cad,  StruCad, Nano cad,SolidWorks
+
 ++++
-Kreativ pedagogikada o'quvchilarga qanday ta'lim mazmuni taqdim etiladi?
+
+118.	Matematik paket dasturiy vositalar berilgan qatorni toping
 ====
-Faqat nazariy bilimlar
+#MathCad,Maple,Mathlab
 ====
-#O'quvchilarning yaratqonliklarini rivojlantiruvchi va amaliy ko'nikmalarni o'rgatish
+Blender,Mathcad,Intocad,Maple
 ====
-Faqat an'anaviy bilimlar
+Intocad,Maple,Mathlab
 ====
-Yagona ma'lumotlar va bilimlar
+To’g’ri javob berilmagan
+
 ++++
-Yaratqonlikni rivojlantirishda o'qituvchining qanday yondashuvi muhim?
+119.	Pedagogik dasturiy vositalar nechchi turga bo’linadi
 ====
-#O'quvchilarni erkin fikr yuritishga, o'z xulosalarini chiqarishga rag'batlantirish
+3 turga 
 ====
-O'qituvchining faqat nazorat qilish
+#4 turga
+ ====
+5 turga 
 ====
-O'quvchilarga faqat tayyor javoblarni taqdim etish
+2 turga
+
+++++
+
+120.	yangi tushunchalarni shakllantirish darsning qanday maqsadiga kiradi
+====
+# ta’limiy maqsad 
 ====
-O'qituvchi faqat sinovlar o'tkazadi
+tarbiyaviy maqsad 
+====
+rivojlantiruvchi maqsad 
+====
+bosh maqsadi
+
 ++++
-Kreativ pedagogikada qaysi omil eng muhim?
+
+121.	Dunyoqarash g’oyalari va muammolarini aniqlash darsning qanday maqsadiga kiradi
 ====
-Faol o'qish va yirik testlar orqali bilimlarni mustahkamlash
+# ta’limiy maqsad 
 ====
-#O'quvchilarning ijodiy fikrlarini rivojlantirish va ularga o'zlarining fikrlarini ifodalash imkonini berish
+tarbiyaviy maqsad 
 ====
-Sinfda qat'iy darsliklarga rioya qilish
+rivojlantiruvchi maqsad 
 ====
-Yagona yechimlar asosida ishlash
+bosh maqsadi
+
 ++++
-Kreativ pedagogikaning asosiy printsiplaridan biri nima?
+
+122.	Darsning ta’limiy maqsadiga nimalar kiradi
 ====
-O'quvchilarga faqat mavjud bilimlarni o'rgatish
+nutq madaniyatini; vatanparvarlikni; mehnatga ongli munosabatni, yangi tushunchalarni shakllantirish;
 ====
-#O'quvchilarning mustaqil fikrini rivojlantirish
+# yangi tushunchalarni shakllantirish; bilimlardagi yetishmovchiliklarni bartaraf etish; bilimlarni umumlashtirish va tizimga solish; tushunchalar orasidagi bog’lanishlarni aniqlash  tushunchalarni shakllantirish
 ====
-Faqat nazariy materiallarni o'rgatish
+dunyoqarash g’oyalari va muammolarini aniqlash; talim oluvchilarda u  yoki  bu harakatni, voqealarni baholash bo’yicha bilimlarni  shakllantirish; xulosa chiqarishga tayyorlash, o’zlashtirishga erishish.  ta’lim olishga ijobiy munosabatni; estetik qarashlarni; e’tiqodni shakllantirish
 ====
-O'qituvchining har doim nazorat qilishi
+ dars  jarayonida  talim oluvchilarning  psixologik sifatlarini diqqat, xotira, texnik taffakkur va bilish qobiliyatlarini shakllantirishdir
+
 ++++
-Yaratqonlikni rivojlantirish uchun qaysi pedagogik metod samarali bo'ladi?
+
+123.	Zamonaviy pedagog ega bolishi kerak bo’lgan xususiyatlar qaysilar
+====
+#Xurmatlilik,chegarani xis etish,yangiliklarga intiluvchanlik,tolerantlik
+
 ====
-Faqat mustahkam nazariy bilimlar asosida ta'lim
+ Chegarani xis etish,yangiliklarga intiluvchanlik,tolerantlik,jiddiylik
 ====
-#Loyihalar va guruhli ishlanmalar orqali ijodiy yondashuv
+Kreativlilik,jiddiylik,mehribonlik,xurmatlilik
 ====
-O'quvchilarga faqat tayyor bilimlar berish
+Ijodkorik,tanqidiy fikrlash,tolerantlik,mehribonlik
+
+++++
+
+124.	Bir ma'muriy-hududiy birlik doirasida boshqa tuman va shahardan kelib ishlayotgan o‘qituvchi-pedagoglarning bazaviy tarif stavkalariga nechchi foiz ustama haqqi to’lanadi
+====
+100% 
 ====
-O'qituvchining faqat sinovdan o'tkazishi
+#50%
+ ====
+80% 
+====
+Bunday ustama turi mavjud emas
+
 ++++
-Kreativ pedagogikada o'qituvchi va o'quvchi o'rtasida qanday munosabat o'rnatilishi kerak?
+125.	Informatika fanidan 50% lik ustama olish  imkoniyatini  beruvchi xalqaro va milliy sertifikatlar qaysilar
 ====
-#O'qituvchi va o'quvchi o'rtasida o'zaro hurmat va hamkorlik bo'lishi kerak
+CompTIA+, Astrum Certified IT educator
 ====
-O'qituvchi doimo nazorat qiladi, o'quvchi esa har doim shartlarga rioya qiladi
+#Microsoft Certified IT educator, Astrum Certified IT educator
 ====
-O'qituvchi faqat bilim beradi, o'quvchi esa faqat o'z vazifasini bajaradi
+ISACA's Certified Information Systems auditor, Astrum Certified IT educator
 ====
-O'quvchilar o'qituvchining ko'rsatmalariga doimiy ravishda amal qilishlari kerak
+ Microsoft Certified IT educator, CompTIA+
+
 ++++
-Yaratqonlikni rivojlantirishda qanday ta'lim metodlari qo'llaniladi?
+
+126.	Vazir jamg’armasi ustamasini olish uchun qanday shartlar bajarilishi kerak bo’ladi
 ====
-Faoliyatga asoslanmagan passiv usullar
+#DTM testi,Kasbiy mahorat
 ====
-#O'quvchilarni guruhlarda ishlashga, o'zaro hamkorlikda fikr almashishga undash
+Ingliz tilini bilish darajasi, kasbiy mahorat
 ====
-Yagona to'g'ri javobga asoslangan sinovlar
+ Ingliz tilini bilish darajasi, DTM testi
 ====
-Faqat darsliklarga asoslangan o'qitish
+ DTM testi ,Xalqaro sertifikat
+
 ++++
-Kreativ pedagogikada qanday pedagogik metodlar qo'llaniladi?
+
+127.	Vazir jamg’armasi ustamasini olish uchun birinchi bosqichda sinovning nechchi foizidan yuqori ball olish kerak bo’ladi
 ====
-Faqat sinovlar asosida
+50% 
 ====
-#Loyihalar va muammolarni hal qilish orqali ijodiy yondashuv
+#80% 
 ====
-Faoliyatni faqat mustahkam nazariy bilimlar asosida bajarish
+100% 
 ====
-O'qituvchi faqat nazorat qilishi kerak
+90%
+
 ++++
-O'qituvchi kreativ pedagogika yondashuvida qanday rol o'ynaydi?
+
+128.	……- o’quv materialini  ko’rgazmali namoyish etishga, uni tizimli yetkazib berishga  xizmat qiladi
+====
+Pedagogik dasturiy vositalar
+====
+Og’zali materiallar tarqatma testlar
 ====
-#O'qituvchi o'quvchilarga yo'l-yo'riq ko'rsatadi va ularga yordam beradi
+Ixtisolashtirilgan dasturiy vositalar
 ====
-O'qituvchi faqat ma'lumot beradi, o'quvchilar esa faqat tinglaydi
+#Ta’limning texnik vositalari
+
+++++
+
+129.	Ta’limning texnik vositalari nechchi turga bo’linadi
+====
+5 
+ ====
+#3 
 ====
-O'qituvchi doimo sinovlarni o‘tkazadi
+4 
 ====
-O'qituvchi faqat sinfda tartibni saqlaydi
-++++s
-O'quvchilarda yaratqonlikni rivojlantirishda nima muhim?
+2
+
+++++
+
+130.	Oldinga tashlayman manosini beruvchi texnik vosita
 ====
-Faqat mustahkam bilimlarni o'rgatish
+Interaktiv doska 
 ====
-#O'quvchilarni sinfda mustaqil ishlashga rag'batlantirish
+Elektron doska
 ====
-O'qituvchining faqat nazorati
+ #proyektor 
 ====
-Faqat o'quvchilarni jazo va mukofot bilan taqdirlash
+printer
+
 ++++
-O'quvchilarga yaratqonlikni rivojlantirishda qanday yondashuv samarali hisoblanadi?
+
+131.	Imom Gazzoliy ilm olishning 5 shartini takidlab agar unga amal qilinsa nimaga erishiladi deya fikr bildirgan
+====
+Butun dunyo boyligiga
+====
+#Ikki dunyo saodatiga
 ====
-#O'quvchilarni o'zlarini ifodalashga, yangi fikrlarni yaratishga undash
+Butun dunyo aql-bilimiga
 ====
-O'qituvchi faqat tayyor javoblarni taqdim etadi
+Tarbiyaga
+
+++++
+
+132.	Ta’lim olishga ijobiy munosabatni shakllantirish darsning qaysi maqsadiga kiradi
+====
+#tarbiyaviy
+ ====
+rivojlantiruvchi 
 ====
-O'quvchilarni faqat an'anaviy o'quv materiallariga asoslanib o'rgatish
+ta’limiy 
 ====
-O'qituvchi faqat qat'iy talablar bilan ishlaydi
+asosiy
+
 ++++
-Kreativ pedagogikada o'quvchilarning qanday imkoniyatlari rivojlanadi?
+133.	Dars  jarayonida  talim oluvchilarning  psixologik sifatlarini diqqat, xotira, texnik taffakkur va bilish qobiliyatlarini shakllantirish bu darsning - …maqsadi
+====
+tarbiyaviy 
+====
+#rivojlantiruvchi 
 ====
-Faqat nazariy bilimlarni o'rganish
+ta’limiy 
 ====
-#O'quvchilarda ijodiy fikrlash va muammolarni hal qilish ko'nikmalari rivojlanadi
+asosiy
+
+++++
+
+134.	Pedagog munosabatiga ko’ra o’qitish texnologiyasi nechchi turli bo’ladi
+====
+#2 
 ====
-O'quvchilar faqat testlar va sinovlarga asoslangan bilimlarni o'rganadi
+3 
 ====
-O'quvchilar faqat o'qituvchidan ma'lumot olishadi
+4
+ ====
+5
+
+
 ++++
-Kreativ pedagogika qanday pedagogik maqsadlarga xizmat qiladi?
+
+135.	Pedagog munosabatiga ko’ra o’qitish texnologiyasi qaysilar
+====
+shahsga yo’naltirilgan,umumiy
+====
+avtoritar,umumiy
+====
+# avtoritar, shahsga yo’naltirilgan
 ====
-O'quvchilarga faqat ma'lumot taqdim etish
+asosiy va umumiy
+
+
+++++
+
+136.	Odatda qanday o’qitish turi avtoritarga mos keladi
 ====
-#O'quvchilarning ijodiy va mustaqil fikrlash ko'nikmalarini rivojlantirish
+#ananaviy 
 ====
-O'quvchilarga faqat sinovlar va tekshiruvlar o'tkazish
+Noananaviy
+ ====
+interfaol 
 ====
-O'qituvchilarga darslarni boshqarishni o'rgatish
+Masofaviy
+
 ++++
-O'qituvchining kreativ pedagogika yondashuviga qanday ta'sir qiladi?
+
+137.	Avtoritar texnologiyada-
 ====
-#O'qituvchi o'quvchilarning ijodiy fikrlarini qo'llab-quvvatlaydi va ularni rivojlantiradi
+ o’quvchi shахsi pеdаgоgik jаrаyon mаrkаzigа qo’yilаdi, uning rivоjlаnishigа vа tаbiiy imkоniyatlаrini ro’yobgа chiqаrishgа qulаy shаrt-shаrоitlаr yarаtilаdi
 ====
-O'qituvchi faqat nazorat qiladi
+
+#Bundа o’quvchining tаshаbbusi vа mustаqilligi yo’qоlаdi, o’qitish mаjburiy tаrzdа аmаlgа оshirilаdi.
 ====
-O'qituvchi o'quvchilarga tayyor javoblarni taqdim etadi
+ pеdаgоg vа o’quvchilаr munоsаbаtidаgi dеmоkrаtizm, tеnglik, shеriklik;
 ====
-O'qituvchi faqat darsliklarga amal qiladi
+to’g’ri javob yo’q
+
 ++++
-Kreativ pedagogikaning asosiy maqsadi qanday ta'riflanadi?
+
+138.	O’quvchi bu hаli to’lа shаkllаnmаgаn shахs, u fаqаt bаjаrishi zаrur, pеdаgоg esа – bu sаrdоr hаkаm, yagоnа tаshаbbuskоr shахs. Ushbu shaklda namoyon bo’luvchi texnologiya qaysi
+====
+#Avtoritar texnologiga tegishli
 ====
-#O'quvchilarda yangi fikrlarni yaratishga va mustaqil ishlashga yordam berish
+Shahsga yo’naltirilgan texnologiga tegishli
+====
+Interfaol texnologiga tegishli
+====
+Faol texnologiga tegishli
+
+++++
+
+139.	O’z-o’zini tekshirish va o’zaro yordamni, nutq madaniyatini, vatanparvarlikni,mehnatga ongli munosabatni,ongli intizom va yaxshi xulqni ifodalovchi  xususiyatlar darsning qaysi maqsadiga  tegishli
 ====
-O'quvchilarga faqat mavjud bilimlarni berish
+#tarbiyaviy 
 ====
-O'qituvchining doimiy nazorati
+rivojlantiruvchi 
 ====
-Sinfda faqat o'quvchilarning ijtimoiy faoliyatini rivojlantirish
+ta’limiy
+ ====
+bosh maqsad
+
 ++++
-Yaratqonlikni rivojlantirishda qanday o'qituvchilik yondashuvi ishlatiladi?
+
+140.	Yoshi vа tаyyorgаrlik dаrаjаsi tахminаn bir хil bo’lgаn o’quvchilаr ........  tаshkil etаdi
 ====
-Sinfda qat'iy reja asosida o'qitish
+#sinfni 
 ====
-#O'quvchilarning individual ijodiy yondashuvlarini rivojlantirish
+Oilani
+ ====
+maktabni 
 ====
-O'qituvchining faqat nazorati orqali ishlash
+kollej-ltexnikumni
+
+++++
+
+141.	Ushbu ta’rif qaysi tizimga tegishli: Mаshg’ulоtlаrning аsоsiy birligi dаrs bo’lib, u bittа fаnning bittа mаvzusigа bаg’ishlаnаdi vа o’qituvchi tоmоnidаn bоshqаrilаdi.
+====
+#sinf-dars
+ ====
+mustaqil dars 
 ====
-Faqat test va sinovlarga asoslanib o'qitish
+aralash dars  
+====
+masofaviy dars
+
 ++++
-Kreativ pedagogika doirasida o'qituvchi qanday yondashuvlarni qo'llashi kerak?
+
+142.	O’qitishning shахsgа yo’nаltirilgаn tехnоlоgiyalаrigа аsоsiy tаmоyillаr qaysi javobda berilgan
 ====
-O'qituvchi faqat bilim beradi, o'quvchilar esa amal qiladi
+hayotga muhabbat,odob,bilim
 ====
-#O'qituvchi o'quvchilarni yaratqonlik va ijodiy yondashuvlarga undaydi
+#insonparvarlik,hamkorlik,erkin tarbiyalash
 ====
-O'qituvchi faqat sinovlar va testlarni o'tkazadi
+jamoa bo’lib ishlash,ilmga intilish,tanqidiy fikrlash
 ====
-O'qituvchi faqat sinfda tartibni saqlaydi
+tanqidiy fikrlash,kamsitish,jazolash
+
 ++++
-Yaratqonlikni rivojlantirishda qanday metodlar samarali?
+
+143.	Shahsga yondashuvda pedagogda ta’lim oluvchiga nisbatan qanday munosabat bo’lish kerak
 ====
-Faqat amaliy mashg'ulotlar
+jazolash,tarbiya
 ====
-#Guruhlarda ishlash, loyiha asosida o'qish va ijodiy fikrlash
+ #ishonch,qo’llab -quvvatlash 
 ====
-Faqat mustahkam bilimlar va testlar asosida
+majburlash 
 ====
-O'quvchilarga faqat bir xil yondashuvni taqdim etish
+aldash,maqtash
+
 ++++
-Kreativ pedagogikaning eng asosiy xususiyatlaridan biri nima?
+
+144.	O‘quvchilarda ijodiy izlanish, kichik tadqiqotlarni amalga oshirish, muayyan -farazlarni ilgari surish, natijalarni asoslash, ma’lum xulosalarga kelish kabi           ko‘nikma va malakalarni shakllantirishga yo‘naltirilgan ta’lim
 ====
-#O'quvchilarni yaratqonlikka undash va o'z fikrlarini mustaqil rivojlantirish
+aralash ta’lim 
 ====
-O'qituvchining faqat darsliklar asosida ishlashi
+masofaviy ta’lim
 ====
-Sinfda qat'iy tartib va jazo tizimi
+ #muammoli ta’lim 
 ====
-O'quvchilarni faqat an'anaviy metodlar asosida o'rgatish
+barchasi to’g’ri
+
 ++++
-Kreativ pedagogikada qanday yondashuvlar qo'llaniladi?
+
+145.	Interfaol ta’limning asosiy shakllari:
 ====
-O'qituvchining faqat bilim berish yondashuvi
+Interfaol metodlar,uslublar,o’yinlar
 ====
-#O'quvchilarni guruhlarda ishlashga, ijodiy fikrlashga undash
+#Interfaol metodlar,strategiyalar,grafik organayzerlar
 ====
-Faqat o'quvchilarga tayyor javoblar taqdim etish
+O’yinlar, grafik organayzerlar,testlar
 ====
-O'qituvchining faqat monologlari
+barchasi noto’g’ri
+
 ++++
-O'quvchilarning yaratqonligini rivojlantirish uchun qanday vositalar ishlatiladi?
+
+146.	Baholash bosqichlar-
 ====
-O'quvchilarga faqat mustahkam bilimlar berish
+nimani baholaymiz ,qanday baholaymiz,qachon baholaymiz
 ====
-#O'quvchilarga yangi fikrlarni yaratish, loyihalar asosida ishlash imkonini berish
+#nima uchun baholaymiz, nimani baholaymiz, qachon baholaymiz
 ====
-Sinfda qat'iy o'qitish tartibini o'rnatish
+qanday baholaymiz, nima uchun baholaymiz, qachon baholaymiz
 ====
-O'quvchilarga faqat darsliklar asosida o'qitish
+qachon baholaymiz,qanday baholaymiz,qachon baholaymiz
+
 ++++
-Kreativ pedagogika qanday asosda rivojlanadi?
+
+147.	Baholash mezonlariga ko’ra.....
 ====
-O'qituvchining faqat nazorati asosida
+#sonlar yordamida, so’zlar yordamida ifodalanadi
 ====
-#O'quvchilarni yaratqonlik va ijodiy ishlanmalar bilan o'qitish
+meyorga asoslangan,mezonga asoslangan holda ifodalanadi
 ====
-Faoliyatga asoslangan sinovlar orqali
+besh ballik tizimda,reyting tizimida ifodalanadi
 ====
-O'qituvchining har doim qat'iy maqsadlar qo'yishida
+boshlangich joriy yakuniy ko’rinishida ifodalanadi
+
 ++++
-O'quvchilarda kreativlikni rivojlantirishda eng muhim omil nima?
+
+148.	Baholash shakllariga kora.......
 ====
-O'qituvchining qat'iy nazorati
+sonlar yordamida, so’zlar yordamida ifodalanadi
 ====
-#O'quvchilarga yangi fikrlarni yaratish uchun imkoniyatlar berish
+#meyorga asoslangan,mezonga asoslangan holda ifodalanadi
 ====
-Sinfda doimo qat'iy tartib o'rnatish
+besh ballik tizimda,reyting tizimida ifodalanadi
 ====
-O'quvchilarga faqat mavjud bilimlarni taqdim etish
+boshlangich joriy yakuniy ko’rinishida ifodalanadi
+
 ++++
-Kreativ pedagogika qanday ta'lim tizimida samarali bo'ladi?
+
+149.	Baholash tizimiga ko’ra ........
 ====
-O'quvchilarni faqat nazorat qilish tizimida
+sonlar yordamida, so’zlar yordamida ifodalanadi
 ====
-#O'quvchilarni yaratqonlik va ijodiy fikrlarni rivojlantirishga undovchi tizimda
+meyorga asoslangan,mezonga asoslangan holda ifodalanadi
 ====
-Sinfda qat'iy me'yorlar va jazo tizimi orqali
+#besh ballik tizimda,reyting tizimida ifodalanadi
 ====
-O'quvchilarga faqat tayyor bilimlar berish tizimida
+boshlangich joriy yakuniy ko’rinishida ifodalanadi
+
 ++++
-Kreativ pedagogikada qanday metodlar ishlatiladi?
+
+150.	Baholash tamoyillari bu....
 ====
-Faoliyatga asoslanmagan metodlar
+#O’quv maqsadiga asoslanganlik
 ====
-#Amaliy mashg'ulotlar va guruh ishlarini tashkil etish
+meyorga asoslanganlik,mezonga asoslanganlik
 ====
-Faqat sinovlar va tekshiruvlar asosida
+Ta’lim maqsadiga yo’nalganlik
 ====
-O'qituvchining faqat darsliklar asosidagi yondashuvi
+Muntazam o’tkazib borish
+
 ++++
-Kreativ pedagogikada o'quvchilarga qanday ta'lim mazmuni taqdim etiladi?
+
+151.	Baholashning pedagogik talablari qanday
 ====
-Faqat nazariy bilimlar
+ meyorga asoslanganlik,mezonga asoslanganlik
 ====
-#O'quvchilarga ijodiy fikrlarni rivojlantiruvchi va amaliy ko'nikmalarni o'rgatish
+O’quv maqsadiga asoslanganlik
 ====
-Faoliyatga asoslanmagan passiv o'qish
+ boshlangich joriy yakuniy
 ====
-Sinfda qat'iy tartibni o'rnatish
+# Muntazam o’tkazib borish
+
 ++++
-O'quvchilarning yaratqonliklarini rivojlantirishda qanday metodlar foydalidir?
+
+152.	Baholash turlariga ko’ra...
 ====
-#Loyihalar va guruhlarda ishlash
+sonlar yordamida, so’zlar yordamida ifodalanadi
 ====
-Faqat nazariy bilimlar asosida o'qitish
+meyorga asoslangan,mezonga asoslangan holda ifodalanadi
 ====
-O'quvchilarga faqat tayyor javoblar taqdim etish
+besh ballik tizimda,reyting tizimida ifodalanadi
 ====
-O'quvchilarning faqat bir xil faoliyatni bajarishlari
+#boshlangich joriy yakuniy ko’rinishida ifodalanadi
+
 ++++
-O'qituvchi kreativ pedagogika yondashuvini qanday qo'llashi kerak?
+
+153.	Talim oluvchi  mustaqil mushohada yuritadi, olgan bilimini amalda qoʻllay oladi, fanning (mavzuning) mohiyatni tushunadi, biladi, ifodalay oladi, aytib beradi hamda fan (mavzu) boʻyicha tasavvurga ega deb topilganda  nechchi baho qo’yiladi
 ====
-O'qituvchi faqat nazorat qiladi
+5baho 
 ====
-#O'qituvchi o'quvchilarga yordam beradi va yaratqonliklarini rivojlantiradi
+#4 baho 
 ====
-O'qituvchi faqat sinovlarni o‘tkazadi
+3 baho 
 ====
-O'qituvchi faqat mustahkam bilimlar asosida ishlaydi
+2 baho
+
 ++++
-O'quvchilarda kreativlikni rivojlantirish uchun nima qilish kerak?
+
+154.	O‘quv jarayonlarini axborotlashtirish maqsadlariga ko‘ra elektron darsliklar qanday tamoyillarga javob berishi kerak
 ====
-O'qituvchi faqat nazorat qilishi kerak
+#Kvantlash tamoyili, to’laqonlilik tamoyili,ko’rgazmalilik tamoyili, moslashuvchanlik tamoyili, kompyuter ko’magi tamoyili 
 ====
-#O'quvchilarni ijodiy fikrlarni yaratishga rag'batlantirish kerak
+Maqsadga yo‘naltirilganlik tamoyili, integratsiya tamoyili, to‘laqonlilik tamoyili, yaxlitlik tamoyili, ochiqlik tamoyili
 ====
-O'quvchilarga faqat bir xil yondashuvni taqdim etish kerak
+Moslashuvchanlik tamoyili,  integratsiya tamoyili, maqsadga yo‘naltirilganlik tamoyili, ochiqlik tamoyili, yaxlitlik tamoyili
 ====
-O'quvchilarni faqat o'quv darsliklari asosida o'qitish kerak
+Yaxlitlik tamoyili,aniqlilik tamoyili, maqsadga yo‘naltirilganlik tamoyili, ochiqlik tamoyili,umumiylik tamoyili
+
 ++++
-Kreativ pedagogika yondashuvida qanday bilimlar muhim?
+
+155.	Elektron darsliklarning mashq qildiruvchi qismi haqida qaysi tarif to’gri berilgan
 ====
-Faqat nazariy bilimlar
+gipertekstga asoslangan va statik, dinamik rasmlardan iborat
 ====
-#Ijodiy fikrlash, mustaqil ishlash va yangi fikrlarni yaratish
+testlar orqali nazorat qiluvchi tizim asosida shakllanadi
 ====
-Faqat amaliy ko'nikmalar
+#xatolarni ko‘rsatib beruvchi va to‘g‘ri xulosaga olib keluvchi
 ====
-O'quvchilarga faqat testlar orqali bilim berish
+Fikrlashni rivojlantiruvchi,yangi g’oyalar shakllantiruvchi 
+
 ++++
-Kreativ pedagogikaning ta'limdagi roli qanday?
+
+156.	Elektron darsliklarning o’rgatuvchi qismi haqida qaysi tarif to’gri berilgan
 ====
-#O'quvchilarning ijodiy va mustaqil fikrlashini rivojlantirish
+#gipertekstga asoslangan va statik, dinamik rasmlardan iborat
 ====
-O'quvchilarga faqat an'anaviy bilimlarni berish
+testlar orqali nazorat qiluvchi tizim asosida shakllanadi
 ====
-O'qituvchining faqat nazorati orqali o'qitish
+xatolarni ko‘rsatib beruvchi va to‘g‘ri xulosaga olib keluvchi
 ====
-O'quvchilarga faqat tayyor javoblar taqdim etish
+Fikrlashni rivojlantiruvchi,yangi g’oyalar shakllantiruvchi 
+
 ++++
-Kreativ pedagogikaning asosiy tamoyillaridan biri nima?
+
+157.	Qanday shakldagi elektron darsliklar ma’lum bir bo‘lim o‘quv materiallarini o‘zlashtirmasdan keyingi bo‘limga o‘tishga imkoniyat bermaydi 
 ====
-O'qituvchining faqat nazorati
+Uzluksiz  elektron darsliklar
 ====
-#O'quvchilarni yaratqonlikka va ijodiy fikrlashga undash
+Ixtiyoriy  elektron darsliklar
 ====
-O'quvchilarga faqat darsliklarni o'qish
+Davriy elektron darsliklar
 ====
-O'quvchilarni faqat testlar orqali baholash
+#Tartibli  elektron darsliklar
+
 ++++
-Kreativ pedagogika o'quvchilarga qanday imkoniyatlar yaratadi?
+
+158.	Odatda elektron o‘quv bazalar (portallar, veb-saytlar va boshqalar)ga va elektron kutubxonalarga joylashtiriluvchi elektron darsliklar qanday ataladi
 ====
-Faqat nazariy bilimlar o'rgatish
+#Uzluksiz ravishda yangilanadigan
 ====
-#O'quvchilarga ijodiy fikrlash va muammolarni hal qilish imkoniyatini berish
+Davriy yangilanadigan
 ====
-O'quvchilarni faqat tayyor javoblarni eshitish
+Jamoa bo’lib foydalaniladigan
 ====
-Faqat an'anaviy yondashuvlarni qo'llash
+Uzlukli ravishda yangilanadigan
+
 ++++
-Kreativ pedagogika yondashuvida o'qituvchining roli qanday?
+159.	Respublikamizda qaysi qonunga asosan masofaviy ta’lim xizmatlarini rivojlantirish, webinar, onlayn, “blended learning”, “flipped classroom” texnologiyalarini amaliyotga keng joriy etish, zamonaviy axborot-kommunikatsiya texnologiyalari asosida masofaviy ta’lim dasturlarini tashkil etish kabi ishlar boʻyicha kompleks chora-tadbirlar amalga oshirilmoqda
 ====
-Faqat ma'lumot berish
+#Raqamli O’zbekiston-2030 strategiyasi
 ====
-#O'qituvchi o'quvchilarni o'z fikrlarini yaratishga, yangi g'oyalar yaratishga undaydi
+Talimni rivojlantirish konseptsiyasi
 ====
-O'qituvchi faqat sinovlar o'tkazadi
+2022-2026 yillarda maktab ta’limini rivojlantirish milliy dasturi
 ====
-O'qituvchi faqat sinfda tartibni saqlaydi
+23.09.2020 Ta’lim to’g’risidagi qonun
+
 ++++
-O'quvchilarning kreativligini rivojlantirishda qaysi metod samarali?
+
+160.	Streaming Servislariga nimalar kiradi
 ====
-Faqat sinovlar asosida
+Udemy, coursera, Skilshare
 ====
-#Guruhlarda ishlash, loyiha asosida ishlash va mustaqil faoliyatlar orqali
+#You tube live, facebook, Twitch
 ====
-O'quvchilarga faqat darsliklardan ma'lumot olish
+Zoom,Google meet
 ====
-O'qituvchining doimo nazorati
+Skype,Microsoft teams
+
 ++++
-Yaratqonlikni rivojlantirish uchun o'quvchilarga qanday imkoniyat beriladi?
+
+161.	Webinar so’zi qaysi tildan olingan
 ====
-O'qituvchining faqat yo'l-yo'riqlari
+#Ingliz tili
 ====
-#O'quvchilarni yangi fikrlarni yaratishga, o'zaro fikr almashishga undash
+Nemis tili
 ====
-Faqat tayyor javoblarni o'rgatish
+Lotin tili
 ====
-Faqat sinovlar va testlar orqali o'qitish
+Rus tili
+
 ++++
-O'qituvchi kreativ pedagogika yondashuvida qanday faoliyatni amalga oshiradi?
+
+162.	Webinar so’zining manosi qanday
 ====
-O'qituvchi faqat nazorat qiladi
+Masofaviy seminar
 ====
-#O'qituvchi o'quvchilarning kreativliklarini rivojlantirishda yordam beradi
+#webga asoslangan seminar
 ====
-O'qituvchi faqat bilimlarni taqdim etadi
+Jonli  seminar
 ====
-O'qituvchi faqat o'quvchilarga sinovlar o'tkazadi
+Barchsi to’g’ri
+
 ++++
-O'quvchilarda kreativlikni rivojlantirishda qanday metodlar qo'llaniladi?
+
+163.	Bir soatlik bepul foydalanish hamda 100 tagacha ishtirokchi qabul qilish imkoniyati qaysi webinar platformasida mavjud
 ====
-Faqat amaliy mashg'ulotlar
+#Google Meet
 ====
-#O'quvchilarga o'zlarini ifodalash, ijodiy ishlash imkoniyatlari yaratish
+Zoom
 ====
-Faoliyatga asoslanmagan pasif metodlar
+Live Webinar
 ====
-Faqat testlar orqali
+Big blue button
+
 ++++
-O'qituvchi kreativ pedagogika yondashuvida qanday faoliyatni amalga oshiradi?
+
+164.	40 daqiqalik bepul foydalanish hamda 100 tagacha ishtirokchi qabul qilish imkoniyati qaysi webinar platformasida mavjud
 ====
-Faqat sinfda tartibni saqlash
+Google Meet
 ====
-#O'qituvchi o'quvchilarga yangi g'oyalar yaratishda yordam beradi
+#Zoom
 ====
-Faqat mustahkam nazariy bilimlar o'rgatish
+Live Webinar
 ====
-Faqat darsliklardan foydalanish
+Big blue button
+
 ++++
-Kreativ pedagogika qanday yondashuvni qo'llaydi?
+
+165.	Qaysi webinar turida video va audiolarni yozib olish bepul tarzda amalga oshiriladi
 ====
-O'qituvchining faqat qattiq nazorati
+Google Meet
 ====
-#O'quvchilarning o'z fikrlarini yaratishga va ijodiy yondashuvga rag'batlantirish
+#Zoom
 ====
-O'quvchilarga faqat tayyor javoblarni berish
+Live Webinar
 ====
-O'quvchilarga faqat darsliklarni o'qitish
+Big blue button
+
 ++++
-Kreativ pedagogikada o'quvchilarning qanday xususiyatlari rivojlanadi?
+
+166.	Foydalanish mutlaqo bepul lekin serverga o’rnatilishni talab etuvchi webinar platformasi qaysi
 ====
-Faoliyatga asoslanmagan passivlik
+AdobeConnect
 ====
-#Ijodiy fikrlash va muammolarni hal qilish ko'nikmalari
+ClickMeeting
 ====
-O'qituvchining faqat nazorati
+Live Webinar
 ====
-Faqat testlar va sinovlar orqali bilim berish
+#Big blue button
+
 ++++
-O'quvchilarga kreativ pedagogika yondashuvida qanday imkoniyatlar beriladi?
+
+167.	Talim oluvchining  fan  mavzulari  bo‘yicha  bilim  va  amaliy ko‘nikma darajasini aniqlash va baholash usuli bo’lib fanning xususiyatidan kelib chiqqan holda, seminar, laboratoriya va amaliy mashg‘ulotlarida og‘zaki so‘rov, test shaklida o’tkazilishi mumkin bo’lgan nazorat turi qanday ataladi
 ====
-O'quvchilarga faqat nazariy bilimlar o'rgatish
+Oraliq nazorat
 ====
-#O'quvchilarga o'z fikrlarini ifodalash va yangi g'oyalar yaratish imkoniyatlari
+#Joriy nazorat
 ====
-O'qituvchining faqat qat'iy nazorati
+Mustaqil ta’lim
 ====
-Faqat amaliy ko'nikmalarni rivojlantirish
+Yakuniy nazorat
+
 ++++
-Kreativ pedagogikada o'qituvchining qanday yondashuvi samarali?
+168.	Wordwall  sayti qanday sayt
 ====
-O'qituvchining faqat bilim berishi
+Turli taqdimotlar yaratish uchun mo’ljallangan
 ====
-#O'qituvchi o'quvchilarning kreativligini rivojlantiruvchi faoliyatlar olib borishi
+Videoroliklar yaratish uchun mo’ljallangan
 ====
-O'qituvchining faqat sinovlar o'tkazishi
+#Testlar didaktik o’yinlar yaratish uchun mo’ljallangan
 ====
-O'qituvchining faqat darsliklarga asoslangan ishlash
+Web sahifalar yarish uchun mo’ljallangan
+
 ++++
-O'quvchilarda kreativlikni rivojlantirishda qaysi metodlar qo'llaniladi?
+
+169.	Learning.apps  sayti qanday maqsadlarda qo’llaniladi
 ====
-Faqat an'anaviy o'qitish metodlari
+Turli taqdimotlar yaratish uchun mo’ljallangan
 ====
-#Amaliy mashg'ulotlar, guruhlarda ishlash, loyihalar orqali
+Videoroliklar yaratish uchun mo’ljallangan
 ====
-Faqat passiv yondashuvlar
+#Testlar didaktik o’yinlar yaratish uchun mo’ljallangan
+====
+Web sahifalar yarish uchun mo’ljallangan
+
 ++++
-O'quvchilarni yaratqonlikni rivojlantirishga qanday yo'l bilan undash mumkin?
+
+170.	Interacty  sayti qanday maqsadlarda qo’llaniladi
 ====
-O'quvchilarni faqat tayyor bilimlar bilan ta'minlash
+Turli taqdimotlar yaratish uchun mo’ljallangan
 ====
-#O'quvchilarni o'z fikrlarini ifodalashga, yangi g'oyalar yaratishga rag'batlantirish
+Videoroliklar yaratish uchun mo’ljallangan
 ====
-Sinfda qat'iy tartibni o'rnatish
+#Testlar  didaktik o’yinlar yaratish uchun mo’ljallangan
 ====
-Faqat amaliy ko'nikmalarni rivojlantirish
+Web sahifalar yaratsh uchun mo’ljallangan
+
 ++++
-Kreativ pedagogikaning qanday asosiy xususiyatlari bor?
+
+171.	Scratch dasturida qanday imkoniyat mavjud emas
 ====
-O'qituvchining faqat nazorati
+Ovozlar qo’shish
 ====
-#O'quvchilarga ijodiy fikrlarni yaratish va mustaqil ishlash imkoniyatini berish
+Qahramon fon tanlash
 ====
-Faqat tayyor javoblarni o'rgatish
+#Rasmlarni import qilish
 ====
-O'qituvchining faqat darsliklarga asoslangan ishlash
+Blok yaratish
+
 ++++
-Kreativ pedagogikada qanday metodlarni qo'llash mumkin?
+
+
+172.	Venn diagrammasi  Interfaol ta’limning qaysi  asosiy shakliga kiradi
 ====
-Faoliyatga asoslanmagan passiv metodlar
+#grafik organayzer 
 ====
-#Loyihalar asosida ishlash, guruhlarda faoliyat olib boorish
+strategiya 
 ====
-Faqat an'anaviy metodlar asosida
+interfaol metod 
 ====
-O'qituvchining faqat qattiq nazorati
+o’yin
 ++++
-O'qituvchilar kreativsiz pedagogikada qanday yondashuvlarni qo'llaydi?
+173.	An’anaviy ta’limdagi kabi bir xil shablonlar asosida emas, balki yangiliklar asosida ta’lim jarayonining ta’sirchanligini oshirishga qaratilgan ish shaklidan foydalanish nima deb ataladi
 ====
-O'qituvchining faqat jazo tizimidan foydalanishi
+#Innovatsiya
 ====
-#O'quvchilarni ijodiy fikrlashga undash va yangi g'oyalar yaratish
+Interfaollik
 ====
-O'quvchilarga faqat tayyor javoblarni berish
+Noananaviylik
 ====
-O'qituvchining faqat bilim berish metodlari
+O’yinli texnologiyalar
 ++++
-Yaratqonlikni rivojlantirishda qanday yondashuvlar samarali hisoblanadi?
+174.	Qaysi davlat ta’lim tizimida  ta’lim oluvchilarga darga borishni taqiqlash eng og’ir jazo.
 ====
-Sinfda qat'iy tartibni o'rnatish
+Germaniya
 ====
-#O'quvchilarning ijodiy fikrlarini rivojlantiradigan faoliyatlar
+Fransiya
 ====
-O'quvchilarga faqat sinovlar va testlar asosida bilim berish
+Yaponiya
 ====
-O'qituvchining faqat bilim taqdim etishi
+#Amerika
 ++++
-Kreativ pedagogika o'quvchilarni qanday yondashuv bilan o'rgatadi?
+175.	Insonning kognitiv faoliyati qaysilar
 ====
-Faqat sinovlar asosida
+#aql, mantiq, o‘rganish va qaror qabul qilish
 ====
-#O'quvchilarga yangi fikrlarni yaratish va o'zlarini ifodalashga imkon berish
+Fikrlash,verbal noverbal signallar
 ====
-Faoliyatga asoslanmagan passiv o'qitish
+Ijodiy qobilyatlar,jahl,tabassum boshqaruvi
 ====
-O'qituvchining faqat qattiq nazorati
+To’g’ri javob yo’q
 ++++
-Kreativ pedagogikaning asosiy vazifasi nima?
+176.	MOOC tarkibidagi “ochiq” atamasi qanday   ma’noni anglatadi
 ====
-#O'quvchilarda ijodiy fikrlash va mustaqil ishlash ko'nikmalarini rivojlantirish
+#Bepul yoki shartli bepul
 ====
-O'qituvchining faqat bilim berish roli
+Geografik o’rnining ahamiyatsiz
 ====
-O'quvchilarga faqat tayyor javoblarni taqdim etish
+Onlayn
 ====
-Faqat sinovlar asosida ishlash
+Kurs
 ++++
-O'qituvchi kreativ pedagogika yondashuvida qanday faoliyatlarni bajaradi?
+177.	Bugungi kunda MOOCning keng tarqalgan ikkita turi mavjud bo’lib ular qaysilar
 ====
-O'quvchilarga faqat darsliklar asosida bilim berish
+task-based MOOCs, xMOOCs
 ====
-#O'quvchilarning kreativliklarini rivojlantiradigan faoliyatlar olib boradi
+content-based MOOCs, task-based MOOCs,
 ====
-O'qituvchi faqat nazorat qiladi
+task-based MOOCs, cMOOCs
 ====
-O'qituvchi faqat sinovlar o'tkazadi
+#cMOOCs, xMOOCs
 ++++
-O'quvchilarni kreativ pedagogika yondashuvida qanday imkoniyatlar bilan ta'minlash mumkin?
+
+178.	MOOClar material va topshiriqlarni taqdim etishiga ko‘ra qanday  turlarga bo‘linadi
 ====
-Faqat mustahkam bilimlar bilan
+content-based MOOCs, task-based MOOCs, network-based MOOCs
 ====
-#O'quvchilarni ijodiy fikrlarni yaratishga, muammolarni hal qilishga rag'batlantirish
+#task-based MOOCs, content-based MOOCs, network-based MOOCs
 ====
-Faqat passiv metodlar bilan
+network-based MOOCs task-based MOOCs
 ====
-O'qituvchining faqat qat'iy nazorati
+cMOOCs, xMOOCs
 ++++
-Kreativ pedagogika nima orqali amalga oshiriladi?
+
+179.	Topshiriqqa asoslangan MOOClar qanday ataladi
 ====
-O'qituvchining faqat mustahkam bilimlarni taqdim etishi
+#task-based
 ====
-#O'quvchilarni yaratqonlikka, yangi fikrlarni yaratishga undash
+content-based
 ====
-O'qituvchining faqat nazorat qilishi
+cMOOCs
 ====
-Faqat sinovlar orqali o'qitish
+xMOOCs
 ++++
-Kreativ pedagogikaning samarali qo'llanilishi uchun qanday shartlar kerak?
+
+180.	MOOC platformalarining yuzi hisoblanadi. Platforma 2012-yilda Stenford universitetining kompyuter fanlari professor-o‘qituvchilari tomonidan tashkil etilgan Bu qaysi platforma
 ====
-Faqat nazariy bilimlar
+Edx
 ====
-#O'quvchilarni ijodiy fikrlarni yaratishga, guruhlarda ishlashga undash
+Khan Academy
 ====
-Faqat testlar va sinovlar asosida o'qitish
+Lektorium
 ====
-O'qituvchining faqat jazo tizimi
+#Coursera
 ++++
-Kreativ pedagogikada ijodiy fikrlashni rivojlantirish uchun qaysi metodlar eng samarali hisoblanadi?
+
+181.	Stenford universiteti professorlari Sebastyan Truno, David Stavens va Mike Sokolsky tomonidan tashkil etilgan xususiy notijorat ta’lim kompaniyasi qaysi
 ====
-Reproduktiv usullar va namunaviy topshiriqlarni bajarish
+Udacity
 ====
-O‘quvchilarga qat'iy qoidalarga rioya qilishni o‘rgatish
+Khan Academy
 ====
-#Muammo yechish, "miya hujumi" va rolli o‘yinlardan foydalanish
+Lektorium
 ====
-An’anaviy o‘qitish texnologiyalarini takrorlash
+Udemy
 ++++
-Kreativ pedagogikaning asosiy maqsadi nima?
-==== 
-O‘quvchilarni xotirasini yaxshilash
-==== 
-O‘quv jarayonini qiziqarli qilish
-#==== 
-O‘quvchilarning ijodiy fikrlashini rivojlantirish
-==== 
-O‘qituvchilarning malakasini oshirish
+
+182.	Testlar, diktantlar, esse yoki yozma ishlar ko'rinishida o'tkaziluvchi nazorat qanday ataladi
+====
+#Yozma nazorat
+====
+Og’zaki nazorat
+====
+Amaliy nazorat
+====
+Barchasi to’g’ri
 ++++
-Kreativ o‘qitish jarayonida qanday metodlar qo‘llaniladi?
-==== 
-An’anaviy metodlar
-==== 
-Ekspozitsion metodlar
-==== 
-#Interaktiv metodlar
-==== 
-Yoshga mos metodlar
+
+183.	Ushbu nazorat fanning xususiyatidan kelib chiqqan holda, seminar, laboratoriya va amaliy mashg‘ulotlarida og‘zaki so‘rov, test o‘tkazish, suhbat, nazorat ishi, topshiriqlarni tekshirish va shu kabi boshqa shakllarda o‘tkazilishi mumkin
+====
+Oraliq nazorat
+====
+#Joriy nazorat
+====
+Yakuniy nazorat
+====
+Amaliy nazorat
 ++++
-O‘quvchilarning ijodiy fikrlashini qanday baholash mumkin?
-==== 
-Testlar orqali
+
+184.	Semestr yoki chorak oxirida o‘quvchilarning o‘zlashtirish darajasini baholash maqsadida o‘tkaziluvchi nazorat turi qanday ataladi
+====
+#Oraliq nazorat
+====
+Joriy nazorat
 ====
-# Loyihalar va ijodiy ishlar orqali
-==== 
-Mavzularni yodlash orqali
-==== 
-O‘qituvchining fikri orqali
+Yakuniy nazorat
+====
+Amaliy nazorat
 ++++
-Kreativ pedagogikada qanday asosiy tushunchalar mavjud?
-==== 
-O‘qituvchi va o‘quvchi
-==== 
-O‘quv dasturi va reja
+
+185.	Kompyuter admirali, birinchi kompilyatorni ishlab chiquvchisi, COBOL tilini yaratishda ishtirok etgan va kompyuter dasturidagi xatolikni anglatish uchun "bug" atamasini kiritgan ayol kim
+====
+Margaret Hamilton
+====
+Ada Lavleys
+====
+#Greys Xopper
 ====
-# Ijodkorlik va innovatsiyalar
-==== 
-Mavzu va nazorat
+Radia Perlman
 ++++
-O‘quvchilarni ijodiy ishga jalb qilish uchun qanday usullar qo‘llanilishi kerak?
-==== 
-Qattiq nazorat
-==== 
-Raqobat
+
+186.	IP tarmoqlarida ishlatiladigan OSPF marshrutlash protokolini ishlab chiqqan "Internet onasi" kim
 ====
-#Hamkorlik va muhokama
-==== 
-O‘qituvchining ko‘rsatmalari
+Margaret Hamilton
+====
+Ada Lavleys
+====
+Greys Xopper
+====
+#Radia Perlman
 ++++
+
+187.	Bernulli raqamlarini hisoblash algoritmini tasvirlab bergan va tarixdagi birinchi dasturchi hisoblanadi.
+====
+Margaret Hamilton
+====
+#Ada Lavleys
+====
+Greys Xopper
+====
+Radia Perlman
 ++++
-O‘quvchilarni ijodiy fikrlashga qanday rag'batlantirish mumkin?
-==== 
-Tez-tez testlar
-==== 
-#Loyihalar va ijodiy ishlar
-==== 
-Mavzularni yodlash
-==== 
-O‘qituvchining fikri orqali
+
+188.	Oyga uchish uchun dasturiy ta'minotni yaratgan jamoa rahbari.
+====
+#Margaret Hamilton
+====
+Ada Lavleys
+====
+Greys Xopper
+====
+Radia Perlman
 ++++
-O‘quvchilarning ijodiy fikrini rivojlantirish uchun qanday metodlar muhim?
-==== 
-An’anaviy metodlar
+
+189.	Inklyuzivlik qanday manoni anglatadi
+====
+#qoʻshish, birlashtirish
+====
+Tartiblashtirish
+====
+Yordam berish
 ====
-O‘qituvchining nazorati
-==== 
-# Tajribaviy va interaktiv metodlar
-==== 
-O‘quvchilarning yoshi
+Imkoniyati cheklanganlik
 ++++
-O‘quv jarayonida kreativlikni qanday baholash mumkin?
-==== 
-Testlar orqali
-==== 
-# Loyihalar va ijodiy ishlar orqali
-==== 
-Mavzularni yodlash orqali
-==== 
-O‘qituvchining fikri orqali
+
+190.	Alohida ta'lim ehtiyojlari bo‘lgan bolalarga ta'lim tarbiya berish tizimini yanada takomillashtirish chora-tadbirlari to‘g‘risida»gi Prezident qarori qachon qabul qilingan
+====
+2020 yil 15 oktyabrda
+====
+#2020 yil 13 oktyabrda
+====
+2020 yil 18 oktyabrda
+====
+2020 yil 16 oktyabrda
 ++++
-O‘quvchilarning ijodiy ishlarini qanday rag'batlantirish mumkin?
-==== 
-O‘qituvchining nazorati
-==== 
-#Ijobiy fikrlar bildirish
-==== 
-Raqobat yaratish
-==== 
-O‘qituvchining ko‘rsatmalari
+
+191.	Apple qurilmalarida foydalanish uchun ovozli navigatsiya vositasi.
+====
+JAWS
+====
+NVDA
+====
+ZoomText
+====
+#VoiceOver
 ++++
-Kreativ pedagogikada qanday asosiy tushunchalar mavjud?
-==== 
-O‘qituvchi va o‘quvchi
-==== 
-O‘quv dasturi va reja
-==== 
-#Ijodkorlik va innovatsiyalar
-==== 
-Mavzu va nazorat
+
+192.	Ko‘rish qobiliyati zaif o‘quvchilar uchun ekran kattalashtirish va matnlarni ovozli o‘qish funksiyasiga ega dastur
+====
+VoiceOver
+====
+#ZoomText
+====
+ColorADD
+====
+VoiceOver
 ++++
-O‘quvchilarning ijodiy fikrlashini rivojlantirishda qanday muhim omillar mavjud?
-==== 
-O‘qituvchining tajribasi
-==== 
-O‘quv dasturining qiyinligi
-==== 
-#O‘quv muhitining qulayligi
-==== 
-O‘quvchilarning yoshi
+
+193.	Rangi ajrata olmaslik (daltonizm) uchun maxsus vosita, ranglarni ajratish uchun simvollarni taklif qiluvchi dastur
+====
+VoiceOver
+====
+ZoomText
+====
+#ColorADD
+====
+VoiceOver
 ++++
-O‘quvchilarning ijodiy ishlarini baholashda qanday me'zonlar qo‘llanilishi kerak?
-==== 
-O‘qituvchining fikri
-==== 
-O‘quvchilarning yoshi
-==== 
-#Ijodiy yondashuv va natijalar
-==== 
-O‘qituvchining baholash mezonlari
+194.	Ko‘rish imkoniyati cheklangan o‘quvchilar uchun keng imkoniyatli, ovozli yordam ko‘rsatadigan dastur.
+====
+#VoiceOver, NVDA
+====
+ZoomText, JAWS
+====
+ColorADD, NaturalReader
+====
+NaturalReader, NVDA
 ++++
-Kreativ pedagogikada qaysi metodlar muvaffaqiyatli hisoblanadi?
-==== 
-An'anaviy metodlar
-==== 
-Nazorat metodlari
-==== 
-#Interaktiv va tajribaviy metodlar
-==== 
-O‘qituvchining ko‘rsatmalari
+
+195.	Nogironligi bo‘lgan o‘quvchilar uchun vizual va ovozli muloqotni osonlashtiruvchi dastur.
+====
+#Proloquo2Go
+====
+Seesaw
+====
+ClassDojo
+====
+Starfall
+====
 ++++
-O‘quvchilarni ijodiy faoliyatga jalb qilish uchun qanday jihatlar muhim?
-==== 
-Qiyinchiliklar
-==== 
-Nazorat
-==== 
-#Qiziqarli va yangi g‘oyalar
-==== 
-An’anaviy o‘qitish
+
+196.	Boshlang‘ich sinf o‘quvchilari uchun maxsus ehtiyojlarni inobatga oluvchi ta’limiy o‘yinlar.
+====
+Proloquo2Go
+====
+Seesaw
+====
+ClassDojo
+====
+#Starfall
 ++++
-O‘quvchilarni kreativ fikrlashga qanday yo‘naltirish mumkin?
-==== 
-O‘rganish va yodlash
-==== 
-#Savol berish va muhokama qilish
-==== 
-O‘qituvchining ko‘rsatmalari
-==== 
-Yangi mavzularni tez o‘rganish
+
+197.	Inklyuziv ta’limda Vizual va multimediya vositalari orqali ta’lim jarayonini interaktiv qilish uchun mo‘ljallangan dastur.
+====
+Proloquo2Go
+====
+#Boardmaker
+====
+ClassDojo
+====
+VoiceOver
 ++++
-Kreativ pedagogikada muhim tushunchalardan biri nima?
-==== 
-O‘qituvchining roli
-==== 
-O‘quvchilarning yoshi
-==== 
-#Ijodiy fikrlash
-==== 
-O‘qituvchining nazorati
+
+198.	JAWS (Job Access With Speech) bu –
+====
+Apple qurilmalarida foydalanish uchun ovozli navigatsiya vositasi.
+====
+#Ko‘rish imkoniyati cheklangan o‘quvchilar uchun keng imkoniyatli, ovozli yordam ko‘rsatadigan dastur.
+====
+Rangi ajrata olmaslik (daltonizm) uchun maxsus vosita, ranglarni ajratish uchun simvollarni taklif qiladi
+====
+Ko‘rish qobiliyati zaif o‘quvchilar uchun ekran kattalashtirish va matnlarni ovozli o‘qish funksiyasiga ega dastur
 ++++
-O‘quv jarayonida kreativlikni qanday rag'batlantirish mumkin?
-==== 
-Qattiq nazorat
-==== 
-#O‘yinlar va loyiha ishlari orqali
-==== 
-O‘qituvchining rahbariyati bilan
-==== 
-O‘quvchilarning shaxsiy fikrlarini cheklash
+
+199.	ZoomText dasturi bu-
+====
+Ko‘rish imkoniyati cheklangan o‘quvchilar uchun keng imkoniyatli, ovozli yordam ko‘rsatadigan dastur.
+====
+Rangi ajrata olmaslik (daltonizm) uchun maxsus vosita, ranglarni ajratish uchun simvollarni taklif qiladi
+====
+#Ko‘rish qobiliyati zaif o‘quvchilar uchun ekran kattalashtirish va matnlarni ovozli o‘qish funksiyasiga ega dastur
 ++++
-O‘quvchilarning ijodiy fikrini rivojlantirish uchun qanday metodlar muhim?
-==== 
-An’anaviy metodlar
-==== 
-O‘qituvchining nazorati
-==== 
-#Tajribaviy va interaktiv metodlar
-==== 
-O‘quvchilarning yoshi
+
+200.	C-Print dasturi bu-
+====
+#Eshitish imkoniyati cheklangan o‘quvchilar uchun suhbatlarni matnga o‘girish dasturi.
+====
+Nogironligi bo‘lgan o‘quvchilar uchun vizual va ovozli muloqotni osonlashtiruvchi dastur.
+====
+Rangi ajrata olmaslik (daltonizm) uchun maxsus vosita, ranglarni ajratish uchun simvollarni taklif qiladi
+====
+Ko‘rish imkoniyati cheklangan o‘quvchilar uchun keng imkoniyatli, ovozli yordam ko‘rsatadigan dastur.
 ++++
-O‘quv jarayonida kreativlikni qanday baholash mumkin?
-==== 
-Testlar orqali
-==== 
-#Loyihalar va ijodiy ishlar orqali
-==== 
-Mavzularni yodlash orqali
-==== 
-O‘qituvchining fikri orqali
+
+201.	Inkluziv ta’lim uchun o‘quvchilar va o‘qituvchilarni bog‘lashga mo‘ljallangan platforma.
+====
+#Edmodo
+====
+Google scholar
+====
+Proloquo2Go
+====
+Edx
 ++++
 
