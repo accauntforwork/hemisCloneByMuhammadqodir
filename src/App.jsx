@@ -9,8 +9,8 @@ function App() {
   const [passwordInput, setPasswordInput] = useState("");
 
   // Oldindan belgilangan login va parol
-  const predefinedLogin = "sizdahosiz";
-  const predefinedPassword = "sizdahosiz";
+  const predefinedLogin = "hammagarahmat";
+  const predefinedPassword = "hammagarahmat";
 
   const handleLogin = () => {
     if (
