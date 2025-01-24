@@ -1,2378 +1,2388 @@
- 
-++++
-1.	Bu platforma o’qituvchi va o’quvchilar o’rtasidagi fan doirasida o’zaro muloqot vositasi hisoblanadi va bu  orqali o’qituvchilar kurslar yaratishi, talabalarga topshiriqlarni yuborishi va ularga izoh berishi, shuningdek, talabalarning fikr-mulohazalarini qabul qilishi mumkin.Bu qaysi platforma
+
+O‘quv modulida nechta master-slayd qo‘llash mumkin?
 ====
-#Google classroom
+#slaydlar soniga teng
 ====
-Google meet
+1 ta 
 ====
-Learning apps.org
+4 tagacha
 ====
-Interacty.com
+8 tagacha
 
 ++++
 
-2.	Learning.apps.org da qanday fanlarga oid topshiriq shabloni(namunasi)mavjud 
+HotPotatoes dasturining JQuiz dastur bloki yordamida yaratilgan fayllar kengaytmasini aniqlang.
 ====
-Informatika va At
+#*.jqz
 ====
-Xorijiy tillar
+*.jcl
 ====
-Aniq fanlar
+*.jcw
 ====
-#Barcha fanlarga oid
+*.jmx
 
 ++++
 
-3.	Learning.apps.org da foydalanuvchi yaratgan loyihalar qaysi bo’limda saqlanadi
+EATRni roʻyxatdan oʻtkazish necha bosqichda amalga oshiriladi?
 ====
-Все упражнения
+#4 ta
 ====
-#Мои упражнения
+3 ta
 ====
-Новое упражнения
+5 ta
 ====
-Коллекцию упражнения
+2 ta
+
+++++
+Tipi boʻyicha ETRlarini qanday guruhlarga ajratish mumkin
+====
+#kompyuterli darslik (oʻquv qoʻllanma, matn va x.o.), elektron maʼlumotnoma, 
+kompyuterli masalalar toʻplami, kompyuterli laboratoriya praktikumi (modellar, trenajerlar va x.o.), kompyuterli test tizimi.
+====
+kompyuterli laboratoriya praktikumi (modellar, trenajerlar va x.o.), kompyuterli test tizimi.
+====
+kompyuterli darslik (oʻquv qoʻllanma, matn va x.o.), elektron maʼlumotnoma, 
+kompyuterli masalalar toʻplami.
+====
+kompyuterli darslik (oʻquv qoʻllanma, matn va x.o.), elektron maʼlumotnoma, 
+kompyuterli test tizimi.
 
 ++++
 
-4.	Interacty saytida foydalanishning qanday ta’riflari mavjud
+PowerPoint da ALT +F4 tugmalari bosilsa nima sodir bo‘ladi?
 ====
-#Ta’lim,Biznes tariflari
+#Muhitdan chiqish.
 ====
-Standart,Pro tariflari
+Faylni saqlash
 ====
-Mutlaqo bepul,hech qanday tarif turi mavjud emas
+Slayddan chiqish
 ====
-Bazoviy,Standart,Professional
+Keyingi slaydga o‘tish
 
 ++++
 
-5.	Wordwall  saytida foydalanishning qanday ta’riflari mavjud
+PowerPoint da Ctrl +S tugmalari bosilsa nima sodir bo‘ladi?
 ====
-Ta’lim,Biznes tariflari
+#Faylni saqlash
 ====
-Standart,Pro tariflari
+Slayddan chiqish
 ====
-Mutlaqo bepul,hech qanday tarif turi mavjud emas
+Keyingi slaydga o‘tish
 ====
-#Bazoviy,Standart,Professional
+Muhitdan chiqish.
 
 ++++
 
-6.	Learning.apps.org saytida foydalanishning qanday ta’riflari mavjud
+Antivirus dasturi hisoblanmaydigan dastur:
 ====
-Ta’lim,Biznes tariflari
+#Defrag
 ====
-Standart,Pro tariflari
+AVP
 ====
-#Mutlaqo bepul,hech qanday tarif turi mavjud emas
+Norton Antivirus
 ====
-Bepul,Standart,Professional
-
-++++
-====
-Bloklar tartibi ko’rinib turadi
-
-++++
-7.	Ta’lim oluvchilari bir xil saviyada, bir xil yoshda, bilimi jihatidan ham teng bо‘lgan jamoani doimiy boshqarib turuvchi, nazorat qiluvchi pedagog kim deb ataladi
-====
-Pedagog
-====
-#Sinf rahbar
-====
-Fan o’qituvchisi
-====
-Yordamchi
+Dr Web
 
 ++++
 
-8.	Chaynword metodiga to’g’ri tarif berilgan javobni toping
+Antivirus dasturlariga kirmaydigan dasturlar sinfi:
 ====
-Oʻquvchini (sharoitga qarab) guruhlarga ajratiladi, mavzu  guruh a’zolariga beriladi, guruh a’zolari tomonidan yakka holda o’z fikrini bildiradilar, har bir guruh a’zosi oʻzi ishlagan tarqatma materiallarining oʻng burchagiga guruh raqamini yozadi, chap burchagiga esa oʻzining biron-bir belgisini chizib qoʻyadi va vazifa bajarilgan tarqatma  materiallar boshqa guruhlarga “charxpalak aylanmasi”  yoʻnalishida almashtiriladi;
+#skanerlash dasturlari
 ====
-Bir varaq oq qog`ozda (vatman yoki A-3 varag`i) baliq skeleti chiziladi  (boshi, kemirchagi, qovurg`alari).Yuqoridagi «suyagiga» muammo ifodalanishi, pastidagiga esa - ushbu muammo mavjudligini  isbotlovchi faktlar yozib qo`yiladi. 
+fag dasturlari
 ====
-Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
+auditorlik dasturlari
 ====
-#Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
-
-
-++++
-
-9.	Baliq skleti metodiga to’g’ri tarif berilgan javobni toping
-====
-Oʻquvchini (sharoitga qarab) guruhlarga ajratiladi, mavzu  guruh a’zolariga beriladi, guruh a’zolari tomonidan yakka holda o’z fikrini bildiradilar, har bir guruh a’zosi oʻzi ishlagan tarqatma materiallarining oʻng burchagiga guruh raqamini yozadi, chap burchagiga esa oʻzining biron-bir belgisini chizib qoʻyadi va vazifa bajarilgan tarqatma  materiallar boshqa guruhlarga “charxpalak aylanmasi”  yoʻnalishida almashtiriladi;
-====
-#Bir varaq oq qog`ozda (vatman yoki A-3 varag`i) baliq skeleti chiziladi  (boshi, kemirchagi, qovurg`alari).Yuqoridagi «suyagiga» muammo ifodalanishi, pastidagiga esa - ushbu muammo mavjudligini  isbotlovchi faktlar yozib qo`yiladi. 
-====
-Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
-====
-Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
+detektor dasturlari
 
 ++++
 
-10.	Charxpalak texnologiyasi metodiga to’g’ri tarif berilgan javobni toping
+CourseLab yordamida yaratilgan ta’lim materiallari ishlatilish turiga qarab, elektron ta’limning qaysi standartlariga mos keladi?
 ====
-#Oʻquvchini (sharoitga qarab) guruhlarga ajratiladi, mavzu  guruh a’zolariga beriladi, guruh a’zolari tomonidan yakka holda o’z fikrini bildiradilar, har bir guruh a’zosi oʻzi ishlagan tarqatma materiallarining oʻng burchagiga guruh raqamini yozadi, chap burchagiga esa oʻzining biron-bir belgisini chizib qoʻyadi va vazifa bajarilgan tarqatma  materiallar boshqa guruhlarga “charxpalak aylanmasi”  yoʻnalishida almashtiriladi;
+#AICC, SCORM
 ====
-Bir varaq oq qog`ozda (vatman yoki A-3 varag`i) baliq skeleti chiziladi  (boshi, kemirchagi, qovurg`alari).Yuqoridagi «suyagiga» muammo ifodalanishi, pastidagiga esa - ushbu muammo mavjudligini  isbotlovchi faktlar yozib qo`yiladi. 
+SCORM, LEVEL
 ====
-Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
+LEVEL, e-learning
 ====
-Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
+e-learning
 
 ++++
 
-11.	Venn diagrammasi metodiga to’g’ri tarif berilgan javobni toping
+Elektron ta’lim resurslari sifatini innovatsion baholash quyidagilarni o‘z ichiga oladi:
 ====
-Oʻquvchini (sharoitga qarab) guruhlarga ajratiladi, mavzu  guruh a’zolariga beriladi, guruh a’zolari tomonidan yakka holda o’z fikrini bildiradilar, har bir guruh a’zosi oʻzi ishlagan tarqatma materiallarining oʻng burchagiga guruh raqamini yozadi, chap burchagiga esa oʻzining biron-bir belgisini chizib qoʻyadi va vazifa bajarilgan tarqatma  materiallar boshqa guruhlarga “charxpalak aylanmasi”  yoʻnalishida almashtiriladi;
+#ta’lim yutuqlarini monitoring qilish
 ====
-Bir varaq oq qog`ozda (vatman yoki A-3 varag`i) baliq skeleti chiziladi  (boshi, kemirchagi, qovurg`alari).Yuqoridagi «suyagiga» muammo ifodalanishi, pastidagiga esa - ushbu muammo mavjudligini  isbotlovchi faktlar yozib qo`yiladi. 
+o‘quv jarayonining barcha tarkibiy qismlarini ta’minlash
 ====
-#Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
+Interaktivlik
 ====
-Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
+masofadan o‘qitish imkoniyati
 
 ++++
 
-12.	FSMU metodiga to’g’ri tarif berilgan qatorni toping
+Elektron o‘quv resurslarida yangi pedagogik vositalar qo‘llaniladi:
 ====
-#Fikringizni bayon eting,fikringizning   bayoniga sabab   kо‘rsating, kо‘rsatilgan  sababingizni  isbotlab misol (dalil)   keltiring, fikringizni umumlashtiring kabilida vaziyat  taxlil etiladi
+#interfaol, multimedia
 ====
-Tahlil qilinayotgan obektning kuchli tomon, kuchsiz tomon, imkoniyatlar, ziddiyatlar haqida so’z boradi va tahlil etiladi
+modellashtirish, tizimlilik
 ====
-
-Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
+muloqot, masofadan o‘qitish
 ====
-Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
-
-++++
-
-
-13.	Swot-Tahlil metodiga to’g’ri tarif berilgan qatorni toping
-====
-Fikringizni bayon eting,fikringizning   bayoniga sabab   kо‘rsating, kо‘rsatilgan  sababingizni  isbotlab misol (dalil)   keltiring, fikringizni umumlashtiring kabilida vaziyat  taxlil etiladi
-====
-#Tahlil qilinayotgan obektning kuchli tomon, kuchsiz tomon, imkoniyatlar, ziddiyatlar haqida so’z boradi va tahlil etiladi
-====
-
-Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lib bunda javoblarning nechta raqamdan iborat bo’lishi savolning oxiriga qavs ichida yozib qo’yiladi
-====
-Ikkita bir-biri bilan kesishgan doiralar ko`rinishidagi sxema, faktlar, hodisalar, g`oyalarni taqqoslash uchun qo`llaniladi. Aylanma diagramma. Har bir doiradagi bo`sh joylar tafovutlarni yozish uchun ishlatiladi; doiralar kesishganda hosil bo`lgan umumiy maydon ikki solishtirilayotgan hodisalarning (faktlar, tushunchalar va hokazolar) umumiy jihatlarini  qayd qilish uchun foydalaniladi.    
+to‘liqlilik
 
 ++++
 
-14.	O‘quvchilarga nazariy bilimlarni berish asosida ularda amaliy ko‘nikma va malakalarni shakllantirish, ularning bilish qobiliyatlarini o‘stirish va dunyoqarashlarini tarbiyalashga yo‘naltirilgan jarayon nima deb ataladi
+Elektron kurslarni yaratishda quyidagilarni hisobga olish kerak:
+====
+#O‘quv materialining interaktivligi tamoyili
+====
+Tarqatilgan o‘quv materialining ishlash tamoyili
+====
+Ta’limga oid ma’lumotlarni multimedia orqali taqdim etish tamoyili
+====
+Parchalanish tamoyili
+
+++++
+
+Pedagogik dasturiy vositalarni yaratish uchun quyidagi dasturlarning qaysi biridan foydalanish mumkin ?
+====
+#PowerPoint
+====
+Internet Explorer
+====
+Hyper Method
+====
+Windows
+
+++++
+
+Yangi axborot texnologiyalari ...
+====
+#gipermatn ko‘rinishi
+====
+radio
+====
+analog televizor
+====
+kitob
+
+++++
+
+Global kompyuter tarmog‘ining imkoniyatlari qanday?
+====
+#uzoq masofalarga ma’lumotlar almashinuvini tashkil qilish
+====
+qisqa masofalar bo‘yicha ma’lumot almashishni tashkil qilish
+====
+juda uzoq masofalarga elektr uzatish
+====
+tarmoqdagi kompyuterlarni kuzatib borish
+
+++++
+
+Bilimlarni mustahkamlash va amalda ulardan foydalanish malakalari uchun qaysi turdagi ETR mo‘ljallangan?
+====
+#Elektron praktikumi
+====
+Elektron test tizimi
+====
+Elektron ma’lumotnoma
+====
+Elektron darslik
+
+++++
+
+To‘g‘ri javobni tanlang. ZiyoNet - ……… , Internet - ………..
+====
+#ta’lim tarmog‘i, global tarmoq
+====
+simsiz tarmoq, maxalliy tarmoq
+====
+ijtimoiy tarmoq, lokal tarmoq
+====
+mahalliy tarmoq, ijtimoiy tarmoq
+
+++++
+
+Internet sahifalarini o‘qish va ko‘rish dasturi qanday nomlanadi ?
+====
+#Brauzer
+====
+Sayt
+====
+Provayder
+====
+Sahifa
+
+++++
+
+PowerPoint da animatsiyani sozlash qanday amalga oshiriladi?
+====
+#Animatsiya, Настройка анимации
+====
+Показ слайдов, настройка анимации
+====
+Показ слайдов, настройка демонстрации
+====
+Animatsiya, настройка демонстрации
+
+++++
+
+Moodle kurs kategoriyasi nima uchun kerak?
+====
+#Kerakli kursni tez topish uchun
+====
+Kerakli kursni o‘chirish uchun
+====
+Kerakli kursni yozish uchun
+====
+Kerakli kursdan tez chiqish uchun
+
+++++
+
+ADTester dasturida yangi guruhlar qanday yaratiladi?
+====
+#Asosiy menyudagi Группыdan Добавить группу, Ctrl G, Группыdan + orqali yaratiladi
+====
+Asosiy menyudagi Ползователиdan Добавить ползователя, Ctrl A orqali yaratiladi
+====
+Asosiy menyudagi Группыdan Шзмнить найтройки группы orqali yaratiladi
+====
+Asosiy menyudagi Группыdan Обнавить orqali yaratiladi.
+
+++++
+
+ACDSee Pro dasturning bosh sahifasida nechta tugma joylashgan va ular qaysilar?
+====
+#4 ta tugma Manage, View, Process, Online
+====
+3 ta tugma Manage, View, Process
+====
+3 ta tugma Manage, View, Online
+====
+4 ta tugma File, View, Process, Online
+
+++++
+
+Innovatsiyaning ma’nosi nima ?
+====
+#yangilik kiritish
+====
+o‘zgartirish kiritish
+====
+rejalashtirish
+====
+moliyalashtirish
+
+++++
+
+Multimedia texnologiyalarining aosiy maqsadi - ... ?
+====
+#o‘quvchilarga fanni yaxshi o‘zlashtirishlari uchun tovush, video, animatsiya va boshqa vizual effektlar bilan ta’minlangan dasturiy mahsulotlarni yaratish
+====
+tovush, video, animatsiya va boshqa vizual effektlar bilan ta’minlangan dasturiy mahsulotlarni yaratish
+====
+tovush, video, animatsiya va boshqa vizual effektlar bilan ta’minlangan materiallarni yaratish
+====
+o‘quvchilarga fanni yaxshi o‘zlashtirishlari uchun
+
+++++
+
+Tugallangan shaklda elektron o‘quv kursi tizim sifatida qanday funksional bloklarni o‘z ichiga oladi ?
+====
+#axborot bloki, mazmun bloki, nazorat bloke
+====
+nazariy blok, o‘rgatuvchi blok, nazorat bloke
+====
+nazorat bloki, kommunikativ blok, umumlashti-ruvchi blok
+====
+nazariy blok, o‘rgatuvchi blok, umumlashtiruvchi blok
+
+++++
+
+Elektron o‘quv resurslarida quyidagi yangi pedagogik vositalar qo‘llaniladi:
+====
+#interfaol, multimedia
+====
+Blits so‘rov, jamoa
+====
+modeling
+====
+kommunikativlik, to‘laqonlik
+
+++++
+
+Ommaviy ochiq onlayn kurslar kim tomonidan taklif qilingan?
+====
+#Brayan Aleksandr va Deev Korme
+====
+A. Andreev
+====
+Bedral Xan
+====
+Sebestyan Trun
+
+++++
+
+CourseLab — bu.....
+====
+#kuchli va shu bilan birga foydalanuvchiga oddiy bo‘lgan internet tizimida, masofaviy ta’lim tizimlarida, kompakt disk yoki boshqa har qanday saqlash qurilmalarida ishlatish uchun mo‘ljallangan interaktiv ta’lim materiallari (elektron darsliklar) tayyorlash uchun mo‘ljallangan kuchli va ishlatish oson bo‘lgan dasturiy vositadir
+====
+elekron jadval va matn maharriridan iborat dasturiy vositadir
+====
+Web muhitida o‘qitish va online rejimidagi darslarni tashkil qiluvchi kuchli pedagogik dasturiy majmuadir
+====
+o‘qituvchilarga dasturlash tillarini bilmasdan talabalarni nazorat qilish va o‘zini-o‘zi boshqarish uchun mustaqil ravishda interfaol topshiriqlar va testlarni yaratish imkoniyatini beradigan qobiq dasturidir
+
+++++
+
+Elektron o‘quv resurslarini yaratish imkoniyatini beruvchi pedagogik dasturiy  ta’minotlar  turkumiga  kiruvchi  dasturlarni  tanlang.
+====
+#Articulate, Adobe Captivate, Ispring, Wondershare
+====
+Adobe Captivate, Ispring, Wondershare  
+====
+Adobe Captivate, Ispring, PowerPoint
+====
+Ispring, Wondershare , PowerPoint
+
+++++
+
+Elektron  darsliklarning  nazorat  qiluvchi  qismi  -
+====
+#testlar  orqali nazorat qiluvchi tizim asosida shakllanadi
+====
+gipermatnga asoslangan va statik, dinamik rasmlardan iborat
+====
+xatolarni ko‘rsatib beruvchi va to‘g‘ri xulosaga olib keluvchi qism
+====
+animatsiyaga asoslangan qismi
+
+++++
+
+Elektron darsliklarning o‘rgatuvchi qismi  -  
+====
+#gipermatnga asoslangan va statik, dinamik rasmlardan iborat
+====
+xatolarni  ko‘rsatib beruvchi va to‘g‘ri xulosaga olib keluvchi qism
+====
+testlar  orqali nazorat qiluvchi tizim asosida shakllanadi
+====
+animatsiyaga asoslangan qismi
+
+++++
+
+Elektron  darslikning  mashq  qildiruvchi  qismi  -
+====
+#xatolarni  ko‘rsatib beruvchi va to‘g‘ri xulosaga olib keluvchi qism
+====
+gipermatnga asoslangan va statik, dinamik rasmlardan iborat
+====
+testlar  orqali nazorat qiluvchi tizim asosida shakllanadi
+====
+animatsiyaga asoslangan qismi
+
+++++
+
+MOODLE  –  inglizcha  so‘zlarning  abbreviaturasi  bo‘lib  M______ Object Oriented Dynamic Learning Environment.  Bo‘sh  qoldirilgan  so‘zni aniqlang.
+====
+#Modular
+====
+Modulas
+====
+Modules
+====
+Moody
+
+++++
+
+Multimedia qurilmalari bu
+====
+#ovoz, video, tasvir, matnli ma’lumotlar bilan ishlashda qo‘llaniladigan apparat vositalari
+====
+multimediani o‘rganish uchun mo‘ljallangan kompyuter stendi
+====
+ovoz, video, tasvir, matnli axborotlardan iborat ilovalarni yaratuvchisi
+====
+ovoz, video, tasvir, matnli ma’lumotlar bilan ishlashda qo‘llaniladigan apparat va dasturiy vositalar yig‘indisi
+
+++++
+
+“Multimedia” nima ?
+====
+#matn, tasvir,ovoz va videodan iborat ma’lumotlar bilan ishlovchi texnik va dasturiy vositalar majmui
+====
+kompyuter tizimlarida ovoz yaratishga mo‘ljallangan texnik vositalar yig‘indisi
+====
+ovoz, video, tasvir, matnli axborotlardan iborat ilovalarni yaratuvchisi
+====
+inson va kompyuter orasidagi interfaol muloqat
+
+++++
+
+Multimedia komponentlari quyidagilarni tashkil qiladi ?
+====
+#matn, audio, tasvir, video
+====
+multimpedia ilovalarini yaratish uchun qo‘llaniladigan dasturiy vositalar
+====
+filmlar, elektron o‘quv qo‘llanmalar, o‘yinlar, ensiklopediyalar, elektron kitoblar, virtual muzey ilovalari, reklamalar va boshqalar
+====
+multimedia tizimlari
+
+++++
+
+Interfaol taqdimot – bu .....
+====
+#ma’ruzachi yordamida taqdimot namoyish qilinadi va tushuntiriladi
+====
+ruh, jon ma’nosini bildiradi(ruhlantirish, jonlantirish)
+====
+taqdimot jarayonidan chetdan ta’sir ko‘rsatib bo‘lmaydi
+====
+kompyuter slaydlari ko‘rinishida taqdim etilishi lozim bo‘lgan materiallardan iborat fayl hisoblanadi.
+
+++++
+
+Taqdimot maqsadiga ko‘ra ikki turga bo‘linadi:
+====
+#interfaol va mustaqil amalga oshiriladi
+====
+animatsiya va video
+====
+chiziqli va chiziqli bo‘lmagan
+====
+statik va dinamik
+
+++++
+
+Qanday kurslar asosida tinglovchilar ma’lum topshiriqlar to‘plamini bajarishi shart degan tasdiq yotadi?
+====
+#task-based MOOC
+====
+xMOOC
+====
+MOOC
+====
+cMOOC
+
+++++
+
+Qanday kurslarda o‘qitish maqsadini o‘quvchi belgilaydi?
+====
+#cMOOC
+====
+xMOOC
+====
+MOOC
+====
+task-based MOOC
+
+++++
+
+Monitorda rang hosil qilishda qanday ranglardan foydalaniladi?
+====
+#ko‘k, qizil, yashil
+====
+qora, oq, ko‘k
+====
+sariq, qizil, oq
+====
+yashil, qora, sariq
+
+++++
+
+AutoPlay Media Studio dasturida ob’ektning koordinatalari qaysi nuqtadan aniqlanadi?
+====
+#chap yuqori nuqtadan
+====
+o‘ng yuqori nuqtadan
+====
+chap pastki nuqtadan
+====
+o‘ng pastki nuqtadan
+
+++++
+
+Button ob’ektining xossalari qaysi qatorda to‘g‘ri ko‘rsatilgan?
+====
+#Настройки, Свойства, Быстрое действие, Сценарий
+====
+Настройки, Свойства
+====
+Настройки, Выровнят
+====
+Свойства, Бысрое действие, Сценарий, Выровнят
+
+++++
+
+AutoPlay Media Studio dasturi ishga tushurilgandan so‘ng muloqot oynasida qanday takliflar ilgari suriladi?
+====
+#Создать новый проект(yangi loyiha yaratish), Открыть существующий проект(yaratilgan loyihalardan birini ochish), Восстонавить последный проект(oxirgi ishlangan loyihani ochish)
+====
+Восстонавить последный проект(oxirgi ishlangan loyihani ochish)
+====
+Создать новый проект(yangi loyiha yaratish), Открыть существующий проект(yaratilgan loyihalardan birini ochish)
+====
+Восстонавить последный проект(oxirgi ishlangan loyihani ochish), dasturdan chiqish
+
+++++
+
+CourseLab da yaratilgan resurslarning birliklari?
+====
+#kadr, slayd, modul, bo‘lim, kurs 
+====
+papka, modul, kadr, fayl, bo‘lim
+====
+fayl, kadr, modul, kurs, bo‘lim
+====
+fayl, kadr, slayd, kurs, bo‘lim
+
+++++
+
+iSpring dasturi taqdimotni qanday formatdagi faylga konvertatsiyalash imkonini beradi?
+====
+#swf va HTML5
+====
+pps va ppsx
+====
+HTML5  va ppt
+====
+ppt va pptx
+
+++++
+
+iSpring QuizMaker dasturi yordamida necha turdagi test tuzish mumkin?
+====
+#11
+====
+12
+====
+13
+====
+16
+
+++++
+
+Elektron nashr nima?
+====
+#cheklanmagan foydalanuvchilarga taqdim etish uchun yaratilgan, kompyuter o‘qiy olidagan xujjat
+====
+elektron kitob
+====
+elektron xujjatlar jamlanmasi
+====
+to‘liq matnli xujjat
+
+++++
+
+Manbalari va taqdim etilish shaklidan qat’iy nazar shaxslar, predmetlar, faktlar, voqealar, hodisalar va jarayonlar to‘g‘risidagi ma’lumotlar – ..... dir
+====
+#axborot
+====
+hisobot
+====
+bayonot
+====
+xabarnoma
+
+++++
+
+Yagona bino, idora, tashkilot yoki bir necha binolar guruxi doirasidagi kompyuter tarmog‘i
+====
+#lokal tarmoq
+====
+internet
+====
+kompyuter tarmog‘i
+====
+global tarmoq
+
+++++
+
+Internetda ta’lim domenini ko‘rsating?
+====
+#.edu
+====
+.uz
+====
+.ru
+====
+.swf
+
+++++
+
+Drayverlar, interpretatorlar va kompilyatorlar qaysi guruh dasturiy ta'minotga mansub ?
+====
+#tizimli dasturiy ta'minot
+====
+amaliy dasturiy ta'minot
+====
+foydalanuvchi uchun mo`ljallangan dasturiy ta'minot
+====
+instrumental dasturiy ta'minot
+
+++++
+
+Moodle bu...........................
+====
+#Masofaviy ta’lim platformalaridan biri
+====
+O’qitish shakli
+====
+O’qitish texnologiyasi
+====
+Axborot-kommunikatsiya texnologiyalari
+
+++++
+
+Internet muhitida online ishlaydigan elektron matn muharririni ko‘rsating
+====
+#Google docs
+====
+Docs
+====
+Ispring
+====
+FineReader
+
+++++
+
+Ma’lum bir maqsadga yo’naltirilgan tizimli bilim va ko’nikmalar bilan qurollangan jarayon bu....
 ====
 #Ta’lim
 ====
-Bilim olish
+O’qitish
 ====
-Dars
+Masofaviy o’qitish
 ====
-O’quv fani
+Internatsionallilik
 
 ++++
 
-15.	Elektron vositalar yaratishning mazmun bosqichiga to’g’ri tarif berilgan qatorni toping
+Virtual borliq tizimi deganda nima tushuniladi?
 ====
-#bu bosqichda elektron vositalarning axborot-ta’lim resurslarini shakllantirish va uning axborot ta’minoti mazmuni yaratiladi
+#imitatsion dasturiy va texnik vositalar
 ====
-bu bosqichda elektron vositalar yaratishning texnik jihatlari bilan bir qatorda, elektron ta’limni tashkil etish, axborot-ta’lim resurslariga bo‘lgan talabni aniqlash maqsadida foydalanuvchilar bo‘yicha statistik ma’lumotlarni yig‘ish va tahlil etish amalga oshiriladi
+hayolot dunyosi
 ====
-bu bosqichda elektron vositalardan o‘quv jarayonida foydalanish metodikasini ishlab chiqish, maslahat xizmatlarini bajarish yo‘lga qo‘yiladi
+tarixiy, noyob tasvirlarning qayta ishlangan ko’rinishi
 ====
-bu bosqichda o‘quv materiallarini mazmunan yopiq, minimal hajmga ega modullarga ajratiladi
+dars jarayonida video va audio materiallarda foydalanish 
 
 ++++
 
-16.	Elektron vositalar yaratishning tashkiliy bosqichiga to’g’ri tarif berilgan qatorni toping
+Masofaviy ta’lim –
 ====
-bu bosqichda elektron vositalarning axborot-ta’lim resurslarini shakllantirish va uning axborot ta’minoti mazmuni yaratiladi
+#masofaviy o’qitishga asoslangan ta’lim
 ====
-#bu bosqichda elektron vositalar yaratishning texnik jihatlari bilan bir qatorda, elektron ta’limni tashkil etish, axborot-ta’lim resurslariga bo‘lgan talabni aniqlash maqsadida foydalanuvchilar bo‘yicha statistik ma’lumotlarni yig‘ish va tahlil etish amalga oshiriladi
+o‘zaro ma’lum bir masofada Internet texnologiya yoki boshqa interaktiv usullar
 ====
-bu bosqichda elektron vositalardan o‘quv jarayonida foydalanish metodikasini ishlab chiqish, maslahat xizmatlarini bajarish yo‘lga qo‘yiladi
+aloqa, xabarlar, topshiriqlarni tarmoq orqali tezkor almashinish
 ====
-bu bosqichda o‘quv materiallarini mazmunan yopiq, minimal hajmga ega modullarga ajratiladi
+o’qitish vositalari (o’quv qo’llanma, darsliklar)
 
 ++++
 
-17.	Elektron vositalar yaratishning metodik ta’minot  bosqichiga to’g’ri tarif berilgan qatorni toping
+Kompyuter o’quv kursi – bu.................
 ====
-bu bosqichda elektron vositalarning axborot-ta’lim resurslarini shakllantirish va uning axborot ta’minoti mazmuni yaratiladi
+#mustaqil tarzida o’rganish imkoniyati yaratib beradigan – dasturli uslubiy majmua
 ====
-bu bosqichda elektron vositalar yaratishning texnik jihatlari bilan bir qatorda, elektron ta’limni tashkil etish, axborot-ta’lim resurslariga bo‘lgan talabni aniqlash maqsadida foydalanuvchilar bo‘yicha statistik ma’lumotlarni yig‘ish va tahlil etish amalga oshiriladi
+qisman yoki to’liq darslikni almashtiradigan yoki uni to’ldiradigan va nashr sifatida rasman tasdiqlangan elektron nashrdir
 ====
-#bu bosqichda elektron vositalardan o‘quv jarayonida foydalanish metodikasini ishlab chiqish, maslahat xizmatlarini bajarish yo‘lga qo‘yiladi
+O’quv elektron nashr 
 ====
-bu bosqichda o‘quv materiallarini mazmunan yopiq, minimal hajmga ega modullarga ajratiladi
+O’quv darslik
 
 ++++
 
-18.	Elektron vositalar yaratishning ko’rgazmalilik tamoyili haqida to’g’ri tarif berilgan qatorni toping
+.........  INTERNETning eng istiqbolli rivojlanish sohasi sanalmoqda
 ====
-O‘quv materiallarining mohiyatiga e’tibor qaratish maqsadida talaba istalgan vaqtda kompyuter ko‘magiga ega bo‘lishi kerak.
+#Elektron ta’lim
 ====
-#Elektron darsliklar modullari matn va vizuallashtirilgan materiallarning ma’lum nisbatini saqlagan holda illustratsiyalar va kadrlar jamlanmasidan iborat bo‘lishi zarur
+Elektron tijorat
 ====
-O‘quv materiallarining asosiy mazmunini qamrab olgan har bir modul o‘zida gipermurojaatga ega kalit so‘zlar,nazariy materiallar bo‘yicha nazorat savollari, namunalar, mustaqil yechish uchun masalalar; modul bo‘yicha nazorat savollariga ega bo’lishi kerak
+Internet biznes
 ====
-O‘quv materiallarini mazmunan yopiq, minimal hajmga ega modullarga ajratilgan bo’lishi kerak
+e-mail
 
 ++++
 
-19.	Elektron vositalar yaratishning to’laqonlilik tamoyili haqida to’g’ri tarif berilgan qatorni toping
+Internetdagi asosiy protokollar to‘plami:
 ====
-O‘quv materiallarining mohiyatiga e’tibor qaratish maqsadida talaba istalgan vaqtda kompyuter ko‘magiga ega bo‘lishi kerak.
+#TCP/IP
 ====
-Elektron darsliklar modullari matn va vizuallashtirilgan materiallarning ma’lum nisbatini saqlagan holda illustratsiyalar va kadrlar jamlanmasidan iborat bo‘lishi zarur
+HTTP
 ====
-#O‘quv materiallarining asosiy mazmunini qamrab olgan har bir modul o‘zida gipermurojaatga ega kalit so‘zlar,nazariy materiallar bo‘yicha nazorat savollari, namunalar, mustaqil yechish uchun masalalar; modul bo‘yicha nazorat savollariga ega bo’lishi kerak
+HTML
 ====
-O‘quv materiallarini mazmunan yopiq, minimal hajmga ega modullarga ajratilgan bo’lishi kerak
+TCP
 
 ++++
-20.	QR kod qayerda ixtiro qilingan
-====
-Amerikada
-====
-#Yaponiyada
-====
-Janubiy Koreyada
-====
-Germaniyada
-
-++++
-
-21.	QR kod dastlab qanday maqsadda qo’llanilgan
-====
-#Avtomobil sanoatida
-====
-Savdo-sotiq sanoatida
-====
-Oziq-ovqat sanoatida
-====
-Qishloq xo’jalik sanoatida
-
-++++
-
-22.	QR koddan  talimiy maqsadlarda foydalanilganda qanday malumotlarni qr kodga joylashtirish mumkin
-====
-Taqdimotlar
-====
-Video,audiolar
-====
-Ssilkalar
-====
-#Barchasi
-
-++++
-
-23.	Ikki o’lchamli shtrix kod bu-
-====
-VR
-====
-AR
-====
-#QR
-====
-BM
-
-++++
-24.	O‘qitish jarayonining shakllari,  usullari,  tamoyillari,  mazmuni pedagogikaning qaysi qismida o’rganiladi
-====
-Metodika
-====
-Uslubiyot
-====
-#Didaktika
-====
-Pedagogika
-
-++++
-
-25.	Bevosita o‘qituvchi rahbarligida muayyan o‘quvchilar guruhi bilan olib boriladigan ta’lim jarayonining asosiy shakli nima deb ataladi
-====
-Ta’lim
-====
-Bilim olish
-====
-#Dars
-====
-O’quv fani
-
-++++
-
-26.	Idrok etish, o‘rganish, mashq qilish va muayyan tajriba asosida xulq-atvor hamda faoliyat ko‘nikma, malakalarining mustahkamlanib, mavjud bilimlarning takomillashib, boyib borish jarayoni nima deb ataladi
-====
-Ta’lim
-====
-#Bilim olish
-====
-Dars
-====
-O’quv fani
-
-++++
-
-27.	O‘qituvchi va o‘quvchilar o‘rtasida tashkil etiluvchi hamda ilmiy bilimlarni o‘zlashtirishga yo‘naltirilgan pedagogik jarayon nima deb atladi
-====
-O’quv fani
-====
-#Ta’lim jarayoni
-====
-Dars
-====
-Ta’lim mazmuni
-
-++++
-
-28.	Ta’lim muassasalarida o‘qitilishi yo‘lga qo‘yilgan hamda o‘zida muayyan fan bo‘yicha umumiy yoki mutaxassislik bilim asoslarini jamlagan manba.
-====
-Ta’lim mazmuni
-====
-Ta’lim jarayoni
-====
-Dars
-====
-#O’quv fani
-
-++++
-
-29.	Davlat ta’lim standartlari asosida belgilab berilgan hamda ma’lum sharoitda muayyan fanlar bo‘yicha o‘zlashtirilishi nazarda tutilgan ilmiy bilimlar mohiyati.
-====
-O’quv fani
-====
-Ta’lim jarayoni
-====
-Dars
-====
-#Ta’lim mazmuni
-
-++++
-
-30.	Didaktik sakkizburchak nimalrdan iborat
-====
-O’qituvchi, o’qishning maqsadi, o’qitishning vazifasi, talabalar guruhi,o’qitish metodi,tashkiliy sharoit,olingan bilimlarni nazorat qilish,o’qitishda qo’llaniluvchi vositalar
-====
-O’qituvchi, o’quv materialining mazmuni,o’qitishning vazifasi, talabalar guruhi,o’qitish metodi,tashkiliy sharoit,olingan bilimlarni nazorat qilish,o’qitishda qo’llaniluvchi vositalar
-====
-# O’qituvchi, o’quv materialining mazmuni , o’qishning maqsadi, talabalar guruhi, o’qitish metodi, tashkiliy sharoit, olingan bilimlarni nazorat qilish, o’qitishda qo’llaniluvchi vositalar
-====
-O’qituvchi, o’quv materialining mazmuni,o’qitishning vazifasi, talabalar guruhi, o’qitish metodi,tashkiliy sharoit,mustaqil ta’lim, o’qitishda qo’llaniluvchi vositalar
-
-++++
-
-31.	Amerikalik investor va startaplar asoschisi ………. Huffingon Post nashrida virtual reallik sohasini AQShda shiddat bilan rivojlanayotgan sohalar qatoriga qo‘shgan. 
-====
-Kemeron Kleyn
-====
-#Jorj Bill
-====
-Kickstarter
-====
-Maykl Uilliam
-
-++++
-
-32.	Virtual reallik garniturasini ishlab chiqarish uchun mablag‘ yig‘ishni boshlagan kompaniya qaysi
-====
-#Kickstarter  platformasida Oculus startapi
-====
-Kickstarter  platformasida Plaxonic Technology startapti
-====
-Kickstarter  platformasida  Techasoft startapti
-====
-Kickstarter  platformasida Geomotiv startapti
-
-++++
-
-33.	Virtual reallik garniturasini ishlab chiqarish uchun mablag‘ yig‘ishni qaysi yilda boshlandi
-====
-2011
-====
-2014
-====
-2015
-====
-#2012
-
-++++
-
-34.	Virtual reallik garniturasini ishlab chiqarish uchun qancha mablag‘  yig’ilgan va bu qancha vaqtda amalga oshirilgan
-====
-250ming$ 24 soatda
-====
-200 ming$ 5 soatda
-====
-#250 ming$ 4 soatda
-====
-200ming $  4 soatda
-
-++++
-
-35.	Sotuvga chiqqan ilk virtuallik garniturasi qanday nomlanadi
-====
-#Oculus Rift CV1
-====
-Sagit Oculus  Quest 1
-====
-Oculus Go 1
-====
-Rift Go1
-
-++++
-
-36.	Ilk virtuallik garniturasi qachon sotuvga chiqarilgan
-====
-2011-yilda
-====
-2012-yilda
-====
-2014-yilda
-====
-#2015-yilda
-
-++++
-
-37.	Sezgi (ko‘rish, eshitish va sezish) organlari orqali sun’iy dunyoni anglash axborot muhiti nima deb ataladi
-====
-AR
-====
-#VR
-====
-Periferik qurilma
-====
-Immersivlik
-
-++++
-
-38.	Insonning o‘zini virtual voqelikda his qilishi nima deb ataladi
-====
-AR
-====
-VR
-====
-Interfaollik
-====
-#Immersivlik
-
-++++
-
-39.	Insonning real vaqtda virtual voqelikdagi obyektlar bilan o‘zaro muloqotda bo‘lishi, ularga ta’sir ko‘rsatishi nima deb ataladi
-====
-AR
-====
-VR
-====
-#Interfaollik
-====
-Immersivlik
-
-++++
-
-40.	Immersivlik bu-….
-====
-Insonning real vaqtda virtual voqelikdagi obyektlar bilan o‘zaro muloqotda bo‘lishi, ularga ta’sir ko‘rsatishi
-====
-#Insonning o‘zini virtual voqelikda his qilishi 
-====
-Sezgi (ko‘rish, eshitish va sezish) organlari orqali sun’iy dunyoni anglash axborot muhiti 
-====
-Foydalanuvchi tomonidan yaratilgan 3D virtual muhit 
-
-++++
-
-41.	Inson miyasidagi neyronlar virtual elementlarga qanday javob beradi.
-====
-#haqiqiy dunyo elementlariga javob bergani kabi
-====
-bazilarini  haqiqiy dunyo elementlariga javob bergani kabi bazilarini esa yo’q
-====
-Faqat xayoliy tarzda javob beradi
-====
-Barchasi to’g’ri
-
-++++
-
-42.	Foydalanuvchi tomonidan yaratilgan 3D virtual muhit nima deb ataladi
-====
-Virtual muhit
-====
-#Virtual olam
-====
-To’ldirilgan voqelik
-====
-Virtual reallik
-
-++++
-
-43.	Har qanday qurilma ekrani orqali har qanday raqamli ma’lumot (rasm, video, matn, grafika va h. k.)ni proeksiyalash nima deb atladi
-====
-Virtual muhit
-====
-Virtual olam
-====
-#To’ldirilgan voqelik
-====
-Virtual reallik
-
-++++
-
-44.	Dunyo bo‘ylab masofa, vaqt va joylashishni belgilaydigan sun’iy yo‘ldosh navigatsiya tizimi nima deb ataladi
-====
-AR
-====
-VR
-====
-QR kod
-====
-#Gps
-
-++++
-
-45.	Qanday virtual voqelik turlari mavjud
-====
-Immersiv,noimmersiv,yarim immersiv
-====
-Immersiv,yarim immersiv,immersiv bo’lmagan
-=====
-#Yarim immersiv,to’liq immersiv,immersiv bo’lmagan
-====
-Immersiv,to’liq immersiv,immersiv bo’lmagan
-
-++++
-
-46.	Kompyuter ekrani yoki VR ko‘zoynaklaridan foydalanib, virtual muhitda harakat qilish mumkin, ammo vizuallikni yaxshilash uchun jismoniy hislar yetishmaydi. Ushbu tarif qaysi virtual  voqelik haqida
-====
-#Yarim immersiv voqelik
-====
-To’liq immersiv voqelik
-====
-Immersiv bo’lmagan voqelik
-====
-Immersiv voqelik
-
-++++
-
-47.	Bunday voqelik haqiqiy virtual tajribani ta’minlaydi. Bunda odam o‘zini virtual dunyoda jismonan mavjuddek, u yerda sodir bo‘layotgan voqealarda ishtirok etayotgandek sezadi. Haqiqiy virtual tajribani ta’minlash uchun sensorli detektorlar bilan jihozlangan VR ko‘zoynaklar, qo‘lqoplar,virtual kostyum kabi maxsus uskunalar talab qilinadi. Ushbu tarif qaysi virtual  voqelik haqida
-====
-Yarim immersiv voqelik
-====
-#To’liq immersiv voqelik
-====
-Immersiv bo’lmagan voqelik
-====
-Immersiv voqelik
-
-++++
-
-48.	Insonning o‘z tajribasidan kelib chiqqan holda kompyuter orqali virtual muhitdagi qahramon yoki harakatlarni boshqarishi. Bunda virtual muhit inson bilan to‘g‘ridan-to‘g‘ri aloqada bo‘lmaydi. Ushbu tarif qaysi virtual  voqelik haqida
-====
-Yarim immersiv voqelik
-====
-To’liq immersiv voqelik
-====
-#Immersiv bo’lmagan voqelik
-====
-Immersiv voqelik
-
-++++
-
-49.	Foydalanuvchilarning turli manzillardan turib, virtual muhitda 3D proeksiyalangan qahramonlar shaklida birlashishi qanday virtual  voqelikka kiradi
-====
-#Hamkorlikdagi voqelik
-====
-To’liq immersiv voqelik
-====
-Immersiv bo’lmagan virtual  voqelik
-====
-Immersiv voqelik
-
-++++
-
-50.	PlayerUnknowns Battlegrounds (PUBG)  mobil o‘yinning virtual muhiti qanday virtual  voqelikka misol bo‘la oladi.
-====
-Immersiv voqelik
-====
-To’liq immersiv voqelik
-====
-Immersiv bo’lmagan virtual  voqelik
-====
-#Hamkorlikdagi voqelik
-
-++++
-
-51.	Maxsus tarzda kodlangan, kvadrat ko‘rinishida tasvirlangan ma’lumot nima deb ataladi
-====
-VR
-====
-AR
-====
-#QR
-====
-Gps
-
-++++
-52.	Usul so’zi qaysi tildan olingan?
-====
-Arab
-====
- #yunon 
-====
-Sharq tillari
- ====
-Grek
-
-++++
-
-53.	O’qituvchi o’quvchi  munosabati qaysi metodda yaqqol namoyon bo’ladi
-====
-#Nofaol 
-====
- Interfaol 
-====
-Faol 
-====
-to’g’ri javob yo’q
-
-++++
-
-54.	Oqituvchi o’quvchi o’qituvchi  munosabati qaysi metodda yaqqol namoyon bo’ladi?
-====
-Nofaol 
-====
-Interfaol
-====
- #Faol 
-====
-to’g’ri javob yo’q
-
-++++
-
-55.	Oqituvchi  o’quvchi  o’quvchi  o’qituvchi  munosabati qaysi metodda yaqqol namoyon bo’ladi
-====
-Nofaol 
-====
-#Interfaol
-====
- Faol 
-====
-to’g’ri javob yo’q
-
-++++
-56.	Har bir savol javobining oxirgi harfi keyingi savol javobining bosh harfiga tо‘g‘ri kelishi kerak bo’lgan metod turi
-====
-#Charxpalak
-====
-Keys-stadi 
-====
-So’rovnoma 
-====
-BBB
-
-++++
-57.	Darslarda ko’p qo’llaniladigan metod turlaridan bo’lib  kuchli tomon,kuchsiz tomon,imkoniyatlar,ziddiyatlar haqida so’z boradi Qaysi metod turi haqida so’z bormoqda
-====
-Muammoli vaziyat
-====
-FSMU
-====
- #Swot-taxlil 
-====
-Rolli-o’yin
-++++
-58.	………-taqvim reja asosida tanlanadi
-====
-Darsning maqsadi 
-====
-#Darsning mavzusi
-====
- Darsning turi 
-====
-Darsning metodi
-
-++++
-
-59.	Dars maqsadiga ko’ra nechchi xil bo‘ladi:
-====
-#3 
-====
-4 
-====
-  5
- ====
-2
-
-++++
-
-60.	Usul bu-
-====
-#bilish yo’li 
-====
- mavzu xaritasi 
-====
-faoliyat 
-====
-yo’l
-
-++++
-
-61.	Ta’lim uchun mos metod tanlayotganda nimalarga e’tibor berish kerak
-====
-Darsning maqsadiga,mavzuning mazmuniga,ta’lim oluvchi imkoniyatlariga ko’ra
-====
-Ta’lim oluvchilar soniga,yoshiga,darsning texnik jihozlariga,darsning maqsadiga
-====
-Ta’lim beruvchining mahoratiga,texnik shart sharoitlarga ko’ra, tarbiyaviy qoidalarga
-====
-#a va b javoblar
-
-++++
-
-62.	O’quvchilar faoliyatiga ko’ra ta’lim metodlari nechchi turli bo’ladi
-====
-4 
-====
-2 
-====
-#3 
-====
-5
-
-++++
-
-63.	Olinayotgan bilim va tajribalarni hayotda qo’llay olish qobilyatini baholovchi dastur qanday ataladi
-====
-Timss
-====
-Tallis
-====
-#Pisa
-====
-Pirls
-
-++++
-
-64.	Yangi avlod Informatika darsliklari qaysi  modelga asoslangan
-====
-3K
-====
- #4K
- ====
-K 
-====
-To’g’ri javob yo’q
-
-++++
-
-65.	……..….-oʻquvchilarning biror maqsadga erishish uchun jamoada ishlash koʻnikmasidir
-====
-Kommunikativlik 
-====
-#Kollobratsiya 
-====
-Kreativ fikrlash 
-====
-Tanqidiy fikrlash
-
-++++
-
-66.	Kollobratsiya  bu-….
-====
-oʻquvchilarning boshqalar bilan muloqotga kirishish qobiliyatini anglatadi
-====
-#oʻquvchilarning biror maqsadga erishish uchun jamoada ishlash koʻnikmasidir
-====
-O’quvchilarning  muammolarga tahliliy nuqtayi nazardan yondashish ko’nikmasi
-====
-O‘quvchilarining savodxonlik va hisoblash ko‘nikmalarini baholash ko’nikmasi
-
-++++
-
-67.	Kommunikativlik  bu-….
-====
-#oʻquvchilarning boshqalar bilan muloqotga kirishish qobiliyatini anglatadi
-====
-oʻquvchilarning biror maqsadga erishish uchun jamoada ishlash koʻnikmasidir
-====
-O’quvchilarning  muammolarga tahliliy nuqtayi nazardan yondashish ko’nikmasi
-====
-O‘quvchilarining savodxonlik va hisoblash ko‘nikmalarini baholash ko’nikmasi
-
-++++
-
-68.	……-oʻquvchilarning boshqalar bilan muloqotga kirishish qobiliyatini anglatadi.
-====
-#Kommunikativlik 
-====
-Kollobratsiya 
-====
-Kreativ fikrlash 
-====
-Tanqidiy fikrlash
-
-++++
-
-69.	Bolalar muammolarga tahliliy nuqtayi nazardan yondashishni oʻrganadi. Qaysi kompetensiya haqida so’z bormoqda
-====
-Kommunikativlik 
-====
-Kollobratsiya 
-====
-Kreativ fikrlash 
-====
-#Tanqidiy fikrlash
-
-++++
-
-70.	Yangi avlod darsliklarini tayyorlashda nimalarga e’tibor qaratilgan
-====
-o’quvchi yoshi, darslikdagi metodlar, darslik dizayni, tarbiyaviy ahamiyatiga
-====
-#o’quvchining yoshi,darslik vazni,darslik dizayniga
-====
-Tarbiyaviy maqsad,Darslikdagi metodlarga, o’quvchining yoshi,darslik vazniga
-====
-To’g’ri javob yo’q
-
-++++
 
-71.	Darsning  rivojlantiruvchi maqsadiga nimalar kiradi
+Grafik muharriridagi vositalar:
 ====
- nutq madaniyatini; vatanparvarlikni; mehnatga ongli munosabatni, yangi tushunchalarni shakllantirish;
+#qalam, cho‘tka, silgi
 ====
-yangi tushunchalarni shakllantirish; bilimlardagi yetishmovchiliklarni bartaraf etish; bilimlarni umumlashtirish va tizimga solish; tushunchalar orasidagi bog’lanishlarni aniqlash  tushunchalarni shakllantirish
+chiziq, doira, to‘rtburchak
 ====
- dunyoqarash g’oyalari va muammolarini aniqlash; talim oluvchilarda u  yoki  bu harakatni, voqealarni baholash bo’yicha bilimlarni  shakllantirish; xulosa chiqarishga tayyorlash, o’zlashtirishga erishish.  ta’lim olishga ijobiy munosabatni; estetik qarashlarni; e’tiqodni shakllantirish
+tanlash, nusxalash, joylashtirish
 ====
-# dars  jarayonida  talim oluvchilarning  psixologik sifatlarini diqqat, xotira, texnik taffakkur va bilish qobiliyatlarini shakllantirishdir
+rang to‘plamlari (palitrasi)
 
 ++++
 
-72.	Imom Gazzoliy fikriga ko’ra ilimning boshi-…
+O'zbekiston Respublikasi Davlat test markazining veb-sayti –
 ====
-Yod olish
+#dtm.uz
 ====
- #Jim turish 
+gov.uz
 ====
-unga amal qilish
- ====
-Bilmaganlarga tarqatish
-
-++++
-
-73.	Imom Gazzoliy fikriga ko’ra Jim turish bu ilim olishning ….dir .
-====
-#Ilm olishning boshidir
-====
-Ilmning  olishning yakunidir
-====
-Ilm olishning ikkinchi shartidir
-====
-Ilm olishning beshinchi shartidir
-
-++++
-
-74.	Imom Gazzoliy fikriga ko’ra ilim olishning  beshinchi sharti -…
-====
-Yod olish 
-====
-Jim turish 
-====
-unga amal qilish
-====
- #Bilmaganlarga tarqatish
-
-++++
-
-75.	Imom Gazzoliy fikriga ko’ra ilim olishning  to’rtinchi sharti -…
-====
-Yod olish 
-====
-Jim turish 
-====
-#unga amal qilish 
-====
-Bilmaganlarga tarqatish
-
-++++
-
-76.	Imom Gazzoliy fikriga ko’ra ilim olishning  uchinchi sharti -…
-====
-#Yod olish 
-====
-Jim turish
- ====
-unga amal qilish 
-====
-Bilmaganlarga tarqatish
-
-++++
-
-77.	Imom Gazzoliy fikriga ko’ra ilim olishning  ikkinchi sharti -…
-====
-Yod olish 
-====
-Jim turish
-====
- #e’tibor bilan eshitish 
-====
-Bilmaganlarga tarqatish
-
-++++
-
-78.	Darsni tashkil etishda pedagog o’z oldiga  qanday savollar qo’yadi
-====
-nimani o’qitamiz, qayerda o’qitamiz, nima uchun o’qitamiz
-====
-qanday o’qitamiz, nimaga o’qitamiz,qaysi metoddan foydalanamiz
-====
-#nega o’qitamiz,nimani o’qitamiz,qanday o’qitamiz
-====
-nimani o’qitamiz,qayerda o’qitamiz,qanday o’qitamiz
-
-++++
-
-79.	Aqliy xujum Interfaol ta’limning qaysi  asosiy shakliga kiradi
-====
-grafik organayzer 
-====
-#strategiya 
-====
-interfaol metod 
-====
-o’yin 
-
-
-++++
-
-80.	Blits-so’rov Interfaol ta’limning qaysi  asosiy shakliga kiradi
-====
-grafik organayzer 
-====
-strategiya 
-====
-#interfaol metod 
-====
-o’yin 
-
-++++
-
-81.	Baliq skleti  Interfaol ta’limning qaysi  asosiy shakliga kiradi
-====
-#grafik organayzer 
-====
-strategiya 
-====
-interfaol metod 
-====
-o’yin 
-
-++++
-
-82.	Klaster Interfaol ta’limning qaysi  asosiy shakliga kiradi
-====
-#grafik organayzer 
-====
-strategiya 
-====
-interfaol metod 
-====
-o’yin 
-
-++++
-
-83.	Egallagan bilimlardan amalda foydalanish nima deyiladi
-====
-bilish  
-====
-#qo’llash 
-====
-tushunish 
-====
-Taxlil
-
-++++
-
-84.	Faktlarni tushunchalarni kategoriyalarni aytib berish nima deyiladi
-====
-#bilish 
-====
-qo’llash 
-====
-tushunish 
-====
-Taxlil
-
-++++
-
-85.	O’z so’zlari bilan mazmunni yoritish izohlash bu-...
-====
-bilish 
-====
-qo’llash 
-====
-#tushunish 
-====
-Taxlil
-
-++++
-
-86.	Umumlashtirish xulosa qilish bu-....
-====
-bilish 
-====
-qo’llash 
-====
-Tushunish
-====
- #sintez
-
-++++
-
-87.	Obektlarni elementlarga ajratgan xolda chuqur o’rganish nima deyiladi
-====
-bilish 
-====
-qo’llash 
-====
-tushunish 
-====
-#taxlil
-
-++++
-
-88.	Obektga munosabatni bildirish,zaruratni aniqlash nima deyiladi
-====
-#baholash 
-====
-qo’llash 
-====
-tushunish 
-====
-Taxlil
-
-++++
-
-89.	Ta’lim jarayonining ma’lum bosqichida o’quv maqsadlariga erishilganlik darajasini oldindan belgilangan mezonlar  asosida o’lchash nima deb ataladi
-====
-# Baho qo’yish
-  ====
-nazorat o’tkazish 
-====
-o’rganish jarayoni 
-====
-Tekshirish
-
-++++
-
-90.	Talim oluvchi  mustaqil хulosa va qaror qabul qiladi, ijodiy fikrlay oladi, mustaqil mushohada yuritadi, olgan bilimini amalda qoʻllay oladi, fanning (mavzuning) mohiyatini tushunadi, biladi, ifodalay oladi, aytib beradi hamda fan (mavzu) boʻyicha tasavvurga ega deb topilganda nechchi baho qo’yiladi
-====
-#5baho 
-====
-4 baho 
-====
-3 baho 
-====
-2 baho
-
-++++
-
-91.	Ta’lim oluvchilar  fan dasturini oʻzlashtirmagan, fanning (mavzuning) mohiyatini tushunmaydi hamda fan (mavzu) boʻyicha tasavvurga ega emas deb topilganda nechchi baho qo’yiladi
+edu.uz
 ====
-5baho 
-====
-4 baho 
-====
-3 baho
-====
- #2 baho
-
-++++
-
-92.	Talim oluvchi olgan bilimini amalda qoʻllay oladi, fanning (mavzuning) mohiyatni tushunadi, biladi, ifodalay oladi, aytib beradi hamda fan (mavzu) boʻyicha tasavvurga ega deb topilganda nechchi baho qo’yiladi
-====
-5baho 
-====
-4 baho 
-====
-#3 baho 
-====
-2 baho
-
-++++
-
-93.	Baholash jarayonidagi ta’lim beruvchining xatolari nimalardan iborat
-====
-xayrixohlik,yoqtirish, o’z fikrini o’zgartirmaslik,o’rtacha baho berish,yuqori talab qo’yish,yoqtirmaslik
-====
-yuqori talab qo’yish,yoqtirmaslik,yoqtirish, xayrixohlik, o’rtacha baho berish, o’z fikrini o’zgartirmaslik,
-====
-#o’z fikrini o’zgartirmaslik, xayrixohlik, yoqtirmaslik, o’rtacha baho berish, yuqori talab qo’yish
-====
-to’g’ri javob yo’q
-
-++++
-
-94.	Bahoning  biroz  yuqoriroq  bo’lishiga  olib  kelishi mumkin bo’lgan ta’lim beruvchining xatosi bu-
-====
-#xayrixohlik xatosi
-====
-o’z fikrini o’zgartirmaslik
-====
-yuqori talab qo’yish
-====
- o’rtacha baho berish
-
-++++
-
-95.	Ta’lim oluvchilarning  o’rtacha baho olishiga sabab bo’luvchi  ta’lim beruvchining xatosi bu-
-====
-xayrixohlik xatosi
-====
- o’z fikrini o’zgartirmaslik
-====
-yuqori talab qo’yish
-====
-#o’rtacha baho berish
-
-++++
-
-96.	Ta’lim beruvchining o’ta yaxshi yoki o’ta yomon baho berishdan qo’rqish xatosi bu-
-====
-xayrixohlik xatosi
-====
-o’z fikrini o’zgartirmaslik
-====
-yuqori talab qo’yish
-====
-#o’rtacha baho berish
-
-++++
-
-97.	Ta’lim oluvchilarning  biroz pastroq baho olishiga sabab bo’luvchi  ta’lim beruvchining xatosi bu
-====
-xayrixohlik xatosi
-====
- o’z fikrini o’zgartirmaslik
-====
-# yuqori talab qo’yish
-====
-o’rtacha baho berish
-
-++++
-
-98.	Bir marta sodir bo’lgan voqea tufayli ta’lim beruvchida biror ta’lim oluvchi  to’g’risida  qolgan  ijobiy  yoki  salbiy  taassurot,  keyinchalik  bu  ta’lim oluvchining shaxsiyatiga oid barcha boshqa xususiyatlariga e’tibor bermasligiga olib keladi Bu ta’lim beruvchining qaysi xatosiga kiradi
-====
-xayrixohlik xatosi
-====
-# o’z fikrini o’zgartirmaslik
-====
- yuqori talab qo’yish
-====
-o’rtacha baho berish
-
-++++
-
-99.	Kundalik.com,emaktab va elektron jurnalni kirib kelishi nimani o’zgartirdi
-====
-ta’lim oluvchilar maktabga bormaydilar uyda onlayn tarzda ta’lim oladilar
-====
-ota-onalar farzandlarini videokamera orqali hatti harakatini kuzatishi mumkin
-====
-#qog’oz tejaladi,barchasi elektron holatda
-====
-ta’lim oluvchilar faqat elektron holatda kitoblardan foydalanadilar
-
-++++
-
-100.	Kundalik uz qaysi portalning muqobili hisoblanadi
-====
-#Dnevnik.ru 
-====
-emaktab 
-====
-dnevnik.com.
-====
-emaktab.com
-
-++++
-
-101.	Psixologlar fikriga ko’ra talabalar dastlab …….. daqiqa, so‘ngra darsni tugashidan oldin……daqiqa ma’ruzani diqqat bilan eshitar, qolgan paytda xayolga berilar ekan 
-====
-dastlabki 15 daqiqa va tugashidan oldingi 15 daqiqa
-====
-#dastlabki 20 daqiqa va tugashidan oldingi 20 daqiqa
-====
-dastlabki 10 daqiqa va tugashidan oldingi 10 daqiqa
-====
-dastlabki 5 daqiqa va tugashidan oldingi 5 daqiqa
-
-++++
-
-102.	Tarixiy manbalarga ko’ra  maruza dastlab qayerda paydo bo’lgan
-====
-Yunonistonda 
-====
-Rimda 
-====
- Markaziy Osiyoda  
-====
-#Gretsiyada
-
-++++
-
-103.	Tarixiy manbalarga ko’ra  maruzaning rivojlanishi qaysi davlatlarga to’g’ri keladi
-====
-Yunonistonda 
-====
-#Rimda 
-====
-Markaziy Osiyoda 
-====
-Gretsiyada
-
-++++
-
-104.	Tarixiy manbalarga ko’ra  maruzaning rivojlanishi Markaziy Osiyoda  qanday ko’rinish bergan
-====
-#Mamun Akademiyasidagi ilmiy munozaralarda,turli madrasalardagi tashkil etilgan o’qitish jarayonida
-====
-Ko’chalarda ochiq tabiat qo’ynida 
-====
-Kinoteatrlarda
-====
-barchasi xató
-
-++++
+eco.uz
 
-105.	Maktabgacha va maktab ta’limi vazirligi tomonidan nechta  umumta’lim maktabida baholashning mezonga asoslangan tizimini joriy etish to‘g‘risida qaror qabul qilindi. 
-====
-400 ta maktabda
-====
-300 ta maktabda
-====
-#500 ta maktabda
-====
-Bunday tizim joriy etilmagan
-
-++++
-
-106.	Belgilangan oʼquv topshiriqlarini, tahsil  oluvchilarning mustaqil va ijodiy bajarishlari asosida oʼtadigan oʼquv  faoliyati qanday nomlanadi
-====
-Amaliy ta’lim
-====
-#Mustaqil ta’lim
-====
-Aralash ta’lim
-====
-Noan’anaviy ta’lim
-
-++++
-
-107.	O’quvchilar mustaqil ishlarining hajmini belgilashda quyidagi jihatlarni e’tiborga olish lozim
-====
-#fanning axborot manbalari bilan ta’minlanganlik darajasi, o’qish bosqichi, fanning o’ziga xos xususiyati va o’zlashtirishdagi qiyinchilik darajasi,o’quvchining tayanch bilimi
-====
-O’quvchilarning yoshi,kerakli adabiyotlar mavjudligi,bilim,ko’nikma va malaka qobilyatlari
-====
-4K modelini qay darajada o’zlashtirganligi, o’qish bosqichi, fanning o’ziga xos xususiyati va o’zlashtirishdagi qiyinchilik darajasi,o’quvchining tayanch bilimi
-====
-o’quvchining tayanch bilimi, kerakli adabiyotlar mavjudligi, tarbiyaviy rivojlantiruvchi maqsadi
-
 ++++
 
-108.	Mustaqil ish  uchun beriluvchi topshiriqlar qanday bo’ladi
+Elektron darslik - bu …..
 ====
-Referat,mavzu bo’yicha testlar
+#yuqori ilmiy, uslubiy va texnik darajada yaratilgan, oddiy darslikni qisman o‘zgartiradigan yoki to‘ldiradigan o‘quv elektron nashridir
 ====
-Mavzuni mustaqil o’zlashtirish
+bu ochiq tizimlar. Bularni to‘ldirish, tuzatish, ish paytida o‘zgartirish mumkin, bu ayniqsa ijodiy ishlaydigan o‘qituvchi uchun juda muhimdir
 ====
-Ko’rgazmali vositalar tayyorlash
+bu talabalarning mustaqil ishlarini tashkillashtirishga imkon beradigan kontekstli ko‘rsatmalarni tashkil qilishdir
 ====
-#Barchasi to’g’ri
+bu uning mazmuni ta’lim muassasasida belgilangan tartibda tasdiqlangan o‘quv predmeti dasturining talablari va mazmuniga mos kelishidir
 
 ++++
 
-109.	O‘quv maqsadli elektron vositalarni yaratishning muhim bosqichlari qaysilar
+O‘quv jarayoniga yangi axborot texnologiyalarini joriy etish o‘qituvchilarning vazifalarini tubdan o‘zgartirishga olib keladi, u talabalar bilan birgalikda tobora ko‘proq …….. aylanib bormoqda.
 ====
-#Mazmun bosqichi,tashkiliy bosqich,metodik taminot bosqichi
+#tadqiqotchi, dasturchi, tashkilotchi va maslahatchiga
 ====
-Mazmun bosqichi , asosiy bosqich,tugallanish bosqichi
+ijod, izlanish va kashfiyotchiga
 ====
-O’rgatuvchi bosqich,mashq qildiruvchi bosqich,nazorat qiluvchi bosqich
+muloqot qilishga
 ====
-Uzluksiz va davriy yangilanuvchi bosqichlar
+dastirchiga
 
 ++++
 
-110.	O‘quv maqsadli elektron vositalarni yaratish qanday konseptual tamoyillarga ega bo‘lishi lozim
+Matnli rasmlarni, rasmlarni, fotosuratlari kompyuterga to‘g‘ridan-to‘g‘ri qog‘oz hujjatidan kiritish imkonini beruvchi qurilma nima?
 ====
-Kvantlash tamoyili,  integratsiya tamoyili, Ochiqlik tamoyili, uzviylik tamoyili, Yaxlitlik tamoyili
+#Skayner
 ====
-#Maqsadga yo‘naltirilganlik tamoyili, integratsiya tamoyili, to‘laqonlilik tamoyili, yaxlitlik tamoyili, ochiqlik tamoyili
+Printer
 ====
-Moslashuvchanlik tamoyili,  integratsiya tamoyili, maqsadga yo‘naltirilganlik tamoyili, ochiqlik tamoyili, yaxlitlik tamoyili
+Sichqoncha
 ====
-Yaxlitlik tamoyili,aniqlilik tamoyili, maqsadga yo‘naltirilganlik tamoyili, ochiqlik tamoyili,umumiylik tamoyili
+Modem
 
 ++++
 
-111.	……..lar kompyuter texnologiyalariga asoslangan o‘qitish metodlaridan foydalanishga mo‘ljallangan  vositasi bo‘lib, undan mustaqil ta’lim olishda va o‘quv materiallarini har tomonlama samarali o‘zlashtirishda foydalanish mumkin
+Zoom – bu ….
 ====
-#Elektron darslik
+#videokonferentsiyalar, seminarlar va onlayn darslar uchun xizmat qiladi
 ====
-Ko’rgazmali vosita
+electron pochta aloqasi uchun xizmat qiladi.
 ====
-Didaktik o’yinlar
+an’anaviy dars o`tish uchun xizmat qiladi.
 ====
-Elektron nazorat dastur
+multimedia ilovalarini yaratish uchun xizmat qiladi.
 
 ++++
 
-112.	Elektron darsliklar qanday qismlardan iborat bo‘lishi zarur
+Zoomda nechta foydalanuvchiga mo`ljallangan videokonferentsiya o`tkazish mumkin?
 ====
-Asosiy,  tashkiliy,mazmunli
+#1000
 ====
-Individual,jamoaviy
+2000
 ====
-Tartibli,ixtiyoriy
+100
 ====
-#O‘rgatuvchi ,mashq qildiruvchi ,nazorat qiluvchi
+500
 
 ++++
 
-113.	O‘quv materiallarini taqdim etishi bo‘yicha elektron darsliklar qanday bo’ladi
+Zoomda bepul qancha vaqt necha kishiga videokonferentsiya tashkil qilish mumkin?
 ====
-Asosiy,  tashkiliy,mazmunli
+#40 daqiqa, 100 kishi
 ====
-Individual,jamoaviy
+40 daqiqa, 1000 kishi
 ====
-#Tartibli,ixtiyoriy
+40 daqiqa, 500 kishi
 ====
-O‘rgatuvchi ,mashq qildiruvchi ,nazorat qiluvchi
+vaqt va foydalanuvchilar soni chegaranilmagan
 
 ++++
 
-114.	Elektron darsliklar foydalanish maqsadlariga ko’ra qanday turli boladi
+Google Meet – bu …
 ====
-Asosiy,  tashkiliy,mazmunli
+#Google tomonidan ishlab chiqilgan videoqo‘ng‘iroq xizmati.
 ====
-#Individual,jamoaviy
+Google tomonidan ishlab chiqilgan pochta aloqasi xizmati.
 ====
-Tartibli,ixtiyoriy
+Google tomonidan ishlab chiqilgan ta’lim xizmati
 ====
-O‘rgatuvchi ,mashq qildiruvchi ,nazorat qiluvchi
+Google Hangouts o‘rnini bosgan ikkita dasturdan biri.
 
 ++++
-
-115.	O‘quv materiallari va axborotlarni yangilash bo‘yicha elektron darsliklar qanday turli bo’ladi
-====
-Individual,jamoaviy
-====
-Tartibli,ixtiyoriy
-====
-#Uzluksiz va davriy 
-====
-O‘rgatuvchi ,mashq qildiruvchi ,nazorat qiluvchi
 
-++++
-116.	Grafik muharirlar qaysilar
+Informatika fanida algoritmlar bilan ishlash imkoniyatini beradigan pedagogik dasturiy vositani ko‘rsating.
 ====
-Ps,Ai,Blender,Id,Im
+#Crocodile ICT
 ====
-Im, Id,Pr,Ae
+Crocodile Physics
 ====
-
-# Id,Pr,Ae,Ps
+Crocodile Matematics
 ====
-Corel draw,Im,Id,Ps
+Crocodile Technology
 
 ++++
 
-117.	Ilmiy va muhandislik dasturiy vositalariga qaysi dasturlar kiradi
+LMS nima ?
 ====
- Ps,Ai,Blender,Id,Im
+#Elektron ta’lim dasturlarini tashkil etuvchi, amalga oshiruvchi hamda o‘quvchilarning o‘zlashtirish natijalari ustidan nazorat olib borish va ularni saqlab qo‘yish imkoniyatini beruvchi onlayn platforma.
 ====
- Blender,Auto Cad, Solid Cad,StruCad
+O‘quvchilarga dars vaqtida olgan bilimlarini boyitish uchun zarur qo‘shimcha manbalarni ham yuborish imkoniyatiga ega platformadir.
 ====
-Auto Cad, Nano cad,Solid Cad,StruCad
+Elektron ta’lim dasturlarini tashkil etuvchi platforma
 ====
-# Blender,Auto Cad,  StruCad, Nano cad,SolidWorks
+Biznes va konferensiyalar
 
 ++++
-
-118.	Matematik paket dasturiy vositalar berilgan qatorni toping
-====
-#MathCad,Maple,Mathlab
-====
-Blender,Mathcad,Intocad,Maple
-====
-Intocad,Maple,Mathlab
-====
-To’g’ri javob berilmagan
 
-++++
-119.	Pedagogik dasturiy vositalar nechchi turga bo’linadi
-====
-3 turga 
+LMS platformalar necha turga bo‘linadi?
 ====
-#4 turga
- ====
-5 turga 
+#3 turga
 ====
 2 turga
+====
+4 turga
+====
+5 turga
 
 ++++
 
-120.	yangi tushunchalarni shakllantirish darsning qanday maqsadiga kiradi
+LMS platformalar turlarini sanab bering.
 ====
-# ta’limiy maqsad 
+#Bulutli, serverga asoslangan, CMS bilan integratsiyalashgan
 ====
-tarbiyaviy maqsad 
+CMS bilan integratsiyalashgan
 ====
-rivojlantiruvchi maqsad 
+Elektron ta’lim dasturlarini tashkil etuvchi
 ====
-bosh maqsadi
+Matnli, grafik, audio va video
 
 ++++
 
-121.	Dunyoqarash g’oyalari va muammolarini aniqlash darsning qanday maqsadiga kiradi
+Google Cassroom qaysi turdagi LMS platformasiga kiradi?
 ====
-# ta’limiy maqsad 
+#Bulutli
 ====
-tarbiyaviy maqsad 
+Serverga asoslangan
 ====
-rivojlantiruvchi maqsad 
+CMS bilan integratsiyalashgan
 ====
-bosh maqsadi
+Matnli, grafik, audio va video
 
 ++++
 
-122.	Darsning ta’limiy maqsadiga nimalar kiradi
+Moodle qaysi turdagi LMS platformasiga kiradi?
 ====
-nutq madaniyatini; vatanparvarlikni; mehnatga ongli munosabatni, yangi tushunchalarni shakllantirish;
+#Serverga asoslangan
 ====
-# yangi tushunchalarni shakllantirish; bilimlardagi yetishmovchiliklarni bartaraf etish; bilimlarni umumlashtirish va tizimga solish; tushunchalar orasidagi bog’lanishlarni aniqlash  tushunchalarni shakllantirish
+Bulutli
 ====
-dunyoqarash g’oyalari va muammolarini aniqlash; talim oluvchilarda u  yoki  bu harakatni, voqealarni baholash bo’yicha bilimlarni  shakllantirish; xulosa chiqarishga tayyorlash, o’zlashtirishga erishish.  ta’lim olishga ijobiy munosabatni; estetik qarashlarni; e’tiqodni shakllantirish
+CMS bilan integratsiyalashgan
 ====
- dars  jarayonida  talim oluvchilarning  psixologik sifatlarini diqqat, xotira, texnik taffakkur va bilish qobiliyatlarini shakllantirishdir
+Matnli, grafik, audio va video
 
 ++++
 
-123.	Zamonaviy pedagog ega bolishi kerak bo’lgan xususiyatlar qaysilar
+Interaktiv videodarslar qanday xususiyatlarga ega?
 ====
-#Xurmatlilik,chegarani xis etish,yangiliklarga intiluvchanlik,tolerantlik
-
+#Testlar, so‘rovnomalar va interaktiv elementlar bilan boyitilgan
 ====
- Chegarani xis etish,yangiliklarga intiluvchanlik,tolerantlik,jiddiylik
+Faqat o‘qituvchi tomonidan boshqariladi
 ====
-Kreativlilik,jiddiylik,mehribonlik,xurmatlilik
+Faqat tinglash uchun
 ====
-Ijodkorik,tanqidiy fikrlash,tolerantlik,mehribonlik
-
-++++
-
-124.	Bir ma'muriy-hududiy birlik doirasida boshqa tuman va shahardan kelib ishlayotgan o‘qituvchi-pedagoglarning bazaviy tarif stavkalariga nechchi foiz ustama haqqi to’lanadi
-====
-100% 
-====
-#50%
- ====
-80% 
-====
-Bunday ustama turi mavjud emas
-
-++++
-125.	Informatika fanidan 50% lik ustama olish  imkoniyatini  beruvchi xalqaro va milliy sertifikatlar qaysilar
-====
-CompTIA+, Astrum Certified IT educator
-====
-#Microsoft Certified IT educator, Astrum Certified IT educator
-====
-ISACA's Certified Information Systems auditor, Astrum Certified IT educator
-====
- Microsoft Certified IT educator, CompTIA+
+Faqat matnli ma’lumotlar
 
 ++++
 
-126.	Vazir jamg’armasi ustamasini olish uchun qanday shartlar bajarilishi kerak bo’ladi
+Interaktiv videodarslarning o‘quvchilarga ta’siri qanday?
 ====
-#DTM testi,Kasbiy mahorat
+#Barcha javoblar to‘g‘ri
 ====
-Ingliz tilini bilish darajasi, kasbiy mahorat
+Bilimlar yanada mustahkamlanadi
 ====
- Ingliz tilini bilish darajasi, DTM testi
+Darsdan keyin eslab qolish osonlashadi
 ====
- DTM testi ,Xalqaro sertifikat
+O‘quvchilarning qiziqishi ortadi
 
 ++++
 
-127.	Vazir jamg’armasi ustamasini olish uchun birinchi bosqichda sinovning nechchi foizidan yuqori ball olish kerak bo’ladi
+Interaktiv videodarslarni qanday qilib samarali tashkil qilish mumkin?
 ====
-50% 
+#Video, test va interaktiv elementlarni muvofiqlashtirish orqali
 ====
-#80% 
+Faqat ko‘p videolar qo‘shish orqali
 ====
-100% 
+Faqat testlar qo‘shish orqali
 ====
-90%
+O‘quvchilarga mustaqil ishlashni topshirish orqali
 
 ++++
 
-128.	……- o’quv materialini  ko’rgazmali namoyish etishga, uni tizimli yetkazib berishga  xizmat qiladi
+Camtasia Player dasturi yordamida nimani ko‘rish mumkin?
 ====
-Pedagogik dasturiy vositalar
+#AVI formatdagi har qanday videofayllar
 ====
-Og’zali materiallar tarqatma testlar
+Camtasia Studio-da yozilgan har qanday videofayllar
 ====
-Ixtisolashtirilgan dasturiy vositalar
+Camtasia Studio loyihalari
 ====
-#Ta’limning texnik vositalari
+Faqat Camtasia Studio bilan yozilgan AVI videofayllari
 
 ++++
 
-129.	Ta’limning texnik vositalari nechchi turga bo’linadi
+Camtasia MenuMaker dasturi nima uchun ishlatiladi?
 ====
-5 
- ====
-#3 
+# Optik disklarni avtomatik ishga tushirish uchun interaktiv menyularni yaratish
 ====
-4 
+Internetda joylashtirilgan videolar uchun interaktiv menyularni yaratish
 ====
-2
+Optik disklar uchun konvertlarni yaratish uchun
+====
+Loyiha uchun tarkib jadvalini yaratish
 
 ++++
 
-130.	Oldinga tashlayman manosini beruvchi texnik vosita
+Camtasia Theatre dasturi nima maqsadda ishlatiladi?
 ====
-Interaktiv doska 
+#Internetda joylashtirilgan videolar uchun interaktiv menyularni yaratish
 ====
-Elektron doska
+Optik disklarni avtomatik ishga tushirish uchun interaktiv menyularni yaratish
 ====
- #proyektor 
+Optik disklar uchun konvertlarni yaratish uchun
 ====
-printer
+Loyiha uchun tarkib jadvalini yaratish
 
 ++++
 
-131.	Imom Gazzoliy ilm olishning 5 shartini takidlab agar unga amal qilinsa nimaga erishiladi deya fikr bildirgan
+Camtasia Studio loyihalarida qanday grafik formatlarini ishlatilishi mumkin?
 ====
-Butun dunyo boyligiga
+#BMP, GIF
 ====
-#Ikki dunyo saodatiga
+EMF, TIFF
 ====
-Butun dunyo aql-bilimiga
+MIDI, MP3 
 ====
-Tarbiyaga
+VQF, WAV
 
 ++++
 
-132.	Ta’lim olishga ijobiy munosabatni shakllantirish darsning qaysi maqsadiga kiradi
+Camtasia Studio loyihalarida qanday audio fayl formatlarini ishlatilishi mumkin?
 ====
-#tarbiyaviy
- ====
-rivojlantiruvchi 
+#MP3, WAV
 ====
-ta’limiy 
+MIDI, VQF
 ====
-asosiy
-
-++++
-133.	Dars  jarayonida  talim oluvchilarning  psixologik sifatlarini diqqat, xotira, texnik taffakkur va bilish qobiliyatlarini shakllantirish bu darsning - …maqsadi
+BMP, GIF
 ====
-tarbiyaviy 
-====
-#rivojlantiruvchi 
-====
-ta’limiy 
-====
-asosiy
+EMF, TIFF
 
 ++++
 
-134.	Pedagog munosabatiga ko’ra o’qitish texnologiyasi nechchi turli bo’ladi
+Camtasia Studio loyihalarida qanday video fayl formatlarini ishlatilishi mumkin?
 ====
-#2 
+#AVI, MOV
 ====
-3 
+MKV, VOB 
+====
+MIDI, MP3 
+====
+VQF, WAV
+
+++++
+
+Camtasia Studio loyiha fayllari qanday kengaytmaga ega?
+====
+#Camproj
+====
+AVI
+====
+Camrec
+====
+Bu foydalanuvchini tanloviga bog‘liq
+
+++++
+
+ADTester dasturida yangi guruxlar qanday yaratiladi?
+====
+#Asosiy menyudagi Группыdan Добавит группу, Ctrl G, Группыdan + orqali yaratiladi.
+====
+Asosiy menyudagi Ползователиdan Добавит ползователя, Ctrl A orqali yaratiladi.
+====
+Asosiy menyudagi Группыdan Изменит настройки группы orqali yaratiladi.
+====
+Asosiy menyudagi Группыdan Обнавит orqali yaratiladi.
+
+++++
+
+ACDSee Pro dasturningbosh sahifasida nechta tugma joylashgan va ular qaysilar?
+====
+#4 ta tugma Manage, View, Process, Online
+====
+3 ta tugma Manage, View, Process
+====
+3 ta tugma Manage, View, Online
+====
+4 ta tugma File, View, Process, Online
+
+++++
+
+Camtasia Studio dasturi qaysi kompaniya tomonidan ishlab chiqarilgan?
+====
+#Tech Smith
+====
+Intel
+====
+Asus
+====
+AsRock
+
+++++
+
+Interaktiv metodlar nima?
+====
+#bu o‘quv jarayonini faol ishtirokchilar bilan birga o‘tkazishni nazarda tutadigan uslublar bo‘lib, bu uslublarda o‘quvchilar faoliyatni o‘zlari boshqaradi. Bu jarayonda o‘qituvchi yo‘naltiruvchi va ko‘mak beruvchi rolini o‘ynaydi, lekin asosiy bilimlar va tajribalarni o‘quvchilar o‘zlari kashf etishlari kerak. Ushbu uslub an'anaviy yondashuvdan farqli o'laroq, talabaning qiziqishi va faol ishtirokini kuchaytiradi
+====
+ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+====
+dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+====
+Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar
+
+++++
+
+… - bu o‘quv jarayonini faol ishtirokchilar bilan birga o‘tkazishni nazarda tutadigan uslublar bo‘lib, bu uslublarda o‘quvchilar faoliyatni o‘zlari boshqaradi. Bu jarayonda o‘qituvchi yo‘naltiruvchi va ko‘mak beruvchi rolini o‘ynaydi, lekin asosiy bilimlar va tajribalarni o‘quvchilar o‘zlari kashf etishlari kerak. Ushbu uslub an'anaviy yondashuvdan farqli o'laroq, talabaning qiziqishi va faol ishtirokini kuchaytiradi
+====
+#Interaktiv metodlar
+====
+Debat
+====
+Case Study
+====
+Munozara
+
+++++
+
+Diskussiya (munozara) qanday metod?
+====
+#Diskussiya dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi.
+====
+ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+====
+dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+====
+birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
+
+++++
+
+Debat qanday metod?
+====
+#ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+====
+Diskussiya dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi
+====
+dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+====
+birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
+
+++++
+
+AutoPlay Media Studio dasturida ishlash uchun qanday kodlash tilini bilish zarur?
+====
+HTML
+====
+Python
+====
+Scratch
+====
+#Kodlash tilini bilish talab qilinmaydi
+
+++++
+
+Rolli o‘yinlar qanday metod?
+====
+#dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+====
+Diskussiya dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi
+====
+ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+====
+birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
+
+++++
+
+… - dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi.
+====
+# Diskussiya (munozara)
+====
+Debat
+====
+Rolli o‘yinlar
+====
+Aqliy xujum
+
+++++
+
+… - ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+====
+# Debat
+====
+Diskussiya (munozara)
+====
+Rolli o‘yinlar
+====
+Aqliy xujum
+
+++++
+
+… - dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+====
+# Rolli o‘yinlar
+====
+Diskussiya (munozara)
+====
+Debat
+====
+Aqliy hujum
+
+++++
+
+… - birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
+====
+# Aqliy hujum
+====
+Diskussiya (munozara)
+====
+Debat
+====
+Rolli o‘yinlar
+
+++++
+
+Klasterlash (Cluster Method) qanday metod?
+====
+# Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar
+====
+Bu metodda o‘quvchilarga ma'lum bir real hayotiy vaziyat beriladi va ular ushbu vaziyatni tahlil qilib, muammolarni hal qilish yo‘llarini izlaydilar. Bu uslub nazariy bilimlarni amaliy hayot bilan bog‘lash imkonini beradi
+====
+Bu uslubda o‘quvchilar ma'lum bir matn yoki mavzu bo‘yicha savol-javob tarzida tahlil olib boradilar. Ular o‘z fikrlarini mantiqiy va asoslangan holda ifodalashni o‘rganadilar, savollar berish va ularga javob izlash ko‘nikmalarini rivojlantiradilar
+====
+Ushbu yondashuv o‘quvchilarga muammoga asoslangan o‘quv jarayonini taklif etadi. Ular muammoni tahlil qiladi, ma'lumot to‘playdi va echim ishlab chiqadi. Bu usul talabalarning mustaqil fikrlash qobiliyatini oshiradi va real hayotiy muammolarni yechishga undaydi
+
+++++
+
+AutoPlay Media Studio’da yaratilgan loyiha qanday formatda saqlanadi?
+====
+#.autoplay
+====
+.mtf
+====
+rtf
+====
+wcl
+
+++++
+
+Case Study (Vaziyat tahlili) qanday metod?
+====
+# Bu metodda o‘quvchilarga ma'lum bir real hayotiy vaziyat beriladi va ular ushbu vaziyatni tahlil qilib, muammolarni hal qilish yo‘llarini izlaydilar. Bu uslub nazariy bilimlarni amaliy hayot bilan bog‘lash imkonini beradi
+====
+Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar
+====
+Bu uslubda o‘quvchilar ma'lum bir matn yoki mavzu bo‘yicha savol-javob tarzida tahlil olib boradilar. Ular o‘z fikrlarini mantiqiy va asoslangan holda ifodalashni o‘rganadilar, savollar berish va ularga javob izlash ko‘nikmalarini rivojlantiradilar
+====
+Ushbu yondashuv o‘quvchilarga muammoga asoslangan o‘quv jarayonini taklif etadi. Ular muammoni tahlil qiladi, ma'lumot to‘playdi va echim ishlab chiqadi. Bu usul talabalarning mustaqil fikrlash qobiliyatini oshiradi va real hayotiy muammolarni yechishga undaydi
+
+++++
+
+… - bu ma’lumotlar mantiqiy yoki assotsiativ ravishda giperhavolalar orqali bog‘langan axborotni tashkil qilish printsipi.
+====
+# Gipermedia
+====
+Multimedia
+====
+Animatsiya
+====
+Grafika
+
+++++
+
+CamtasiaStudio dasturida Theater qo’shimcha komponenti qanday vazifani amalga oshiradi? 
+====                      
+#bir nechta videoroliklarga ega Flash- prezentastiyalar uchun qulay bo’lgan ekran menyusini chiqarib berishni amalga oshiradi
+====
+Faqat bitta videorolikka ega Flash- prezentastiyalar uchun qulay bo’lgan ekran menyusini chiqarib berishni amalga oshiradi
+====
+Ikkita videoroliklarga ega Flash- prezentastiyalar uchun qulay bo’lgan ekran menyusini chiqarib berishni amalga oshiradi
+====
+bir nechta videoroliklarga uchun ekran menyusini chiqarib berishni amalga oshiradi
+
+++++
+
+My Test dasturida qanday bolimlar mavjud?
+====
+#MyTestEditor, MyTestStudent, MyTestServer
+====
+MyTestEditor, MyTestStudent, MyTemplates
+====
+MyTestEditor, MyTestStudent, MyQuizzes
+====
+MyTestStudent, MyTestServer, My 
+
+++++
+
+My Test dasturida nechi xil turdagi topshiriqlarni tayyorlash mumkin
+====
+#9
+====
+8
+====
+7
+====
+10
+
+++++
+
+My Test dasturida yaratilib fayllar saqlanganda qanday kengaytma bilan saqlanadi
+====
+mtt
+====
+#mtf
+====
+mkt
+====
+msp
+
+++++
+
+CourseLab dasturida tayyorlangan ishni ko’rib olish qaysi bolimdan amalga oshiriladi
+====
+Вид
+====
+Курс
+====
+#Модул
+====
+Главная
+
+++++
+
+CourseLab dasturida elektron darslik tayyorlanayotganda nechta oyna bilan ish olib boriladi
+====
+#3
+====
+5
 ====
 4
- ====
-5
-
-
-++++
-
-135.	Pedagog munosabatiga ko’ra o’qitish texnologiyasi qaysilar
 ====
-shahsga yo’naltirilgan,umumiy
-====
-avtoritar,umumiy
-====
-# avtoritar, shahsga yo’naltirilgan
-====
-asosiy va umumiy
-
+7
 
 ++++
 
-136.	Odatda qanday o’qitish turi avtoritarga mos keladi
+CourseLab dasturida elektron darslik tayyorlanayotganda  Мастер oynasi vazifasi qanday
 ====
-#ananaviy 
+Yaratilayotgan elektron kitobning interfeysi(birinchi betligi) bilan ishaydi
 ====
-Noananaviy
- ====
-interfaol 
+#Yaratilayotgan elektron kitobning kodlari, boshqaruv buyruqlari bilan ishlaydi
 ====
-Masofaviy
+Yaratilayotgan elektron kitobning umumiy ko’rinish qismi bilan ishlaydi
+====
+Bunday bo’lim mavjud emas
 
 ++++
 
-137.	Avtoritar texnologiyada-
+CourseLab dasturida elektron darslik tayyorlanayotganda  Обичный oynasi vazifasi qanday
 ====
- o’quvchi shахsi pеdаgоgik jаrаyon mаrkаzigа qo’yilаdi, uning rivоjlаnishigа vа tаbiiy imkоniyatlаrini ro’yobgа chiqаrishgа qulаy shаrt-shаrоitlаr yarаtilаdi
+Yaratilayotgan elektron kitobning birinchi betligi(kirish qismi) bilan ishaydi
 ====
-
-#Bundа o’quvchining tаshаbbusi vа mustаqilligi yo’qоlаdi, o’qitish mаjburiy tаrzdа аmаlgа оshirilаdi.
+Yaratilayotgan elektron kitobning kodlari, boshqaruv buyruqlari bilan ishlaydi
 ====
- pеdаgоg vа o’quvchilаr munоsаbаtidаgi dеmоkrаtizm, tеnglik, shеriklik;
+#Yaratilayotgan elektron kitobning umumiy ko’rinish qismi bilan ishlaydi
 ====
-to’g’ri javob yo’q
-
-++++
-
-138.	O’quvchi bu hаli to’lа shаkllаnmаgаn shахs, u fаqаt bаjаrishi zаrur, pеdаgоg esа – bu sаrdоr hаkаm, yagоnа tаshаbbuskоr shахs. Ushbu shaklda namoyon bo’luvchi texnologiya qaysi
-====
-#Avtoritar texnologiga tegishli
-====
-Shahsga yo’naltirilgan texnologiga tegishli
-====
-Interfaol texnologiga tegishli
-====
-Faol texnologiga tegishli
+Bunday bo’lim mavjud emas
 
 ++++
 
-139.	O’z-o’zini tekshirish va o’zaro yordamni, nutq madaniyatini, vatanparvarlikni,mehnatga ongli munosabatni,ongli intizom va yaxshi xulqni ifodalovchi  xususiyatlar darsning qaysi maqsadiga  tegishli
+CourseLab  dasturida yaratilib fayllar saqlanganda qanday qisqartma bilan saqlanadi
 ====
-#tarbiyaviy 
+mtf
 ====
-rivojlantiruvchi 
+#wcl
 ====
-ta’limiy
- ====
-bosh maqsad
+wcc
+====
+msp
 
 ++++
 
-140.	Yoshi vа tаyyorgаrlik dаrаjаsi tахminаn bir хil bo’lgаn o’quvchilаr ........  tаshkil etаdi
+FastStone Capture yordamida qanday asosiy topshiriqlarni bajarish mumkin?
 ====
-#sinfni 
+Video yozish, animatsiyalar qo‘shish
 ====
-Oilani
- ====
-maktabni 
+Skrinshot olish
 ====
-kollej-ltexnikumni
+Video yozish, Skrinshot olish,animatsiyalar qo‘shish
+====
+#Video yozish ,skrinshot olish
 
 ++++
 
-141.	Ushbu ta’rif qaysi tizimga tegishli: Mаshg’ulоtlаrning аsоsiy birligi dаrs bo’lib, u bittа fаnning bittа mаvzusigа bаg’ishlаnаdi vа o’qituvchi tоmоnidаn bоshqаrilаdi.
+ADTester dasturida nechchi xil turdagi testlar yaratish mumkin?
 ====
-#sinf-dars
- ====
-mustaqil dars 
+7
 ====
-aralash dars  
+#5
 ====
-masofaviy dars
+9
+=====
+6
 
 ++++
 
-142.	O’qitishning shахsgа yo’nаltirilgаn tехnоlоgiyalаrigа аsоsiy tаmоyillаr qaysi javobda berilgan
-====
-hayotga muhabbat,odob,bilim
-====
-#insonparvarlik,hamkorlik,erkin tarbiyalash
-====
-jamoa bo’lib ishlash,ilmga intilish,tanqidiy fikrlash
-====
-tanqidiy fikrlash,kamsitish,jazolash
+Articulate dasturidan qanday maqsadlarda foydalanish mumkin
+=====
+ Matn tahrirlash, Videolar yaratish
+=====
+ Videolar yaratish, Grafik dizayn qilish
+=====
+ #Interaktiv o’quv modullarini yaratish
+=====
+ Videolar yaratish, testlar tuzish
 
 ++++
 
-143.	Shahsga yondashuvda pedagogda ta’lim oluvchiga nisbatan qanday munosabat bo’lish kerak
+Articulate Quizmaker dasturida qanday turdagi testlarni yaratish mumkin?
 ====
-jazolash,tarbiya
+Multiple choice (bir nechta to’g’ri javob) testlar
 ====
- #ishonch,qo’llab -quvvatlash 
+Interaktiv video testlar
 ====
-majburlash 
+Audio testlar
 ====
-aldash,maqtash
+#Avtonom tarzda web saytga joylashuvchi Flash-testlar
 
 ++++
 
-144.	O‘quvchilarda ijodiy izlanish, kichik tadqiqotlarni amalga oshirish, muayyan -farazlarni ilgari surish, natijalarni asoslash, ma’lum xulosalarga kelish kabi           ko‘nikma va malakalarni shakllantirishga yo‘naltirilgan ta’lim
+AutoPlay Media Studio dasturida qaysi qisqa tugma orqali yangi sahia(Page) qoshish mumkin
 ====
-aralash ta’lim 
+#insert
 ====
-masofaviy ta’lim
+F5
 ====
- #muammoli ta’lim 
+Shift+F5
 ====
-barchasi to’g’ri
+Tab
 
 ++++
 
-145.	Interfaol ta’limning asosiy shakllari:
+AutoPlay Media Studio dasturida buttonga pdf biriktirish qanday amalga oshiriladi
 ====
-Interfaol metodlar,uslublar,o’yinlar
+#Свойства+ Быстрое действие + действие для запуска+Open document
 ====
-#Interfaol metodlar,strategiyalar,grafik organayzerlar
+Свойства+Атрибуты + действие для запуска+Open document
 ====
-O’yinlar, grafik organayzerlar,testlar
+Свойства+Параметри+ действие для запуска+Open document
 ====
-barchasi noto’g’ri
+Свойства+Скрипт + действие для запуска+Open document
 
 ++++
 
-146.	Baholash bosqichlar-
+iSpring Kineticks bo`limi qanaqa vazifani bajaradi?
 ====
-nimani baholaymiz ,qanday baholaymiz,qachon baholaymiz
+#Elektron kitob yaratadi
 ====
-#nima uchun baholaymiz, nimani baholaymiz, qachon baholaymiz
+Test savollar tuzadi
 ====
-qanday baholaymiz, nima uchun baholaymiz, qachon baholaymiz
+Taqdimot yaratadi
 ====
-qachon baholaymiz,qanday baholaymiz,qachon baholaymiz
+animatsiya yaratadi
 
 ++++
 
-147.	Baholash mezonlariga ko’ra.....
+Bulut servisida har bir foydalanuvchi uchun bepul qancha joy ajratiladi?
 ====
-#sonlar yordamida, so’zlar yordamida ifodalanadi
+#15 Gb
 ====
-meyorga asoslangan,mezonga asoslangan holda ifodalanadi
+150 Mb
 ====
-besh ballik tizimda,reyting tizimida ifodalanadi
+15 Mb
 ====
-boshlangich joriy yakuniy ko’rinishida ifodalanadi
+15 Tb
 
 ++++
 
-148.	Baholash shakllariga kora.......
+EТRga talablar:
 ====
-sonlar yordamida, so’zlar yordamida ifodalanadi
+# didaktik, maxsus, metodik
 ====
-#meyorga asoslangan,mezonga asoslangan holda ifodalanadi
+tizimli, tarmoq, estetik
 ====
-besh ballik tizimda,reyting tizimida ifodalanadi
+individuallik, electron nashr
 ====
-boshlangich joriy yakuniy ko’rinishida ifodalanadi
+information, tizimli
 
 ++++
 
-149.	Baholash tizimiga ko’ra ........
+Fanni oʻrganish jarayonida bilimlarni sinab koʻrishdan maksimal darajada samarali foydalanish uchun ikki xil sinovdan foydalanish tavsiya etiladi:
 ====
-sonlar yordamida, so’zlar yordamida ifodalanadi
+#Oʻz-oʻzini nazorat qilish testi (har bir boʻlim yoki mavzu uchun), yakuniy test (umuman olganda butun fan uchun)
 ====
-meyorga asoslangan,mezonga asoslangan holda ifodalanadi
+Oraliq nazorat, yakuniy nazorat
 ====
-#besh ballik tizimda,reyting tizimida ifodalanadi
+Joriy nazorat, oraliq nazorat
 ====
-boshlangich joriy yakuniy ko’rinishida ifodalanadi
+Joriy nazorat, yakuniy nazorat
 
 ++++
 
-150.	Baholash tamoyillari bu....
+Test topshiriqlari necha turga bo‘linadi va ular qaysilar ?
 ====
-#O’quv maqsadiga asoslanganlik
+#2 turga ochiq va yopiq
 ====
-meyorga asoslanganlik,mezonga asoslanganlik
+3 turga ochiq, yopiq va aralash
 ====
-Ta’lim maqsadiga yo’nalganlik
+2 turga og‘zaki va yozma
 ====
-Muntazam o’tkazib borish
+2 turga yozma va aralash
 
 ++++
 
-151.	Baholashning pedagogik talablari qanday
+Ochiq turdagi testlarga qaysilar kiradi?
 ====
- meyorga asoslanganlik,mezonga asoslanganlik
+#Boʻsh joylarni toʻldirish, tabiiy tilda berilgan javob
 ====
-O’quv maqsadiga asoslanganlik
+Yagona javobni tanlash, moslikni aniqlash
 ====
- boshlangich joriy yakuniy
+Bir nechta javobni tanlash, toʻgʻri ketma-ketlikda joylashtirish
 ====
-# Muntazam o’tkazib borish
+Moslikni aniqlash, toʻgʻri ketma-ketlikda joylashtirish
 
 ++++
 
-152.	Baholash turlariga ko’ra...
+Yopiq turdagi testlarga qaysilar kiradi?
 ====
-sonlar yordamida, so’zlar yordamida ifodalanadi
+#Yagona javobni tanlash, bir nechta javobni tanlash, moslikni aniqlash, toʻgʻri ketma-ketlikda joylashtirish
 ====
-meyorga asoslangan,mezonga asoslangan holda ifodalanadi
+Boʻsh joylarni toʻldirish, tabiiy tilda berilgan javob
 ====
-besh ballik tizimda,reyting tizimida ifodalanadi
+Moslikni aniqlash, toʻgʻri ketma-ketlikda joylashtirish, tabiiy tilda berilgan javob
 ====
-#boshlangich joriy yakuniy ko’rinishida ifodalanadi
+Yagona javobni tanlash, moslikni aniqlash
 
 ++++
 
-153.	Talim oluvchi  mustaqil mushohada yuritadi, olgan bilimini amalda qoʻllay oladi, fanning (mavzuning) mohiyatni tushunadi, biladi, ifodalay oladi, aytib beradi hamda fan (mavzu) boʻyicha tasavvurga ega deb topilganda  nechchi baho qo’yiladi
+EATRni yaratishning asosiy bosqichlari nechta ?
 ====
-5baho 
+#8 ta
 ====
-#4 baho 
+ 9 ta
 ====
-3 baho 
+10 ta
 ====
-2 baho
+11 ta
 
 ++++
 
-154.	O‘quv jarayonlarini axborotlashtirish maqsadlariga ko‘ra elektron darsliklar qanday tamoyillarga javob berishi kerak
+Aniqlanmagan axborot –
 ====
-#Kvantlash tamoyili, to’laqonlilik tamoyili,ko’rgazmalilik tamoyili, moslashuvchanlik tamoyili, kompyuter ko’magi tamoyili 
+#bu "potensial"dagi, kodlashtirilgan koʻrinishdagi, inson ongidan yashirin holatdagi axborotlar.  
 ====
-Maqsadga yo‘naltirilganlik tamoyili, integratsiya tamoyili, to‘laqonlilik tamoyili, yaxlitlik tamoyili, ochiqlik tamoyili
+bu inson ongi va sezgi organlari tomonidan qabul qilinadigan axborotlar. 
 ====
-Moslashuvchanlik tamoyili,  integratsiya tamoyili, maqsadga yo‘naltirilganlik tamoyili, ochiqlik tamoyili, yaxlitlik tamoyili
+bular faqat tirik tizimlarga va rivojlanish tizimlariga xos axborotlardir.
 ====
-Yaxlitlik tamoyili,aniqlilik tamoyili, maqsadga yo‘naltirilganlik tamoyili, ochiqlik tamoyili,umumiylik tamoyili
+Barcha javoblar to‘g‘ri
 
 ++++
 
-155.	Elektron darsliklarning mashq qildiruvchi qismi haqida qaysi tarif to’gri berilgan
+Aniqlangan axborotlar – 
 ====
-gipertekstga asoslangan va statik, dinamik rasmlardan iborat
+# bu inson ongi va sezgi organlari tomonidan qabul qilinadigan axborotlar. 
 ====
-testlar orqali nazorat qiluvchi tizim asosida shakllanadi
+bu "potensial"dagi, kodlashtirilgan koʻrinishdagi, inson ongidan yashirin holatdagi axborotlar.  
 ====
-#xatolarni ko‘rsatib beruvchi va to‘g‘ri xulosaga olib keluvchi
+bular faqat tirik tizimlarga va rivojlanish tizimlariga xos axborotlardir.
 ====
-Fikrlashni rivojlantiruvchi,yangi g’oyalar shakllantiruvchi 
+Barcha javoblar to‘g‘ri
 
 ++++
 
-156.	Elektron darsliklarning o’rgatuvchi qismi haqida qaysi tarif to’gri berilgan
+Ijodiy  axborotlar – 
 ====
-#gipertekstga asoslangan va statik, dinamik rasmlardan iborat
+#bular faqat tirik tizimlarga va rivojlanish tizimlariga xos axborotlardir.
 ====
-testlar orqali nazorat qiluvchi tizim asosida shakllanadi
+bu "potensial"dagi, kodlashtirilgan koʻrinishdagi, inson ongidan yashirin holatdagi axborotlar.  
 ====
-xatolarni ko‘rsatib beruvchi va to‘g‘ri xulosaga olib keluvchi
+bu inson ongi va sezgi organlari tomonidan qabul qilinadigan axborotlar. 
 ====
-Fikrlashni rivojlantiruvchi,yangi g’oyalar shakllantiruvchi 
+Barcha javoblar to‘g‘ri
 
 ++++
 
-157.	Qanday shakldagi elektron darsliklar ma’lum bir bo‘lim o‘quv materiallarini o‘zlashtirmasdan keyingi bo‘limga o‘tishga imkoniyat bermaydi 
+Elektron darsliklar yaratish texnologiyasida birinchi qadam nima?
 ====
-Uzluksiz  elektron darsliklar
+#yaratish maqsadlari va vazifalarini aniqlash
 ====
-Ixtiyoriy  elektron darsliklar
+Elektron darslik tuzilishini ishlab chiqish
 ====
-Davriy elektron darsliklar
+bo‘limlar (modullar) va mavzular bo‘yicha darslik tarkibini ishlab chiqish
 ====
-#Tartibli  elektron darsliklar
+Elektron darslik uchun individual tarkibiy skriptlarni tayyorlash
 
 ++++
 
-158.	Odatda elektron o‘quv bazalar (portallar, veb-saytlar va boshqalar)ga va elektron kutubxonalarga joylashtiriluvchi elektron darsliklar qanday ataladi
+Elektron darslikni yaratish texnologiyasining so‘nggi bosqichi nima?
 ====
-#Uzluksiz ravishda yangilanadigan
+#Foydalanish bo‘yicha ko‘rsatmalar tayyorlash
 ====
-Davriy yangilanadigan
+Elektron darslik tuzilishini ishlab chiqish
 ====
-Jamoa bo’lib foydalaniladigan
+Sinov natijalari asosida elektron darslik tarkibini takomillashtirish
 ====
-Uzlukli ravishda yangilanadigan
-
-++++
-159.	Respublikamizda qaysi qonunga asosan masofaviy ta’lim xizmatlarini rivojlantirish, webinar, onlayn, “blended learning”, “flipped classroom” texnologiyalarini amaliyotga keng joriy etish, zamonaviy axborot-kommunikatsiya texnologiyalari asosida masofaviy ta’lim dasturlarini tashkil etish kabi ishlar boʻyicha kompleks chora-tadbirlar amalga oshirilmoqda
-====
-#Raqamli O’zbekiston-2030 strategiyasi
-====
-Talimni rivojlantirish konseptsiyasi
-====
-2022-2026 yillarda maktab ta’limini rivojlantirish milliy dasturi
-====
-23.09.2020 Ta’lim to’g’risidagi qonun
+Elektron darslikning individual tarkibiy sahnalarini tayyorlash
 
 ++++
 
-160.	Streaming Servislariga nimalar kiradi
+iSpring dasturini ustanovka qilganda nechta bo‘lim paydo bo‘ladi va ular qaysilar?
 ====
-Udemy, coursera, Skilshare
+#3 ta, iSpring pro, iSpring Kinetics,  iSpring Quiz Maker
 ====
-#You tube live, facebook, Twitch
+2 ta, Quick publish,Quiz
 ====
-Zoom,Google meet
+1 ta, Quick publish
 ====
-Skype,Microsoft teams
+2 ta, Quick publish, iSpring pro
 
 ++++
 
-161.	Webinar so’zi qaysi tildan olingan
+Quiz Maker bo‘limi nima uchun ishlatiladi?
 ====
-#Ingliz tili
+#Test savollarini tuzish uchun
 ====
-Nemis tili
+Dastur yaratish uchun
 ====
-Lotin tili
+Taqdimotni yaratish
 ====
-Rus tili
+Lug‘at tuzish
 
 ++++
 
-162.	Webinar so’zining manosi qanday
+Ta’limdagi zamonaviy texnik vositalarga qaysilar kiradi?
 ====
-Masofaviy seminar
+#Kompyuter, proektor, interfaol doska, smart doska
 ====
-#webga asoslangan seminar
+Kompyuter, doska, proektor
 ====
-Jonli  seminar
+Proektor, kompyuter, o‘quv materiallari
 ====
-Barchsi to’g’ri
+Kodoskop, tarqatma materiallar, slaydlar
 
 ++++
 
-163.	Bir soatlik bepul foydalanish hamda 100 tagacha ishtirokchi qabul qilish imkoniyati qaysi webinar platformasida mavjud
+Internet-provayder qanday xizmatlarni taqdim etadi?
 ====
-#Google Meet
+#Internetga kirishni ta’minlaydi
 ====
-Zoom
+transport xizmatlarini taqdim etadi
 ====
-Live Webinar
+onlayn hisob-kitoblarni ta’minlaydi
 ====
-Big blue button
+kontentni etkazib berish
 
 ++++
 
-164.	40 daqiqalik bepul foydalanish hamda 100 tagacha ishtirokchi qabul qilish imkoniyati qaysi webinar platformasida mavjud
+Elektron kitobni qaysi formatlarda berish mumkin?
 ====
-Google Meet
+#pdf, epub
 ====
-#Zoom
+doc, docx
 ====
-Live Webinar
+xls, xlsx
 ====
-Big blue button
+ppt, pptx
 
 ++++
 
-165.	Qaysi webinar turida video va audiolarni yozib olish bepul tarzda amalga oshiriladi
+Gipermatnli hujjat nima deyiladi?
 ====
-Google Meet
+#Boshqa hujjatlarga havolalarni o‘z ichiga olgan HTML-hujjat
 ====
-#Zoom
+Internetda serverga joylashtirilgan har qanday hujjat
 ====
-Live Webinar
+Katta hajmli hujjat
 ====
-Big blue button
+Jadval va raqamlarni o‘z ichiga olgan hujjat
 
 ++++
 
-166.	Foydalanish mutlaqo bepul lekin serverga o’rnatilishni talab etuvchi webinar platformasi qaysi
+Power Pointda yaratilgan taqdimotni qanday qilib .exe formatiga o‘tkaziladi?
 ====
-AdobeConnect
+#iSpring Pro, Опубликовать, Презентация, Создать exe
 ====
-ClickMeeting
+iSpring Pro, Опубликовать, Презентация, Создать HTML
 ====
-Live Webinar
+iSpring Pro, Опубликовать, Презентация, Generate html
 ====
-#Big blue button
+iSpring Pro, Опубликовать, Презентация
 
 ++++
 
-167.	Talim oluvchining  fan  mavzulari  bo‘yicha  bilim  va  amaliy ko‘nikma darajasini aniqlash va baholash usuli bo’lib fanning xususiyatidan kelib chiqqan holda, seminar, laboratoriya va amaliy mashg‘ulotlarida og‘zaki so‘rov, test shaklida o’tkazilishi mumkin bo’lgan nazorat turi qanday ataladi
+Gipermatn bu?
 ====
-Oraliq nazorat
+#materialga kiritilgan assotsiatsiyalar bo‘yicha interaktiv rejimdagi so‘zlar, fayllar va paragraflarni jadal birlashtirish uchun foydalanilgan uslub
 ====
-#Joriy nazorat
+materialga kiritilgan assotsiatsiyalar bo‘yicha interaktiv rejimdagi so‘zlar, fayllar va paragraflarni belgilash uchun foydalanilgan uslub
 ====
-Mustaqil ta’lim
+materialga kiritilgan assotsiatsiyalar bo‘yicha interaktiv rejimdagi so‘zlar, fayllar va paragraflarni sozlash uchun foydalanilgan uslub
 ====
-Yakuniy nazorat
-
-++++
-168.	Wordwall  sayti qanday sayt
-====
-Turli taqdimotlar yaratish uchun mo’ljallangan
-====
-Videoroliklar yaratish uchun mo’ljallangan
-====
-#Testlar didaktik o’yinlar yaratish uchun mo’ljallangan
-====
-Web sahifalar yarish uchun mo’ljallangan
+materialga kiritilgan assotsiatsiyalar bo‘yicha interaktiv rejimdagi so‘zlar, fayllar va paragraflarni siqish uchun foydalanilgan uslub
 
 ++++
 
-169.	Learning.apps  sayti qanday maqsadlarda qo’llaniladi
+CourseLab o‘quv modulini qurish uchun qanday asosiy tiplardan foydalanadi?
 ====
-Turli taqdimotlar yaratish uchun mo’ljallangan
+#ichki va murakkab
 ====
-Videoroliklar yaratish uchun mo’ljallangan
+sodda va murakkab
 ====
-#Testlar didaktik o’yinlar yaratish uchun mo’ljallangan
+ichki va tashqi
 ====
-Web sahifalar yarish uchun mo’ljallangan
+ichki, tashqi va murakkab
 
 ++++
 
-170.	Interacty  sayti qanday maqsadlarda qo’llaniladi
+Web-sahifalar bo‘ylab oson almashinish imkonini beruvchi o‘zaro bog‘langan so‘z va so‘z birikmalarining kuchli tizimi bu ?
 ====
-Turli taqdimotlar yaratish uchun mo’ljallangan
+#gipermatn
 ====
-Videoroliklar yaratish uchun mo’ljallangan
+gipermedia
 ====
-#Testlar  didaktik o’yinlar yaratish uchun mo’ljallangan
+tasvir
 ====
-Web sahifalar yaratsh uchun mo’ljallangan
+sarlovha
 
 ++++
 
-171.	Scratch dasturida qanday imkoniyat mavjud emas
+Moodle tizimida dastur asosida batafsil o‘zlashtirish qanday amalga oshiriladi?
 ====
-Ovozlar qo’shish
+#Mustaqil o‘rgangan holda o‘zlashtiradilar
 ====
-Qahramon fon tanlash
+Amaliyotda o‘rganadi
 ====
-#Rasmlarni import qilish
+Maruza jarayonida
 ====
-Blok yaratish
+Ustoz Shogird tarzida o‘qitilganda
 
 ++++
 
+Modulda baho qanday chiqariladi?
+====
+#Baho faqat modulni to‘liq o‘rganilganidan so‘ng yakuniy qilib chiqariladi
+====
+ON va JN dan keyin chiqariladi
+====
+Yakuniy qilib chiqariladi
+====
+ON, JN va yakuniy nazorat olinganidan keyin chiqariladi
 
-172.	Venn diagrammasi  Interfaol ta’limning qaysi  asosiy shakliga kiradi
-====
-#grafik organayzer 
-====
-strategiya 
-====
-interfaol metod 
-====
-o’yin
-++++
-173.	An’anaviy ta’limdagi kabi bir xil shablonlar asosida emas, balki yangiliklar asosida ta’lim jarayonining ta’sirchanligini oshirishga qaratilgan ish shaklidan foydalanish nima deb ataladi
-====
-#Innovatsiya
-====
-Interfaollik
-====
-Noananaviylik
-====
-O’yinli texnologiyalar
-++++
-174.	Qaysi davlat ta’lim tizimida  ta’lim oluvchilarga darga borishni taqiqlash eng og’ir jazo.
-====
-Germaniya
-====
-Fransiya
-====
-Yaponiya
-====
-#Amerika
-++++
-175.	Insonning kognitiv faoliyati qaysilar
-====
-#aql, mantiq, o‘rganish va qaror qabul qilish
-====
-Fikrlash,verbal noverbal signallar
-====
-Ijodiy qobilyatlar,jahl,tabassum boshqaruvi
-====
-To’g’ri javob yo’q
-++++
-176.	MOOC tarkibidagi “ochiq” atamasi qanday   ma’noni anglatadi
-====
-#Bepul yoki shartli bepul
-====
-Geografik o’rnining ahamiyatsiz
-====
-Onlayn
-====
-Kurs
-++++
-177.	Bugungi kunda MOOCning keng tarqalgan ikkita turi mavjud bo’lib ular qaysilar
-====
-task-based MOOCs, xMOOCs
-====
-content-based MOOCs, task-based MOOCs,
-====
-task-based MOOCs, cMOOCs
-====
-#cMOOCs, xMOOCs
 ++++
 
-178.	MOOClar material va topshiriqlarni taqdim etishiga ko‘ra qanday  turlarga bo‘linadi
+Hozirda yaratilayotgan ko‘pgina elektron darsliklar ma’lumotlari dastlab qanday ko‘rinishga o‘tkaziladi?
 ====
-content-based MOOCs, task-based MOOCs, network-based MOOCs
+#HTML sahifalari
 ====
-#task-based MOOCs, content-based MOOCs, network-based MOOCs
+Bloknotda yozib olinadi
 ====
-network-based MOOCs task-based MOOCs
+Vizuallashgan C++ tilida
 ====
-cMOOCs, xMOOCs
+Kichkina jadvallar ko‘rinishida
+
 ++++
 
-179.	Topshiriqqa asoslangan MOOClar qanday ataladi
+iSpring dasturini o‘rnatilganda qaysi offis dastur ichiga tushadi?
 ====
-#task-based
+#Power Point
 ====
-content-based
+Word matn muharriri
 ====
-cMOOCs
+Acces
 ====
-xMOOCs
+Exsel
+
 ++++
 
-180.	MOOC platformalarining yuzi hisoblanadi. Platforma 2012-yilda Stenford universitetining kompyuter fanlari professor-o‘qituvchilari tomonidan tashkil etilgan Bu qaysi platforma
+iSpring Kinetics menyularini ko‘rsating
 ====
-Edx
+#Book, Help
 ====
-Khan Academy
+Quick publish, Quiz, Help
 ====
-Lektorium
+Book, Help, Quick publish, Quiz, Help
+====
+Quiz, Help
+
+++++
+
+Elektron o‘quv kursini yaratishga qo‘yiladigan talablarni sanab bering.
+====
+#pedagogik, texnik, dasturiy, dizayn, ergonomik, psixologik-fiziologik
+====
+pedagogik, didaktik, texnik, dasturiy
+====
+dizayn, ergonomik, psixologik-fiziologik
+====
+pedagogik, dizayn, ergonomik, psixologik-fiziologik
+
+++++
+
+Animatsiya nima?
+====
+#(animation)- lotincha "anima" so‘zidan olingan bo‘lib, - ruh, -jon ma’nosini bildiradi (ruhlantirish, jonlantirish)
+====
+(animation)- inglizcha "anima" so‘zidan olingan bo‘lib, - ruh, -tana ma’nosini bildiradi
+====
+(animation)- nemischa "animate" so‘zidan olingan bo‘lib, - harakat ma’nosini bildiradi
+====
+(animation)- fransuzcha "animata" so‘zidan olingan bo‘lib, - ruhlar, harakatlar ma’nosini bildiradi
+
+++++
+
+Virtual tushunchasiga berilgan to‘g‘ri ta’rifni tanlang ?
+====
+#lotincha Virtualis muayyan sharoitda ro‘y beradigan hodisa va jarayon
+====
+inglizcha Virtualis muayyan sharoitda ro‘y beradigan hodisa va jarayon
+====
+fransuzcha Virtualis muayyan sharoitda ro‘y beradigan hodisa va jarayon
+====
+ispan tilida Virtualis muayyan sharoitda ro‘y beradigan hodisa va jarayon
+
+++++
+
+HotPotatoes dasturining JCloze dastur bloki yordamida yaratilgan fayllar kengaytmasini aniqlang.
+====
+#*.jcl
+====
+*.jqz
+====
+*.jcw
+====
+*.jmx
+
+++++
+
+HotPotatoes dasturining JCross dastur bloki yordamida yaratilgan fayllar kengaytmasini aniqlang.
+====
+#*.jcw
+====
+*.jcl
+====
+*.jqz
+====
+*.jmx
+
+++++
+
+HotPotatoes dasturining JMatch dastur bloki yordamida yaratilgan fayllar kengaytmasini aniqlang.
+====
+#*.jmt
+====
+*.jcl
+====
+*.jcw
+====
+*.jqz
+
+++++
+
+HotPotatoes dasturining The Masher instrumenti yordamida yaratilgan fayllar kengaytmasini aniqlang.
+====
+#*.jms
+====
+*.jcl
+====
+*.jcw
+====
+*.jqz
+
+++++
+
+Axborot texnologiyalari bu –
+====
+#Ma’lamotlarni qayta ishlashga mo‘ljallangan usullar, ishlab chiqarish jarayonlari va dasturiy texnik vositalarning yig‘indisi
+====
+Kompyuter bilan muloqot texnologiyalari
+====
+EHMda ma’lumotlarni qayta ishlash texnologiyalari
+====
+Ma’lumot uzatish va kiritish texnologiyalari
+
+++++
+
+Elektron o‘quv resurslarini sifatini an’anaviy baholashda ....... muhim.
+====
+#o‘quv dasturiga mosligi
+====
+yagona metodikaga mosligi
+====
+foydalanuvchi kontent bilan qulay munosabatda bo‘lishi
+====
+taqdim etilayotgan material ilmiy asoslanganligi
+
+++++
+
+AutoPlay Media Studio dasturi qanday dasturlar turkumiga kiradi?
+====
+#Web sahifa va elektron ta’lim resurslari tayyorlashga mo‘ljallangan dastur
+====
+Slayd shou yaratish mumkin bo‘lgan dastur
+====
+Matn va jadvallar bilan ishlovchi dastur
+====
+Loyihalash dasturi
+
+++++
+
+Multimedia bilan ishlaydigan apparat vositalari.....
+====
+#Ma’lumotni yozib olish qurilmalari, ma’lumotni chiqarish qurilmasi, manipulyatorlar, “Virtual borliq” qurilmalari, axborot tashuvchi qurilmalar
+====
+Manipulyatorlar, axborot tashuvchilar, tasvirni qayta ishlar dasturiy vositalari
+====
+Multimediani o‘rganish uchun kompyuter stendi
+====
+Printer, skayner, modem, drayver, videokonferensiya vositalari
+
+++++
+
+CourseLab da master-slayd qanday vazifani bajaradi?
+====
+#Yangi modul uchun shablon yaratadi
+====
+Yangi slayd uchun shablon yaratadi
+====
+Yangi bo‘lim uchun shablon yaratadi
+====
+Yangi kurs uchun shablon yaratadi
+
+++++
+
+HotPotatoes dasturida moslikni o‘rnatish fayllari qanday formatda saqlanadi?
+====
+#.jmt
+====
+.jmx
+====
+.jqz
+====
+.jcw
+
+++++
+
+AutoPlay Media Studio dastur oynasi qanday tuzilmaga ega?
+====
+#Dastur oynasining sarlovha satri, dastur oynasining menyu satri, instrumentlar paneli satri, loyiha elementlari muloqot oynasi, svoystva muloqot oynasi, holat satri
+====
+Dastur oynasining menyu satri, instrumentlar paneli satri 
+====
+Svoystva muloqot oynasi
+====
+Dastur oynasining menyu satri, instrumentlar paneli satri, loyiha elementlari muloqot oynasi
+
+++++
+
+Button ob’ektining funksiyasi to‘g‘ri keltirilgan qatorni toping
+====
+#Bir nechta rangdagi turli variantlar mavjud. Asosan boshqaruv funksiyasini bajaradigan buyruqlar bu tugmaga biriktiriladi.
+====
+Yozuv gorizontal va vertikal ko‘rinishda bo‘lishi mumkin. Bir nechta satrdan iborat matnni o‘z ichiga oladigan yozuv maydonchasi. Ko‘rinish sog‘asiga sig‘may qolgan pastdagi yozuvlar uning o‘ng tomonidagi lift yugurdagi orqali o‘qilishi mumkin, .txt  va .quiz- kengaytmali matn fayllarini yuklab olib o‘qitish ham mumkin
+====
+Yozuv maydonchasi. Ishchi sohadagi yozuvlar shu ob’ekt bilan beriladi
+====
+Turli formatdagi ikonkalar va ramlarni ishchi sohada joylashtirish uchun ishlatiladi.
+
+++++
+
+Ob’ekt qaysi tipdagi fayllar bo‘lishi mumkin?
+====
+#hech qanday chegara qo‘yilmaydi
+====
+txt, gif, jpg, doc, fla, swf, pdf, pps, bas, png, wmf
+====
+txt, gif, jpg, doc, fla, swf, avi, xls, ppt, pdf, pps, bas, png, pas
+====
+txt, gif, jpg, doc, fla, swf, avi, xls, ppt, pdf, pps, bas
+
+++++
+
+iSpring dasturi tarkibidagi qaysi yordamchi dastur test tuzish imkonini beradi
+====
+#iSpring QuizMaker
+====
+SCORM
+====
+iSpring Visuals
+====
+WAP
+
+++++
+
+CourseLab da necha turdagi interfaol savollar tuzish mumkin?
+====
+#9
+====
+8
+====
+10
+====
+6
+
+++++
+
+PowerPointda iSpring menyular satrini ko‘rsating
+====
+#Публикация, Презентация, Сопровождение, Вставка, Информация, Активизация
+====
+Публикация, Презентация, Сопровождение, Вставка
+====
+Сопровождение, Вставка, Информация, Активизация
+====
+Сопровождение, Вставка, Информация
+
+++++
+
+Hozirda yaratilayotgan ko`pgina elektron darsliklar ma’lumotlari dastlab qanday ko`rinishga o`tkaziladi?
+====
+#HTML sahifalari
+====
+Bloknotda yozib olinadi
+====
+Vizuallashgan C++ tilida
+====
+Kichkina jadvallar ko`rinishida
+
+++++
+
+Interfaol doska - bu ...
+====
+#kompyuterdagi tasvirlarni proyektor orqali namoyish etadigan sensorli ekrandir.
+====
+kompyuterdagi tasvirlarni namoyish etadigan sensorli ekrandir.
+====
+kompyuterdagi tasvirlarni proyektor orqali namoyish etadigan monitordir.
+====
+kompyuterdagi tasvirlarni qayta ishlovchi monitordir
+
+++++
+
+WinRAR bu….
+====
+#Windows uchun RAR arxivatori arxivlarni arxivlash va boshqarish uchun kuchli vositadir.
+====
+matnli fayllarni yaratish uchun
+====
+matn va elektron jadval dasturi
+====
+o'qituvchilarga dasturlash tillarini bilmasdan mustaqil ravishda o'quvchilarni nazorat qilish va boshqarish uchun interaktiv topshiriqlar va testlarni yaratishga imkon beruvchi qobiq dasturi.
+
+++++
+
+Dinamik sayt nima?
+====
+#bu doimiy ravishda o'zgarib turadigan sayt
+====
+bir marta yaratiladi va endi uni o'zgartirish mumkin emas
+====
+faqat index.html dan iborat saytlar
+====
+faqat gipermatndan iborat sayt
+
+++++
+
+Millionlab kishilarni Internet foydalanuvchilariga aylantiruvchi, masofa to‘sig‘ini bartaraf qiluvchi servisni ko‘rsating:
+====
+#HTTP-server
+====
+FTP-server
+====
+Telnet
+====
+e-mail
+
+++++
+
+Ma’lumotlarni(fayllarni) kompyuterdan tarmoqdagi yoki internetdagi boshqa kompyuterga yoki serverga yuklab qo‘yish nima deyiladi?
+====
+#upload
+====
+searching
+====
+Web hosting
+====
+download
+
+++++
+
+Ma’lumotlarni  tarmoqdagi yoki internetdagi boshqa kompyuterdan yoki serverlardan o‘z kompyuteriga yuklab olish nima deyiladi ?
+====
+#download
+====
+upload
+====
+searching
+====
+Web hosting
+
+++++
+
+Dars mazmunini yoritilishida matn .. ... izohlanadi.
+====
+#mavzuni gapirish, bayon qilish, fikr yuritish bilan
+====
+savollar, topshiriqlar, mashqlar bilan
+====
+rasmlar va yo`naltiruvchilar bilan
+====
+mos kelishi bilan
+
+++++
+
+Ta’limni axborotlashtirish……
+====
+#yangi axborot texnologiyalarini ta’lim tizimiga olib kirish
+====
+kompyuterlashtirish
+====
+Internetdan foydalanish
+====
+masofaviy ta’lim tizimi
+
+++++
+
+MOOC nima ?
+====
+#ommaviy ochiq onlayn kurslar
+====
+onlayn kurslar
+====
+o‘quv onlayn kurslar
+====
+pulli onlayn kurslar
+
+++++
+
+MOOCni boshqa onlayn kurslardan, shuningdek an’anaviy ta’lim olish usullaridan farq qiladigan narsa nima?
+====
+# MOOC nafaqat masofaviy ta’lim kurslari, balki u turli xil faoliyat turlarini o‘z ichiga olgan alohida o‘qitish metodikasidir.
+====
+MOOC barcha uchun ochiqligidir.
+====
+geografik joylashuvi bilan cheklanmagan ko‘plab talabalarni qamrab oladi.
+====
+Uy vazifasi ham har qanday qulay vaqtda va har qanday tezlikda amalga oshiriladi
+
+++++
+
+MOOCni taqdim etuvchi tizimni ko‘rsating.
+====
+#Coursera, EdX, Khan academy
+====
+Ziyonet.uz, Moodle.org
+====
+Intuit.ru, pedagog.uz
+====
+my.estudy.uz, estudy.uz
+
+++++
+
+Stenford universiteti informatika professorlari Endro In va Dafna Koller tomonidan asos solingan “ommaviy ochiq – ta’lim sohasidagi” loyiha qanday nomlanadi?
 ====
 #Coursera
-++++
-
-181.	Stenford universiteti professorlari Sebastyan Truno, David Stavens va Mike Sokolsky tomonidan tashkil etilgan xususiy notijorat ta’lim kompaniyasi qaysi
+====
+Moodle
+====
+edX
 ====
 Udacity
-====
-Khan Academy
-====
-Lektorium
-====
-Udemy
+
 ++++
 
-182.	Testlar, diktantlar, esse yoki yozma ishlar ko'rinishida o'tkaziluvchi nazorat qanday ataladi
+Axborotni qayta ishlash deganda nimani tushunasiz?
 ====
-#Yozma nazorat
+#Biror bir axborotni  bir turdan boshqa turga o’tkazish
 ====
-Og’zaki nazorat
+Biror bir axborotga qayta nom berish
 ====
-Amaliy nazorat
+Biror bir axborotni boshqa kompyuterga uzatish
 ====
-Barchasi to’g’ri
+Biror bir axborotni boshqa kompyuterdan qabul qilish
+
 ++++
 
-183.	Ushbu nazorat fanning xususiyatidan kelib chiqqan holda, seminar, laboratoriya va amaliy mashg‘ulotlarida og‘zaki so‘rov, test o‘tkazish, suhbat, nazorat ishi, topshiriqlarni tekshirish va shu kabi boshqa shakllarda o‘tkazilishi mumkin
+Qaysi javobda virtual reallikning apparat vositalari to`g`ri keltirilgan?
 ====
-Oraliq nazorat
+#barcha javoblar to‘g‘ri
 ====
-#Joriy nazorat
+qo‘lqop
 ====
-Yakuniy nazorat
+shlem
 ====
-Amaliy nazorat
+ko‘zoynak
+
 ++++
 
-184.	Semestr yoki chorak oxirida o‘quvchilarning o‘zlashtirish darajasini baholash maqsadida o‘tkaziluvchi nazorat turi qanday ataladi
+Kompyuter xotirasi bu,  maxsus  electron  yacheykalar  to‘plami  bo‘lib,  ularning har  biri  qanday belgilar bilan ishlaydi?
 ====
-#Oraliq nazorat
+#1 va 0
 ====
-Joriy nazorat
++ va –
 ====
-Yakuniy nazorat
+1 va 2
 ====
-Amaliy nazorat
+< va >
+
 ++++
 
-185.	Kompyuter admirali, birinchi kompilyatorni ishlab chiquvchisi, COBOL tilini yaratishda ishtirok etgan va kompyuter dasturidagi xatolikni anglatish uchun "bug" atamasini kiritgan ayol kim
+COURSERA ta’lim loyihasi qaysi universitet tomonidan yaratilgan?
 ====
-Margaret Hamilton
+#Stenford universiteti professorlari
 ====
-Ada Lavleys
+Oksford universiteti professorlari
 ====
-#Greys Xopper
+Moskva davlat universiteti professorlari
 ====
-Radia Perlman
+Novosibirsk universiteti professorlari
+
 ++++
 
-186.	IP tarmoqlarida ishlatiladigan OSPF marshrutlash protokolini ishlab chiqqan "Internet onasi" kim
+Bulutli texnologiyalar qanday texnologiya?
 ====
-Margaret Hamilton
+#Internet-foydalanuvchiga Internet-xizmat sifatida kompyuter resurslari taqdim etiladigan ma'lumotlarni qayta ishlash texnologiyalari
 ====
-Ada Lavleys
+Onlayn saqlash modeli, unda ma'lumotlar tarmoqda tarqatilgan ko'plab serverlarda saqlanadi va mijozlar, asosan uchinchi tomon tomonidan foydalanish uchun taqdim etiladi
 ====
-Greys Xopper
+tarqatilgan ma'lumotlarni qayta ishlash texnologiyasi, unda foydalanuvchiga Internet xizmati sifatida kompyuter resurslari va imkoniyatlari taqdim etiladi.
 ====
-#Radia Perlman
+Kompyuterlar va Internet ta'lim tizimiga bir qator vazifalarni bajarish jarayonini takomillashtirish va osonlashtirish uchun kirishdir.
+
 ++++
 
-187.	Bernulli raqamlarini hisoblash algoritmini tasvirlab bergan va tarixdagi birinchi dasturchi hisoblanadi.
+iSpring Suite ning Интерактивности bo`limida nimalarni yaratish mumkin?
 ====
-Margaret Hamilton
+#Книга, Каталог, Вопрос-ответ, Временная шкала
 ====
-#Ada Lavleys
+Книга, Каталог, Вопрос-ответ, Тесты
 ====
-Greys Xopper
+Книга, Тесты, Временная шкала, Стихи
 ====
-Radia Perlman
+Вопрос-ответ, Временная шкала, Тесты
+
 ++++
 
-188.	Oyga uchish uchun dasturiy ta'minotni yaratgan jamoa rahbari.
+Google Classroom – bu …
 ====
-#Margaret Hamilton
+#Google Docs, Google Drive va Gmail-ni bog‘laydigan vosita bo‘lib, u sizga topshiriqlarni yaratish va bajarishda, baholashda, fikr bildirishda va o‘quvchilar bilan real vaqtda samarali muloqot qilishda yordam beradi
 ====
-Ada Lavleys
+turli xil texnologiyalarning birlashtirilgan o'quv yondashuviga birlashishi, shaxsiy va talabalarga yo'naltirilgan bo'lishga imkon beradi.
 ====
-Greys Xopper
+Google Reader asosida shaxsiy yangiliklar agregatlarini yaratish, yangiliklar lentalariga obuna bo‘lish, yangiliklarni tasniflash, umumiy yangiliklarni bloglarda nashr etish
 ====
-Radia Perlman
+shaxsiy taqvimlarni yaratish va ularga voqealar tavsifini qo‘shish, tadbirlarni birgalikda rejalashtirish.
+
 ++++
 
-189.	Inklyuzivlik qanday manoni anglatadi
+Xitoy maktablarida sun'iy intellekt bo'yicha darslar qachon joriy etildi ?
 ====
-#qoʻshish, birlashtirish
+#2018 yil noyabr oyi oxirida
 ====
-Tartiblashtirish
+2018 yil avgust oyi oxirida
 ====
-Yordam berish
+2018 yil oktyabr oyi oxirida
 ====
-Imkoniyati cheklanganlik
+2018 yil sentyabr oyi oxirida
+
 ++++
 
-190.	Alohida ta'lim ehtiyojlari bo‘lgan bolalarga ta'lim tarbiya berish tizimini yanada takomillashtirish chora-tadbirlari to‘g‘risida»gi Prezident qarori qachon qabul qilingan
+Google xizmatlarining qaysi birida testlar yaratish mumkin?
 ====
-2020 yil 15 oktyabrda
+#Google Formsda
 ====
-#2020 yil 13 oktyabrda
+Google Driveda
 ====
-2020 yil 18 oktyabrda
+Google документыda
 ====
-2020 yil 16 oktyabrda
+Google Презентацииda
+
 ++++
 
-191.	Apple qurilmalarida foydalanish uchun ovozli navigatsiya vositasi.
+Multimedia komponentlari quyidagilarni tashkil qiladi ?
 ====
-JAWS
+#matn, audio, tasvir, video
 ====
-NVDA
+multimpedia ilovalarini yaratish uchun qo‘llaniladigan dasturiy vositalar
 ====
-ZoomText
+filmlar, elektron o‘quv qo‘llanmalar, o‘yinlar, ensiklopediyalar, elektron kitoblar, virtual muzey ilovalari, reklamalar va boshqalar
 ====
-#VoiceOver
+multimedia tizimlari
+
 ++++
 
-192.	Ko‘rish qobiliyati zaif o‘quvchilar uchun ekran kattalashtirish va matnlarni ovozli o‘qish funksiyasiga ega dastur
+Camtasia Studio dasturining imkoniyatlari ko‘rsatilgan qatorni toping?
 ====
-VoiceOver
+#Monitor ekranidagi va veb kameradagi tasvirlarni hamda mikrofondagi ovozlarni yozib olish –Turli vizual effektlar joylashtirish – Ovozli fayllarni tahrirlash
 ====
-#ZoomText
+Monitor ekranni rasmga oladi va rasmlar  bilan qayta ishlaydi.
 ====
-ColorADD
+Rasmlarni qirqish, bo‘laklash, qo‘shish va o‘chirish - Tayyor videofaylni turli videoformatlarda saqlash
 ====
-VoiceOver
+Tayyor ma’lumot bo‘yicha test tuzadi nazorat qiladi so‘ngida natijani chiqaradi
+
 ++++
 
-193.	Rangi ajrata olmaslik (daltonizm) uchun maxsus vosita, ranglarni ajratish uchun simvollarni taklif qiluvchi dastur
+Camtasio Studio dasturida yozib olish paytida sichqoncha ko‘rsatgichini qanday yashirish mumkin?
 ====
-VoiceOver
+#Hide cursor
 ====
-ZoomText
+Show cursor
 ====
-#ColorADD
+Highlight cursor 
 ====
-VoiceOver
-++++
-194.	Ko‘rish imkoniyati cheklangan o‘quvchilar uchun keng imkoniyatli, ovozli yordam ko‘rsatadigan dastur.
-====
-#VoiceOver, NVDA
-====
-ZoomText, JAWS
-====
-ColorADD, NaturalReader
-====
-NaturalReader, NVDA
+Hig cursor
+
 ++++
 
-195.	Nogironligi bo‘lgan o‘quvchilar uchun vizual va ovozli muloqotni osonlashtiruvchi dastur.
+Camtasio Studio dasturida kadrlarni almashinish effekti vaqti sukut bo‘yicha qancha?
 ====
-#Proloquo2Go
+#3 sek
 ====
-Seesaw
+2 sek
 ====
-ClassDojo
+4 sek
 ====
-Starfall
-====
+5 sek
+
 ++++
 
-196.	Boshlang‘ich sinf o‘quvchilari uchun maxsus ehtiyojlarni inobatga oluvchi ta’limiy o‘yinlar.
+Camtasio dasturning to‘liq nomi ?
 ====
-Proloquo2Go
+#Camtasia Studio Tech Smith
 ====
-Seesaw
+Smith Camtasia Studio
 ====
-ClassDojo
+Camtasia Studio
 ====
-#Starfall
+Tech Smith Camtasia Studio
+
 ++++
 
-197.	Inklyuziv ta’limda Vizual va multimediya vositalari orqali ta’lim jarayonini interaktiv qilish uchun mo‘ljallangan dastur.
+Camtasia Studio dasturida qaysi tugma video yozishni boshlaydi?
 ====
-Proloquo2Go
+#F9
 ====
-#Boardmaker
+F8
 ====
-ClassDojo
+F7
 ====
-VoiceOver
+F10
+
 ++++
 
-198.	JAWS (Job Access With Speech) bu –
+CamtasiaStudio majmuasiga quyidagi ilovalardan qaysi birini o‘z ichiga olmaydi:
 ====
-Apple qurilmalarida foydalanish uchun ovozli navigatsiya vositasi.
+#CamtasiaMaker
 ====
-#Ko‘rish imkoniyati cheklangan o‘quvchilar uchun keng imkoniyatli, ovozli yordam ko‘rsatadigan dastur.
+CamtasiaPlayer
 ====
-Rangi ajrata olmaslik (daltonizm) uchun maxsus vosita, ranglarni ajratish uchun simvollarni taklif qiladi
+CamtasiaTheater
 ====
-Ko‘rish qobiliyati zaif o‘quvchilar uchun ekran kattalashtirish va matnlarni ovozli o‘qish funksiyasiga ega dastur
+CamtasiaRecorder
+
 ++++
 
-199.	ZoomText dasturi bu-
+Yaqinda ochilgan loyihalarni qaysi bo‘limdan tanlash mumkin?
 ====
-Ko‘rish imkoniyati cheklangan o‘quvchilar uchun keng imkoniyatli, ovozli yordam ko‘rsatadigan dastur.
+#Recent projects
 ====
-Rangi ajrata olmaslik (daltonizm) uchun maxsus vosita, ranglarni ajratish uchun simvollarni taklif qiladi
+Record voice narration
 ====
-#Ko‘rish qobiliyati zaif o‘quvchilar uchun ekran kattalashtirish va matnlarni ovozli o‘qish funksiyasiga ega dastur
+Import media
+====
+Record the screen
+
 ++++
 
-200.	C-Print dasturi bu-
+Camtasia Studio dasturida qaysi tugma video yozishni to‘xtatadi?
 ====
-#Eshitish imkoniyati cheklangan o‘quvchilar uchun suhbatlarni matnga o‘girish dasturi.
+#F10
 ====
-Nogironligi bo‘lgan o‘quvchilar uchun vizual va ovozli muloqotni osonlashtiruvchi dastur.
+F7
 ====
-Rangi ajrata olmaslik (daltonizm) uchun maxsus vosita, ranglarni ajratish uchun simvollarni taklif qiladi
+F8
 ====
-Ko‘rish imkoniyati cheklangan o‘quvchilar uchun keng imkoniyatli, ovozli yordam ko‘rsatadigan dastur.
+F9
+
 ++++
 
-201.	Inkluziv ta’lim uchun o‘quvchilar va o‘qituvchilarni bog‘lashga mo‘ljallangan platforma.
+Camtasia Studio dasturida sichqoncha ko‘rsatgichining qaysi effekti mavjud emas?
 ====
-#Edmodo
+#Left-Right effects 
 ====
-Google scholar
+Highlight effects
 ====
-Proloquo2Go
+Left-click effects
 ====
-Edx
+Right-click effects
+
 ++++
 
+Ma’lumotlar bazasini boshqarish sistemalariga quyidagilarning qaysi kiradi?
+====
+#FoxPro
+====
+Excel
+====
+Basic
+====
+Word
+
+++++
+
+CourseLab dasturida elektron darslik tayyorlanayotganda  Заставка oynasi vazifasi qanday
+====
+#Yaratilayotgan elektron kitobning interfeysi(birinchi betligi) bilan ishaydi
+====
+Yaratilayotgan elektron kitobning kodlari, boshqaruv buyruqlari bilan ishlaydi
+====
+Yaratilayotgan elektron kitobning umumiy ko’rinish qismi bilan ishlaydi
+====
+Bunday bo’lim mavjud emas
+
+++++
+
+EATRning asosiy elementlari:
+====
+#Titul ekrani, nazariy bo‘lim, amaliy boʻlim, nazorat boʻlimi
+====
+Nazariy, amaliy
+====
+Nazariy, nazorat
+====
+Titul elrani, amaliy, nazorat
