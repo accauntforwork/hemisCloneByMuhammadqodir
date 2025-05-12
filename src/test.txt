@@ -1,2388 +1,1707 @@
-
-O‘quv modulida nechta master-slayd qo‘llash mumkin?
-====
-#slaydlar soniga teng
-====
-1 ta 
-====
-4 tagacha
-====
-8 tagacha
-
-++++
-
-HotPotatoes dasturining JQuiz dastur bloki yordamida yaratilgan fayllar kengaytmasini aniqlang.
-====
-#*.jqz
-====
-*.jcl
-====
-*.jcw
-====
-*.jmx
-
-++++
-
-EATRni roʻyxatdan oʻtkazish necha bosqichda amalga oshiriladi?
-====
-#4 ta
-====
-3 ta
-====
-5 ta
-====
-2 ta
-
-++++
-Tipi boʻyicha ETRlarini qanday guruhlarga ajratish mumkin
-====
-#kompyuterli darslik (oʻquv qoʻllanma, matn va x.o.), elektron maʼlumotnoma, 
-kompyuterli masalalar toʻplami, kompyuterli laboratoriya praktikumi (modellar, trenajerlar va x.o.), kompyuterli test tizimi.
-====
-kompyuterli laboratoriya praktikumi (modellar, trenajerlar va x.o.), kompyuterli test tizimi.
-====
-kompyuterli darslik (oʻquv qoʻllanma, matn va x.o.), elektron maʼlumotnoma, 
-kompyuterli masalalar toʻplami.
-====
-kompyuterli darslik (oʻquv qoʻllanma, matn va x.o.), elektron maʼlumotnoma, 
-kompyuterli test tizimi.
-
-++++
-
-PowerPoint da ALT +F4 tugmalari bosilsa nima sodir bo‘ladi?
-====
-#Muhitdan chiqish.
-====
-Faylni saqlash
-====
-Slayddan chiqish
-====
-Keyingi slaydga o‘tish
-
-++++
-
-PowerPoint da Ctrl +S tugmalari bosilsa nima sodir bo‘ladi?
-====
-#Faylni saqlash
-====
-Slayddan chiqish
-====
-Keyingi slaydga o‘tish
-====
-Muhitdan chiqish.
-
-++++
-
-Antivirus dasturi hisoblanmaydigan dastur:
-====
-#Defrag
-====
-AVP
-====
-Norton Antivirus
-====
-Dr Web
-
-++++
-
-Antivirus dasturlariga kirmaydigan dasturlar sinfi:
-====
-#skanerlash dasturlari
-====
-fag dasturlari
-====
-auditorlik dasturlari
-====
-detektor dasturlari
-
-++++
-
-CourseLab yordamida yaratilgan ta’lim materiallari ishlatilish turiga qarab, elektron ta’limning qaysi standartlariga mos keladi?
-====
-#AICC, SCORM
-====
-SCORM, LEVEL
-====
-LEVEL, e-learning
-====
-e-learning
-
-++++
-
-Elektron ta’lim resurslari sifatini innovatsion baholash quyidagilarni o‘z ichiga oladi:
-====
-#ta’lim yutuqlarini monitoring qilish
-====
-o‘quv jarayonining barcha tarkibiy qismlarini ta’minlash
-====
-Interaktivlik
-====
-masofadan o‘qitish imkoniyati
-
-++++
-
-Elektron o‘quv resurslarida yangi pedagogik vositalar qo‘llaniladi:
-====
-#interfaol, multimedia
-====
-modellashtirish, tizimlilik
-====
-muloqot, masofadan o‘qitish
-====
-to‘liqlilik
-
-++++
-
-Elektron kurslarni yaratishda quyidagilarni hisobga olish kerak:
-====
-#O‘quv materialining interaktivligi tamoyili
-====
-Tarqatilgan o‘quv materialining ishlash tamoyili
-====
-Ta’limga oid ma’lumotlarni multimedia orqali taqdim etish tamoyili
-====
-Parchalanish tamoyili
-
-++++
-
-Pedagogik dasturiy vositalarni yaratish uchun quyidagi dasturlarning qaysi biridan foydalanish mumkin ?
-====
-#PowerPoint
-====
-Internet Explorer
-====
-Hyper Method
-====
-Windows
-
-++++
-
-Yangi axborot texnologiyalari ...
-====
-#gipermatn ko‘rinishi
-====
-radio
-====
-analog televizor
-====
-kitob
-
-++++
-
-Global kompyuter tarmog‘ining imkoniyatlari qanday?
-====
-#uzoq masofalarga ma’lumotlar almashinuvini tashkil qilish
-====
-qisqa masofalar bo‘yicha ma’lumot almashishni tashkil qilish
-====
-juda uzoq masofalarga elektr uzatish
-====
-tarmoqdagi kompyuterlarni kuzatib borish
-
-++++
-
-Bilimlarni mustahkamlash va amalda ulardan foydalanish malakalari uchun qaysi turdagi ETR mo‘ljallangan?
-====
-#Elektron praktikumi
-====
-Elektron test tizimi
-====
-Elektron ma’lumotnoma
-====
-Elektron darslik
-
-++++
-
-To‘g‘ri javobni tanlang. ZiyoNet - ……… , Internet - ………..
-====
-#ta’lim tarmog‘i, global tarmoq
-====
-simsiz tarmoq, maxalliy tarmoq
-====
-ijtimoiy tarmoq, lokal tarmoq
-====
-mahalliy tarmoq, ijtimoiy tarmoq
-
-++++
-
-Internet sahifalarini o‘qish va ko‘rish dasturi qanday nomlanadi ?
-====
-#Brauzer
-====
-Sayt
-====
-Provayder
-====
-Sahifa
-
-++++
-
-PowerPoint da animatsiyani sozlash qanday amalga oshiriladi?
-====
-#Animatsiya, Настройка анимации
-====
-Показ слайдов, настройка анимации
-====
-Показ слайдов, настройка демонстрации
-====
-Animatsiya, настройка демонстрации
-
-++++
-
-Moodle kurs kategoriyasi nima uchun kerak?
-====
-#Kerakli kursni tez topish uchun
-====
-Kerakli kursni o‘chirish uchun
-====
-Kerakli kursni yozish uchun
-====
-Kerakli kursdan tez chiqish uchun
-
-++++
-
-ADTester dasturida yangi guruhlar qanday yaratiladi?
-====
-#Asosiy menyudagi Группыdan Добавить группу, Ctrl G, Группыdan + orqali yaratiladi
-====
-Asosiy menyudagi Ползователиdan Добавить ползователя, Ctrl A orqali yaratiladi
-====
-Asosiy menyudagi Группыdan Шзмнить найтройки группы orqali yaratiladi
-====
-Asosiy menyudagi Группыdan Обнавить orqali yaratiladi.
-
-++++
-
-ACDSee Pro dasturning bosh sahifasida nechta tugma joylashgan va ular qaysilar?
-====
-#4 ta tugma Manage, View, Process, Online
-====
-3 ta tugma Manage, View, Process
-====
-3 ta tugma Manage, View, Online
-====
-4 ta tugma File, View, Process, Online
-
-++++
-
-Innovatsiyaning ma’nosi nima ?
-====
-#yangilik kiritish
-====
-o‘zgartirish kiritish
-====
-rejalashtirish
-====
-moliyalashtirish
-
-++++
-
-Multimedia texnologiyalarining aosiy maqsadi - ... ?
-====
-#o‘quvchilarga fanni yaxshi o‘zlashtirishlari uchun tovush, video, animatsiya va boshqa vizual effektlar bilan ta’minlangan dasturiy mahsulotlarni yaratish
-====
-tovush, video, animatsiya va boshqa vizual effektlar bilan ta’minlangan dasturiy mahsulotlarni yaratish
-====
-tovush, video, animatsiya va boshqa vizual effektlar bilan ta’minlangan materiallarni yaratish
-====
-o‘quvchilarga fanni yaxshi o‘zlashtirishlari uchun
-
-++++
-
-Tugallangan shaklda elektron o‘quv kursi tizim sifatida qanday funksional bloklarni o‘z ichiga oladi ?
-====
-#axborot bloki, mazmun bloki, nazorat bloke
-====
-nazariy blok, o‘rgatuvchi blok, nazorat bloke
-====
-nazorat bloki, kommunikativ blok, umumlashti-ruvchi blok
-====
-nazariy blok, o‘rgatuvchi blok, umumlashtiruvchi blok
-
-++++
-
-Elektron o‘quv resurslarida quyidagi yangi pedagogik vositalar qo‘llaniladi:
-====
-#interfaol, multimedia
-====
-Blits so‘rov, jamoa
-====
-modeling
-====
-kommunikativlik, to‘laqonlik
-
-++++
-
-Ommaviy ochiq onlayn kurslar kim tomonidan taklif qilingan?
-====
-#Brayan Aleksandr va Deev Korme
-====
-A. Andreev
-====
-Bedral Xan
-====
-Sebestyan Trun
-
-++++
-
-CourseLab — bu.....
-====
-#kuchli va shu bilan birga foydalanuvchiga oddiy bo‘lgan internet tizimida, masofaviy ta’lim tizimlarida, kompakt disk yoki boshqa har qanday saqlash qurilmalarida ishlatish uchun mo‘ljallangan interaktiv ta’lim materiallari (elektron darsliklar) tayyorlash uchun mo‘ljallangan kuchli va ishlatish oson bo‘lgan dasturiy vositadir
-====
-elekron jadval va matn maharriridan iborat dasturiy vositadir
-====
-Web muhitida o‘qitish va online rejimidagi darslarni tashkil qiluvchi kuchli pedagogik dasturiy majmuadir
-====
-o‘qituvchilarga dasturlash tillarini bilmasdan talabalarni nazorat qilish va o‘zini-o‘zi boshqarish uchun mustaqil ravishda interfaol topshiriqlar va testlarni yaratish imkoniyatini beradigan qobiq dasturidir
-
-++++
-
-Elektron o‘quv resurslarini yaratish imkoniyatini beruvchi pedagogik dasturiy  ta’minotlar  turkumiga  kiruvchi  dasturlarni  tanlang.
-====
-#Articulate, Adobe Captivate, Ispring, Wondershare
-====
-Adobe Captivate, Ispring, Wondershare  
-====
-Adobe Captivate, Ispring, PowerPoint
-====
-Ispring, Wondershare , PowerPoint
-
-++++
-
-Elektron  darsliklarning  nazorat  qiluvchi  qismi  -
-====
-#testlar  orqali nazorat qiluvchi tizim asosida shakllanadi
-====
-gipermatnga asoslangan va statik, dinamik rasmlardan iborat
-====
-xatolarni ko‘rsatib beruvchi va to‘g‘ri xulosaga olib keluvchi qism
-====
-animatsiyaga asoslangan qismi
-
-++++
-
-Elektron darsliklarning o‘rgatuvchi qismi  -  
-====
-#gipermatnga asoslangan va statik, dinamik rasmlardan iborat
-====
-xatolarni  ko‘rsatib beruvchi va to‘g‘ri xulosaga olib keluvchi qism
-====
-testlar  orqali nazorat qiluvchi tizim asosida shakllanadi
-====
-animatsiyaga asoslangan qismi
-
-++++
-
-Elektron  darslikning  mashq  qildiruvchi  qismi  -
-====
-#xatolarni  ko‘rsatib beruvchi va to‘g‘ri xulosaga olib keluvchi qism
-====
-gipermatnga asoslangan va statik, dinamik rasmlardan iborat
-====
-testlar  orqali nazorat qiluvchi tizim asosida shakllanadi
-====
-animatsiyaga asoslangan qismi
-
-++++
-
-MOODLE  –  inglizcha  so‘zlarning  abbreviaturasi  bo‘lib  M______ Object Oriented Dynamic Learning Environment.  Bo‘sh  qoldirilgan  so‘zni aniqlang.
-====
-#Modular
-====
-Modulas
-====
-Modules
-====
-Moody
-
-++++
-
-Multimedia qurilmalari bu
-====
-#ovoz, video, tasvir, matnli ma’lumotlar bilan ishlashda qo‘llaniladigan apparat vositalari
-====
-multimediani o‘rganish uchun mo‘ljallangan kompyuter stendi
-====
-ovoz, video, tasvir, matnli axborotlardan iborat ilovalarni yaratuvchisi
-====
-ovoz, video, tasvir, matnli ma’lumotlar bilan ishlashda qo‘llaniladigan apparat va dasturiy vositalar yig‘indisi
-
-++++
-
-“Multimedia” nima ?
-====
-#matn, tasvir,ovoz va videodan iborat ma’lumotlar bilan ishlovchi texnik va dasturiy vositalar majmui
-====
-kompyuter tizimlarida ovoz yaratishga mo‘ljallangan texnik vositalar yig‘indisi
-====
-ovoz, video, tasvir, matnli axborotlardan iborat ilovalarni yaratuvchisi
-====
-inson va kompyuter orasidagi interfaol muloqat
-
-++++
-
-Multimedia komponentlari quyidagilarni tashkil qiladi ?
-====
-#matn, audio, tasvir, video
-====
-multimpedia ilovalarini yaratish uchun qo‘llaniladigan dasturiy vositalar
-====
-filmlar, elektron o‘quv qo‘llanmalar, o‘yinlar, ensiklopediyalar, elektron kitoblar, virtual muzey ilovalari, reklamalar va boshqalar
-====
-multimedia tizimlari
-
-++++
-
-Interfaol taqdimot – bu .....
-====
-#ma’ruzachi yordamida taqdimot namoyish qilinadi va tushuntiriladi
-====
-ruh, jon ma’nosini bildiradi(ruhlantirish, jonlantirish)
-====
-taqdimot jarayonidan chetdan ta’sir ko‘rsatib bo‘lmaydi
-====
-kompyuter slaydlari ko‘rinishida taqdim etilishi lozim bo‘lgan materiallardan iborat fayl hisoblanadi.
-
-++++
-
-Taqdimot maqsadiga ko‘ra ikki turga bo‘linadi:
-====
-#interfaol va mustaqil amalga oshiriladi
-====
-animatsiya va video
-====
-chiziqli va chiziqli bo‘lmagan
-====
-statik va dinamik
-
-++++
-
-Qanday kurslar asosida tinglovchilar ma’lum topshiriqlar to‘plamini bajarishi shart degan tasdiq yotadi?
-====
-#task-based MOOC
-====
-xMOOC
-====
-MOOC
-====
-cMOOC
-
-++++
-
-Qanday kurslarda o‘qitish maqsadini o‘quvchi belgilaydi?
-====
-#cMOOC
-====
-xMOOC
-====
-MOOC
-====
-task-based MOOC
-
-++++
-
-Monitorda rang hosil qilishda qanday ranglardan foydalaniladi?
-====
-#ko‘k, qizil, yashil
-====
-qora, oq, ko‘k
-====
-sariq, qizil, oq
-====
-yashil, qora, sariq
-
-++++
-
-AutoPlay Media Studio dasturida ob’ektning koordinatalari qaysi nuqtadan aniqlanadi?
-====
-#chap yuqori nuqtadan
-====
-o‘ng yuqori nuqtadan
-====
-chap pastki nuqtadan
-====
-o‘ng pastki nuqtadan
-
-++++
-
-Button ob’ektining xossalari qaysi qatorda to‘g‘ri ko‘rsatilgan?
-====
-#Настройки, Свойства, Быстрое действие, Сценарий
-====
-Настройки, Свойства
-====
-Настройки, Выровнят
-====
-Свойства, Бысрое действие, Сценарий, Выровнят
-
-++++
-
-AutoPlay Media Studio dasturi ishga tushurilgandan so‘ng muloqot oynasida qanday takliflar ilgari suriladi?
-====
-#Создать новый проект(yangi loyiha yaratish), Открыть существующий проект(yaratilgan loyihalardan birini ochish), Восстонавить последный проект(oxirgi ishlangan loyihani ochish)
-====
-Восстонавить последный проект(oxirgi ishlangan loyihani ochish)
-====
-Создать новый проект(yangi loyiha yaratish), Открыть существующий проект(yaratilgan loyihalardan birini ochish)
-====
-Восстонавить последный проект(oxirgi ishlangan loyihani ochish), dasturdan chiqish
-
-++++
-
-CourseLab da yaratilgan resurslarning birliklari?
-====
-#kadr, slayd, modul, bo‘lim, kurs 
-====
-papka, modul, kadr, fayl, bo‘lim
-====
-fayl, kadr, modul, kurs, bo‘lim
-====
-fayl, kadr, slayd, kurs, bo‘lim
-
-++++
-
-iSpring dasturi taqdimotni qanday formatdagi faylga konvertatsiyalash imkonini beradi?
-====
-#swf va HTML5
-====
-pps va ppsx
-====
-HTML5  va ppt
-====
-ppt va pptx
-
-++++
-
-iSpring QuizMaker dasturi yordamida necha turdagi test tuzish mumkin?
-====
-#11
-====
-12
-====
-13
-====
-16
-
-++++
-
-Elektron nashr nima?
-====
-#cheklanmagan foydalanuvchilarga taqdim etish uchun yaratilgan, kompyuter o‘qiy olidagan xujjat
-====
-elektron kitob
-====
-elektron xujjatlar jamlanmasi
-====
-to‘liq matnli xujjat
-
-++++
-
-Manbalari va taqdim etilish shaklidan qat’iy nazar shaxslar, predmetlar, faktlar, voqealar, hodisalar va jarayonlar to‘g‘risidagi ma’lumotlar – ..... dir
-====
-#axborot
-====
-hisobot
-====
-bayonot
-====
-xabarnoma
-
-++++
-
-Yagona bino, idora, tashkilot yoki bir necha binolar guruxi doirasidagi kompyuter tarmog‘i
-====
-#lokal tarmoq
-====
-internet
-====
-kompyuter tarmog‘i
-====
-global tarmoq
-
-++++
-
-Internetda ta’lim domenini ko‘rsating?
-====
-#.edu
-====
-.uz
-====
-.ru
-====
-.swf
-
-++++
-
-Drayverlar, interpretatorlar va kompilyatorlar qaysi guruh dasturiy ta'minotga mansub ?
-====
-#tizimli dasturiy ta'minot
-====
-amaliy dasturiy ta'minot
-====
-foydalanuvchi uchun mo`ljallangan dasturiy ta'minot
-====
-instrumental dasturiy ta'minot
-
-++++
-
-Moodle bu...........................
-====
-#Masofaviy ta’lim platformalaridan biri
-====
-O’qitish shakli
-====
-O’qitish texnologiyasi
-====
-Axborot-kommunikatsiya texnologiyalari
-
-++++
-
-Internet muhitida online ishlaydigan elektron matn muharririni ko‘rsating
-====
-#Google docs
-====
-Docs
-====
-Ispring
-====
-FineReader
-
-++++
-
-Ma’lum bir maqsadga yo’naltirilgan tizimli bilim va ko’nikmalar bilan qurollangan jarayon bu....
-====
-#Ta’lim
-====
-O’qitish
-====
-Masofaviy o’qitish
-====
-Internatsionallilik
-
-++++
-
-Virtual borliq tizimi deganda nima tushuniladi?
-====
-#imitatsion dasturiy va texnik vositalar
-====
-hayolot dunyosi
-====
-tarixiy, noyob tasvirlarning qayta ishlangan ko’rinishi
-====
-dars jarayonida video va audio materiallarda foydalanish 
-
-++++
-
-Masofaviy ta’lim –
-====
-#masofaviy o’qitishga asoslangan ta’lim
-====
-o‘zaro ma’lum bir masofada Internet texnologiya yoki boshqa interaktiv usullar
-====
-aloqa, xabarlar, topshiriqlarni tarmoq orqali tezkor almashinish
-====
-o’qitish vositalari (o’quv qo’llanma, darsliklar)
-
-++++
-
-Kompyuter o’quv kursi – bu.................
-====
-#mustaqil tarzida o’rganish imkoniyati yaratib beradigan – dasturli uslubiy majmua
-====
-qisman yoki to’liq darslikni almashtiradigan yoki uni to’ldiradigan va nashr sifatida rasman tasdiqlangan elektron nashrdir
-====
-O’quv elektron nashr 
-====
-O’quv darslik
-
-++++
-
-.........  INTERNETning eng istiqbolli rivojlanish sohasi sanalmoqda
-====
-#Elektron ta’lim
-====
-Elektron tijorat
-====
-Internet biznes
-====
-e-mail
-
-++++
-
-Internetdagi asosiy protokollar to‘plami:
-====
-#TCP/IP
-====
-HTTP
-====
-HTML
-====
-TCP
-
-++++
-
-Grafik muharriridagi vositalar:
-====
-#qalam, cho‘tka, silgi
-====
-chiziq, doira, to‘rtburchak
-====
-tanlash, nusxalash, joylashtirish
-====
-rang to‘plamlari (palitrasi)
-
-++++
-
-O'zbekiston Respublikasi Davlat test markazining veb-sayti –
-====
-#dtm.uz
-====
-gov.uz
-====
-edu.uz
-====
-eco.uz
-
-++++
-
-Elektron darslik - bu …..
-====
-#yuqori ilmiy, uslubiy va texnik darajada yaratilgan, oddiy darslikni qisman o‘zgartiradigan yoki to‘ldiradigan o‘quv elektron nashridir
-====
-bu ochiq tizimlar. Bularni to‘ldirish, tuzatish, ish paytida o‘zgartirish mumkin, bu ayniqsa ijodiy ishlaydigan o‘qituvchi uchun juda muhimdir
-====
-bu talabalarning mustaqil ishlarini tashkillashtirishga imkon beradigan kontekstli ko‘rsatmalarni tashkil qilishdir
-====
-bu uning mazmuni ta’lim muassasasida belgilangan tartibda tasdiqlangan o‘quv predmeti dasturining talablari va mazmuniga mos kelishidir
-
-++++
-
-O‘quv jarayoniga yangi axborot texnologiyalarini joriy etish o‘qituvchilarning vazifalarini tubdan o‘zgartirishga olib keladi, u talabalar bilan birgalikda tobora ko‘proq …….. aylanib bormoqda.
-====
-#tadqiqotchi, dasturchi, tashkilotchi va maslahatchiga
-====
-ijod, izlanish va kashfiyotchiga
-====
-muloqot qilishga
-====
-dastirchiga
-
-++++
-
-Matnli rasmlarni, rasmlarni, fotosuratlari kompyuterga to‘g‘ridan-to‘g‘ri qog‘oz hujjatidan kiritish imkonini beruvchi qurilma nima?
-====
-#Skayner
-====
-Printer
-====
-Sichqoncha
-====
-Modem
-
-++++
-
-Zoom – bu ….
-====
-#videokonferentsiyalar, seminarlar va onlayn darslar uchun xizmat qiladi
-====
-electron pochta aloqasi uchun xizmat qiladi.
-====
-an’anaviy dars o`tish uchun xizmat qiladi.
-====
-multimedia ilovalarini yaratish uchun xizmat qiladi.
-
-++++
-
-Zoomda nechta foydalanuvchiga mo`ljallangan videokonferentsiya o`tkazish mumkin?
-====
-#1000
-====
-2000
-====
-100
-====
-500
-
-++++
-
-Zoomda bepul qancha vaqt necha kishiga videokonferentsiya tashkil qilish mumkin?
-====
-#40 daqiqa, 100 kishi
-====
-40 daqiqa, 1000 kishi
-====
-40 daqiqa, 500 kishi
-====
-vaqt va foydalanuvchilar soni chegaranilmagan
-
-++++
-
-Google Meet – bu …
-====
-#Google tomonidan ishlab chiqilgan videoqo‘ng‘iroq xizmati.
-====
-Google tomonidan ishlab chiqilgan pochta aloqasi xizmati.
-====
-Google tomonidan ishlab chiqilgan ta’lim xizmati
-====
-Google Hangouts o‘rnini bosgan ikkita dasturdan biri.
-
-++++
-
-Informatika fanida algoritmlar bilan ishlash imkoniyatini beradigan pedagogik dasturiy vositani ko‘rsating.
-====
-#Crocodile ICT
-====
-Crocodile Physics
-====
-Crocodile Matematics
-====
-Crocodile Technology
-
-++++
-
-LMS nima ?
-====
-#Elektron ta’lim dasturlarini tashkil etuvchi, amalga oshiruvchi hamda o‘quvchilarning o‘zlashtirish natijalari ustidan nazorat olib borish va ularni saqlab qo‘yish imkoniyatini beruvchi onlayn platforma.
-====
-O‘quvchilarga dars vaqtida olgan bilimlarini boyitish uchun zarur qo‘shimcha manbalarni ham yuborish imkoniyatiga ega platformadir.
-====
-Elektron ta’lim dasturlarini tashkil etuvchi platforma
-====
-Biznes va konferensiyalar
-
-++++
-
-LMS platformalar necha turga bo‘linadi?
-====
-#3 turga
-====
-2 turga
-====
-4 turga
-====
-5 turga
-
-++++
-
-LMS platformalar turlarini sanab bering.
-====
-#Bulutli, serverga asoslangan, CMS bilan integratsiyalashgan
-====
-CMS bilan integratsiyalashgan
-====
-Elektron ta’lim dasturlarini tashkil etuvchi
-====
-Matnli, grafik, audio va video
-
-++++
-
-Google Cassroom qaysi turdagi LMS platformasiga kiradi?
-====
-#Bulutli
-====
-Serverga asoslangan
-====
-CMS bilan integratsiyalashgan
-====
-Matnli, grafik, audio va video
-
-++++
-
-Moodle qaysi turdagi LMS platformasiga kiradi?
-====
-#Serverga asoslangan
-====
-Bulutli
-====
-CMS bilan integratsiyalashgan
-====
-Matnli, grafik, audio va video
-
-++++
-
-Interaktiv videodarslar qanday xususiyatlarga ega?
-====
-#Testlar, so‘rovnomalar va interaktiv elementlar bilan boyitilgan
-====
-Faqat o‘qituvchi tomonidan boshqariladi
-====
-Faqat tinglash uchun
-====
-Faqat matnli ma’lumotlar
-
-++++
-
-Interaktiv videodarslarning o‘quvchilarga ta’siri qanday?
-====
-#Barcha javoblar to‘g‘ri
-====
-Bilimlar yanada mustahkamlanadi
-====
-Darsdan keyin eslab qolish osonlashadi
-====
-O‘quvchilarning qiziqishi ortadi
-
-++++
-
-Interaktiv videodarslarni qanday qilib samarali tashkil qilish mumkin?
-====
-#Video, test va interaktiv elementlarni muvofiqlashtirish orqali
-====
-Faqat ko‘p videolar qo‘shish orqali
-====
-Faqat testlar qo‘shish orqali
-====
-O‘quvchilarga mustaqil ishlashni topshirish orqali
-
-++++
-
-Camtasia Player dasturi yordamida nimani ko‘rish mumkin?
-====
-#AVI formatdagi har qanday videofayllar
-====
-Camtasia Studio-da yozilgan har qanday videofayllar
-====
-Camtasia Studio loyihalari
-====
-Faqat Camtasia Studio bilan yozilgan AVI videofayllari
-
 ++++
-
-Camtasia MenuMaker dasturi nima uchun ishlatiladi?
+Infografikani 4 ta so'z bilan qanday tushuntirish mumkin?
 ====
-# Optik disklarni avtomatik ishga tushirish uchun interaktiv menyularni yaratish
+#Ma'lumotlar, saralash, tasniflash, vizualizatsiya
 ====
-Internetda joylashtirilgan videolar uchun interaktiv menyularni yaratish
+Chizmalar, foto, video, animatsiya
 ====
-Optik disklar uchun konvertlarni yaratish uchun
+Axborot, ma'lumotlar, tarkib, prognozlar
 ====
-Loyiha uchun tarkib jadvalini yaratish
-
+Tendensiyalar, ma'lumotlar, hikoyalar, chizmalar
 ++++
-
-Camtasia Theatre dasturi nima maqsadda ishlatiladi?
+Infografika nima?
 ====
-#Internetda joylashtirilgan videolar uchun interaktiv menyularni yaratish
+#bu axborot, ma'lumotlar va bilimlarni taqdim etishning grafik usuli; aslida rasm yordamida ma'lumot uzatish usuli
 ====
-Optik disklarni avtomatik ishga tushirish uchun interaktiv menyularni yaratish
+ma'lumotni o'z ichiga olgan rasm
 ====
-Optik disklar uchun konvertlarni yaratish uchun
+Axborot, ma'lumotlar, tarkib, prognozlar
 ====
-Loyiha uchun tarkib jadvalini yaratish
-
+Tendensiyalar, ma'lumotlar, hikoyalar, chizmalar
 ++++
-
-Camtasia Studio loyihalarida qanday grafik formatlarini ishlatilishi mumkin?
+... infografikani raqamli, grafik va og'zaki ma'lumotlarning vizual tasviri sifatida belgilang
 ====
-#BMP, GIF
+#T.V. Solovieva va boshqa bir qator mualliflar
 ====
-EMF, TIFF
+S.V. Selemenov
 ====
-MIDI, MP3 
+G.A. Nikulov
 ====
-VQF, WAV
-
+E.A. Baranov
 ++++
-
-Camtasia Studio loyihalarida qanday audio fayl formatlarini ishlatilishi mumkin?
+ ... infografika - bu tasvirlarning maxsus toifasi bo'lib, unda kommunikativ imkoniyatlar kontsentratsiyasining zichligi boshqalarga qaraganda yuqori
 ====
-#MP3, WAV
+#G.A.Nikulova ning soʻzlariga koʻra
 ====
-MIDI, VQF
+S.V.Selemenovaning so'zlariga ko'ra
 ====
-BMP, GIF
+T.V.Solovyov ga ko'ra
 ====
-EMF, TIFF
-
+E.A. Baranovning so'zlariga ko'ra
 ++++
-
-Camtasia Studio loyihalarida qanday video fayl formatlarini ishlatilishi mumkin?
+Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga ma'lumotni umumlashtirishga yordam berish - bularning barchasi infografikami?
 ====
-#AVI, MOV
+#Infografik xususiyatlar 
 ====
-MKV, VOB 
+Infografik qo'shimchalar
 ====
-MIDI, MP3 
+Infografika tamoyillari
 ====
-VQF, WAV
-
+infografika ko'rinishlari
 ++++
-
-Camtasia Studio loyiha fayllari qanday kengaytmaga ega?
+Infografikaning qanday xususiyatlari bor?
 ====
-#Camproj
+#Kontekstga qarab har doim sarlavha yoki sarlavhaga e'tibor qaratiladi
 ====
-AVI
+Ular matn kiritish tartibiga xilma-xillik qo'shadilar
 ====
-Camrec
+Matnlarni umumlashtirish
 ====
-Bu foydalanuvchini tanloviga bog‘liq
-
+Qiyin ma’lumotlar
 ++++
-
-ADTester dasturida yangi guruxlar qanday yaratiladi?
+Qaysi xizmat har bir brendga o'zining munosib obro'sini mustahkamlashga yordam beradi?
 ====
-#Asosiy menyudagi Группыdan Добавит группу, Ctrl G, Группыdan + orqali yaratiladi.
+#Visme servisi
 ====
-Asosiy menyudagi Ползователиdan Добавит ползователя, Ctrl A orqali yaratiladi.
+Venngage servisi
 ====
-Asosiy menyudagi Группыdan Изменит настройки группы orqali yaratiladi.
+Chart servisi
 ====
-Asosiy menyudagi Группыdan Обнавит orqali yaratiladi.
-
-++++
-
-ACDSee Pro dasturningbosh sahifasida nechta tugma joylashgan va ular qaysilar?
-====
-#4 ta tugma Manage, View, Process, Online
-====
-3 ta tugma Manage, View, Process
-====
-3 ta tugma Manage, View, Online
-====
-4 ta tugma File, View, Process, Online
-
-++++
-
-Camtasia Studio dasturi qaysi kompaniya tomonidan ishlab chiqarilgan?
+Tool servisi
++++++
+2022 yil boshida Wordle marshruti keskin ko'tarilishi bilan nima paydo bo'la boshladi?
 ====
-#Tech Smith
+#Klonlar
 ====
-Intel
+Guruhlar
 ====
-Asus
+Tranzit
 ====
-AsRock
-
+Turlar
 ++++
-
-Interaktiv metodlar nima?
+Matn belgilarini grafik belgilarga aylantiradi va ularni bittaga birlashtiradi?
 ====
-#bu o‘quv jarayonini faol ishtirokchilar bilan birga o‘tkazishni nazarda tutadigan uslublar bo‘lib, bu uslublarda o‘quvchilar faoliyatni o‘zlari boshqaradi. Bu jarayonda o‘qituvchi yo‘naltiruvchi va ko‘mak beruvchi rolini o‘ynaydi, lekin asosiy bilimlar va tajribalarni o‘quvchilar o‘zlari kashf etishlari kerak. Ushbu uslub an'anaviy yondashuvdan farqli o'laroq, talabaning qiziqishi va faol ishtirokini kuchaytiradi
+#Infografika
 ====
-ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+Dizayn
 ====
-dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+Creately
 ====
-Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar
-
+hisobot rejalari
 ++++
-
-… - bu o‘quv jarayonini faol ishtirokchilar bilan birga o‘tkazishni nazarda tutadigan uslublar bo‘lib, bu uslublarda o‘quvchilar faoliyatni o‘zlari boshqaradi. Bu jarayonda o‘qituvchi yo‘naltiruvchi va ko‘mak beruvchi rolini o‘ynaydi, lekin asosiy bilimlar va tajribalarni o‘quvchilar o‘zlari kashf etishlari kerak. Ushbu uslub an'anaviy yondashuvdan farqli o'laroq, talabaning qiziqishi va faol ishtirokini kuchaytiradi
+Kompaniya va texnologiya har qanday sohada odamlarning shaxsiy yoki ijodiy sayohatlarida rivojlanish bosqichlarini ko'rsatishga mo'ljallangan - bu qanday infografika?
 ====
-#Interaktiv metodlar
+#Xronologik
 ====
-Debat
+Ijtimoiy
 ====
-Case Study
+Qiyosiy
 ====
-Munozara
-
+Geografik
 ++++
-
-Diskussiya (munozara) qanday metod?
+ Sotsiologik, marketing va tadqiqot natijalarini vizual tarzda taqdim etish uchun foydalaniladi - bu qanday infografika?
 ====
-#Diskussiya dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi.
+#Statik
 ====
-ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+Ijtimoiy
 ====
-dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+Qiyosiy
 ====
-birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
-
+Geografik
 ++++
-
-Debat qanday metod?
+Vizual ravishda, har qanday kapitalistik tizimning elementlarini tartibga solishga yordam beradigan infografika turi?
 ====
-#ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+#Ierarxik
 ====
-Diskussiya dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi
+Ijtimoiy
 ====
-dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+Qiyosiy
 ====
-birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
-
+Geografik
 ++++
-
-AutoPlay Media Studio dasturida ishlash uchun qanday kodlash tilini bilish zarur?
+1 uslubni tanlash va ushbu uslub bilan bog'liq ma'lumotlarni yig'ish, qayta ishlash va ishlab chiqish nima?
 ====
-HTML
+#Vizualizatsiya tamoyillari
 ====
-Python
+Infografik xususiyatlar
 ====
-Scratch
+Infografik xususiyatlar
 ====
-#Kodlash tilini bilish talab qilinmaydi
-
+Yaratilish tamoyillari
 ++++
-
-Rolli o‘yinlar qanday metod?
+Infografika va oddiy diagramma o'rtasidagi asosiy farq nima?
 ====
-#dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
+#Ijodkorlik
 ====
-Diskussiya dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi
+Fikrlash
 ====
-ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
+Kreativlik
 ====
-birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
-
+Dizayn
 ++++
-
-… - dars davomida o‘quvchilar o‘rtasida fikr almashinadigan faol metoddir. Bu usul o‘quvchilarga mavzu bo‘yicha o‘z fikrlarini ifodalash va boshqalarning nuqtai nazarini tushunish imkonini beradi.
+ Infografikangizni targ'ib qilishning eng yaxshi usuli qanday?
 ====
-# Diskussiya (munozara)
+#Bloggerlar
 ====
-Debat
+Jurnalistlar
 ====
-Rolli o‘yinlar
+o'qituvchilar
 ====
-Aqliy xujum
-
-++++
-
-… - ikki yoki undan ortiq shaxs o‘rtasida ma'lum bir masala bo‘yicha bahs qilish metodidir. Har bir guruh o‘z nuqtai nazarini himoya qiladi va raqib guruh fikrlarini rad etishga harakat qiladi
-====
-# Debat
-====
-Diskussiya (munozara)
+internet-marketing
++++++
+ Cinergix tomonidan qanday sxema ishlab chiqilgan?
 ====
-Rolli o‘yinlar
+#Creately
 ====
-Aqliy xujum
-
-++++
-
-… - dars davomida o‘quvchilarni ma'lum bir vaziyat yoki shaxs rolini ijro etishga undaydi. Bu usul orqali o‘quvchilar amaliy tajribaga ega bo‘lishadi, muammolarni o‘z tanlovlari orqali hal qilishadi
-====
-# Rolli o‘yinlar
+Wordle 
 ====
-Diskussiya (munozara)
+Googlechart
 ====
-Debat
-====
-Aqliy hujum
-
+Pictogram
 ++++
-
-… - birgalikda yangi g‘oyalar va echimlarni topishga qaratilgan. Har kim o‘z g‘oyalarini o‘rtaga tashlaydi va umumiy yechim topish uchun takliflar baholanadi.
+Wordle bu?
 ====
-# Aqliy hujum
+#Brauzer so'z o'yini
 ====
-Diskussiya (munozara)
+Brauzer asosidagi raqam 
 ====
-Debat
+Brauzer asosidagi g'oya 
 ====
-Rolli o‘yinlar
-
+Brauzer asosidagi tasdiq
 ++++
-
-Klasterlash (Cluster Method) qanday metod?
+Ma'lumotlarni vizualizatsiya qilish va ijodiy grafikalar uchun yetakchi manba nima?
 ====
-# Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar
+#Graphs.net
 ====
-Bu metodda o‘quvchilarga ma'lum bir real hayotiy vaziyat beriladi va ular ushbu vaziyatni tahlil qilib, muammolarni hal qilish yo‘llarini izlaydilar. Bu uslub nazariy bilimlarni amaliy hayot bilan bog‘lash imkonini beradi
+Pictochart.com
 ====
-Bu uslubda o‘quvchilar ma'lum bir matn yoki mavzu bo‘yicha savol-javob tarzida tahlil olib boradilar. Ular o‘z fikrlarini mantiqiy va asoslangan holda ifodalashni o‘rganadilar, savollar berish va ularga javob izlash ko‘nikmalarini rivojlantiradilar
+Canva.com
 ====
-Ushbu yondashuv o‘quvchilarga muammoga asoslangan o‘quv jarayonini taklif etadi. Ular muammoni tahlil qiladi, ma'lumot to‘playdi va echim ishlab chiqadi. Bu usul talabalarning mustaqil fikrlash qobiliyatini oshiradi va real hayotiy muammolarni yechishga undaydi
-
+Google.com
 ++++
-
-AutoPlay Media Studio’da yaratilgan loyiha qanday formatda saqlanadi?
+Qaysi xizmatda mobil ilova mavjud?
 ====
-#.autoplay
+#Canva 
 ====
-.mtf
+Easel.ly
 ====
-rtf
+Infogr.am
 ====
-wcl
-
+Quizlet
 ++++
-
-Case Study (Vaziyat tahlili) qanday metod?
+Infografika yaratish xizmatlari
 ====
-# Bu metodda o‘quvchilarga ma'lum bir real hayotiy vaziyat beriladi va ular ushbu vaziyatni tahlil qilib, muammolarni hal qilish yo‘llarini izlaydilar. Bu uslub nazariy bilimlarni amaliy hayot bilan bog‘lash imkonini beradi
+#Canva, Easel.ly, Infogr.am
 ====
-Bu uslubda o‘quvchilar ma'lum bir asosiy mavzuni olib, uning asosida turli g‘oyalar yoki kichik mavzularni guruhlarga ajratadi. O‘quvchilar o‘z fikrlarini tartibga solib, ularni grafik tarzda ko‘rsatadilar
+Kahoot
 ====
-Bu uslubda o‘quvchilar ma'lum bir matn yoki mavzu bo‘yicha savol-javob tarzida tahlil olib boradilar. Ular o‘z fikrlarini mantiqiy va asoslangan holda ifodalashni o‘rganadilar, savollar berish va ularga javob izlash ko‘nikmalarini rivojlantiradilar
+Quizlet 
 ====
-Ushbu yondashuv o‘quvchilarga muammoga asoslangan o‘quv jarayonini taklif etadi. Ular muammoni tahlil qiladi, ma'lumot to‘playdi va echim ishlab chiqadi. Bu usul talabalarning mustaqil fikrlash qobiliyatini oshiradi va real hayotiy muammolarni yechishga undaydi
-
+Pictochart.com
 ++++
-
-… - bu ma’lumotlar mantiqiy yoki assotsiativ ravishda giperhavolalar orqali bog‘langan axborotni tashkil qilish printsipi.
-====
-# Gipermedia
+Atamani tanlang? - Bu sizga o'tilgan mavzuning mohiyatini tezda tushunishga imkon beradigan minimal qo'shimcha matnga ega tasvirlar va diagrammalar to'plamidir.
 ====
-Multimedia
+#Infografika
 ====
-Animatsiya
+Adabiyot
 ====
 Grafika
-
+====
+Matn
 ++++
-
-CamtasiaStudio dasturida Theater qo’shimcha komponenti qanday vazifani amalga oshiradi? 
-====                      
-#bir nechta videoroliklarga ega Flash- prezentastiyalar uchun qulay bo’lgan ekran menyusini chiqarib berishni amalga oshiradi
+Infografika funksiyalari...?
 ====
-Faqat bitta videorolikka ega Flash- prezentastiyalar uchun qulay bo’lgan ekran menyusini chiqarib berishni amalga oshiradi
+#Ma'lumotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga bir vaqtning o'zida ma'lumot to'plashda yordam berish, chunki ular kiritilgan matnning tartibida farqlanadi.
 ====
-Ikkita videoroliklarga ega Flash- prezentastiyalar uchun qulay bo’lgan ekran menyusini chiqarib berishni amalga oshiradi
+Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga darhol ma'lumot to'plashda yordam berish.
 ====
-bir nechta videoroliklarga uchun ekran menyusini chiqarib berishni amalga oshiradi
-
+Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga darhol ma'lumot to'plash, ularni kiritish tartibini diversifikatsiya qilish va yetkazishda yordam berish
+====
+Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, ularni kiritish tartibini diversifikatsiya qilish va muloqot qilish
 ++++
-
-My Test dasturida qanday bolimlar mavjud?
+Nima uchun infografik kompetentsiya retseptiv tarzda samarali ekanligi ta'kidlangan?
 ====
-#MyTestEditor, MyTestStudent, MyTestServer
+#ilmiy kasbiy yo‘naltirilgan matnlarning mazmunini bir vaqtda tushunish, tushunish, sharhlash va mustaqil ravishda infografika yaratish qobiliyatiga e’tibor qaratadi.
 ====
-MyTestEditor, MyTestStudent, MyTemplates
+Infografik tasvirlar bilan ishlashda talabalarning harakatlar ketma-ketligini ta'kidlaydi
 ====
-MyTestEditor, MyTestStudent, MyQuizzes
+mustaqil ravishda infografikani tushunish, sharhlash va yaratish qobiliyatiga e'tibor qaratadi.
 ====
-MyTestStudent, MyTestServer, My 
-
+ilmiy va kasbiy matnlar mazmunini ham aniq, ham aniq tushunish
 ++++
-
-My Test dasturida nechi xil turdagi topshiriqlarni tayyorlash mumkin
+Qiyosiy infografika…?
 ====
-#9
+#Ikki yoki undan ortiq ob'ektlar, yondashuvlar, g'oyalar yoki hodisalarni taqqoslash
 ====
-8
+Muxolifat elementlari o'rtasidagi munosabatlarni muvofiqlashtirish
 ====
-7
+Vertikal ajratuvchi ko'pincha vizual ko'rsatish uchun ishlatiladi.
 ====
-10
-
+Geografik yoki demografik ma'lumotlarni yaratish.
 ++++
-
-My Test dasturida yaratilib fayllar saqlanganda qanday kengaytma bilan saqlanadi
+Grafik infografika...?
 ====
-mtt
+#Vizualizatsiya uchun geografik yoki demografik ma'lumotlarni yaratadi
 ====
-#mtf
+Ikki yoki undan ortiq ob'ektlar, yondashuvlar, g'oyalar yoki hodisalarni solishtiring
 ====
-mkt
+Muxolifat elementlari o'rtasidagi rozilik munosabatlari
 ====
-msp
-
+Vertikal ajratuvchi ko'pincha vizual ko'rsatish uchun ishlatiladi.
 ++++
-
-CourseLab dasturida tayyorlangan ishni ko’rib olish qaysi bolimdan amalga oshiriladi
+Tarixiy infografika….?
 ====
-Вид
+#Infografika tarixiy voqealar miqyosi haqida tasavvur hosil qilish, ularning ketma-ketligini eslab qolish uchun
 ====
-Курс
+faqat tarixiy voqealar va munosabatlarni kuzatish
 ====
-#Модул
+Infografika har qanday tizimning elementlarini ahamiyatiga qarab tartibga solidi
 ====
-Главная
-
+hodisalarni tasvirlash yoki ularning bir-biri bilan o'zaro ta'sirini ko'rsatishga yordam beradi
 ++++
-
-CourseLab dasturida elektron darslik tayyorlanayotganda nechta oyna bilan ish olib boriladi
+Ierarxik infografika.....?
 ====
-#3
+#Infografika har qanday tizim elementlarini ahamiyatiga ko'ra tartibga solishga yordam beradi yoki ularning bir-biri bilan o'zaro ta'sirini ko'rsatadi
 ====
-5
+Tarixiy voqealar miqyosi haqida tasavvur hosil qilish, ularning ketma-ketligini eslab qolish uchun infografika
+====
+Ikki yoki undan ortiq ob'ektlar, yondashuvlar, g'oyalar yoki hodisalarni solishtirish
+====
+Vizualizatsiya uchun geografik yoki demografik ma'lumotlarni yaratadi
+++++
+Ijtimoiy infografika...?
+====
+#Ijtimoiy plakatlar jamiyatdagi muayyan muammo haqida fikr yuritish uchun asos bo'lib xizmat qiladi
+====
+tarixiy voqealar miqyosi haqida tasavvur hosil qilish, ularning ketma-ketligini eslab qolish uchun
+====
+ikki yoki undan ortiq ob'ektlar, yondashuvlar, g'oyalar yoki hodisalarni solishtiring
+====
+Vizualizatsiya uchun geografik yoki demografik ma'lumotlarni yaratadi
+++++
+Yig'ilgan ma'lumotlarni infografikada vizuallashtirish - infografikani yaratish qaysi bosqichda?
+====
+#Uchinchi
+====
+Ikkinchi
+====
+Birinchi
+====
+To'rtinchi
+++++
+Infografika maqsadlarini aniqlash - infografikani yaratish qaysi bosqichda?
+====
+#Birinchi
+====
+Uchinchi
+====
+Ikkinchi
+====
+To'rtinchi
+++++
+Infografikadagi belgilar, shtrixli diagrammalar, diagrammalar...?
+====
+#Infografik rezyumeni to'ldirish elementlari
+====
+Infografik dizayn bosqichlari
+====
+Funktsional infografik elementlar
+====
+Infografik shablonlar
+++++
+Tahlil natijalaridan foydalanish va ularni grafik yoki infografika sifatida taqdim etish...?
+====
+#Hisobot ma'lumotlarini ko'rsatish
+====
+Aql xaritasi
+====
+Vaqt jadvalidan foydalanish
+====
+Metaforadan foydalanish
+++++
+Odamlarga nutqning burilishlarini ko'rsatadigan noyob fotosuratlar va ob'ektlardan foydalanish ....?
+====
+#Metaforadan foydalanish
+====
+Hisobot ma'lumotlarini ko'rsatish
+====
+Vaqt jadvalidan foydalanish
+====
+Aql xaritasi
+++++
+Qaysi turdagi infografika qurilish inshootlari haqida ma'lumot beradi
+====
+#Arxitektura infografikasi
+====
+Biografik infografika
+====
+Qiyosiy infografika
+====
+Ilmiy infografika
+++++
+Qaysi turdagi infografika turli ilmiy nazariyalar va jarayonlar haqida ma'lumot beradi
+====
+#Ilmiy infografika
+====
+arxitektura infografikasi 
+====
+Biografik infografika
+====
+Qiyosiy infografika
+++++
+Standart shablonlar aniq tuzilgan, biz bloklar va ish tajribasi, ta'lim, kurslar va hokazolar haqidagi ma'lumotlarni kiritish uchun nimadan foydalanamiz?
+====
+#Rezyume infografikasi
+====
+Infografik printsip
+====
+Infografik tahlil
+====
+Infografik ob'ekt
+++++
+Infografika nima qiladi?
+====
+#Infografika yashirinni ochib beradi, chalkashlikni tushuntiradi va noaniqni moslashtiradi
+====
+Infografika yashirinni ochib beradi, aloqani cheklaydi va tushunarsiz narsalarni moslashtiradi
+====
+Infografika yashirinni ochib beradi, chalkashlikni tushuntiradi, noaniq narsalarni moslashtirmaydi
+====
+Infografika yashirinni ko'rsatmaydi, chalkashlikni tushuntiradi va tushunarsiz narsalarni moslashtiradi
+++++
+Infografika qaysi ommaviy axborot vositalarida muhim rol o'ynaydi
+====
+#bosma va onlayn ommaviy
+====
+bosma va oflayn ulgurji
+====
+bosilgan ommaviy
+====
+oflayn massiv
+++++
+Infografikani yaratishning asosiy bosqichlari qanday?
+====
+#1 bosqich - mavzu tanlash, 2 bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - asosiy va ikkinchi darajali ob'ektlarni yaratish, 6 bosqich - maket, sahnalashtirish
+====
+1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - maket, sahnalashtirish
+====
+1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot yuborish, 3-bosqich - tizimlashtirish, 4-bosqich - eskiz va hikoya, 5-bosqich - asosiy va ikkinchi darajali ob'ektlarni yaratish, 6-bosqich - maket, sahnalashtirish
+====
+1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - asosiy darajadagi ob'ektlarni yaratish, 6 bosqich - maket, sahnalashtirish
+++++
+Creately bu....
+====
+#Kinergix tomonidan ishlab chiqilgan diagramma va dizayn imkoniyatlariga ega SaaS vizual hamkorlik vositasi
+====
+Mac va Linux tomonidan ishlab chiqilgan diagramma va dizayn imkoniyatlariga ega SaaS vizual hamkorlik vositasi
+====
+Nik Foster tomonidan ishlab chiqilgan diagramma va dizayn imkoniyatlariga ega SaaS vizual hamkorlik vositasi
+====
+Hiraash Tofik tomonidan ishlab chiqilgan diagramma va dizayn imkoniyatlariga ega SaaS vizual hamkorlik vositasi
+++++
+Creately nechta versiyaga ega?
+====
+#  2
+====
+3
 ====
 4
 ====
-7
-
+5
 ++++
-
-CourseLab dasturida elektron darslik tayyorlanayotganda  Мастер oynasi vazifasi qanday
+Creately-ning birinchi beta versiyasini kim ishlab chiqdi?
 ====
-Yaratilayotgan elektron kitobning interfeysi(birinchi betligi) bilan ishaydi
+#
+Jayasundara Chandika
 ====
-#Yaratilayotgan elektron kitobning kodlari, boshqaruv buyruqlari bilan ishlaydi
+Nik Foster
 ====
-Yaratilayotgan elektron kitobning umumiy ko’rinish qismi bilan ishlaydi
+Karamjit Singx
 ====
-Bunday bo’lim mavjud emas
-
+Kinergix
 ++++
-
-CourseLab dasturida elektron darslik tayyorlanayotganda  Обичный oynasi vazifasi qanday
+RAMning asosiy vazifasi
 ====
-Yaratilayotgan elektron kitobning birinchi betligi(kirish qismi) bilan ishaydi
+# Yodlash
 ====
-Yaratilayotgan elektron kitobning kodlari, boshqaruv buyruqlari bilan ishlaydi
+Tuzatish
 ====
-#Yaratilayotgan elektron kitobning umumiy ko’rinish qismi bilan ishlaydi
+Vizualizatsiya
 ====
-Bunday bo’lim mavjud emas
-
+Xotira registrini kechiktirish
 ++++
-
-CourseLab  dasturida yaratilib fayllar saqlanganda qanday qisqartma bilan saqlanadi
+Bulutli texnologiya bu...
 ====
-mtf
+# Ma'lumotlarni saqlash va qayta ishlashning masofaviy usuli
 ====
-#wcl
+Matn yoki grafik ma'lumotlarni ko'rsatish uchun mo'ljallangan kompyuter qurilmasi
 ====
-wcc
+Manipulyator tipidagi kiritish moslamasi
 ====
-msp
-
+Raqamli signallarni analogga aylantiruvchi qurilma
 ++++
-
-FastStone Capture yordamida qanday asosiy topshiriqlarni bajarish mumkin?
+Quyidagilardan qaysi biri bulutli texnologiyalarga tegishli emas?
 ====
-Video yozish, animatsiyalar qo‘shish
+# Profilaktik xizmat ko'rsatish uchun himoya tizimini vaqtincha o'chirib qo'yish
 ====
-Skrinshot olish
+Yuqori darajadagi hisoblash quvvati
 ====
-Video yozish, Skrinshot olish,animatsiyalar qo‘shish
-====
-#Video yozish ,skrinshot olish
-
+Ma'lumotni har qanday qurilmadan olish mumkin
+===
+Saqlangan ma'lumotlarning eng yuqori ishonchliligi
 ++++
-
-ADTester dasturida nechchi xil turdagi testlar yaratish mumkin?
+Yagona axborot-ta’lim makonining asosi nima?
 ====
-7
+# Internet
 ====
-#5
+ommaviy axborot vositalari
 ====
-9
+Kino
+====
+Adabiyot
+++++
+Tanlangan yuzaning tasvirlarini raqamlashtirish uchun ishlatiladigan qurilma
+====
+# Skaner
+====
+Kompyuter
+====
+Printer
+====
+Modem
+++++
+Qaysi universal platforma ish uchun barcha vositalaringizdan foydalanishga imkon beradi?
+====
+# Google
+====
+Yandex
+====
+Discord
+====
+Zoom
+++++
+Cinergix tomonidan qanday sxema ishlab chiqilgan?
+====
+# Creately
+====
+Wordle
+====
+Googlechart
+====
+Pictogram
+++++
+Wordle bu?
+====
+# Brauzer so'z o'yini
+====
+Brauzer asosidagi raqam
+====
+Brauzer asosidagi g'oya
+====
+Brauzer asosidagi tasdiq
+++++
+Ma'lumotlarni vizualizatsiya qilish va ijodiy grafikalar uchun etakchi manba nima?
+====
+Graphs.net
+====
+Pictochart.com
+====
+Canva.com
+====
+Google.com
+++++
+Venngage va uning xususiyatlari bilan siz g'oyalarni ishlab chiqa olasizmi, strategiyalarni tasavvur qila olasizmi yoki biznes jarayonlarini soddalashtira olasizmi?
+====
+# Intellektual diagramma
+====
+Aqlli taqsimlash
+====
+Aqlli ajratish
+====
+Intellektual vizuallashtirish
++++++
+Qaysi turdagi infografika qurilish inshootlari haqida ma'lumot beradi.
+====
+# arxitektura infografikasi
+====
+Biografik infografik
+====
+Qiyosiy infografika
+====
+Ilmiy infografika
+++++
+Mualliflar isbotlaydilarki, qaysi fanni o'rganish jarayonida infografika bilan ishlash bo'yicha trening o'tkazish samaraliroq?
+====
+#  Xorijiy til
+====
+Informatika
 =====
-6
-
+Matematika
+====
+Iqtisodiyot
 ++++
-
-Articulate dasturidan qanday maqsadlarda foydalanish mumkin
+Infografik kompetentsiyaning asosiy xususiyatlari qanday?
+====
+# Retseptiv-produktiv
+====
+Mahsuldor
+====
+Zaxira hosil qiluvchi
+====
+Tasviriy-mahsulli
+++++
+Infografikani yaratishning asosiy bosqichlari qanday?
+====
+# 1 bosqich - mavzu tanlash, 2 bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - asosiy va ikkinchi darajali ob'ektlarni yaratish, 6 bosqich - maket, sahnalashtirish.
+====
+1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - maket, sahnalashtirish
+====
+1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot yuborish, 3-bosqich - tizimlashtirish, 4-bosqich - eskiz va hikoya, 5-bosqich - asosiy va ikkinchi darajali ob'ektlarni yaratish, 6-bosqich - maket, sahnalashtirish.
+====
+1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - asosiy darajadagi ob'ektlarni yaratish, 6 bosqich - maket, sahnalashtirish.
+++++ 
+Bir xil Firma, tashkilot yoki jismoniy shaxsga tegishli boʻlgan va kontent boʻyicha bogʻlangan veb-sahifalar guruhi
+====
+# veb-sayt
+====
+Server
+====
+Host
+====
+Domen
+++++
+Internetga ulangan kompyuterda ... bo'lishi kerak.
+====
+IP – manzil
+====
+Veb-sahifa
+====
+URL – manzil
+====
+Domen nomi
+++++
+Axborot texnologiyalari bu:
 =====
- Matn tahrirlash, Videolar yaratish
+# Usullar va avtomatlashtirish vositalaridan foydalangan holda ma'lumotlarni yig'ish, qayta ishlash, uzatish va saqlash bo'yicha operatsiyalar majmui Texnik vositalar to'plami
+====
+Dasturiy vositalar to'plami.
+====
+Tashkiliy vositalar yig'indisi
+====
+Ko'p ma'lumot resurslari
++++++
+Mobil ilova nima?
+====
+# Smartfonlar, planshetlar va boshqa mobil qurilmalarda ishlash uchun mo'ljallangan dasturiy ta'minot
+====
+Bu bir nechta ikkinchi darajali dasturlardan iborat planshet.
+====
+Mobil qurilmalarning ishlashi bilan bog'liq maxsus tipik vazifalarni bajarish uchun umumiy dasturiy ta'minotning bir qismi sifatida yordamchi kompyuter dasturi.
+====
+O'yin jarayonini tashkil qilish, o'yin sheriklari bilan muloqot qilish uchun xizmat qiluvchi dastur.
+++++
+Interaktiv devor ...
+====
+# Devorni planshet kompyuter kabi u bilan o'zaro ta'sir qilish qobiliyatiga ega video yuzasiga aylantirish imkonini beruvchi qurilmalar to'plami
+====
+Tasvir proyeksiya qilinadigan banner
+====
+Oq magnit doska ko'rinishidagi interaktiv ekran
+====
+Uch o'lchamli tasvir va uning animatsiyasini yaratish uchun dastur
+++++
+Quyidagilardan qaysi biri bulutli texnologiyalarga tegishli emas?
+====
+Profilaktik xizmat ko'rsatish uchun himoya tizimini vaqtincha o'chirib qo'yish
+====
+Yuqori darajadagi hisoblash quvvati
+====
+Ma'lumotni har qanday qurilmadan olish mumkin
+====
+Saqlangan ma'lumotlarning eng yuqori ishonchliligi
+++++
+Infografika funksiyalari...?
+====
+Ma'lumotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga bir vaqtning o'zida ma'lumot to'plashda yordam berish, chunki ular kiritilgan matnning tartibida farqlanadi.
+====
+Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga darhol ma'lumot to'plashda yordam berish.
 =====
- Videolar yaratish, Grafik dizayn qilish
+Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga darhol ma'lumot to'plash, ularni kiritish tartibini diversifikatsiya qilish va etkazishda yordam berish
+====
+Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, ularni kiritish tartibini diversifikatsiya qilish va muloqot qilish.
+++++
+Zamonaviy xaritalar, transport tizimlari uchun marshrut xaritalarida qanday usul qo'llaniladi?
+====
+# Infografika
+====
+Dizayn
 =====
- #Interaktiv o’quv modullarini yaratish
-=====
- Videolar yaratish, testlar tuzish
-
-++++
-
-Articulate Quizmaker dasturida qanday turdagi testlarni yaratish mumkin?
-====
-Multiple choice (bir nechta to’g’ri javob) testlar
-====
-Interaktiv video testlar
-====
-Audio testlar
-====
-#Avtonom tarzda web saytga joylashuvchi Flash-testlar
-
-++++
-
-AutoPlay Media Studio dasturida qaysi qisqa tugma orqali yangi sahia(Page) qoshish mumkin
-====
-#insert
-====
-F5
-====
-Shift+F5
-====
-Tab
-
-++++
-
-AutoPlay Media Studio dasturida buttonga pdf biriktirish qanday amalga oshiriladi
-====
-#Свойства+ Быстрое действие + действие для запуска+Open document
-====
-Свойства+Атрибуты + действие для запуска+Open document
-====
-Свойства+Параметри+ действие для запуска+Open document
-====
-Свойства+Скрипт + действие для запуска+Open document
-
-++++
-
-iSpring Kineticks bo`limi qanaqa vazifani bajaradi?
-====
-#Elektron kitob yaratadi
-====
-Test savollar tuzadi
-====
-Taqdimot yaratadi
-====
-animatsiya yaratadi
-
-++++
-
-Bulut servisida har bir foydalanuvchi uchun bepul qancha joy ajratiladi?
-====
-#15 Gb
-====
-150 Mb
-====
-15 Mb
-====
-15 Tb
-
-++++
-
-EТRga talablar:
-====
-# didaktik, maxsus, metodik
-====
-tizimli, tarmoq, estetik
-====
-individuallik, electron nashr
-====
-information, tizimli
-
-++++
-
-Fanni oʻrganish jarayonida bilimlarni sinab koʻrishdan maksimal darajada samarali foydalanish uchun ikki xil sinovdan foydalanish tavsiya etiladi:
-====
-#Oʻz-oʻzini nazorat qilish testi (har bir boʻlim yoki mavzu uchun), yakuniy test (umuman olganda butun fan uchun)
-====
-Oraliq nazorat, yakuniy nazorat
-====
-Joriy nazorat, oraliq nazorat
-====
-Joriy nazorat, yakuniy nazorat
-
-++++
-
-Test topshiriqlari necha turga bo‘linadi va ular qaysilar ?
-====
-#2 turga ochiq va yopiq
-====
-3 turga ochiq, yopiq va aralash
-====
-2 turga og‘zaki va yozma
-====
-2 turga yozma va aralash
-
-++++
-
-Ochiq turdagi testlarga qaysilar kiradi?
-====
-#Boʻsh joylarni toʻldirish, tabiiy tilda berilgan javob
-====
-Yagona javobni tanlash, moslikni aniqlash
-====
-Bir nechta javobni tanlash, toʻgʻri ketma-ketlikda joylashtirish
-====
-Moslikni aniqlash, toʻgʻri ketma-ketlikda joylashtirish
-
-++++
-
-Yopiq turdagi testlarga qaysilar kiradi?
-====
-#Yagona javobni tanlash, bir nechta javobni tanlash, moslikni aniqlash, toʻgʻri ketma-ketlikda joylashtirish
-====
-Boʻsh joylarni toʻldirish, tabiiy tilda berilgan javob
-====
-Moslikni aniqlash, toʻgʻri ketma-ketlikda joylashtirish, tabiiy tilda berilgan javob
-====
-Yagona javobni tanlash, moslikni aniqlash
-
-++++
-
-EATRni yaratishning asosiy bosqichlari nechta ?
-====
-#8 ta
-====
- 9 ta
-====
-10 ta
-====
-11 ta
-
-++++
-
-Aniqlanmagan axborot –
-====
-#bu "potensial"dagi, kodlashtirilgan koʻrinishdagi, inson ongidan yashirin holatdagi axborotlar.  
-====
-bu inson ongi va sezgi organlari tomonidan qabul qilinadigan axborotlar. 
-====
-bular faqat tirik tizimlarga va rivojlanish tizimlariga xos axborotlardir.
-====
-Barcha javoblar to‘g‘ri
-
-++++
-
-Aniqlangan axborotlar – 
-====
-# bu inson ongi va sezgi organlari tomonidan qabul qilinadigan axborotlar. 
-====
-bu "potensial"dagi, kodlashtirilgan koʻrinishdagi, inson ongidan yashirin holatdagi axborotlar.  
-====
-bular faqat tirik tizimlarga va rivojlanish tizimlariga xos axborotlardir.
-====
-Barcha javoblar to‘g‘ri
-
-++++
-
-Ijodiy  axborotlar – 
-====
-#bular faqat tirik tizimlarga va rivojlanish tizimlariga xos axborotlardir.
-====
-bu "potensial"dagi, kodlashtirilgan koʻrinishdagi, inson ongidan yashirin holatdagi axborotlar.  
-====
-bu inson ongi va sezgi organlari tomonidan qabul qilinadigan axborotlar. 
-====
-Barcha javoblar to‘g‘ri
-
-++++
-
-Elektron darsliklar yaratish texnologiyasida birinchi qadam nima?
-====
-#yaratish maqsadlari va vazifalarini aniqlash
-====
-Elektron darslik tuzilishini ishlab chiqish
-====
-bo‘limlar (modullar) va mavzular bo‘yicha darslik tarkibini ishlab chiqish
-====
-Elektron darslik uchun individual tarkibiy skriptlarni tayyorlash
-
-++++
-
-Elektron darslikni yaratish texnologiyasining so‘nggi bosqichi nima?
-====
-#Foydalanish bo‘yicha ko‘rsatmalar tayyorlash
-====
-Elektron darslik tuzilishini ishlab chiqish
-====
-Sinov natijalari asosida elektron darslik tarkibini takomillashtirish
-====
-Elektron darslikning individual tarkibiy sahnalarini tayyorlash
-
-++++
-
-iSpring dasturini ustanovka qilganda nechta bo‘lim paydo bo‘ladi va ular qaysilar?
-====
-#3 ta, iSpring pro, iSpring Kinetics,  iSpring Quiz Maker
-====
-2 ta, Quick publish,Quiz
-====
-1 ta, Quick publish
-====
-2 ta, Quick publish, iSpring pro
-
-++++
-
-Quiz Maker bo‘limi nima uchun ishlatiladi?
-====
-#Test savollarini tuzish uchun
-====
-Dastur yaratish uchun
-====
-Taqdimotni yaratish
-====
-Lug‘at tuzish
-
-++++
-
-Ta’limdagi zamonaviy texnik vositalarga qaysilar kiradi?
-====
-#Kompyuter, proektor, interfaol doska, smart doska
-====
-Kompyuter, doska, proektor
-====
-Proektor, kompyuter, o‘quv materiallari
-====
-Kodoskop, tarqatma materiallar, slaydlar
-
-++++
-
-Internet-provayder qanday xizmatlarni taqdim etadi?
-====
-#Internetga kirishni ta’minlaydi
-====
-transport xizmatlarini taqdim etadi
-====
-onlayn hisob-kitoblarni ta’minlaydi
-====
-kontentni etkazib berish
-
-++++
-
-Elektron kitobni qaysi formatlarda berish mumkin?
-====
-#pdf, epub
-====
-doc, docx
-====
-xls, xlsx
-====
-ppt, pptx
-
-++++
-
-Gipermatnli hujjat nima deyiladi?
-====
-#Boshqa hujjatlarga havolalarni o‘z ichiga olgan HTML-hujjat
-====
-Internetda serverga joylashtirilgan har qanday hujjat
-====
-Katta hajmli hujjat
-====
-Jadval va raqamlarni o‘z ichiga olgan hujjat
-
-++++
-
-Power Pointda yaratilgan taqdimotni qanday qilib .exe formatiga o‘tkaziladi?
-====
-#iSpring Pro, Опубликовать, Презентация, Создать exe
-====
-iSpring Pro, Опубликовать, Презентация, Создать HTML
-====
-iSpring Pro, Опубликовать, Презентация, Generate html
-====
-iSpring Pro, Опубликовать, Презентация
-
-++++
-
-Gipermatn bu?
-====
-#materialga kiritilgan assotsiatsiyalar bo‘yicha interaktiv rejimdagi so‘zlar, fayllar va paragraflarni jadal birlashtirish uchun foydalanilgan uslub
-====
-materialga kiritilgan assotsiatsiyalar bo‘yicha interaktiv rejimdagi so‘zlar, fayllar va paragraflarni belgilash uchun foydalanilgan uslub
-====
-materialga kiritilgan assotsiatsiyalar bo‘yicha interaktiv rejimdagi so‘zlar, fayllar va paragraflarni sozlash uchun foydalanilgan uslub
-====
-materialga kiritilgan assotsiatsiyalar bo‘yicha interaktiv rejimdagi so‘zlar, fayllar va paragraflarni siqish uchun foydalanilgan uslub
-
-++++
-
-CourseLab o‘quv modulini qurish uchun qanday asosiy tiplardan foydalanadi?
-====
-#ichki va murakkab
-====
-sodda va murakkab
-====
-ichki va tashqi
-====
-ichki, tashqi va murakkab
-
-++++
-
-Web-sahifalar bo‘ylab oson almashinish imkonini beruvchi o‘zaro bog‘langan so‘z va so‘z birikmalarining kuchli tizimi bu ?
-====
-#gipermatn
-====
-gipermedia
-====
-tasvir
-====
-sarlovha
-
-++++
-
-Moodle tizimida dastur asosida batafsil o‘zlashtirish qanday amalga oshiriladi?
-====
-#Mustaqil o‘rgangan holda o‘zlashtiradilar
-====
-Amaliyotda o‘rganadi
-====
-Maruza jarayonida
-====
-Ustoz Shogird tarzida o‘qitilganda
-
-++++
-
-Modulda baho qanday chiqariladi?
-====
-#Baho faqat modulni to‘liq o‘rganilganidan so‘ng yakuniy qilib chiqariladi
-====
-ON va JN dan keyin chiqariladi
-====
-Yakuniy qilib chiqariladi
-====
-ON, JN va yakuniy nazorat olinganidan keyin chiqariladi
-
-++++
-
-Hozirda yaratilayotgan ko‘pgina elektron darsliklar ma’lumotlari dastlab qanday ko‘rinishga o‘tkaziladi?
-====
-#HTML sahifalari
-====
-Bloknotda yozib olinadi
-====
-Vizuallashgan C++ tilida
-====
-Kichkina jadvallar ko‘rinishida
-
-++++
-
-iSpring dasturini o‘rnatilganda qaysi offis dastur ichiga tushadi?
-====
-#Power Point
-====
-Word matn muharriri
-====
-Acces
-====
-Exsel
-
-++++
-
-iSpring Kinetics menyularini ko‘rsating
-====
-#Book, Help
-====
-Quick publish, Quiz, Help
-====
-Book, Help, Quick publish, Quiz, Help
-====
-Quiz, Help
-
-++++
-
-Elektron o‘quv kursini yaratishga qo‘yiladigan talablarni sanab bering.
-====
-#pedagogik, texnik, dasturiy, dizayn, ergonomik, psixologik-fiziologik
-====
-pedagogik, didaktik, texnik, dasturiy
-====
-dizayn, ergonomik, psixologik-fiziologik
-====
-pedagogik, dizayn, ergonomik, psixologik-fiziologik
-
-++++
-
-Animatsiya nima?
-====
-#(animation)- lotincha "anima" so‘zidan olingan bo‘lib, - ruh, -jon ma’nosini bildiradi (ruhlantirish, jonlantirish)
-====
-(animation)- inglizcha "anima" so‘zidan olingan bo‘lib, - ruh, -tana ma’nosini bildiradi
-====
-(animation)- nemischa "animate" so‘zidan olingan bo‘lib, - harakat ma’nosini bildiradi
-====
-(animation)- fransuzcha "animata" so‘zidan olingan bo‘lib, - ruhlar, harakatlar ma’nosini bildiradi
-
-++++
-
-Virtual tushunchasiga berilgan to‘g‘ri ta’rifni tanlang ?
-====
-#lotincha Virtualis muayyan sharoitda ro‘y beradigan hodisa va jarayon
-====
-inglizcha Virtualis muayyan sharoitda ro‘y beradigan hodisa va jarayon
-====
-fransuzcha Virtualis muayyan sharoitda ro‘y beradigan hodisa va jarayon
-====
-ispan tilida Virtualis muayyan sharoitda ro‘y beradigan hodisa va jarayon
-
-++++
-
-HotPotatoes dasturining JCloze dastur bloki yordamida yaratilgan fayllar kengaytmasini aniqlang.
-====
-#*.jcl
-====
-*.jqz
-====
-*.jcw
-====
-*.jmx
-
-++++
-
-HotPotatoes dasturining JCross dastur bloki yordamida yaratilgan fayllar kengaytmasini aniqlang.
-====
-#*.jcw
-====
-*.jcl
-====
-*.jqz
-====
-*.jmx
-
-++++
-
-HotPotatoes dasturining JMatch dastur bloki yordamida yaratilgan fayllar kengaytmasini aniqlang.
-====
-#*.jmt
-====
-*.jcl
-====
-*.jcw
-====
-*.jqz
-
-++++
-
-HotPotatoes dasturining The Masher instrumenti yordamida yaratilgan fayllar kengaytmasini aniqlang.
-====
-#*.jms
-====
-*.jcl
-====
-*.jcw
-====
-*.jqz
-
-++++
-
-Axborot texnologiyalari bu –
-====
-#Ma’lamotlarni qayta ishlashga mo‘ljallangan usullar, ishlab chiqarish jarayonlari va dasturiy texnik vositalarning yig‘indisi
-====
-Kompyuter bilan muloqot texnologiyalari
-====
-EHMda ma’lumotlarni qayta ishlash texnologiyalari
-====
-Ma’lumot uzatish va kiritish texnologiyalari
-
-++++
-
-Elektron o‘quv resurslarini sifatini an’anaviy baholashda ....... muhim.
-====
-#o‘quv dasturiga mosligi
-====
-yagona metodikaga mosligi
-====
-foydalanuvchi kontent bilan qulay munosabatda bo‘lishi
-====
-taqdim etilayotgan material ilmiy asoslanganligi
-
-++++
-
-AutoPlay Media Studio dasturi qanday dasturlar turkumiga kiradi?
-====
-#Web sahifa va elektron ta’lim resurslari tayyorlashga mo‘ljallangan dastur
-====
-Slayd shou yaratish mumkin bo‘lgan dastur
-====
-Matn va jadvallar bilan ishlovchi dastur
-====
-Loyihalash dasturi
-
-++++
-
-Multimedia bilan ishlaydigan apparat vositalari.....
-====
-#Ma’lumotni yozib olish qurilmalari, ma’lumotni chiqarish qurilmasi, manipulyatorlar, “Virtual borliq” qurilmalari, axborot tashuvchi qurilmalar
-====
-Manipulyatorlar, axborot tashuvchilar, tasvirni qayta ishlar dasturiy vositalari
-====
-Multimediani o‘rganish uchun kompyuter stendi
-====
-Printer, skayner, modem, drayver, videokonferensiya vositalari
-
-++++
-
-CourseLab da master-slayd qanday vazifani bajaradi?
-====
-#Yangi modul uchun shablon yaratadi
-====
-Yangi slayd uchun shablon yaratadi
-====
-Yangi bo‘lim uchun shablon yaratadi
-====
-Yangi kurs uchun shablon yaratadi
-
-++++
-
-HotPotatoes dasturida moslikni o‘rnatish fayllari qanday formatda saqlanadi?
-====
-#.jmt
-====
-.jmx
-====
-.jqz
-====
-.jcw
-
-++++
-
-AutoPlay Media Studio dastur oynasi qanday tuzilmaga ega?
-====
-#Dastur oynasining sarlovha satri, dastur oynasining menyu satri, instrumentlar paneli satri, loyiha elementlari muloqot oynasi, svoystva muloqot oynasi, holat satri
-====
-Dastur oynasining menyu satri, instrumentlar paneli satri 
-====
-Svoystva muloqot oynasi
-====
-Dastur oynasining menyu satri, instrumentlar paneli satri, loyiha elementlari muloqot oynasi
-
-++++
-
-Button ob’ektining funksiyasi to‘g‘ri keltirilgan qatorni toping
-====
-#Bir nechta rangdagi turli variantlar mavjud. Asosan boshqaruv funksiyasini bajaradigan buyruqlar bu tugmaga biriktiriladi.
-====
-Yozuv gorizontal va vertikal ko‘rinishda bo‘lishi mumkin. Bir nechta satrdan iborat matnni o‘z ichiga oladigan yozuv maydonchasi. Ko‘rinish sog‘asiga sig‘may qolgan pastdagi yozuvlar uning o‘ng tomonidagi lift yugurdagi orqali o‘qilishi mumkin, .txt  va .quiz- kengaytmali matn fayllarini yuklab olib o‘qitish ham mumkin
-====
-Yozuv maydonchasi. Ishchi sohadagi yozuvlar shu ob’ekt bilan beriladi
-====
-Turli formatdagi ikonkalar va ramlarni ishchi sohada joylashtirish uchun ishlatiladi.
-
-++++
-
-Ob’ekt qaysi tipdagi fayllar bo‘lishi mumkin?
-====
-#hech qanday chegara qo‘yilmaydi
-====
-txt, gif, jpg, doc, fla, swf, pdf, pps, bas, png, wmf
-====
-txt, gif, jpg, doc, fla, swf, avi, xls, ppt, pdf, pps, bas, png, pas
-====
-txt, gif, jpg, doc, fla, swf, avi, xls, ppt, pdf, pps, bas
-
-++++
-
-iSpring dasturi tarkibidagi qaysi yordamchi dastur test tuzish imkonini beradi
-====
-#iSpring QuizMaker
-====
-SCORM
-====
-iSpring Visuals
-====
-WAP
-
-++++
-
-CourseLab da necha turdagi interfaol savollar tuzish mumkin?
-====
-#9
-====
-8
-====
-10
-====
-6
-
-++++
-
-PowerPointda iSpring menyular satrini ko‘rsating
-====
-#Публикация, Презентация, Сопровождение, Вставка, Информация, Активизация
-====
-Публикация, Презентация, Сопровождение, Вставка
-====
-Сопровождение, Вставка, Информация, Активизация
-====
-Сопровождение, Вставка, Информация
-
-++++
-
-Hozirda yaratilayotgan ko`pgina elektron darsliklar ma’lumotlari dastlab qanday ko`rinishga o`tkaziladi?
-====
-#HTML sahifalari
-====
-Bloknotda yozib olinadi
-====
-Vizuallashgan C++ tilida
-====
-Kichkina jadvallar ko`rinishida
-
-++++
-
-Interfaol doska - bu ...
-====
-#kompyuterdagi tasvirlarni proyektor orqali namoyish etadigan sensorli ekrandir.
-====
-kompyuterdagi tasvirlarni namoyish etadigan sensorli ekrandir.
-====
-kompyuterdagi tasvirlarni proyektor orqali namoyish etadigan monitordir.
-====
-kompyuterdagi tasvirlarni qayta ishlovchi monitordir
-
-++++
-
-WinRAR bu….
-====
-#Windows uchun RAR arxivatori arxivlarni arxivlash va boshqarish uchun kuchli vositadir.
-====
-matnli fayllarni yaratish uchun
-====
-matn va elektron jadval dasturi
-====
-o'qituvchilarga dasturlash tillarini bilmasdan mustaqil ravishda o'quvchilarni nazorat qilish va boshqarish uchun interaktiv topshiriqlar va testlarni yaratishga imkon beruvchi qobiq dasturi.
-
-++++
-
-Dinamik sayt nima?
-====
-#bu doimiy ravishda o'zgarib turadigan sayt
-====
-bir marta yaratiladi va endi uni o'zgartirish mumkin emas
-====
-faqat index.html dan iborat saytlar
-====
-faqat gipermatndan iborat sayt
-
-++++
-
-Millionlab kishilarni Internet foydalanuvchilariga aylantiruvchi, masofa to‘sig‘ini bartaraf qiluvchi servisni ko‘rsating:
-====
-#HTTP-server
-====
-FTP-server
-====
-Telnet
-====
-e-mail
-
-++++
-
-Ma’lumotlarni(fayllarni) kompyuterdan tarmoqdagi yoki internetdagi boshqa kompyuterga yoki serverga yuklab qo‘yish nima deyiladi?
-====
-#upload
-====
-searching
-====
-Web hosting
-====
-download
-
-++++
-
-Ma’lumotlarni  tarmoqdagi yoki internetdagi boshqa kompyuterdan yoki serverlardan o‘z kompyuteriga yuklab olish nima deyiladi ?
-====
-#download
-====
-upload
-====
-searching
-====
-Web hosting
-
-++++
-
-Dars mazmunini yoritilishida matn .. ... izohlanadi.
-====
-#mavzuni gapirish, bayon qilish, fikr yuritish bilan
-====
-savollar, topshiriqlar, mashqlar bilan
-====
-rasmlar va yo`naltiruvchilar bilan
-====
-mos kelishi bilan
-
-++++
-
-Ta’limni axborotlashtirish……
-====
-#yangi axborot texnologiyalarini ta’lim tizimiga olib kirish
-====
-kompyuterlashtirish
-====
-Internetdan foydalanish
-====
-masofaviy ta’lim tizimi
-
-++++
-
-MOOC nima ?
-====
-#ommaviy ochiq onlayn kurslar
-====
-onlayn kurslar
-====
-o‘quv onlayn kurslar
-====
-pulli onlayn kurslar
-
-++++
-
-MOOCni boshqa onlayn kurslardan, shuningdek an’anaviy ta’lim olish usullaridan farq qiladigan narsa nima?
-====
-# MOOC nafaqat masofaviy ta’lim kurslari, balki u turli xil faoliyat turlarini o‘z ichiga olgan alohida o‘qitish metodikasidir.
-====
-MOOC barcha uchun ochiqligidir.
-====
-geografik joylashuvi bilan cheklanmagan ko‘plab talabalarni qamrab oladi.
-====
-Uy vazifasi ham har qanday qulay vaqtda va har qanday tezlikda amalga oshiriladi
-
-++++
-
-MOOCni taqdim etuvchi tizimni ko‘rsating.
-====
-#Coursera, EdX, Khan academy
-====
-Ziyonet.uz, Moodle.org
-====
-Intuit.ru, pedagog.uz
-====
-my.estudy.uz, estudy.uz
-
-++++
-
-Stenford universiteti informatika professorlari Endro In va Dafna Koller tomonidan asos solingan “ommaviy ochiq – ta’lim sohasidagi” loyiha qanday nomlanadi?
-====
-#Coursera
-====
-Moodle
-====
-edX
-====
-Udacity
-
-++++
-
-Axborotni qayta ishlash deganda nimani tushunasiz?
-====
-#Biror bir axborotni  bir turdan boshqa turga o’tkazish
-====
-Biror bir axborotga qayta nom berish
-====
-Biror bir axborotni boshqa kompyuterga uzatish
-====
-Biror bir axborotni boshqa kompyuterdan qabul qilish
-
-++++
-
-Qaysi javobda virtual reallikning apparat vositalari to`g`ri keltirilgan?
-====
-#barcha javoblar to‘g‘ri
-====
-qo‘lqop
-====
-shlem
-====
-ko‘zoynak
-
-++++
-
-Kompyuter xotirasi bu,  maxsus  electron  yacheykalar  to‘plami  bo‘lib,  ularning har  biri  qanday belgilar bilan ishlaydi?
-====
-#1 va 0
-====
-+ va –
-====
-1 va 2
-====
-< va >
-
-++++
-
-COURSERA ta’lim loyihasi qaysi universitet tomonidan yaratilgan?
-====
-#Stenford universiteti professorlari
-====
-Oksford universiteti professorlari
-====
-Moskva davlat universiteti professorlari
-====
-Novosibirsk universiteti professorlari
-
-++++
-
-Bulutli texnologiyalar qanday texnologiya?
-====
-#Internet-foydalanuvchiga Internet-xizmat sifatida kompyuter resurslari taqdim etiladigan ma'lumotlarni qayta ishlash texnologiyalari
-====
-Onlayn saqlash modeli, unda ma'lumotlar tarmoqda tarqatilgan ko'plab serverlarda saqlanadi va mijozlar, asosan uchinchi tomon tomonidan foydalanish uchun taqdim etiladi
-====
-tarqatilgan ma'lumotlarni qayta ishlash texnologiyasi, unda foydalanuvchiga Internet xizmati sifatida kompyuter resurslari va imkoniyatlari taqdim etiladi.
-====
-Kompyuterlar va Internet ta'lim tizimiga bir qator vazifalarni bajarish jarayonini takomillashtirish va osonlashtirish uchun kirishdir.
-
-++++
-
-iSpring Suite ning Интерактивности bo`limida nimalarni yaratish mumkin?
-====
-#Книга, Каталог, Вопрос-ответ, Временная шкала
-====
-Книга, Каталог, Вопрос-ответ, Тесты
-====
-Книга, Тесты, Временная шкала, Стихи
-====
-Вопрос-ответ, Временная шкала, Тесты
-
-++++
-
-Google Classroom – bu …
-====
-#Google Docs, Google Drive va Gmail-ni bog‘laydigan vosita bo‘lib, u sizga topshiriqlarni yaratish va bajarishda, baholashda, fikr bildirishda va o‘quvchilar bilan real vaqtda samarali muloqot qilishda yordam beradi
-====
-turli xil texnologiyalarning birlashtirilgan o'quv yondashuviga birlashishi, shaxsiy va talabalarga yo'naltirilgan bo'lishga imkon beradi.
-====
-Google Reader asosida shaxsiy yangiliklar agregatlarini yaratish, yangiliklar lentalariga obuna bo‘lish, yangiliklarni tasniflash, umumiy yangiliklarni bloglarda nashr etish
-====
-shaxsiy taqvimlarni yaratish va ularga voqealar tavsifini qo‘shish, tadbirlarni birgalikda rejalashtirish.
-
-++++
-
-Xitoy maktablarida sun'iy intellekt bo'yicha darslar qachon joriy etildi ?
-====
-#2018 yil noyabr oyi oxirida
-====
-2018 yil avgust oyi oxirida
-====
-2018 yil oktyabr oyi oxirida
-====
-2018 yil sentyabr oyi oxirida
-
-++++
-
-Google xizmatlarining qaysi birida testlar yaratish mumkin?
-====
-#Google Formsda
-====
-Google Driveda
-====
-Google документыda
-====
-Google Презентацииda
-
-++++
-
-Multimedia komponentlari quyidagilarni tashkil qiladi ?
-====
-#matn, audio, tasvir, video
-====
-multimpedia ilovalarini yaratish uchun qo‘llaniladigan dasturiy vositalar
-====
-filmlar, elektron o‘quv qo‘llanmalar, o‘yinlar, ensiklopediyalar, elektron kitoblar, virtual muzey ilovalari, reklamalar va boshqalar
-====
-multimedia tizimlari
-
-++++
-
-Camtasia Studio dasturining imkoniyatlari ko‘rsatilgan qatorni toping?
-====
-#Monitor ekranidagi va veb kameradagi tasvirlarni hamda mikrofondagi ovozlarni yozib olish –Turli vizual effektlar joylashtirish – Ovozli fayllarni tahrirlash
-====
-Monitor ekranni rasmga oladi va rasmlar  bilan qayta ishlaydi.
-====
-Rasmlarni qirqish, bo‘laklash, qo‘shish va o‘chirish - Tayyor videofaylni turli videoformatlarda saqlash
-====
-Tayyor ma’lumot bo‘yicha test tuzadi nazorat qiladi so‘ngida natijani chiqaradi
-
-++++
-
-Camtasio Studio dasturida yozib olish paytida sichqoncha ko‘rsatgichini qanday yashirish mumkin?
-====
-#Hide cursor
-====
-Show cursor
-====
-Highlight cursor 
-====
-Hig cursor
-
-++++
-
-Camtasio Studio dasturida kadrlarni almashinish effekti vaqti sukut bo‘yicha qancha?
-====
-#3 sek
-====
-2 sek
-====
-4 sek
-====
-5 sek
-
-++++
-
-Camtasio dasturning to‘liq nomi ?
-====
-#Camtasia Studio Tech Smith
-====
-Smith Camtasia Studio
-====
-Camtasia Studio
-====
-Tech Smith Camtasia Studio
-
-++++
-
-Camtasia Studio dasturida qaysi tugma video yozishni boshlaydi?
-====
-#F9
+Ierarxiya
 ====
-F8
-====
-F7
-====
-F10
-
-++++
-
-CamtasiaStudio majmuasiga quyidagi ilovalardan qaysi birini o‘z ichiga olmaydi:
-====
-#CamtasiaMaker
-====
-CamtasiaPlayer
-====
-CamtasiaTheater
-====
-CamtasiaRecorder
-
-++++
-
-Yaqinda ochilgan loyihalarni qaysi bo‘limdan tanlash mumkin?
-====
-#Recent projects
-====
-Record voice narration
-====
-Import media
-====
-Record the screen
-
+Statik
 ++++
-
-Camtasia Studio dasturida qaysi tugma video yozishni to‘xtatadi?
+…..-odamlar vizualizatsiya paytida 55% ko'proq ma'lumotni eslab qolishadimi?
 ====
-#F10
+# Aniq diagrammalar va infografika
 ====
-F7
+ACL diagrammasi
 ====
-F8
+IT loyihalari
 ====
-F9
-
+O'lchov xizmati
 ++++
-
-Camtasia Studio dasturida sichqoncha ko‘rsatgichining qaysi effekti mavjud emas?
+…..bu qiyin narsalar haqida oson gapirishning bir usulimi?
 ====
-#Left-Right effects 
+Infografika
 ====
-Highlight effects
+ACL diagrammasi
 ====
-Left-click effects
+IT loyihalari
 ====
-Right-click effects
-
+O'lchov xizmati
 ++++
-
-Ma’lumotlar bazasini boshqarish sistemalariga quyidagilarning qaysi kiradi?
-====
-#FoxPro
+Taqdimot dasturini ko'rsating.
 ====
-Excel
+# PowerPoint
 ====
-Basic
+Paint
 ====
 Word
-
+====
+Excel
 ++++
-
-CourseLab dasturida elektron darslik tayyorlanayotganda  Заставка oynasi vazifasi qanday
+— natijasi raqamli ma’lumotlar massividan iborat bo’lgan fotografiya, yorug’lik sezuvchi material sifatida esaelektron qurilma – matritsadan foydalaniladi
 ====
-#Yaratilayotgan elektron kitobning interfeysi(birinchi betligi) bilan ishaydi
+# Raqamli fotografiya
+=====
+Raqamli animatsiya
 ====
-Yaratilayotgan elektron kitobning kodlari, boshqaruv buyruqlari bilan ishlaydi
+Rastrli fotografiya
 ====
-Yaratilayotgan elektron kitobning umumiy ko’rinish qismi bilan ishlaydi
+Illyuziya
++++++
+...- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar, tushunchalar, ma'lumotlarni taqdim etishning grafik usuli.
 ====
-Bunday bo’lim mavjud emas
-
+# Intellektual xarita
+====
+vaqt shkalasi
+====
+Kadr
+====
+Infografika
 ++++
+mediamatnni talqin qilish jarayonini, mediamatn muallifi nuqtai nazariga va auditoriya nuqtai nazariga ta'sir qiluvchi madaniy, tarixiy omillarni o'rganish
+=====
+# Germenevtik tahlil
+====
+Scribing
+====
+Ikonografik taxlil
+=====
+Infografika
+++++
+…- murakkab shaklga ega bo'lgan matn, ya'ni ikki yoki undan ortiq turli semiotik tizimlar birliklari birikmasiga asoslangan, o'zaro bog'liqlik, bir-birini to'ldirish, o'zaro ta'sir munosabatlariga kirishadi, bu esa adresatga murakkab ta'sir ko'rsatadi
+====
+# Kreollashtirilgan matn
+====
+Tanqidiy matn
+====
+Taxliliy matn
+====
+Germenevtik matn
+++++
+PR materiallari uchun qiziqarli xususiyat – 
+====
+# vizual va og'zaki indekslarining ustunligi
+====
+tashqi va ichki indekslarining ustunligi
+====
+sodda va og'zaki indekslarining ustunligi
+====
+vizual va tashqi indekslarining ustunligi 
+++++
+O'z manziliga ega bo'lgan alohida xujjat qanday ataladi?   
+====
+#  Web-sahifa
+====
+Web-server
+====
+Web-sayt
+====
+Web-brauzer
+++++
+Odamlar ma'lumotni qayta ishlash uchun qanday asosiy o'rganish uslubidan foydalanadilar?
+====
+# Vizual, Eshitish, O‘qish/yozish, Kinestetik
+====
+Vizual, Eshitish, O‘qish/yozish, Grammatik
+====
+Vizual, Eshitish, O‘qish/yozish, Kinestetik, Grammatik
+====
+Vizual, Eshitish, O‘qish/yozish, Kinestetik, Grammatik, Stilistik
+++++
+Biznes uchun ma'lumotlarni vizualizatsiya qilishning afzalliklari?
+====
+# Qisqachalik, Tushunish, Harakat, Ishtirok etish
+====
+Qisqachalik, Tushunish, Harakat
+====
+Qisqachalik, Tushunish, Qayta aloqa, Ishtirok etish
+====
+Qisqachalik, Tushunish, Harakat, Ishtirok etish, Qiziqish
+++++
+O‘xshashlikni bildirish maqsadida atama yoki ibora so‘zma-so‘z qo‘llanilmaydigan biror narsaga nisbatan qo‘llaniladigan nutq shakli
+====
+# Metafora
+=====
+Investitsiya
+=====
+Statistika
+=====
+Atama
++++++
+- bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora.
+====
+# Aysberg
+====
+Piramida
+====
+Klaster
+====
+Venn
++++++
+- bu turli tashkiliy elementlar yoki biznes toifalari qanday bog'liqligini va/yoki o'zaro bog'liqligini tavsiflash uchun ishlatiladigan yaxshi o'rnatilgan mexanizmlar
+====
+# Biznes modellari
+====
+tashqi va ichki indekslarining ustunligi
+====
+sodda va og'zaki indekslarining ustunligi
+====
+vizual va tashqi indekslarining ustunligi 
+++++
+Bu ishonchli xizmat xatcho'plar qo'yish, joylashtirish va teg qo'yishdan tashqariga chiqadi
+====
+# Evernote
+====
+Diigo
+====
+Google Bookmarks
+====
+Pinboard.in
+++++
+- bu axborotni boshqarish vositasi shunchaki xatcho'plardan ko'ra ko'proq narsani bajaradi?
+=====
+# Diigo
+====
+Google Bookmarks
+====
+Pinboard.in
+++++
+roʻyxatlarni sozlash va sahifa nomi yoki arxiv sanasi boʻyicha saralash kabi asosiy funksiyalarni bajarishga imkon beradi
+====
+#  Google Bookmarks
+====
+Evernote
+====
+Diigo
+====
+Pinboard.in
+++++
+- bu tez va xavfsiz ekanligi bilan faxrlanadigan oddiy xatcho'plar sayti
+====
+# Pinboard.in
+====
+Google Bookmarks
+====
+Evernote
+====
+Diigo
+++++
+– kim, nima, qachon, qayerda, nima uchun va qanday qilib – jurnalistlar maqola uchun ma’lumot yig‘ishda berishni o‘rganadigan asosiy savollardir
+====
+# Beshta W va bitta H (5W1H)
+====
+Beshta H va bitta W (5H1W)
+====
+Beshta W va ikkita H (5W2H)
+====
+Beshta H va ikkita W (5H2W)
++++++
+- axborotni vizuallashtirishga bag'ishlangan eng katta Flickr guruhlaridan biri
+====
+# Info Graphics
+====
+Information is Beautiful
+====
+Good magazine 
+====
+Flowing Data
+++++
+Visual.ly, http://visual.ly – 
+====
+# Bu sayt bepul akkaunt bilan statik, interaktiv yoki video infografikalarni yuklash imkonini beradi
+====
+axborotni vizuallashtirishga bag'ishlangan eng katta Flickr guruhlaridan biri
+=====
+bu axborotni boshqarish vositasi shunchaki xatcho'plardan ko'ra ko'proq narsani bajaradi
+====
+Siz saytning aloqa sahifasi orqali rasmga havola bilan infografikangiz tavsifini yuborishingiz mumkin.
++++++
+Siz saytning aloqa sahifasi orqali rasmga havola bilan infografikangiz tavsifini yuborishingiz mumkin.
+====
+# Cool Infographics
+====
+Daily Infographic
+====
+Dot Com Infographic
+====
+Visual.ly
+++++
+Siz sayt administratori Jey Uillinghamga aloqa sahifasi orqali elektron pochta orqali dizayningizni Kundalik Infografikada ko'rsatilishini so'rashingiz mumkin
+====
+# Daily Infographic
+====
+Dot Com Infographic
+====
+Visual.ly
+====
+Cool Infographics
+++++
+- bu turli xil diagrammalar, grafiklar, diagrammalar, xaritalar, o'lchovlar, vaqt jadvallari va boshqalarni yaratishga imkon beruvchi foydalanish uchun qulay ma'lumotlarni vizualizatsiya qilish veb-ilovasi
+====
+# Chartle
+====
+Creately
+====
+Diagram.ly
+====
+DIY chart
+++++
+StatPlanet - bu 
+====
+# interaktiv xaritalar, grafiklar va infografika yaratish uchun ish stoli dasturi
+====
+turli xil diagrammalar, grafiklar, diagrammalar, xaritalar, o'lchovlar, vaqt jadvallari va boshqalarni yaratishga imkon beruvchi foydalanish uchun qulay ma'lumotlarni vizualizatsiya qilish veb-ilovasi
+====
+axborotni vizuallashtirishga bag'ishlangan eng katta Flickr guruhlaridan biri
+=====
+bu axborotni boshqarish vositasi shunchaki xatcho'plardan ko'ra ko'proq narsani bajaradi
++++++
++++++
+…  bu grafik elementlardan foydalangan holda ma'lumotlarni uzatish usuli 
+=====
+#Infografika 
+=====
+Ierarxiya
+=====
+Canva
+=====
+Geografiya
++++++
+Piktogrammalarning eng taniqli namunasi - qachon yaratilgan
+=====
+#miloddan 3000 yil avval 
+=====
+miloddan 4000 yil avval 
+=====
+miloddan 4500 yil avval 
+=====
+miloddan 2000 yil avval 
++++++
+grafik va diagrammalar ko'rinishida - infografika XVIII asrning oxirida paydo bo'ldi 
+=====
+#infografika XVIII asrning oxirida 
+=====
+infografika XIII asrning oxirida 
+=====
+infografika XVII asrning oxirida 
+=====
+infografika XV asrning oxirida 
++++++
+chiziqli diagramma nechanchi yilda ixtiro qilingan 
+=====
+#1786-yilda 
+=====
+1876-yilda 
+=====
+1801-yilda 
+=====
+1798-yilda
++++++
+doiraviy diagramma nechanchi yilda ixtiro qilingan 
+=====
+1786-yilda 
+=====
+1876-yilda 
+=====
+#1801-yilda 
+=====
+1798-yilda
++++++
+Infografika sizga qaysi yo’llar bilan bog'lanishingizga yordam beradigan hususiyatlar Ichida no’g’ri javobni ko’rsating?
+=====
+Sizning potentsial mijozlaringiz uchun fikr yetakchiligi mahsulot xususiyatlari va afzalliklari 
+=====
+Mijozlaringiz uchun biznes jarayonlari va xizmat ko'rsatish imkoniyatlari 
+=====
+Sizning xodimlaringiz uchun g'oyalar va siyosatlar, Investorlaringiz uchun korporativ falsafa va strategiya 
+=====
+# axborot uzatishning vizual va texnik vositalari
++++++
+VARK6 modeliga asoslanib  odamlar ma'lumotni qayta ishlash uchun nechta asosiy o'rganish uslubidan foydalanadilar
+=====
+# 4 ta 
+=====6 ta 
+5 ta 
+=====
+8 ta 
++++++
+Infografika bilan bog'liq ba'zi o'rganish afzalliklari qaysi:
+=====
+Axborot  g‘oyalar va tushunchalarni tushunish yaxshilandi 
+=====
+Tanqidiy fikrlash va g'oyalarni ishlab chiqish va tartibga solish qobiliyatini oshiradi 
+=====
+Axborotni saqlash va eslab qolish yaxshilandi 
+=====
+# axborot uzatishning vizual va texnik vositalari
++++++
+Infografikani yaratish jarayoni qaysi bosqichni o'z ichiga oladi?
+====
+#Infografikani yaratish va auditoriyani aniqlash maqsadini shakllantirish. Ishlab chiqilgan axborot dizayni odatda ba'zi maqsadli auditoriya uchun mo'ljallangan  
+====
+Analitika va axborotni qayta ishlash. Yig'ilgan materialni tahlil qilish va qayta ishlash  bitta denominatorga keltirish kerak - odatda bu formatlanmagan grafikalar va gistogrammalar 
+=====
+Foydalanish mumkin bo'lgan vizualizatsiya  maketni qurish  Barcha materiallar chiroyli vizual shaklda tuzilgan va taqdim etilgan  Format tanlanadi (maqsadlar va ma'lumotlar miqdoriga qarab) - taqdimot  slaydlar  bir sahifali rasm  video 
+=====
+# Har bir qiymatning umumiy hajmdagi ulushini ko'rsatadi  U butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
++++++
+Infografika bilan ishlash qaysi yo'nalishda bo'lishi mumkin?
+=====
+#o'qituvchi tomonidan yaratilgan infografikani talabalar tomonidan tahlili  mavjud ma'lumotlar asosida o'qituvchi rahbarligida talabalar tomonidan infografikani yaratish (loyiha faoliyati davomida  o'rganilgan material asosida) 
+=====
+Analitika va axborotni qayta ishlash  Yig'ilgan materialni tahlil qilish va qayta ishlash  bitta denominatorga keltirish kerak - odatda bu formatlanmagan grafikalar va gistogrammalar 
+=====
+Foydalanish mumkin bo'lgan vizualizatsiya  maketni qurish  Barcha materiallar chiroyli vizual shaklda tuzilgan va taqdim etilgan  Format tanlanadi (maqsadlar va ma'lumotlar miqdoriga qarab) - taqdimot  slaydlar  bir sahifali rasm  video 
+=====
+Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi
++++++
+O'quv jarayonida infografikaning qaysi turlari qo'llaniladi:
+=====
+ko'rsatmalar  eslatma 
+=====
+Plakat  statistika 
+=====
+yo’l ko’rsatuvchi(yo’riqnoma) 
+=====
+# Freemockup
+++++++
+Infografikaning asosiy nimadan iborat 
+=====
+#axborot berish  katta hajmdagi axborotni tushunarli tashkillashtirilgan shaklda taqdim etish 
+=====
+bu mustaqil ravishda  hech kimning yordamisiz (sharh) va juda samarali o'rganish mumkin bo'lgan to'liq ma'lumot blokidir 
+=====
+bu g'oyalarni tizimlashtirish  vaqtni rejalashtirish  katta hajmdagi ma'lumotlarni yodlash 
+=====
+Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi
++++++
+Ideal tarzda bajarilgan infografika -…
+=====
+axborot berish  katta hajmdagi axborotni tushunarli tashkillashtirilgan shaklda taqdim etish 
+=====
+#bu mustaqil ravishda  hech kimning yordamisiz (sharh) va juda samarali o'rganish mumkin bo'lgan to'liq ma'lumot blokidir 
+=====
+bu g'oyalarni tizimlashtirish  vaqtni rejalashtirish  katta hajmdagi ma'lumotlarni yodlash 
+=====
+Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi 
++++++
+Infografika yaratish uchun nimalardan foydalanish mumkin 
+=====
+Jadvallar
+=====
+Diagrammalar 
+=====
+grafik elementlar va boshqalar 
+=====
+#Hamma javoblar to’g’ri 
++++++
+Aql xaritasi- … 
+=====
+# Asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g‘oyalar  tushunchalar  ma’lumotlarni taqdim etishning grafik usulidir  Ya'ni  bu g'oyalarni tizimlashtirish  vaqtni rejalashtirish  katta hajmdagi ma'lumotlarni yodlash va aqliy hujum mashg'ulotlarini o'tkazish uchun vositadir 
+=====
+Yozuvchining tarjimai holi yoki asari bilan ishlashda shuningdek  o‘quvchilarda tarixiy jarayonlar to‘g‘risida tizimli tasavvur hosil qilishda vaqt chizig‘i yoki lentadan foydalaniladi 
+=====
+Vaqt jadvallarini qo'llash mumkin bo'lgan yana bir soha bu loyihani boshqarishdir 
+=====
+Loyiha faoliyatidagi vaqt jadvallari ishtirokchilarga loyihani amalga oshirish bosqichlari va yakunlash sanalarini ko'rishga yordam beradi 
++++++
+Vaqt jadvali-…?
+=====
+# Vaqt shkalasi  voqealar xronologik tartibda chizilgan to'g'ridan-to'g'ri segment 
+=====
+Asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g‘oyalar  tushunchalar  ma’lumotlarni taqdim etishning grafik usulidir  
+=====
+Bu g'oyalarni tizimlashtirish vaqtni rejalashtirish katta hajmdagi ma'lumotlarni yodlash va aqliy hujum mashg'ulotlarini o'tkazish uchun vositadir 
+=====
+bu ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
++++++
+Scribing (inglizcha "scribe" - eskiz yoki chizmalarni chizish) bu? 
+=====
+# bu uning mazmuni va ichki aloqalarini sodda va aniq aks ettiruvchi grafik belgilar yordamida ma'lumotni vizualizatsiya qilish usuli 
+=====
+bu o'qilgan  ko'rilgan yoki eshitilgan narsalarni turli ifoda vositalaridan (intonatsiya  mimika  imo-ishoralar  pozitsiyalar  harakatlar  mizan-sahna) yordamida "yuzlarda" aks ettiruvchi faoliyatdir 
+=====
+bu ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
+=====
+bu zamonaviy bola uchun zamonaviy teatrlashtirishning bir turi 
++++++
+Tizimni kvantlash turli xil belgilar tizimlari bilan ifodalanadigan inson aqliy faoliyatining o'ziga xos xususiyatlaridan kelib chiqadi:
+=====
+lingvistik 
+=====
+ramziy(simvolli) 
+=====
+grafik 
+=====
+# kognitiv 
++++++
+Ta'lim ma'lumotlarini vizualizatsiya qilish texnologiyasi qaysi qismlarni o'z ichiga olgan?
+=====
+o'quv bilimlari majmuasi  ularni ko'rsatishning vizual usullari 
+=====
+axborot uzatishning vizual va texnik vositalari 
+=====
+o'quv jarayonida vizual fikrlashni qo'llash va rivojlantirishning psixologik usullari to'plami 
+=====
+# har bir qiymatning umumiy hajmdagi ulushini ko'rsatadi. U butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
++++++
+Vizualizatsiya – bu?
+=====
+# Bu ma'lumotlarni iloji boricha oson tushunish uchun tasvir shaklida taqdim etish jarayoni 
+=====
+axborot uzatishning vizual va texnik vositalari 
+=====
+o'quv jarayonida vizual fikrlashni qo'llash va rivojlantirishning psixologik usullari to'plami 
+=====
+U ma'lum bir ko'rsatkichning mintaqa  mamlakat  qit'a bo'yicha taqsimlanishini ko'rsatish kerak bo'lganda foydalaniladi 
++++++
+Xarita diagrammasi – bu?
+=====
+#Bu diagrammaning geografik xarita yoki diagramma bilan kombinatsiyasi  U ma'lum bir ko'rsatkichning mintaqa mamlakat qit'a bo'yicha taqsimlanishini ko'rsatish kerak bo'lganda foydalaniladi 
+=====
+Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi 
+=====
+miya tanaga buyruqlar yuborish va vosita nazoratini  diqqatni hamda rejalashtirishni rag'batlantirish uchun foydalanadigan kimyoviy moddalardir  bu esa odamni harakatga undaydi 
+=====
+Doira butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
++++++
+Doira (sektorli) diagrammasi-… ?
+=====
+#Har bir qiymatning umumiy hajmdagi ulushini ko'rsatadi  U butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
+=====
+ekstremal qiymatlarni yoki bo'shliqlar yoki og'ishlar mavjudligini vizual ravishda aniqlashga yordam beradi 
+=====
+bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora 
+=====
+axborot uzatishning vizual va texnik vositalari 
++++++
+Gistogrammalar- …?
+=====
+# Qiymatlarning kontsentrtsiyasini shuningdek ekstremal qiymatlarni yoki bo'shliqlar yoki og'ishlar mavjudligini vizual ravishda aniqlashga yordam beradi 
+=====
+ekstremal qiymatlarni yoki bo'shliqlar yoki og'ishlar mavjudligini vizual ravishda aniqlashga yordam beradi 
+=====
+bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora 
+=====
+bu turli tashkiliy elementlar yoki biznes toifalari qanday bog'liqligini va/yoki o'zaro bog'liqligini tavsiflash uchun ishlatiladigan yaxshi o'rnatilgan mexanizmlar 
++++++
+…bir  yoki bir nechta ko'rsatkichlarning dinamikasini ko'rsatadi  Vaqt o'tishi bilan turli xil ma'lumotlar to'plamlari qanday o'zgarishini solishtirmoqchi bo'lsangiz foydali bo'ladi 
+=====
+# Chiziqli diogrammalar 
+=====
+Aysberg 
+=====
+Gistogrammalar 
+=====
+Freemockup 
++++++
+…  - bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora
+=====
+Chiziqli diogrammalar 
+=====
+#Aysberg 
+=====
+Gistogrammalar 
+=====
+Doira 
++++++
+… - miya tanaga buyruqlar yuborish va vosita nazoratini diqqatni hamda rejalashtirishni rag'batlantirish uchun foydalanadigan kimyoviy moddalardir bu esa odamni harakatga undaydi 
+=====
+# Neyrotransmitterlar 
+=====
+ Aysberg 
+=====
+Gistogrammalar 
+=====
+Akson
++++++
+… - bu turli tashkiliy elementlar yoki biznes toifalari qanday bog'liqligini va/yoki o'zaro bog'liqligini tavsiflash uchun ishlatiladigan yaxshi o'rnatilgan mexanizmlar 
+=====
+# Biznes modellari 
+=====
+Neyrotransmitterlar 
+=====
+Aysberg 
+=====
+Gistogrammalar 
 
-EATRning asosiy elementlari:
++++++
+Quyidagi jarayonlar toifalari deyarli har bir tashkilotning strukturasini tashkil qiladi. Qaysi javob ortiqcha?
+=====
+Menejment - strategiya  boshqaruv  Ma'muriyat - buxgalteriya  kadrlar 
+=====
+Operatsiyalar - ishlab chiqarish  sifat nazorati  tarqatish  sotib olish 
+=====
+Marketing – sotish  aksiyalar  mahsulot spetsifikatsiyalari  reklama  Mijozlarga xizmat ko'rsatish - savdoni qo'llab-quvvatlash  o'qitish  texnik yordam 
+=====
+# Vizual ravishda so'nggi voqealar haqida hikoya qiladi  sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
++++++
+Infografika turlari noto’g’ri berilgan javobni ko’rsating.
+=====
+Analitik yoki raqamli infografika 
+=====
+Yangiliklar infografikasi, Tuzilish infografikasi 
+=====
+Reklama infografikasi, Taqqoslash infografikasi 
+=====
+#Hamma ajvoblar to’g’ri 
++++++
+Analitik yoki raqamli infografika
+=====
+# U statistik ma'lumotlarni taqdim etish uchun ishlatiladi. Ko'p sonli raqamlar  diagrammalar  grafiklar va boshqalarni o'z ichiga oladi 
+=====
+Vizual ravishda so'nggi voqealar haqida hikoya qiladi, sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
+=====
+Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
+=====
+Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
++++++
+Yangiliklar infografikasi?
+=====
+U statistik ma'lumotlarni taqdim etish uchun ishlatiladi, Ko'p sonli raqamlar diagrammalar grafiklar va boshqalarni o'z ichiga oladi 
+=====
+# Vizual ravishda so'nggi voqealar haqida hikoya qiladi, sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
+=====
+Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
+=====
+Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
+
++++++
+Tuzilish infografikasi bu?
+=====
+U statistik ma'lumotlarni taqdim etish uchun ishlatiladi. Ko'p sonli raqamlar  diagrammalar  grafiklar va boshqalarni o'z ichiga oladi 
+=====
+Vizual ravishda so'nggi voqealar haqida hikoya qiladi, sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
+=====
+ # Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini, ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
+=====
+Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
+
++++++
+Mahsulotning afzalliklari va sotib olishning afzalliklarini tavsiflovchi yorqin rasm. Agar u yaxshi bajarilgan bo'lsa  mijozlarni jalb qilishi mumkin - ya'ni u malakali marketing va muvaffaqiyatli dizaynni birlashtiradgan infografika bu    
+=====
+# Reklama infografikasi 
+=====
+Taqqoslash infografikasi 
+=====
+Tuzilish infografikasi 
+=====
+Yangiliklar infografikasi 
++++++
+Taqqoslash infografikasi
+=====
+U statistik ma'lumotlarni taqdim etish uchun ishlatiladi  Ko'p sonli raqamlar  diagrammalar  grafiklar va boshqalarni o'z ichiga oladi
+=====
+Vizual ravishda so'nggi voqealar haqida hikoya qiladi  sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
+=====
+Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
+=====
+# Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa  uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
++++++
+… — kategoriya bo'yicha qulay qidiruvga ega rus tilidagi veb-sayt
+=====
+# Freemockup 
+=====
+Freepik 
+=====
+Mockupworld 
+=====
+Vizualizatsiya 
++++++
+…— fotosuratlar  piktogrammalar   ector rasmlari va ko’plab maketlarni o’z ichiga olgan stok  Siz ham pullik  ham bepul fayllarnitopishingiz mumkin
+=====
+Freemockup 
+=====
+# Freepik 
+=====
+Mockupworld 
+=====
+Vizualizatsiya 
++++++
+…  — mokaplar bilan ingliz tilidagi veb-sayt. Agar siz aniq narsani qidirsangiz  qidiruv satriga so'rovni kiritishingiz yoki toifalar bo'yicha kerakli mokaplarni topishingiz mumkin 
+=====
+Freemockup 
+=====
+Freepik 
+=====
+# Mockupworld 
+=====
+Vizualizatsiya 
++++++
+Vizualizatsiya - bu ma'lumotlarni iloji boricha oson tushunish uchun tasvir shaklida taqdim etish jarayoni 
+=====
+Freemockup 
+=====
+Freepik 
+=====
+Mockupworld 
+=====
+#Vizualizatsiya 
++++++
+… - aqliy tarkibning vizual tasvirga tushishi
+=====
+# Vizualizatsiya jarayoni 
+=====
+ Freepik 
+=====
+Mockupworld 
+=====
+Vizualizatsiya 
++++++
+Ta'lim axborotini vizualizatsiya qilish texnologiyasining uslubiy asoslari qaysilar
+=====
+Tizimli kvantlash printsipi 
+=====
+Kognitiv vizuallashtirish printsipi 
+=====
+Vizualizatsiya jarayoni 
+=====
+# Tizimli kvantlash va kognitiv vizuallashtirish printsiplari
++++++
+…  - didaktik birliklarning mazmunini umumlashtirish va kengaytirish nazariyasiga asoslangan o'quv ma'lumotlarini siqishdan iborat bo'lgan printsipdir 
+=====
+ # Tizimli kvantlash printsipi 
+=====
+ Kognitiv vizuallashtirish printsipi 
+=====
+Vizualizatsiya jarayoni 
+=====
+Tizimli ishlash printsipi 
++++++
+Belgi tizimlari bu…?
+=====
+lingvistik 
+=====
+ramziy 
+=====
+grafik 
+=====
+# kognitiv
++++++
+Tizimli kvantlash printsipi qonuniyatlari qaysilar?
+=====
+katta hajmdagi o'quv materialini eslab qolish qiyin 
+=====
+ma'lum bir tizimda ixcham joylashgan o'quv materiali yaxshiroq qabul qilinadi 
+=====
+o'quv materialida semantik mos yozuvlar nuqtalarini ajratib ko'rsatish samarali yodlashga yordam beradi 
+=====
+# Tizimli kvantlash printsipi
++++++
+…   - bu illyustrativ funktsiyani bajaradigan va yangi bilimlarni olishning tabiiy-intellektual jarayoniga hissa qo'shadigan  vizualizatsiya 
+=====
+Aql xaritasi 
+=====
+Taymlayn 
+=====
+#Kognitiv vizualizatsiya 
+=====
+Tizimli kvantlash printsipi 
++++++
+Kognitiv vizuallashtirish printsipi qaysilar?
+=====
+O'qitishda vizualizatsiya nafaqat tasviriy  balki kognitiv funktsiyani ham bajarsa  ya'ni kognitiv grafik ta'lim elementlari qo'llanilsa  assimilyatsiya samaradorligi ortadi 
+=====
+"Tasavvur qiluvchi" o'ng yarim shar assimilyatsiya jarayoni bilan bog'liq 
+=====
+“Yordamlar” (chizmalar diagrammalar modellar) mazmunini ixcham ko‘rsatib  bilimlarning tizimliligiga hissa qo‘shadi 
+=====
+# Tizimli kvantlash printsipi
++++++
+ …  vaqt jadvali  voqealar xronologik tartibda chizilgan to'g'ri chiziq 
+=====
+Aql xaritasi 
+=====
+# Taymlayn 
+=====
+Kognitiv vizualizatsiya 
+=====
+Tizimli kvantlash printsipi 
++++++
+… - g'oyalar  tushunchalar  ma'lumotlarni asosiy va ikkinchi darajali mavzulardan iborat xarita ko'rinishida taqdim etishning grafik usuli 
+=====
+# Aql xaritasi 
+=====
+Taymlayn 
+=====
+Kognitiv vizualizatsiya 
+=====
+Tizimli kvantlash printsipi 
++++++
+Scribing (inglizcha: “scribe” – sketching) – … ?
+=====
+# ma’lumotni uning mazmuni va ichki aloqalarini sodda va aniq ko‘rsatuvchi grafik, belgilar yordamida vizuallashtirish usuli 
+=====
+bu ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
+=====
+bu zamonaviy bola uchun zamonaviy teatrlashtirishning bir turi 
+=====
+interaktiv infografika, analitik infografika 
++++++
+Infografika toifalari qaysilar?
+=====
+statik infografika, dinamik infografika 
+=====
+interaktiv infografika, analitik infografika 
+=====
+yangiliklar infografikasi, rekonstruksiya infografikasi 
+=====
+# ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli
++++++
+Animatsiya elementlarisiz bitta tasvirlar qaysi infografika
+=====
+# Statik infografika 
+=====
+yangiliklar infografikasi 
+=====
+analitik infografika 
+=====
+interaktiv infografika 
++++++
+Dinamik infografika jonlantirilgan elementlar video infografika jonlantirilgan tasvirlar  taqdimotlar qaysi infografika?
+=====
+# dinamik infografika 
+=====
+yangiliklar infografikasi 
+=====
+analitik infografika 
+=====
+rekonstruksiya infografikasi
++++++
+…  foydalanuvchidan ma'lumotlarning ko'rinishini nazorat qilish imkoniyati beriladi
+=====
+rekonstruksiya infografikasi
+=====
+yangiliklar infografikasi 
+=====
+analitik infografika 
+=====
+# interaktiv infografika 
++++++
+… analitik materiallar yordamida tayyorlangan; Iqtisodiy infografika eng ko'p qo'llaniladi: tahlillar faqat iqtisodiy ko'rsatkichlar va tadqiqot ma'lumotlari asosida amalga oshiriladi 
+=====
+rekonstruksiya infografikasi 
+=====
+yangiliklar infografikasi 
+=====
+# analitik infografika 
+=====
+interaktiv infografika 
++++++
+…  Tezkor rejimda aniq yangiliklar uchun tayyorlanadi
+=====
+rekonstruksiya infografikasi 
+=====
+# yangiliklar infografikasi 
+=====
+analitik infografika 
+=====
+interaktiv infografika 
++++++
+… biror voqea haqidagi ma’lumotlarni asos qilib oladi, voqealar dinamikasini xronologik tartibda qayta yaratadi
+=====
+# rekonstruksiya infografikasi 
+=====
+yangiliklar infografikasi 
+=====
+analitik infografika 
+=====
+interaktiv infografika 
++++++
+Funktsional o'qishga qaratilgan vazifalar qaysilar
+=====
+taqdim etilgan xarakterni (hodisani) tavsiflash 
+=====
+ma'lumotlarni jadval ko'rinishida va kelajakda qanday o'zgarishini taqdim etish 
+=====
+hikoya (reja) tuzing infografika yordamida matndagi etishmayotgan ma’lumotlarni to‘ldirish 
+=====
+# Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
++++++
+Infografikani yaratish bosqichi qaysilar?
+=====
+Yaratilish maqsadini shakllantirish va auditoriyani aniqlash. Mavzu bo'yicha ma'lum hajmdagi ma'lumotlar  materiallar to'plash (ma'lumotlar turli formatlarda taqdim etilishi mumkin - matn mazmuni  grafikalar  video materiallar  jadvallar sahifalari va boshqalar) 
+=====
+Analitika va axborotni qayta ishlash (materialni bitta maxrajga qisqartirish: formatlanmagan grafiklar gistogrammalar) 
+=====
+Ko'rish mumkin bo'lgan vizualizatsiya maketni qurish (barcha materiallar tuzilgan  chiroyli vizual shaklda taqdim etilgan  format tanlangan: taqdimot  slaydlar  bir sahifali rasm  video) 
+=====
+# Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
++++++
+Dizayn fikrlash yordamida g'oyalarni topish jarayoni necha bosqichdan iborat 
+=====
+# 5 
+=====
+7 
+=====
+3 
+=====
+8 
++++++
+Biznes uchun infografikadan qanday va qayerda foydalanish mumkin?
+=====
+Kompaniyaning reklama mahsulotlarida  mahsulot qadoqlarida Veb-saytda murakkab mahsulotlarni taqdim etish uchun (funktsionallikni aniq ko'rsatish uchun) 
+=====
+Kompaniya blogida (mahsulotning batafsil tavsifi uchun) Ijtimoiy tarmoq sahifalarida kontent virusga aylanadi degan umidda 
+=====
+Taqdimotlar yaratish (mahsulotni hamkorlarga investorlarga tadbirlarda va hokazolarni foydali tarzda taqdim etish) Axborot byulletenlari uchun 
 ====
-#Titul ekrani, nazariy bo‘lim, amaliy boʻlim, nazorat boʻlimi
+# Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
++++++
+Biznesda infografikaning tamoyillari qaysilar?
+=====
+Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
+=====
+Ko'proq vizualizatsiya elementlari  Axborotni tashkil etish  Ta'minotning shaffofligi 
+=====
+Taqdimotning aniqligi  Taqdim etishning dolzarbligi  Dizaynning soddaligi 
+=====
+# Hamma javoblar to’g’ri 
++++++
+Infografikani mustaqil ravishda ishlab chiqish uchun qaysi yondashuv mavjud:
+=====
+Xorijiy platformalarda tayyor mos materiallarni toping, o’zbek tiliga tarjima qiling,  ularni biroz tuzating (mavzu uchun kerak bo'lsa) va raqamlaringizni kiriting 
+=====
+Internetda tayyor shablonni toping va yuklab oling yoki maxsus onlayn xizmatdan foydalaning (ular juda ko'p) 
+=====
+Ishlab chiqishni noldan o'zingiz qiling 
+=====
+# Hamma javoblar to’g’ri 
++++++
+Video infografika yaratish xizmatlari 
+=====
+ Animatron Sparcol Video
+=====
+Scribe PowToon 
+=====
+Goanimate Doodly
+=====
+# Freemockup
++++++
+infografika barcha turdagi ma'lumotlarni qanday ko'rinishida taqdim etadi?
+=====
+Jadvallar 
+=====
+Grafiklar va diogrammalar 
+=====
+Semalar va piktogrammalar 
+=====
+# hamma javoblar to’g’ri 
++++++
+Biznes uchun infografikadan qanday va qayerda foydalanish mumkin: 
+=====
+Kompaniyaning reklama mahsulotlarida  mahsulot qadoqlarida Veb-saytda murakkab mahsulotlarni taqdim etish uchun (funktsionallikni aniq ko'rsatish uchun) 
+=====
+Kompaniya blogida (mahsulotning batafsil tavsifi uchun) Ijtimoiy tarmoq sahifalarida kontent virusga aylanadi degan umidda 
+=====
+Taqdimotlar yaratish (mahsulotni hamkorlarga investorlarga tadbirlarda va hokazolarni foydali tarzda taqdim etish) Axborot byulletenlarida 
+=====
+# o‘zingga tashqi tomondan qarash xatti-harakatlaring va his-tuyg‘ularing  o‘z pozitsiyang  chiqishlaringga qarash imkoniyatidir 
++++++
+Biznesda infografikaning bir necha turlari mavjud?
+=====
+Faqat raqamlar va statistikadan iborat analitik. Qayta qurish infografikasi  masalan  "bu qanday edi - nima qilindi - qanday bo'ldi" 
+=====
+Yangiliklar voqealarni komikslar formatida taqdim etish (hamma narsani xronologik tartibda ko'rsatish va bo'layotgan voqealarning oqibatlarini tomoshabinlarga yetkazish muhim) 
+=====
+Mohiyatan mahsulot reklamasi bo'lgan taqdimot (afzallik va kamchiliklarni ko'rsatuvchi) shuningdek tahliliy ma'lumotlar 
+=====
+# bu o‘zingga tashqi tomondan qarash xatti-harakatlaring va his-tuyg‘ularing  o‘z pozitsiyang  chiqishlaringga qarash imkoniyatidir 
++++++
+… shablonlar va rasmlarning kattasiga kutubxona ega mashhur bepul xizmat. Infografikaga qoʻshimcha ravshan masalan  taqdimotlar  plakatlar olishingiz mumkin 
+=====
+Piktochart 
+=====
+Easel ly 
+=====
+# Canva 
+=====
+Pinterest 
++++++
+… ushbu xizmat yordamida siz infografikalarni tezda jamlashingiz mumkin.  Bepul shablonlar  rasmlar  piktogrammalar va shriftlarning katta kutubxonasi mavjud 
+=====
+Piktochart 
+=====
+# Easel ly 
+=====
+Canva 
+=====
+Pinterest 
++++++
+Ushbu onlayn xizmat analitik infografika uchun juda foydali.  Siz ma'lumotlarni Excel fayli sifatida ko'rsatish mumkin 
+=====
+#  Piktochart 
+=====
+Easel ly 
+=====
+Canva 
+=====
+Pinterest 
++++++
+… kompaniya va texnologiyalarning rivojlanish bosqichlarini shaxslarning kasbiy yoki ijodiy yo'lini istalgan sohadagi o'zgaruvchan tendentsiyalarni va hokazolarni namoyish qilish uchun yaratilgan 
+=====
+Ierarxik infografika 
+=====
+Tarixiy infografika 
+=====
+Statistik infografika 
+=====
+#Xronologik infografika 
+ 	
++++++
+… sotsiologik marketing va boshqa ilmiy tadqiqotlar natijalarini vizual tarzda taqdim etish uchun ishlatiladi?
+=====
+Ierarxik infografika 
+=====
+Tarixiy infografika 
+=====
+#Statistik infografika 
+=====
+Xronologik infografika 
+ 	
++++++
+…… tarixiy voqealar miqyosi haqida tasavvur hosil qilishga  ularning ketma-ketligini eslab qolishga va munosabatlarni kuzatishga yordam beradi  Ko'pincha vaqt jadvaliga asoslanadi 
+=====
+Ierarxik infografika 
+=====
+#Tarixiy infografika 
+=====
+Statistik infografika 
+=====
+Xronologik infografika 
+++++++
+…   tizim elementlarini muhimlik tartibida tartibga solishga yordam beradi va/yoki ularning bir-biri bilan o'zaro ta'sirini ko'rsatadi?
+=====
+# Ierarxik infografika 
+=====
+Tarixiy infografika 
+=====
+Statistik infografika 
+=====
+Xronologik infografika 
++++++
+Nechta asosiy toifa bo'yicha infografik kontentingiz samaradorligini o'lchash uchun bir nechta real ko'rsatkichlardan foydalanishingiz mumkin?
+=====
+# 4 ta
+=====
+6 ta 
+=====
+3 ta 
+=====
+8 ta 
++++++
+Infografika bu - …?
+=====
+# ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
+=====
+- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar  tushunchalar  ma'lumotlarni taqdim etishning grafik usuli 
+=====
+bu o'z fikrlaringiz shaxsiy tajribangiz bilan bo'lishish hissiy tashvishlarni yengish o'zingizni nazorat qila olish  taklif qilingan savolga mos javob topish qobiliyatidir  
+=====
+bu o‘zingga tashqi tomondan qarash xatti-harakatlaring va his-tuyg‘ularing  o‘z pozitsiyang  chiqishlaringga qarash imkoniyatidir 
+++++++
+- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar  tushunchalar  ma'lumotlarni taqdim etishning grafik usuli 
+=====
+#Intellektual xarita 
+=====
+vaqt shkalasi 
+=====
+infografika 
+=====
+kadr 
+++++++
+- bu har kimga veb-dizayn qilish imkonini beruvchi onlayn xizmat
+=====
+#Canva 
+=====
+Kadr 
+=====
+Infografika 
+=====
+Scribing 
+++++++
+ … - bu ma'lumot axborotlar va bilimlarni taqdim etishning grafik usuli? 
+=====
+ #Infografika 
+=====
+ Mediata’lim 
+=====
+ Semiotika 
+=====
+ Dramatizatsiya 
+++++++
+ - bu har kimga veb-dizayn qilish imkonini beruvchi onlayn xizmat  Siz maxsus tayyorgarliksiz  qimmat dasturiy ta'minot va jihozlarsiz dizayner bo'lishingiz mumkin 
+=====
+#Canva 
+=====
+ Pinterest 
+=====
+Mediata’lim 
+=====
+Semiotika 
+++++++
+  PR materiallaridagi belgilarning vizual darajasi birinchi navbatda nimani bajaradi
+=====
+ #estetik funksiya 
+=====
+ shartlilik 
+=====
+ hususiyatlilik funksiyasi 
+=====
+ visual 
+++++++
+ O'quv jarayonida infografikadan foydalanish yo'nalishlari qaysilar?
 ====
-Nazariy, amaliy
-====
-Nazariy, nazorat
-====
-Titul elrani, amaliy, nazorat
+axborotni maqsadli qabul qilishni tashkil etish, grafik tasvirlar asosida axborotni yodlash 
+=====
+o‘rganilayotgan materialning tushunish uchun zarur bo‘lgan tomonlarini ko‘rsatish  bilim va tadqiqot natijalarini almashish usuli 
+=====
+tadqiqot ma'lumotlarini qayta ishlash usuli tanqidiy fikrlashni rivojlantirish  funktsional o'qish ko'nikmalarini shakllantirish 
+=====
+# Hamma javoblar to’gri 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
