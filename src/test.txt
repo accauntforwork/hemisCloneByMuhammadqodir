@@ -1,678 +1,3502 @@
+Zamonaviy dunyoda media-ta'limning dolzarbligi sabablari keltirilgan ro’yxatdan ortiqchasini tanlang.
+====
+Mediadan foydalanishning yuqori darajasi va zamonaviy jamiyatlarning media bilan to'yinganligi.Medianing mafkuraviy ahamiyati, ularning tarmoq sifatidagi auditoriya ongiga ta’siri
+====
+Media hajmining jadal o'sishi, uni boshqarish va tarqatish mexanizmlarini kuchaytirish.Vizual aloqa va axborotning barcha sohalarda ahamiyatini oshirish
+====
+Maktab o'quvchilarini/talabalarni kelajakdagi talablarni qondirishga qaratilgan holda tayyorlash zarurati
+====
+# Kelishmovchilik va g'azabni keltirib chiqarish uchun maqsadli ravishda forumlarda yoki ijtimoiy tarmoqlarda ko'plab xabarlar yozish
 ++++
-Infografikani 4 ta so'z bilan qanday tushuntirish mumkin?
+Media ta'limi Buyuk Britaniya maktablarida?
 ====
-#Ma'lumotlar, saralash, tasniflash, vizualizatsiya
+#Ona tili darslariga integratsiya qilingan, masalan, har yili 25000 o'rta maktab o'quvchilari va 8000 universitet talabalari yakuniy imtihonlari uchun media kursidan o'tadilar
 ====
-Chizmalar, foto, video, animatsiya
+Ona tili darslariga integratsiya qilingan, masalan, har yili 24000 o'rta maktab o'quvchilari va 8000 universitet talabalari yakuniy imtihonlari uchun media kursidan o'tadilar
 ====
-Axborot, ma'lumotlar, tarkib, prognozlar
+Ona tili darslariga integratsiya qilingan, masalan, har yili 26000 o'rta maktab o'quvchilari va 800 universitet talabalari yakuniy imtihonlari uchun media kursidan o'tadilar
 ====
-Tendensiyalar, ma'lumotlar, hikoyalar, chizmalar
+Ona tili darslariga integratsiya qilingan, masalan, har yili 8000 o'rta maktab o'quvchilari va 2500 universitet talabalari yakuniy imtihonlari uchun media kursidan o'tadilar.
 ++++
-Infografika nima?
+Media ta'limga YUNESKO tomonidan berilgan ta’rif:
 ====
-#bu axborot, ma'lumotlar va bilimlarni taqdim etishning grafik usuli; aslida rasm yordamida ma'lumot uzatish usuli
+#pedagogik nazariya va amaliyotda o'ziga xos va avtonom sohaning bir qismi sifatida qaraladigan zamonaviy ommaviy kommunikatsiya vositalarini o'zlashtirish nazariyasi va amaliy ko'nikmalarini o'rgatishdir
 ====
-ma'lumotni o'z ichiga olgan rasm
+fazo va vaqt jixatdan voqelikni tahlil qilish va sintez qilish qobiliyati, media-matnni "o'qish" qobiliyati, bu media ta'lim natijasidir.
 ====
-Axborot, ma'lumotlar, tarkib, prognozlar
+ommaviy axborot vositalari (OAV, OAV) “axborotni ommaviy tarqatishning texnik vositalari (radio, televidenie, kino, bosma va internet nashrlari, internet va boshqalar) majmuidir”.
 ====
-Tendensiyalar, ma'lumotlar, hikoyalar, chizmalar
+bu ilmiy va ta'lim sohasi bo'lib, uning predmeti dunyo, jamiyat va inson bilan turli xil aloqalaridagi pedagogik jihatdan ommaviy axborot vositalari va kommunikatsiyalardir.
 ++++
-... infografikani raqamli, grafik va og'zaki ma'lumotlarning vizual tasviri sifatida belgilang
+A.A.Jurin media-ta'limga qanday ta’rif bergan?
 ====
-#T.V. Solovieva va boshqa bir qator mualliflar
+# bu ilmiy va ta'lim sohasi bo'lib, uning predmeti dunyo, jamiyat va inson bilan turli xil aloqalaridagi pedagogik jihatdan ommaviy axborot vositalari va kommunikatsiyalardir 
 ====
-S.V. Selemenov
+pedagogik nazariya va amaliyotda o'ziga xos va avtonom sohaning bir qismi sifatida qaraladigan zamonaviy ommaviy kommunikatsiya vositalarini o'zlashtirish nazariyasi va amaliy ko'nikmalarini o'rgatishdir.
 ====
-G.A. Nikulov
+fazo va vaqt jixatdan voqelikni tahlil qilish va sintez qilish qobiliyati, media-matnni "o'qish" qobiliyati, bu media ta'lim natijasidir.
 ====
-E.A. Baranov
+ommaviy axborot vositalari (OAV, OAV) “axborotni ommaviy tarqatishning texnik vositalari (radio, televidenie, kino, bosma va internet nashrlari, internet va boshqalar) majmuidir”.
 ++++
- ... infografika - bu tasvirlarning maxsus toifasi bo'lib, unda kommunikativ imkoniyatlar kontsentratsiyasining zichligi boshqalarga qaraganda yuqori
+Media qaysi jixatlari bilan insonga ta'sir qilishi mumkin?
 ====
-#G.A.Nikulova ning soʻzlariga koʻra
+#kognitiv, affektiv, xulq-atvor.
 ====
-S.V.Selemenovaning so'zlariga ko'ra
+kognitiv, affektiv, hissiy, manipulyativ
 ====
-T.V.Solovyov ga ko'ra
+kognitiv, xulq-atvor, aqliy
 ====
-E.A. Baranovning so'zlariga ko'ra
+affektiv, hissiy, pozitiv
 ++++
-Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga ma'lumotni umumlashtirishga yordam berish - bularning barchasi infografikami?
+Media-ta'limning markaziy kontseptsiyasi bu?
 ====
-#Infografik xususiyatlar 
+#reprezentativlikdir: ommaviy axborot vositalari voqelikni aks ettirmaydi, balki uni belgilar va simvollar tizimi yordamida ifodalaydi;
 ====
-Infografik qo'shimchalar
+tadqiqot jarayoni bo’lib, muhokamadan ko'ra ko'proq muloqot;media-ta'lim bo'yicha o'qitish turli sohalarda o'zgaruvchan va tahliliy vositalar hamda ko'plab yangi faoliyat usullaridan foydalanishga asoslanadi;
 ====
-Infografika tamoyillari
+kognitiv, xulq-atvor, aqliy
 ====
-infografika ko'rinishlari
+affektiv, hissiy, pozitiv
 ++++
-Infografikaning qanday xususiyatlari bor?
+Media ta'lim samaradorligini ikkita qanday mezonlar bo'yicha baholash mumkin?
 ====
-#Kontekstga qarab har doim sarlavha yoki sarlavhaga e'tibor qaratiladi
+#talabalarning tanqidiy fikrlashni yangi vaziyatlarda qo'llash qobiliyati va ommaviy axborot vositalariga bo'lgan majburiyat hamda motivatsiya miqdori
 ====
-Ular matn kiritish tartibiga xilma-xillik qo'shadilar
+talabalarning fikrlashni turli vaziyatlarda qo'llay olishi va motivatsiya miqdori
 ====
-Matnlarni umumlashtirish
+talabalarning ijodiy fikrlashni yangi vaziyatlarda qo'llash qobiliyati va axborotlariga bo'lgan majburiyat miqdori
 ====
-Qiyin ma’lumotlar
+murabbiyning tanqidiy fikrlashni yangi vaziyatlarda qo'llash qobiliyati va kreativligi
 ++++
-Qaysi xizmat har bir brendga o'zining munosib obro'sini mustahkamlashga yordam beradi?
+A.V. Fedorovning mediasavodxonlikka bergan ta’rifi qaysi javobda ko’rsatilgan?
 ====
-#Visme servisi
+tanqidiy fikrlashni shakllantirish, ommaviy axborot vositalarida, reklamada, san'at asarlarida qo'llaniladigan mediamatn bilan ishlashga asoslangan ijodiy shaxsni tarbiyalashdan iborat.
 ====
-Venngage servisi
+# fazo va vaqt jixatdan voqelikni tahlil qilish va sintez qilish qobiliyati, media-matnni "o'qish" qobiliyati, bu media ta'lim natijasidir,
 ====
-Chart servisi
+ommaviy axborot vositalari (OAV, OAV) “axborotni ommaviy tarqatishning texnik vositalari (radio, televidenie, kino, bosma va internet nashrlari, internet va boshqalar) majmuidir”.
 ====
-Tool servisi
+bu ilmiy va ta'lim sohasi bo'lib, uning predmeti dunyo, jamiyat va inson bilan turli xil aloqalaridagi pedagogik jihatdan ommaviy axborot vositalari va kommunikatsiyalardir.
 ++++
-2022 yil boshida Wordle marshruti keskin ko'tarilishi bilan nima paydo bo'la boshladi?
+Mediasavodxonlikning vazifalari:
 ====
-#Klonlar
+# tanqidiy fikrlashni shakllantirish, ommaviy axborot vositalarida, reklamada, san'at asarlarida qo'llaniladigan mediamatn bilan ishlashga asoslangan ijodiy shaxsni tarbiyalash
 ====
-Guruhlar
+subyektning media matnlarini, ya'ni ommaviy axborot vositalari orqali tarqatish uchun mo'ljallangan matnlarni ishlab chiqarish
 ====
-Tranzit
+adekvat idrok etishga qaratilgan faoliyati
 ====
-Turlar
+mavzu mazmunini mahalliylashtirish va amalga oshirish shakllari bo'yicha
 ++++
-Matn belgilarini grafik belgilarga aylantiradi va ularni bittaga birlashtiradi?
+Mediasavodxonlikni shakllantirish tarkibida bo’lmagan javobni toping.
 ====
-#Infografika
+videoyozuvlar, teledasturlar, har xil turdagi lug'atlar, audioyozuvlar va boshqalar bilan ishlash
 ====
-Dizayn
+og'zaki ma'lumotni vizual axborotga va aksincha tarjima qilish, sharhlar tayyorlash, axborot xabarlari e'lonlari
 ====
-Creately
+multfilmlar yoki badiiy filmlarning parchalaridan foydalanish orqali amalga oshiriladi
 ====
-hisobot rejalari
+# telefon orqali tezkor ovozli ma'lumot almashinuvi amalga oshiriladigan virtual aloqa usuli
 ++++
-Kompaniya va texnologiya har qanday sohada odamlarning shaxsiy yoki ijodiy sayohatlarida rivojlanish bosqichlarini ko'rsatishga mo'ljallangan - bu qanday infografika?
+Media faoliyati nima? 
 ====
-#Xronologik
+subyektning media matnlarini, ya'ni ommaviy axborot vositalari orqali tarqatish uchun mo'ljallangan matnlarni ishlab chiqarish va (yoki) adekvat idrok etishga qaratilgan faoliyati
 ====
-Ijtimoiy
+tanqidiy fikrlashni shakllantirish, ommaviy axborot vositalarida, reklamada, san'at asarlarida qo'llaniladigan mediamatn bilan ishlashga asoslangan ijodiy shaxsni tarbiyalashdan iborat.
 ====
-Qiyosiy
+fazo va vaqt jixatdan voqelikni tahlil qilish va sintez qilish qobiliyati, media-matnni "o'qish" qobiliyati, bu media ta'lim natijasidir.
 ====
-Geografik
+ommaviy axborot vositalari (OAV, OAV) “axborotni ommaviy tarqatishning texnik vositalari (radio, televidenie, kino, bosma va internet nashrlari, internet va boshqalar) majmuidir”.
 ++++
- Sotsiologik, marketing va tadqiqot natijalarini vizual tarzda taqdim etish uchun foydalaniladi - bu qanday infografika?
+Media-ta'limning elementlarini tasniflash noto’g’ri ko’rsatilgan javobni ko’rsating.
 ====
-#Statik
+maqsadlar bo'yicha,tashkil etilganlik darajasi bo’yicha.
 ====
-Ijtimoiy
+uni amalga oshiruvchi ta’lim ,muassasalarining turlari va darajalari bo‘yicha.
 ====
-Qiyosiy
+turlarning integratsiyasi mavjudligi bo’yicha, mavzu mazmunini mahalliylashtirish va amalga oshirish shakllari bo'yicha.
 ====
-Geografik
+# murakkablik darajasi bo’yicha, optimal va universal
 ++++
-Vizual ravishda, har qanday kapitalistik tizimning elementlarini tartibga solishga yordam beradigan infografika turi?
+Media ta’limi maqsadlar bo’yicha qanday turlarga bo’linadi?
 ====
-#Ierarxik
+# professional va professional bo'lmagan 
 ====
-Ijtimoiy
+rasmiy va norasmiy
 ====
-Qiyosiy
+ta’lim asosiy va qo‘shimcha
 ====
-Geografik
+integratsiyalashgan va maxsus.
 ++++
-1 uslubni tanlash va ushbu uslub bilan bog'liq ma'lumotlarni yig'ish, qayta ishlash va ishlab chiqish nima?
+Media ta’limi tashkil qilish darajasiga ko'ra qanday turlarga bo’linadi? 
 ====
-#Vizualizatsiya tamoyillari
+#rasmiy, rasmiydan tashqari va norasmiy media ta'limni ajratish mumkin
 ====
-Infografik xususiyatlar
+professional va professional bo'lmagan media ta'limga bo’linadi
 ====
-Infografik xususiyatlar
+ta’lim asosiy va qo‘shimchaga bo‘linadi
 ====
-Yaratilish tamoyillari
+rasmiy va norasmiy
 ++++
-Infografika va oddiy diagramma o'rtasidagi asosiy farq nima?
+Amalga oshirilayotgan ta’lim muassasalarining turlariga ko‘ra media- ta’lim qanday turlarga bo’linadi?
 ====
-#Ijodkorlik
+#asosiy va qo‘shimchaga bo‘linadi
 ====
-Fikrlash
+professional va professional bo'lmagan. 
 ====
-Kreativlik
+Rasmiy va norasmiy
 ====
-Dizayn
+integratsiyalashgan va maxsus.
+
 ++++
- Infografikangizni targ'ib qilishning eng yaxshi usuli qanday?
+Media ta’lim integratsiya turi mavjudligiga ko'ra qanday turlarga bo’linadi?
 ====
-#Bloggerlar
+#integratsiyalashgan va maxsus
 ====
-Jurnalistlar
+ixtisoslashtirilgan va ixtisoslashtirilmagan
 ====
-o'qituvchilar
+professional va professional
 ====
-internet-marketing
+ta’lim asosiy va qo‘shimcha 
 ++++
- Cinergix tomonidan qanday sxema ishlab chiqilgan?
+Media ta’lim fan-tarkibini lokallashtirishga ko'ra qanday turlarga bo’linadi?
 ====
-#Creately
+#predmetli, fanlararo va ko'p predmetli, 
 ====
-Wordle 
+passiv va aralash.
 ====
-Googlechart
+asosiy va qo‘shimchaga. 
 ====
-Pictogram
+integratsiyalashgan va maxsus.
 ++++
-Wordle bu?
+Media ta’lim amalga oshirish shakllariga ko'ra qanday turlarga bo’linadi? 
 ====
-#Brauzer so'z o'yini
+#faol, passiv va aralash 
 ====
-Brauzer asosidagi raqam 
+passiv va aralash.
 ====
-Brauzer asosidagi g'oya 
+asosiy va qo‘shimchaga. 
 ====
-Brauzer asosidagi tasdiq
+integratsiyalashgan va maxsus.
 ++++
-Ma'lumotlarni vizualizatsiya qilish va ijodiy grafikalar uchun yetakchi manba nima?
+Kristian Raytning fikricha, media bu?
 ====
-#Graphs.net
+#axborotni ommaviy tarqatishning texnik vositalari (radio, televidenie, kino, bosma va internet nashrlari, internet va boshqalar) majmuidir
 ====
-Pictochart.com
+tarjima qilish, sharhlar tayyorlash, axborot xabarlari e'lonlari va boshqalar.
 ====
-Canva.com
+og'zaki ma'lumotni vizual axborotga va aksincha tarjima qilish, sharhlar tayyorlash, axborot xabarlari e'lonlari
 ====
-Google.com
+multfilmlar yoki badiiy filmlarning parchalariga iqtiboslar.
 ++++
-Qaysi xizmatda mobil ilova mavjud?
+Ommaviy aloqa sanalmaydigan javobni tanlang.
 ====
-#Canva 
+ixtisoslashgan guruh (jo'natuvchi) tomonidan multimedia xabarlarini to'plash, qayta ishlash
 ====
-Easel.ly
+ishlab chiqarish va texnik kanallar orqali, doimiy va raqobatbardosh rejimda, me'yoriy tizimga asoslangan katta, bir xil bo'lmagan. 
 ====
-Infogr.am
+noma'lum auditoriyaga (qabul qiluvchilarga) tarqatish jarayonidir.
 ====
-Quizlet
+#ixtisoslashgan guruh (jo'natuvchi) tomonidan jarayonlarni avtomatlashtirish va boshqarish
 ++++
-Infografika yaratish xizmatlari
+Videokonferensaloqa qaysi javobda tushuntirilgan?
 ====
-#Canva, Easel.ly, Infogr.am
+#turli joylarda joylashgan bir necha kishi kompyuterlar, videokameralar va telefon tarmog'idan iborat tizimdan foydalangan holda konferentsiya / munozarada ishtirok etishi mumkin bo'lgan zamonaviy telekommunikatsiya texnologiyasi
 ====
-Kahoot
+bu ixtisoslashgan guruh (jo'natuvchi) tomonidan multimedia xabarlarini to'plash, qayta ishlash, ishlab chiqarish va texnik kanallar orqali, doimiy va raqobatbardosh rejimda, me'yoriy tizimga asoslangan katta, bir xil bo'lmagan va noma'lum auditoriyaga (qabul qiluvchilarga) tarqatish jarayonidir.
 ====
-Quizlet 
+bu telefon orqali tezkor ovozli ma'lumot almashinuvi amalga oshiriladigan virtual aloqa usuli.
 ====
-Pictochart.com
+virtual aloqa kanali bo'lib, u orqali ma'lumotlar, hujjatlar va tasvirlar real vaqt rejimida almashiniladi.
 ++++
-Atamani tanlang? - Bu sizga o'tilgan mavzuning mohiyatini tezda tushunishga imkon beradigan minimal qo'shimcha matnga ega tasvirlar va diagrammalar to'plamidir.
+Audio konferentsiya – 
 ====
-#Infografika
+#bu telefon orqali tezkor ovozli ma'lumot almashinuvi amalga oshiriladigan virtual aloqa usuli
 ====
-Adabiyot
+virtual aloqa usuli bo'lib, u orqali bir zumda ma'lumot almashinuvi
 ====
-Grafika
+subyektning media matnlarini, ya'ni ommaviy axborot vositalari orqali tarqatish uchun mo'ljallangan matnlarni ishlab chiqarish va (yoki) adekvat idrok etishga qaratilgan faoliyati
 ====
-Matn
+tanqidiy fikrlashni shakllantirish, ommaviy axborot vositalarida, reklamada, san'at asarlarida qo'llaniladigan mediamatn bilan ishlashga asoslangan ijodiy shaxsni tarbiyalash
 ++++
-Infografika funksiyalari...?
+Chat – bu?
 ====
-#Ma'lumotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga bir vaqtning o'zida ma'lumot to'plashda yordam berish, chunki ular kiritilgan matnning tartibida farqlanadi.
+#virtual aloqa usuli bo'lib, u orqali real vaqt rejimida ma'lumot almashinuvi amalga oshiriladi
 ====
-Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga darhol ma'lumot to'plashda yordam berish.
+bu telefon orqali tezkor ovozli ma'lumot almashinuvi amalga oshiriladigan virtual aloqa usuli.
 ====
-Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga darhol ma'lumot to'plash, ularni kiritish tartibini diversifikatsiya qilish va yetkazishda yordam berish
+subyektning media matnlarini, ya'ni ommaviy axborot vositalari orqali tarqatish uchun mo'ljallangan matnlarni ishlab chiqarish va (yoki) adekvat idrok etishga qaratilgan faoliyati
 ====
-Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, ularni kiritish tartibini diversifikatsiya qilish va muloqot qilish
+tanqidiy fikrlashni shakllantirish, ommaviy axborot vositalarida, reklamada, san'at asarlarida qo'llaniladigan mediamatn bilan ishlashga asoslangan ijodiy shaxsni tarbiyalashdan iborat.
 ++++
-Nima uchun infografik kompetentsiya retseptiv tarzda samarali ekanligi ta'kidlangan?
+Elektron pochta/e-mail – bu?
 ====
-#ilmiy kasbiy yo‘naltirilgan matnlarning mazmunini bir vaqtda tushunish, tushunish, sharhlash va mustaqil ravishda infografika yaratish qobiliyatiga e’tibor qaratadi.
+#virtual aloqa kanali bo'lib, u orqali ma'lumotlar, hujjatlar va tasvirlar almashiniladi
 ====
-Infografik tasvirlar bilan ishlashda talabalarning harakatlar ketma-ketligini ta'kidlaydi
+bu telefon orqali tezkor ovozli ma'lumot almashinuvi amalga oshiriladigan virtual aloqa usuli.
 ====
-mustaqil ravishda infografikani tushunish, sharhlash va yaratish qobiliyatiga e'tibor qaratadi.
+subyektning media matnlarini, ya'ni ommaviy axborot vositalari orqali tarqatish uchun mo'ljallangan matnlarni ishlab chiqarish va (yoki) adekvat idrok etishga qaratilgan faoliyati
 ====
-ilmiy va kasbiy matnlar mazmunini ham aniq, ham aniq tushunish
-++++
-Qiyosiy infografika…?
-====
-#Ikki yoki undan ortiq ob'ektlar, yondashuvlar, g'oyalar yoki hodisalarni taqqoslash
-====
-Muxolifat elementlari o'rtasidagi munosabatlarni muvofiqlashtirish
-====
-Vertikal ajratuvchi ko'pincha vizual ko'rsatish uchun ishlatiladi.
-====
-Geografik yoki demografik ma'lumotlarni yaratish.
-++++
-Grafik infografika...?
-====
-#Vizualizatsiya uchun geografik yoki demografik ma'lumotlarni yaratadi
-====
-Ikki yoki undan ortiq ob'ektlar, yondashuvlar, g'oyalar yoki hodisalarni solishtiring
-====
-Muxolifat elementlari o'rtasidagi rozilik munosabatlari
-====
-Vertikal ajratuvchi ko'pincha vizual ko'rsatish uchun ishlatiladi.
-++++
-Tarixiy infografika….?
-====
-#Infografika tarixiy voqealar miqyosi haqida tasavvur hosil qilish, ularning ketma-ketligini eslab qolish uchun
-====
-faqat tarixiy voqealar va munosabatlarni kuzatish
-====
-Infografika har qanday tizimning elementlarini ahamiyatiga qarab tartibga solidi
-====
-hodisalarni tasvirlash yoki ularning bir-biri bilan o'zaro ta'sirini ko'rsatishga yordam beradi
-++++
-Ierarxik infografika.....?
-====
-#Infografika har qanday tizim elementlarini ahamiyatiga ko'ra tartibga solishga yordam beradi yoki ularning bir-biri bilan o'zaro ta'sirini ko'rsatadi
-====
-Tarixiy voqealar miqyosi haqida tasavvur hosil qilish, ularning ketma-ketligini eslab qolish uchun infografika
-====
-Ikki yoki undan ortiq ob'ektlar, yondashuvlar, g'oyalar yoki hodisalarni solishtirish
-====
-Vizualizatsiya uchun geografik yoki demografik ma'lumotlarni yaratadi
-++++
-Ijtimoiy infografika...?
-====
-#Ijtimoiy plakatlar jamiyatdagi muayyan muammo haqida fikr yuritish uchun asos bo'lib xizmat qiladi
-====
-tarixiy voqealar miqyosi haqida tasavvur hosil qilish, ularning ketma-ketligini eslab qolish uchun
-====
-ikki yoki undan ortiq ob'ektlar, yondashuvlar, g'oyalar yoki hodisalarni solishtiring
-====
-Vizualizatsiya uchun geografik yoki demografik ma'lumotlarni yaratadi
-++++
-Yig'ilgan ma'lumotlarni infografikada vizuallashtirish - infografikani yaratish qaysi bosqichda?
-====
-#Uchinchi
-====
-Ikkinchi
-====
-Birinchi
-====
-To'rtinchi
-++++
-Infografika maqsadlarini aniqlash - infografikani yaratish qaysi bosqichda?
-====
-#Birinchi
-====
-Uchinchi
-====
-Ikkinchi
-====
-To'rtinchi
-++++
-Infografikadagi belgilar, shtrixli diagrammalar, diagrammalar...?
-====
-#Infografik rezyumeni to'ldirish elementlari
-====
-Infografik dizayn bosqichlari
-====
-Funktsional infografik elementlar
-====
-Infografik shablonlar
-++++
-Tahlil natijalaridan foydalanish va ularni grafik yoki infografika sifatida taqdim etish...?
-====
-#Hisobot ma'lumotlarini ko'rsatish
-====
-Aql xaritasi
-====
-Vaqt jadvalidan foydalanish
-====
-Metaforadan foydalanish
-++++
-Odamlarga nutqning burilishlarini ko'rsatadigan noyob fotosuratlar va ob'ektlardan foydalanish ....?
-====
-#Metaforadan foydalanish
-====
-Hisobot ma'lumotlarini ko'rsatish
-====
-Vaqt jadvalidan foydalanish
-====
-Aql xaritasi
-++++
-Qaysi turdagi infografika qurilish inshootlari haqida ma'lumot beradi
-====
-#Arxitektura infografikasi
-====
-Biografik infografika
-====
-Qiyosiy infografika
-====
-Ilmiy infografika
-++++
-Qaysi turdagi infografika turli ilmiy nazariyalar va jarayonlar haqida ma'lumot beradi
-====
-#Ilmiy infografika
-====
-arxitektura infografikasi 
-====
-Biografik infografika
-====
-Qiyosiy infografika
-++++
-Standart shablonlar aniq tuzilgan, biz bloklar va ish tajribasi, ta'lim, kurslar va hokazolar haqidagi ma'lumotlarni kiritish uchun nimadan foydalanamiz?
-====
-#Rezyume infografikasi
-====
-Infografik printsip
-====
-Infografik tahlil
-====
-Infografik ob'ekt
-++++
-Infografika nima qiladi?
-====
-#Infografika yashirinni ochib beradi, chalkashlikni tushuntiradi va noaniqni moslashtiradi
-====
-Infografika yashirinni ochib beradi, aloqani cheklaydi va tushunarsiz narsalarni moslashtiradi
-====
-Infografika yashirinni ochib beradi, chalkashlikni tushuntiradi, noaniq narsalarni moslashtirmaydi
-====
-Infografika yashirinni ko'rsatmaydi, chalkashlikni tushuntiradi va tushunarsiz narsalarni moslashtiradi
-++++
-Infografika qaysi ommaviy axborot vositalarida muhim rol o'ynaydi
-====
-#bosma va onlayn ommaviy
-====
-bosma va oflayn ulgurji
-====
-bosilgan ommaviy
-====
-oflayn massiv
-++++
-Infografikani yaratishning asosiy bosqichlari qanday?
-====
-#1 bosqich - mavzu tanlash, 2 bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - asosiy va ikkinchi darajali ob'ektlarni yaratish, 6 bosqich - maket, sahnalashtirish
-====
-1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - maket, sahnalashtirish
-====
-1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot yuborish, 3-bosqich - tizimlashtirish, 4-bosqich - eskiz va hikoya, 5-bosqich - asosiy va ikkinchi darajali ob'ektlarni yaratish, 6-bosqich - maket, sahnalashtirish
-====
-1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - asosiy darajadagi ob'ektlarni yaratish, 6 bosqich - maket, sahnalashtirish
-++++
-Creately bu....
-====
-#Kinergix tomonidan ishlab chiqilgan diagramma va dizayn imkoniyatlariga ega SaaS vizual hamkorlik vositasi
-====
-Mac va Linux tomonidan ishlab chiqilgan diagramma va dizayn imkoniyatlariga ega SaaS vizual hamkorlik vositasi
-====
-Nik Foster tomonidan ishlab chiqilgan diagramma va dizayn imkoniyatlariga ega SaaS vizual hamkorlik vositasi
-====
-Hiraash Tofik tomonidan ishlab chiqilgan diagramma va dizayn imkoniyatlariga ega SaaS vizual hamkorlik vositasi
-++++
-Creately nechta versiyaga ega?
-====
-#  2
-====
-3
-====
-4
-====
-5
-++++
-Creately-ning birinchi beta versiyasini kim ishlab chiqdi?
-====
-#
-Jayasundara Chandika
-====
-Nik Foster
-====
-Karamjit Singx
-====
-Kinergix
-++++
-RAMning asosiy vazifasi
-====
-# Yodlash
-====
-Tuzatish
-====
-Vizualizatsiya
-====
-Xotira registrini kechiktirish
-++++
-Bulutli texnologiya bu...
-====
-# Ma'lumotlarni saqlash va qayta ishlashning masofaviy usuli
-====
-Matn yoki grafik ma'lumotlarni ko'rsatish uchun mo'ljallangan kompyuter qurilmasi
-====
-Manipulyator tipidagi kiritish moslamasi
-====
-Raqamli signallarni analogga aylantiruvchi qurilma
-++++
-Quyidagilardan qaysi biri bulutli texnologiyalarga tegishli emas?
-====
-# Profilaktik xizmat ko'rsatish uchun himoya tizimini vaqtincha o'chirib qo'yish
-====
-Yuqori darajadagi hisoblash quvvati
-====
-Ma'lumotni har qanday qurilmadan olish mumkin
-===
-Saqlangan ma'lumotlarning eng yuqori ishonchliligi
-++++
-Yagona axborot-ta’lim makonining asosi nima?
-====
-# Internet
-====
-ommaviy axborot vositalari
-====
-Kino
-====
-Adabiyot
-++++
-Tanlangan yuzaning tasvirlarini raqamlashtirish uchun ishlatiladigan qurilma
-====
-# Skaner
-====
-Kompyuter
-====
-Printer
-====
-Modem
-++++
-Qaysi universal platforma ish uchun barcha vositalaringizdan foydalanishga imkon beradi?
-====
-# Google
-====
-Yandex
-====
-Discord
-====
-Zoom
-++++
-Cinergix tomonidan qanday sxema ishlab chiqilgan?
-====
-# Creately
-====
-Wordle
-====
-Googlechart
-====
-Pictogram
-++++
-Wordle bu?
-====
-# Brauzer so'z o'yini
-====
-Brauzer asosidagi raqam
-====
-Brauzer asosidagi g'oya
-====
-Brauzer asosidagi tasdiq
-++++
-Ma'lumotlarni vizualizatsiya qilish va ijodiy grafikalar uchun etakchi manba nima?
-====
-Graphs.net
-====
-Pictochart.com
-====
-Canva.com
-====
-Google.com
-++++
-Venngage va uning xususiyatlari bilan siz g'oyalarni ishlab chiqa olasizmi, strategiyalarni tasavvur qila olasizmi yoki biznes jarayonlarini soddalashtira olasizmi?
-====
-# Intellektual diagramma
-====
-Aqlli taqsimlash
-====
-Aqlli ajratish
-====
-Intellektual vizuallashtirish
-++++
-Qaysi turdagi infografika qurilish inshootlari haqida ma'lumot beradi.
-====
-# arxitektura infografikasi
-====
-Biografik infografik
-====
-Qiyosiy infografika
-====
-Ilmiy infografika
-++++
-Mualliflar isbotlaydilarki, qaysi fanni o'rganish jarayonida infografika bilan ishlash bo'yicha trening o'tkazish samaraliroq?
-====
-#  Xorijiy til
-====
-Informatika
-====
-Matematika
-====
-Iqtisodiyot
-++++
-Infografik kompetentsiyaning asosiy xususiyatlari qanday?
-====
-# Retseptiv-produktiv
-====
-Mahsuldor
-====
-Zaxira hosil qiluvchi
-====
-Tasviriy-mahsulli
-++++
-Infografikani yaratishning asosiy bosqichlari qanday?
-====
-# 1 bosqich - mavzu tanlash, 2 bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - asosiy va ikkinchi darajali ob'ektlarni yaratish, 6 bosqich - maket, sahnalashtirish.
-====
-1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - maket, sahnalashtirish
-====
-1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot yuborish, 3-bosqich - tizimlashtirish, 4-bosqich - eskiz va hikoya, 5-bosqich - asosiy va ikkinchi darajali ob'ektlarni yaratish, 6-bosqich - maket, sahnalashtirish.
-====
-1-bosqich - mavzu tanlash, 2-bosqich - ma'lumot to'plash, 3 bosqich - tizimlashtirish, 4 bosqich - eskiz va hikoya, 5 bosqich - asosiy darajadagi ob'ektlarni yaratish, 6 bosqich - maket, sahnalashtirish.
+tanqidiy fikrlashni shakllantirish, ommaviy axborot vositalarida, reklamada, san'at asarlarida qo'llaniladigan mediamatn bilan ishlashga asoslangan ijodiy shaxsni tarbiyalashdan iborat.
 ++++ 
-Bir xil Firma, tashkilot yoki jismoniy shaxsga tegishli boʻlgan va kontent boʻyicha bogʻlangan veb-sahifalar guruhi
+Harakatlanuvchi bosma mashinasini qachon va kim tomonidan ixtiro qilingan?
 ====
-# veb-sayt
+#1450-yil Iogannes Gutenberg
 ====
-Server
+1435-yil Iogannes Gutenberg
 ====
-Host
+1445-yil Gulelmov Markon
 ====
-Domen
+1460-yil Aleksandr Popov
 ++++
-Internetga ulangan kompyuterda ... bo'lishi kerak.
+Ommaviy tirajda bosilgan birinchi kitob nechanchi yilda nashr etilgan?
 ====
-IP – manzil
+#1445-yil
 ====
-Veb-sahifa
+1435-yil
 ====
-URL – manzil
+1450-yil
 ====
-Domen nomi
+1460-yil
 ++++
-Axborot texnologiyalari bu:
+Ommaviy tirajda bosilgan birinchi kitob qaysi va hajmi qancha edi?
 ====
-# Usullar va avtomatlashtirish vositalaridan foydalangan holda ma'lumotlarni yig'ish, qayta ishlash, uzatish va saqlash bo'yicha operatsiyalar majmui Texnik vositalar to'plami
+#42 qatorli Injil bo'lib, umumiy hajmi 1282 bet bo'lgan
 ====
-Dasturiy vositalar to'plami.
+44 qatorli Injil bo'lib, umumiy hajmi 1295 bet bo'lgan
 ====
-Tashkiliy vositalar yig'indisi
+40 qatorli Injil bo’lib, umumiy hajmi 1292 bet bo’lgan
 ====
-Ko'p ma'lumot resurslari
+ 46 qatorli Injil bo'lib, umumiy hajmi 1822 bet bo'lgan
 ++++
-Mobil ilova nima?
+Radioning paydo bo'lishi kimlarning nomlari bilan bog’liq? 
 ====
-# Smartfonlar, planshetlar va boshqa mobil qurilmalarda ishlash uchun mo'ljallangan dasturiy ta'minot
+Gulelmov Markon
 ====
-Bu bir nechta ikkinchi darajali dasturlardan iborat planshet.
+Aleksandr Popov, Reginald Fessenden
 ====
-Mobil qurilmalarning ishlashi bilan bog'liq maxsus tipik vazifalarni bajarish uchun umumiy dasturiy ta'minotning bir qismi sifatida yordamchi kompyuter dasturi.
+Reginald Fessenden, Gulelmov Markon
 ====
-O'yin jarayonini tashkil qilish, o'yin sheriklari bilan muloqot qilish uchun xizmat qiluvchi dastur.
+#Gulelmov Markon, Aleksandr Popov
 ++++
-Interaktiv devor ...
+Radioning haqiqiy ixtirochisi kim?
 ====
-# Devorni planshet kompyuter kabi u bilan o'zaro ta'sir qilish qobiliyatiga ega video yuzasiga aylantirish imkonini beruvchi qurilmalar to'plami
+#Nikola Tesla
 ====
-Tasvir proyeksiya qilinadigan banner
+Reginald Fessenden
 ====
-Oq magnit doska ko'rinishidagi interaktiv ekran
+Karl Braun
 ====
-Uch o'lchamli tasvir va uning animatsiyasini yaratish uchun dastur
+Gulelmov Markon
 ++++
-Quyidagilardan qaysi biri bulutli texnologiyalarga tegishli emas?
+Birinchi ovozli xabarni efirga kim va qachon uzatgan? 
 ====
-Profilaktik xizmat ko'rsatish uchun himoya tizimini vaqtincha o'chirib qo'yish
+#1906 yilda Kanadalik Reginald Fessenden
 ====
-Yuqori darajadagi hisoblash quvvati
+1906 yilda Italiyalik Reginald Fessenden
 ====
-Ma'lumotni har qanday qurilmadan olish mumkin
+1907 yilda Amerikalik Reginald Fessenden
 ====
-Saqlangan ma'lumotlarning eng yuqori ishonchliligi
+1609 yilda Belgiyalik Reginald Fessenden
 ++++
-Infografika funksiyalari...?
+Audiovizual vositalar nimaga asoslanadi?
 ====
-Ma'lumotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga bir vaqtning o'zida ma'lumot to'plashda yordam berish, chunki ular kiritilgan matnning tartibida farqlanadi.
+# radio yoki televizor yordamida uzatiladigan tovush va tasvirni qabul qiluvchi tomonidan bir vaqtda idrok etishi
 ====
-Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga darhol ma'lumot to'plashda yordam berish.
+bir vaqtning o'zida turli shakllarda - matn, video, audio, fotosuratlar, infografika va boshqalar yordamida uzatiladigan kontent.
 ====
-Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga darhol ma'lumot to'plash, ularni kiritish tartibini diversifikatsiya qilish va etkazishda yordam berish
+bu bir yoki bir nechta shaxs tomonidan tashkil etilgan, ma'lum bir manfaatni ko'zlab media-kontent ishlab chiqarishga sarmoya kiritgan korxonalar faoliyati.
 ====
-Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, ularni kiritish tartibini diversifikatsiya qilish va muloqot qilish.
+matn, video, audio, fotosuratlar, infografika va boshqalar yordamida uzatiladigan kontent.
 ++++
-Zamonaviy xaritalar, transport tizimlari uchun marshrut xaritalarida qanday usul qo'llaniladi?
+Televizorlarning paydo bo'lishi uchun nima asos bo'lib xizmat qildi?
 ====
-# Infografika
+# 1897 yilda nemis fizigi Karl Braun tomonidan katod nurlari trubasining ixtirosi 
 ====
-Dizayn
+1987 yilda shved fizigi Karl Braun tomonidan katod nurlari trubasining ixtirosi
 ====
-Ierarxiya
+1789 yilda nemis fizigi Karl Braun tomonidan katod nurlari trubasining ixtirosi
 ====
-Statik
+1897 yilda fransuz fizigi Karl Braun tomonidan katod nurlari trubasining ixtirosi
 ++++
-…..-odamlar vizualizatsiya paytida 55% ko'proq ma'lumotni eslab qolishadimi?
+Birinchi plazma televizor nechanchi yilda paydo bo'lgan? 
 ====
-# Aniq diagrammalar va infografika
+#1964-yil
 ====
-ACL diagrammasi
+1954-yil
 ====
-IT loyihalari
+1946-yil
 ====
-O'lchov xizmati
+1941-yil
 ++++
-…..bu qiyin narsalar haqida oson gapirishning bir usulimi?
+Global tarmoq (World Wide Web) kontseptsiyasi ixtirochisi kim bo’lgan?
+====
+# Tim Berners Li
+====
+Karl Braun
+====
+Aleksandr Popov
+====
+Reginald Fessenden
+++++
+Birinchi grafik brauzer “Mosaic“ nechanchi yilda va qayerda ishlab chiqilgan?
+====
+#1993, Illinoys universiteti mutaxassislari tomonidan
+====
+1992, Massachusets instituti mutaxassislari tomonidan
+====
+1993, Kaliforniya universiteti mutaxassislari tomonidan
+====
+1992, Michigan universiteti mutaxassislari tomonidan
+++++
+Tarqatish mazmuniga ko'ra nashrlar qanday turlarga bo’linadi?
+====
+#Ommaviy va ixtisoslashganlar
+====
+Ommaviy va universal
+====
+Maxsus va integratsiyalashgan
+====
+Professional va professional bo’lmagan
+++++
+Ommaviy (universal) nashr bu?
+====
+#o'quvchini turli sohalardagi ma'lumotlardan xabardor qilish: siyosat, iqtisodiyot, jamiyat, madaniyat,
+====
+sport va boshqalar ma'lum bir auditoriya yoki hududga qaratilgan.
+====
+o'quvchiga turli sohalardagi ma'lumotlarni berish orqali masofadan ta’lim berish.
+====
+o'quvchiga turli sohalardagi dolzarb masalalarda to’g’ri yo’naltirish
+++++
+Ixtisoslashgan (niche) nashr bu?
+====
+#sport va boshqalar ma'lum bir auditoriya yoki hududga qaratilgan
+====
+san’at va madaniy yo’nalishga qaratilgan.
+====
+o'quvchini turli sohalardagi ma'lumotlardan xabardor qilish: siyosat, iqtisodiyot, jamiyat, madaniyat.
+====
+faqat tashkilot ma’lumotlarini yoritadi.
+++++
+Multimedia bu?
+====
+#bir vaqtning o'zida turli shakllarda - matn, video, audio, fotosuratlar, infografika va boshqalar yordamida uzatiladigan kontentdir
+====
+o'quvchini turli sohalardagi ma'lumotlardan xabardor qilish: siyosat, iqtisodiyot, jamiyat, madaniyat
+====
+bir vaqtning o'zida turli shakllarda - matn, video, audio, fotosuratlar, infografika va boshqalar tasvirlangan fayldir
+++++
+Medianing axborot funksiyasi tarkibiga kirmaydigan javobni ko’rsating?
+====
+Ommaviy axborot vositalarining axborot funktsiyasi jurnalistlarni jamiyat manfaatlariga daxldor bo'lgan masalalar
+====
+Hukumat va mahalliy hokimiyat organlari byudjet mablag'larini qanday sarflayotgani, mamlakat rahbariyati turli sohalarda (iqtisod, ta'lim, ijtimoiy siyosat, sog'liqni saqlash va h.k.) nima qilayotganiga daxldor bo'lgan masalalar
+====
+Tariflar oshirilganmi, qanday qonunlar va nima maqsadda qabul qilingani haqida xabardor qilishi kerakligini anglatadi
+====
+#Ommaviy axborot vositalari har xil nuqtai nazarga ega odamlar gapiradigan asosiy kundalik muammolarni muhokama qilish uchun minbarga aylanadi 
+++++
+Medianing jamoatchilik fikrini shakllantirish funksiyasi tarkibiga kirmaydigan javobni ko’rsating.
+====
+Ommaviy axborot vositalari har xil nuqtai nazarga ega odamlar gapiradigan asosiy kundalik muammolarni muhokama qilish uchun minbarga aylanadi 
+====
+Axborot-tahliliy dasturlar platformalari va munozaralar yoki gazeta sahifalarida ekspertlar va oddiy odamlarning dolzarb masalalar bo‘yicha turli fikrlari e’lon qilinadi, bu esa qaysidir faktning turli jihatlarini muhokama qilish va ommani tanishtirishdir
+====
+A va B
+====
+#tariflar oshirilganmi, qanday qonunlar va nima maqsadda qabul qilingani haqida xabardor qilishi kerakligini anglatadi
+++++
+Ijtimoiylashtirish funksiyasi tarkibiga kirmaydigan javobni ko’rsating.
+====
+Ommaviy axborot vositalari tarqatilayotgan kontent orqali e’tiqodlar, munosabatlar qabul qiluvchilarga singdiradi
+====
+Ommaviy axborot vositalari tarqatilayotgan kontent orqali jamiyatda qabul qilingan qadriyatlar, fikrlar, tushunchalar qabul qiluvchilarga singdiradi
+====
+Ommaviy axborot vositalari tarqatilayotgan kontent orqali jamiyatda qabul qilingan me’yorlar, qoidalar va stereotiplarni qabul qiluvchilarga singdiradi.
+====
+#Ommaviy axborot vositalari tarqatilayotgan kontent orqali tariflar oshirilganmi, qanday qonunlar va nima maqsadda qabul qilingani haqida xabardor qiladi
+++++
+Medianing reklama funksiyasi?
+====
+# OAV insonlarni turli xil mahsulot yoki xizmatlarni sotib olish imkoniyatlari haqida xabardor qiladi, foydalanuvchini ularning afzalliklariga ishontirishga harakat qiladi
+====
+Ommaviy axborot vositalari tarqatilayotgan kontent orqali jamiyatda qabul qilingan qadriyatlar, fikrlar, tushunchalar qabul qiluvchilarga singdiradi
+====
+Axborot-tahliliy dasturlar platformalari va munozaralar yoki gazeta sahifalarida ekspertlar va oddiy odamlarning dolzarb masalalar bo‘yicha turli fikrlari e’lon qilinadi, bu esa qaysidir faktning turli jihatlarini muhokama qilish va ommani tanishtirish
+====
+Jurnalistlar jo‘natuvchi sifatida to‘g‘ri, tasdiqlangan va to‘liq ma’lumotlarni taqdim etishlari
+++++
+Ko'ngilochar funksiya bu…
+====
+Axborot-tahliliy dasturlar platformalari va munozaralar yoki gazeta sahifalarida ekspertlar va oddiy odamlarning dolzarb masalalar bo‘yicha turli fikrlari e’lon qilinadi, bu esa qaysidir faktning turli jihatlarini muhokama qilish va ommani tanishtirish
+====
+OAV insonlarni turli xil mahsulot yoki xizmatlarni sotib olish imkoniyatlari haqida xabardor qiladi, foydalanuvchini ularning afzalliklariga ishontirishga harakat qiladi
+====
+Ommaviy axborot vositalari tarqatilayotgan kontent orqali jamiyatda qabul qilingan qadriyatlar, fikrlar, tushunchalar qabul qiluvchilarga singdiradi 
+====
+#Ko'pchilik boshqa mashg'ulotlar paytida radio yoki televizorni tinglaydi, aynan ushbu funksiya ular uchun qulay muhit yaratib berishini ta’minlaydi
+++++
+Madaniy-ma'rifiy funksiya?
+====
+#Ommaviy axborot vositalari maktab va ta’lim jarayoni bilan shug‘ullanuvchi boshqa muassasalar qatori tarbiya omillari tizimida muhim o‘rin tutadi. Inson shaxsini tarbiyalash va rivojlantirishga qaratilgan umumiy sa’y-harakatlarga yangicha ko‘rinishlar qo‘shmoqda.
+====
+Axborot-tahliliy dasturlar platformalari va munozaralar yoki gazeta sahifalarida ekspertlar va oddiy odamlarning dolzarb masalalar bo‘yicha turli fikrlari e’lon qilinadi, bu esa qaysidir faktning turli jihatlarini muhokama qilish va ommani tanishtirish
+====
+OAV insonlarni turli xil mahsulot yoki xizmatlarni sotib olish imkoniyatlari haqida xabardor qiladi, foydalanuvchini ularning afzalliklariga ishontirishga harakat qiladi
+====
+Ommaviy axborot vositalari tarqatilayotgan kontent orqali jamiyatda qabul qilingan qadriyatlar, fikrlar, tushunchalar qabul qiluvchilarga singdiradi 
+++++
+Axborot sifati nimalarga bog’liq: 
+====
+#Ishonchlilik, ravshanlik, aniqlik
+====
+Ishonchlilik, originallilik, aniqlik
+====
+Ishonchlilik, ravshanlik, manbaga asoslanganlik, originallik
+====
+Universallik, ravshanlik, origilallik, aniqlik
+
+++++
+Axborot sifatida ishonchlilik:
+====
+#Jurnalistlar jo‘natuvchi sifatida to‘g‘ri, tasdiqlangan va to‘liq ma’lumotlarni taqdim etishlari shart. Ma'lumotlarning to'g'riligini ta'minlash uchun ular o'z materiallarida bir nechta nuqtai nazarni ochib berishadi, bunda turli manbalarga murojaat qilishlari kerak.
+====
+Jurnalistlar axborot uzatishda aniq, to‘g‘ri tildan foydalanishlari va ma’lum xabarni aniq ifodalashlari kerak
+====
+OAV insonlarni turli xil mahsulot yoki xizmatlarni sotib olish imkoniyatlari haqida xabardor qiladi, foydalanuvchini ularning afzalliklariga ishontirishga harakat qiladi
+====
+Ommaviy axborot vositalari tarqatilayotgan kontent orqali jamiyatda qabul qilingan qadriyatlar, fikrlar, tushunchalar qabul qiluvchilarga singdiradi
+++++
+Axborot sifatida ravshanlik:
+====
+#Jurnalistlar axborot uzatishda aniq, to‘g‘ri tildan foydalanishlari va ma’lum xabarni aniq ifodalashlari kerak
+====
+Axborot sifati uchun jurnalistlar ham javobgardir. Ular taxminiy ma'lumotlarni etkazmasligi yoki shaxsiy fikr bildirmasligi kerak
+====
+OAV insonlarni turli xil mahsulot yoki xizmatlarni sotib olish imkoniyatlari haqida xabardor qiladi, foydalanuvchini ularning afzalliklariga ishontirishga harakat qiladi
+====
+Jurnalistlar jo‘natuvchi sifatida to‘g‘ri, tasdiqlangan va to‘liq ma’lumotlarni taqdim etishlari shart. Ma'lumotlarning to'g'riligini ta'minlash uchun ular o'z materiallarida bir nechta nuqtai nazarni ochib berishadi, bunda turli manbalarga murojaat qilishlari kerak
+++++
+Axborot sifatida aniqlik:
+====
+#Axborot sifati uchun jurnalistlar ham javobgardir. Ular taxminiy ma'lumotlarni etkazmasligi yoki shaxsiy fikr bildirmasligi kerak
+====
+OAV insonlarni turli xil mahsulot yoki xizmatlarni sotib olish imkoniyatlari haqida xabardor qiladi, foydalanuvchini ularning afzalliklariga ishontirishga harakat qiladi
+====
+Jurnalistlar jo‘natuvchi sifatida to‘g‘ri, tasdiqlangan va to‘liq ma’lumotlarni taqdim etishlari shart. Ma'lumotlarning to'g'riligini ta'minlash uchun ular o'z materiallarida bir nechta nuqtai nazarni ochib berishadi, bunda turli manbalarga murojaat qilishlari kerak
+====
+Jurnalistlar axborot uzatishda aniq, to‘g‘ri tildan foydalanishlari va ma’lum xabarni aniq ifodalashlari kerak
+++++
+Moliyalashtirish manbalariga ko‘ra ommaviy axborot vositalari qanday turlarga bo‘linadi?
+====
+# Hukumat va jamoat ommaviy axborot vositalari va hususiy ommaviy axborot vositalari
+====
+Hukumat, viloyat va hususiy ommaviy axborot vositalari.
+====
+Hukumat, tijorat va hususiy ommaviy axborot vositalari 
+====
+Hukumat  va jamoat ommaviy axborot vositalari 
+++++
+Xususiy media institutlari - bu?
+====
+#bir yoki bir nechta shaxs tomonidan tashkil etilgan, ma'lum bir manfaatni ko'zlab media-kontent ishlab chiqarishga sarmoya kiritgan korxonalar
+====
+bir nechta shaxs tomonidan tashkil etilgan, ma'lum bir manfaatni ko'zlab media-kontent ishlab chiqarishga sarmoya kiritgan korxonalar
+====
+bir yoki bir nechta jamoa tomonidan tashkil etilgan, davlat manfaatini ko'zlab media-kontent ishlab chiqarishga sarmoya kiritgan korxonalar
+====
+bitta shaxs tomonidan tashkil etilgan, davlat bilan sheriklikni ko'zlab media-kontent ishlab chiqarishga sarmoya kiritgan korxona
+++++
+Oʻzbekistondagi televizion kanallar qanday turkumlarga boʻlinadi?
+====
+Oʻzbekiston milliy teleradiokompaniyasi (MTRK), hududiy va nodavlat televizion kanallar
+====
+Oʻzbekiston milliy teleradiokompaniyasi (MTRK), viloyat va tijorat televizion kanallar
+====
+Oʻzbekiston milliy teleradiokompaniyasi (NTRK) va tijorat televizion kanallar
+====
+Oʻzbekiston milliy teleradiokompaniyasi (MTRK) va hududiy (NTRK) televizion kanallar
+++++
+Reklama faoliyati bu?
+====
+#ishontirish va rag'batlantirish shaklidagi muloqot yoki ommaviy taqdimot turi. Bir yoki bir nechta mahsulot, xizmatlar, voqealar/hodisalar, g'oyalar, odamlar va/yoki iqtisodiy yoki notijorat tashkilotlar haqida haqiqiy va potentsial mijozlarni xabardor qilish, ishontirish va ta'sir qilish uchun mo'ljallangan reklama texnikasi
+====
+bir yoki bir nechta shaxs tomonidan tashkil etilgan, ma'lum bir manfaatni ko'zlab media-kontent ishlab chiqarishga sarmoya kiritgan korxonalar
+====
+OAV insonlarni turli xil mahsulot yoki xizmatlarni sotib olish imkoniyatlari haqida xabardor qiladi, foydalanuvchini ularning afzalliklariga ishontirishga harakat qiladi
+====
+Jurnalistlar jo‘natuvchi sifatida to‘g‘ri, tasdiqlangan va to‘liq ma’lumotlarni taqdim etishlari shart. Ma'lumotlarning to'g'riligini ta'minlash uchun ular o'z materiallarida bir nechta nuqtai nazarni ochib berishadi, bunda turli manbalarga murojaat qilishlari kerak
+++++
+Reklama xabari bu?
+====
+#to'g'ridan-to'g'ri mijozlarning istaklarini rag'batlantirishga va reklama qilingan mahsulot yoki kompaniyaga nisbatan ijobiy assotsiatsiyalarni shakllantirishga qaratilgan
+====
+ishontirish va rag'batlantirish shaklidagi muloqot yoki ommaviy taqdimot turi. Bir yoki bir nechta mahsulot, xizmatlar, voqealar/hodisalar, g'oyalar, odamlar va/yoki iqtisodiy yoki notijorat tashkilotlar haqida haqiqiy va potentsial mijozlarni xabardor qilish, ishontirish va ta'sir qilish uchun mo'ljallangan reklama texnikasi
+====
+bir yoki bir nechta shaxs tomonidan tashkil etilgan, ma'lum bir manfaatni ko'zlab media-kontent ishlab chiqarishga sarmoya kiritgan korxonalar
+====
+OAV insonlarni turli xil mahsulot yoki xizmatlarni sotib olish imkoniyatlari haqida xabardor qiladi, foydalanuvchini ularning afzalliklariga ishontirishga harakat qiladi
+++++
+Reklamani tuzishda hisobga olinishi kerak bo’lgan jixatlardan qaysi javob ortiqcha?
+====
+Nima aytiladi, xabar, birinchi navbatda, kimga yo’naltirilgan.
+====
+Xabar qanday aytiladi/yetkazib beriladi.
+====
+Tomoshabinlar xususiyatlari va kompaniyaning taniqli imidjidan kelib chiqqan holda qanday ifoda shakli tanlanadi.
+====
+# Yozma va audiovizual vositalar orqali uzatiladigan ayrim dolzarb voqealar haqidagi ma'lumotlar
+++++
+Yangiliklar bu?
+====
+#bu yozma va audiovizual vositalar orqali uzatiladigan ayrim dolzarb voqealar haqidagi ma'lumotlar
+====
+Ma'lumotni miyaga uzatishning eng tez va samarali usullaridan biri.
+====
+Tomoshabinlar xususiyatlari va kompaniyaning taniqli imidjidan kelib chiqqan holda qanday ifoda shakli tanlanadi.
+====
+Faktlarni tanlab taqdim etish.
+++++
+Ma'lumotni miyaga uzatishning eng tez va samarali usullaridan biri bu…
+====
+# vizual idrok etish
+====
+audiovizual idrok etish
+====
+kognitiv idrok etish
+====
+hissiy idrok etish
+++++
+«Speed of processing in the human visual system»  tadqiqotiga ko'ra, miya tasvirni qayta ishlash uchun qancha vaqt sarflaydi?
+====
+#150 millisekund
+====
+100 millisekund
+====
+105 millisekund
+====
+160 millisekund
+++++
+"From icons perception to mobile interaction" qanday tadqiqot o’tkazgan?
+====
+# tanib olish qobiliyati yoshga qarab pasayib borishi
+====
+rasmlar orqali xotira og'zaki xotiradan ustun ekanligini ko'rsatdi
+====
+og'zaki xotira rasmlar orqali xotiradan ustun ekanligini ko'rsatdi
+====
+tanib olish qobiliyati yoshga qarab o’sib borishi
+++++
+«Learning 10000 pictures» tadqiqoti nimani ko’rsatgan?
+====
+#rasmlar orqali xotira og'zaki xotiradan ustun ekanligini ko'rsatdi
+====
+og'zaki xotira rasmlar orqali xotiradan ustun ekanligini ko'rsatdi
+====
+tanib olish qobiliyati yoshga qarab o’sib borishi
+====
+tanib olish qobiliyati yoshga qarab pasayib borishi
+++++
+Vizual elementlarning universalligi?
+====
+# turli tillarda gapiradigan odamlar tomonidan foydalanilganda, saytni yanada qulayroq qiladi
+====
+bu ijtimoiy guruh yoki hodisaning barqaror, soddalashtirilgan tasviri bo'lib, u shaxsiy tajribaga asoslanmaydi, ammo tashqaridan qabul qilinadi
+====
+ma'lumotni miyaga uzatishning eng tez va samarali usullaridan biri
+====
+iqtibosning buzilishi tafsilotlarni ta'kidlash va mohiyatni xiralashtirish
+++++
+Stereotip nima?
+====
+ # bu ijtimoiy guruh yoki hodisaning barqaror, soddalashtirilgan tasviri bo'lib, u shaxsiy tajribaga asoslanmaydi, ammo tashqaridan qabul qilinadi
+====
+ma'lumotni miyaga uzatishning eng tez va samarali usullaridan biri
+====
+iqtibosning buzilishi tafsilotlarni ta'kidlash va mohiyatni xiralashtirish
+====
+faktlarni tanlab taqdim etish
+++++
+Zamonaviy ma'noda Stereotip atamasi birinchi marta kim tomonidan taklif qilingan?
+====
+# Uolter Lippman tomonidan 1922 yilda
+====
+Karl Braun tomonidan 1822 yilda
+====
+Djon Dyui tomonidan 1922 yilda
+====
+Uolter Lippman tomonidan 1822 yilda
+
+++++
+"Kino" so'zining ma’nosi, 
+====
+# "harakatni yozib olish" degan ma'noni anglatadi
+====
+"harakatli tasvirlar" degan ma'noni anglatadi
+====
+"harakatni ko’rsatish" degan ma'noni anglatadi
+====
+"tasvirlar majmui" degan ma'noni anglatadi
+
+++++
+Tarixdagi birinchi kinoshouni ommaga kim va qachon taqdim etishgan.
+====
+# 1895-yilda aka-uka Lyumyerlar
+====
+1980-yilda aka-uka Lyumyerlar
+====
+1985-yilda aka-uka Lyumyerlar
+====
+1995-yilda aka-uka Og'ustlar
+++++
+Birinchi rangli film 1902 yilda kim tomonidan yaratilgan?
+====
+# Georges Meliès
+====
+Sharl-Emil Reyno
+====
+Ogust va Lui Lyumyerlar
+====
+Jyul Vern
+++++
+Birinchi ovozli film 1927 yilda Nyu-Yorkda chiqarilgan. U qanday nomlangan va qaysi kompaniya tomonidan chiqarilgan?
+====
+#Jazz qo'shiqchisi, mashhur Warner Brothers
+====
+Oyga sayohat, Paramount Pictures
+====
+Bechora Perrot, Columbiya Pictures
+====
+Jyul Vernning sarguzashtlari, Paramount Pictures
+++++
+Sotsiologik lug'atga ko'ra, ijtimoiy sub'ektni (shaxs, guruh, jamoa) o'z manfaatlariga emas, balki tashabbuskorning manfaatlariga muvofiq fikrlash va harakat qilishga undaydigan harakatdir
+====
+# Manipulyatsiya
+====
+Zo’ravonlik
+====
+Taxdid
+====
+Kiberbulling
+++++
+Manipulyatsiya qanday usullar bilan amalga oshiriladi?
+====
+# haqiqatni ataylab buzib, fikr va qaror erkinligi taassurotini qoldiradigan ishontirish usullari yordamida amalga oshiriladi
+====
+haqiqatni ataylab buzib, fikr va qaror erkinligi usullari yordamida amalga oshiriladi
+====
+haqiqatni buzmay, fikr va qaror erkinligi taassurotini qoldiradigan adolatli usullari yordamida amalga oshiriladi 
+====
+haqiqatni o’zgartirib, fikr erkinligi taassurotini qoldiradigan ishontirish usullari yordamida amalga oshiriladi
+++++
+Ommaviy axborot vositalarida qo'llaniluvchi manipulyatsiya usullariga kirmaydigan javobni tanlang
+====
+Faktlarni tanlab taqdim etish faktlar va fikrlar aralashmasi
+====
+Iqtibosning buzilishi tafsilotlarni ta'kidlash va mohiyatni xiralashtirish
+====
+Kun tartibidan muhim masalalar yo'q yorliqlardan foydalanish, simulyatsiya qilingan munozara
+====
+# haqiqatni buzmay, fikr va qaror erkinligi taassurotini qoldiradigan adolatli usullari yordamida amalga oshirilgan munozara, debat
+++++ 
+Ommaviy axborot vositalari yordamida manipulyatsiya qilishga urinayotganlar maqsadlariga qaysi variant kirmaydi?
+====
+g'oya/mafkura yoki odamlarni qo'llab-quvvatlashga yoki rad etishga tayyor bo'lgan g'olib tarafdorlar
+====
+jamoatchilik e'tiborini siyosiy va iqtisodiy elita tomonidan hal etilayotgan muhim masalalar va o'zgarishlardan chalg'itish
+====
+Fuqarolik ruhini bostirish va jamiyatning o'zgarishlarga olib keladigan harakatlardagi ishtirokini cheklash
+====
+# haqiqatni buzmay, fikr va qaror erkinligi taassurotini qoldiradigan adolatli usullari yordamida amalga oshirilgan munozara, debat
+++++
+2016-yilda qaysi virtual o‘yin paydo bo‘lgach, butun dunyo haqiqiy telbalikni boshdan kechirdi?
+====
+# Pokemon Go
+====
+Allods Online
+====
+Rokemon Co
+====
+Pockemon Go!
+++++
+Virtual o'yinlarni haddan tashqari oshirib yuboradigan foydalanuvchilar bilan sodir bo'ladigan g'alati va xavfli narsa bu?
+====
+#tarmoqni blokirovka qilish effekti
+====
+tajovuzkor ta'qib qilish
+====
+jazavaga tushish
+====
+agressiya
+++++
+Bu bir guruh talabalar tomonidan uning bir yoki bir nechta ishtirokchilariga nisbatan tajovuzkorlikning ataylab muntazam namoyon bo'lishi, tajovuzkor ta'qib qilish.
+====
+# Bulling
+====
+Kiberbulling
+====
+Shantaj
+====
+Grooming
+++++
+… ingliz tilidan tarjima qilinganda, ta'qib, tajovuzkor ta'qib va hatto psixologik terrorni anglatadi?
+ ====
+# Bulling
+====
+Kiberbulling
+====
+Shantaj
+====
+Grooming
+++++	 
+Bulling ishtirokchilari kimlar bo’lishi mumkin?
+====
+#Agressorlar, Jabrlanuvchi(lar), Kuzatuvchilar.
+====
+Jabrlanuvchi(lar), Guvohlar, Kuzatuvchilar 
+====
+Ota-onalar, Jabrlanuvchi(lar), O’qituvchilar 
+====
+Psixologlar, Jabrlanuvchi(lar), Ota-onalar, O’qituvchilar
+++++
+Bulling ko’rinishlari qanday bo’ladi?
+====
+#Jismoniy va psixologik
+====
+Ongli va uyushtirilmagan
+====
+Guruxli va uyushtirilgan
+====
+Yuridik va jismoniy
+++++
+…- bu psixikaga ta'sir qilish bilan bog'liq bo'lgan zo'ravonlik, og'zaki haqorat yoki tahdid, ta'qib qilish, qo'rqitish orqali psixologik travma keltirib, ataylab ma'naviy azoblashlarni keltirib chiqaradi
+====
+# Psixologik bulling
+====
+Jismoniy bulling
+====
+Grooming
+====
+Kiberbulling
+++++
+UNICEF ma'lumotlariga ko'ra, kiberbulling nima?
+====
+# raqamli texnologiyalar yordamida qo'rqitish
+====
+Qo'rqitish
+====
+Tazyiq 
+====
+Xaqorat 
+++++
+Kollektiv zo'ravonlik muammosini hal qilishda kimlar ishtirok etishi kerak?
+====
+#O'qituvchilar, Ta'lim muassasasi psixologi, Talabalarning ota-onalari
+====
+Agressorlar, Jabrlanuvchi(lar), Kuzatuvchilar
+====
+Jabrlanuvchi(lar), Guvohlar, Kuzatuvchilar
+====
+Psixologlar, Jabrlanuvchi(lar), Ota-onalar, O’qituvchilar
+++++
+2019-yildan boshlab, qaysi kun Rossiyada Kiberbullingga qarshi kurash kuni nishonlanadi.
+====
+#11-noyabr
+====
+21-noyabr
+====
+12-noyabr
+====
+15-noyabr
+++++
+…. noma’lum shaxslar tomonidan internet orqali voyaga yetmaganlar bilan shaxsiy uchrashish va intim munosabatlarga kirishish maqsadida tanishish, shuningdek, ularni jinsiy ekspluatatsiya qilish maqsadida qo‘llaniladigan psixologik manipulyatsiya usuli
+====
+#Internet grooming
+====
+Internet sleng
+====
+Tarmoqli aloqa
+====
+Kiberbulling
+++++
+….. - Internetda to'liq hayot kechiradigan, ammo adabiy tilda foydalanish uchun nomaqbul deb hisoblanadigan so’zlar.
+====
+ Internet grooming
+====
+#Internet sleng
+====
+Tarmoqli aloqa
+====
+Kiberbulling
+++++
+Tarmoqli aloqa axloq qoidalarini belgilaydigan maxsus atama nima deb ataladi?
+====
+#tarmoq etiketi yoki netiket
+====
+Mantiq va axloq
+====
+Axloq va o’zini tutish
+====
+Kiberbulling
+++++
+Etika toifalari?
+====
+#Psixologik, hissiy, texnik, dizayn, ma'muriy
+====
+Hissiy, texnik, dizayn
+====
+Texnik, dizayn, ma'muriy
+====
+Psixologik, hissiy, ijodiy, guruhli
+++++
+Raqamli fuqaro bo'lish? 
+====
+#axborot texnologiyalaridan samarali foydalanish uchun zarur bo'lgan raqamli ko'nikmalarga ega bo'lish, shuningdek, uzluksiz o'z-o'zini rivojlantirishdir
+====
+mutaxassislar ularni yoshlar maktabdan o‘zlashtirishlari kerak bo’lgan raqamli fuqarolikning asosiy komponentini aniqlashlari
+====
+noma’lum shaxslar tomonidan internet orqali voyaga yetmaganlar bilan shaxsiy uchrashish va intim munosabatlarga kirishish maqsadida tanishish, shuningdek, ularni jinsiy ekspluatatsiya qilish maqsadida qo‘llaniladigan psixologik manipulyatsiya usuli
+====
+bu ijtimoiy guruh yoki hodisaning barqaror, soddalashtirilgan tasviri bo'lib, u shaxsiy tajribaga asoslanmaydi, ammo tashqaridan qabul qilinadi
+++++
+Mutaxassislar ularni yoshlar maktabdan o‘zlashtirishlari kerak bo’lgan raqamli fuqarolikning to‘qqizta asosiy komponentini aniqladilar. Qaysi javob ortiqcha?
+====
+Raqamli kirish imkoniyati, raqamli savdo, raqamli xavfsizlik
+====
+Raqamli malakalar, raqamli muloqot, raqamli etiket
+====
+Raqamli ong, raqamli huquq va majburiyatlar, raqamli salomatlik
+====
+#Raqamli sleng, raqamli ko’nikma, raqamli salomatlik
+++++
+Veb vositalari – bu? 
+====
+# Internetda ishlatiladigan ilovalar
+====
+elektron pochtaning ishlashini ta'minlash
+====
+telekonferentsiyani qo'llab-quvvatlash
+====
+har qanday formatdagi fayllarni qabul qilish va uzatish
+++++
+Web 2.0 atamasining ixtirochisi va targ'ibotchisi kim?
+====
+#Tim O'Reyli
+====
+Tim Bernards Li
+====
+Nikola Tesla
+====
+Mark Tsukerberg
+++++
+…. ochiq muloqotga, kontent va/yoki axborot resurslarini yoki boshqa odamlar tomonidan chop etilgan ma'lumotlarni almashish qobiliyatiga asoslanadi?
+====
+#Web 2.0
+====
+Web-server
+====
+Web-sayt
+====
+Domain
+++++
+Ijtimoiy tarmoq?
+====
+#bu Internet, platforma va uning foydalanuvchilarini birlashtirish natijasida shakllanadigan onlayn havolalar yaratish, muloqot qilish va ma'lumot almashish uchun mo'ljallangan Internet xizmati
+====
+bu Internetda onlayn havolalar yaratish va ma'lumot almashish uchun mo'ljallangan Internet xizmati
+====
+bu sun’iy intellektga asoslangan Internetda shakllanadigan onlayn havolalar, ma'lumot almashish uchun mo'ljallangan Internet xizmati 
+====
+maksimal hajmdagi simvollardan foydalanish
+++++
+Facebook bu?
+ 
+====
+#amerikalik Mark Tsukerberg tomonidan ishlab chiqilgan va 2004 yilda ishga tushirilgan ijtimoiy tarmoq
+====
+angliyalik Mark Tsukerberg tomonidan ishlab chiqilgan va 2002 yilda ishga tushirilgan ijtimoiy tarmoq
+====
+kanadalik Mark Tsukerberg tomonidan ishlab chiqilgan va 2001 yilda ishga tushirilgan ijtimoiy tarmoq
+====
+amerikalik Mark Tsukerberg tomonidan ishlab chiqilgan va 2001 yilda taqdim etilgan xizmat
+++++
+Instagram - …. tomonidan yaratilgan hamda rasm va videolarni ulashish uchun moʻljallangan ijtimoiy tarmoq
+====
+#Kevin Systrom va Mike Krieger
+====
+Mark Tsukerberg
+====
+Bill Geyts
+====
+Jon Dyui
+++++
+…. – online video ulashish va ijtimoiy media platformasi. Bosh ofisi Kaliforniyaning San Bruno shahrida joylashgan. YouTubedan foydalanish qulay va koʻrish osonligi tufayli juda ham mashhur va kirib koʻruvchilari soni koʻpligi boʻyicha jahonda uchinchi oʻrinda turadigan saytdir
+====
+Facebook
+====
+Instagram
+====
+#YouTube
+====
+LinkedIn
+++++
+…— biznes aloqalarini topish va oʻrnatish uchun Amerika ijtimoiy tarmogʻi 
+====
+Facebook
+====
+Instagram
+====
+YouTube
+====
+# LinkedIn
+++++
+Twitter hozirda X (𝕏) dastlab belgi bilan cheklangan edi? 
+====
+#140 ta
+====
+104 ta
+====
+240 ta
+====
+280 ta
+++++
+Foydalanuvchi profilini tekshirish bo’yicha bu ro’yhatda qaysi javob ortiqcha?
+====
+Foydalilik filtri
+====
+Ishonch filtri - soxta profillar
+====
+Sog'lom fikr filtri, Setiket filtra
+====
+# Ijtimoiylik filtri
+++++
+Fotojurnalistika-
+====
+#jurnalistikaning bir tarmog'i bo'lib, hikoyani tasvirlar bilan to'ldiradi va ommaviy axborot vositalari iste'molchisiga ko'rgan yoki o'qigan narsalariga ishonishga yordam beradi
+====
+sohada mehnat qiladigan odam. bu uning ko'chada, tadbirlarda, odamlar orasida doimiy bo'lishini anglatadi
+====
+tizim sifatida koʻrib chiqiladigan elementlar bilan bogʻliq holda belgilanadi
+====
+yagona tizim sifatida koʻrib chiqiladigan belgilar bilan bogʻliq holda belgilanadi
+++++
+Fotomuxbir-?
+====
+jurnalistikaning bir tarmog'i bo'lib, hikoyani tasvirlar bilan to'ldiradi va ommaviy axborot vositalari iste'molchisiga ko'rgan yoki o'qigan narsalariga ishonishga yordam beradi
+====
+# sohada mehnat qiladigan odam, bu uning ko'chada, tadbirlarda, odamlar orasida doimiy bo'lishini anglatadi
+====
+tizim sifatida koʻrib chiqiladigan elementlar bilan bogʻliq holda belgilanadi
+====
+yagona tizim sifatida koʻrib chiqiladigan belgilar bilan bogʻliq holda belgilanadi
+++++
+Mem bu?
+====
+#boshqa ko‘plab vaziyatlarda taqdim etiladigan axborot muhit birligidir
+====
+tizim sifatida koʻrib chiqiladigan elementlar bilan bogʻliq holda belgilanadi
+====
+Internet foydalanuvchilari, odatda anonim yoki taxalluslar (taxalluslar / taxalluslar) orqasida yashirinadi
+====
+tanqidiy fikrlash muammoni aniqlash va uni hal qilish yo'llarini topish
+++++
+Trollar - bu?
+Internet foydalanuvchilari, odatda anonim yoki taxalluslar (taxalluslar / taxalluslar) orqasida yashirinadi. Kelishmovchilik va g'azabni keltirib chiqarish uchun maqsadli ravishda forumlarda yoki ijtimoiy tarmoqlarda ko'plab xabarlar yozadilar.
+====
+boshqa ko‘plab vaziyatlarda taqdim etiladigan axborot muhit birligidir 
+====
+sohada mehnat qiladigan odam. bu uning ko'chada, tadbirlarda, odamlar orasida doimiy bo'lishini anglatadi
+====
+YouTubedan foydalanish qulay va koʻrish osonligi tufayli juda ham mashhur va kirib koʻruvchilari soni koʻpligi boʻyicha jahonda uchinchi oʻrinda turadigan saytdir
+++++
+Tanqidiy fikrlash atamasi birinchi marta fanga kim tomonidan kiritilgan?
+====
+#1910 yilda Jon Dyui (“Biz qanday o'ylaymiz” kitobida) 
+====
+1901 yilda Kevin Systrom (“Biz qanday o'ylaymiz” kitobida) 
+====
+1909 yilda Mike Krieger (“Biz qanday o'ylaymiz” kitobida) 
+====
+1910 yilda Djek Dyui (“Biz qanday o'ylaymiz” kitobida) 
+++++
+Eduard Gleyzerning ta'kidlashicha?
+====
+#Tanqidiy fikrlash bu muammoni aniqlash va uni hal qilish yo'llarini toppish, zarur ma'lumotlarni to'plash va tartibga solish, faktlarni sharhlash va ularni baholash, mantiqiy bog'lanishlar mavjudligi/yo'qligini aniqlash, qonuniy xulosalar chiqarish va ularni shubha ostiga qo'yish va oxir-oqibat o'z e'tiqod tizimini qayta tiklash qobiliyatisiz mumkin emas
+====
+Internet foydalanuvchilari, odatda anonim yoki taxalluslar (taxalluslar / taxalluslar) orqasida yashirinadi. Kelishmovchilik va g'azabni keltirib chiqarish uchun maqsadli ravishda forumlarda yoki ijtimoiy tarmoqlarda ko'plab xabarlar yozadilar
+====
+Raqamli fuqaro bo'lish axborot texnologiyalaridan samarali foydalanish uchun zarur bo'lgan raqamli ko'nikmalarga ega bo'lish, shuningdek, uzluksiz o'z-o'zini rivojlantirishdir
+====
+biror narsa uchun yoki unga qarshi ko'rsatilgan sabab. Bu atama munozarali masalalarni muhokama qilishni anglatadi va nuqtai nazarni qo'llab-quvvatlash yoki rad etish uchun mantiq va faktlardan foydalanishni o'z ichiga oladi
+++++
+Tanqidiy fikrlash fikrlash usuli bo'lib, quyidagilarga imkon beradi, ortiqcha javobni tanlang.
+====
+kiruvchi ma'lumotlarni tahlil qilish,uni shubha ostiga qo’yish.
+====
+asosli xulosalarni shakllantirish, sodir bo'layotgan voqealarga o'z bahosini berish.
+====
+noaniqlik sharoitida asosli qarorlar qabul qilish.
+====
+#hikoyani tasvirlar bilan to'ldiradi va ommaviy axborot vositalari iste'molchisiga ko'rgan yoki o'qigan narsalariga ishonishga yordam beradi
+++++
+Fakt haqida yozilgan ro’yhatda ortiqcha javobni tanlang.
+====
+ishonchli ma'lumot, tasdiqlangan va tasdiqlanadigan haqiqat
+====
+uni tekshirish yoki tasdiqlash mumkin
+====
+hodisa yoki haqiqiy voqealarga asoslangan ma'lumot bo'lishi mumkin
+====
+#tasdiqlanishi yoki tasdiqlanmasligi mumkin
+++++
+Fikr haqida yozilgan ro’yhatda ortiqcha javobni tanlang.
+====
+faktlar yoki bilimlar bilan tasdiqlanishi yoki tasdiqlanmasligi mumkin bo'lgan hukm. 
+====
+Fikrlar insonning his-tuyg'ulari va qarashlariga ta'sir qiladi. 
+====
+Turli odamlarning fikrlari farq qilishi mumkin.
+====
+#Ishonchli ma'lumot, tasdiqlangan va tasdiqlanadigan haqiqat
+++++
+…. biror narsa uchun yoki unga qarshi ko'rsatilgan sabab. Bu atama munozarali masalalarni muhokama qilishni anglatadi va nuqtai nazarni qo'llab-quvvatlash yoki rad etish uchun mantiq va faktlardan foydalanishni o'z ichiga oladi
+====
+#Argument
+====
+Dalil
+====
+Tanqidiy shaxs
+====
+Tanqidiy fikrlash
+++++
+… shu qadar kuchli ma’lumot yoki argumentdirki, u xulosaning haqiqatini yoki maqbulligini asosli shubhasiz ko'rsatishi mumkin.
+====
+#Dalil
+====
+Argument
+====
+Fakt
+====
+Fikr
+++++
+… - bu tanqidiy fikrlash qobiliyatini egallagan shaxs
+====
+#Tanqidiy shaxs
+====
+Troll
+====
+Admin
+====
+Clickbait
+++++
+….. - bu kiruvchi ma'lumotlarni tahlil qilish, uni shubha ostiga qo'yish, asosli xulosalarni shakllantirish, sodir bo'layotgan voqealarga o'z bahosini berish va noaniqlik sharoitida asosli qarorlar qabul qilish imkonini beradigan usul.
+====
+#Tanqidiy fikrlash
+====
+Argument
+====
+Dalil
+====
+Fikr
+++++
+… - bu ishonch; odatda muhokama uchun ochiq
+====
+#Fikr
+====
+Fakt
+====
+Dalil
+====
+Argument
+++++
+…...- subyektning atrofida sodir bo'layotgan voqealarga baho beradigan fikr bu?
+====
+#Nuqtai nazar
+====
+Clickbait
+====
+Dalil
+====
+Argument
+…. - ishonchli ma'lumot, haqiqatda nima bo'lgan, nima haqiqiy (haqiqat); empirik usullar bilan tekshirish mumkin.
+====
+#Fakt
+====
+Fikr
+====
+Clickbait
+====
+Dalil 
+++++
+….– tijoriy maqsadlarda tashriflar sonini ko‘paytirish uchun ma’lum kontentga maqsadli auditoriya e’tiborini jalb qiluvchi, qiziqish, qiziqish uyg‘otuvchi baland ovozli, aldamchi sarlavhalar
+====
+Fakt
+====
+Fikr
+====
+#Clickbait
+====
+Dalil  
+++++
+Kasbiy etikaning eng keng tarqalgan buzilishlaridan biri bu 
+====
+# Plagiat
+====
+Plagin
+====
+Agument
+====
+Clickbait 
+++++
+Faktlar uchta parametrga mos keladi. Ro’yhatdan ortiqchasini tanlang. 
+====
+tekshiriluvchanlik (dalillik, axborot bilan tasdiqlash), aniqlik, ishonchlilik raqamli savodxonlik bo'yicha malakali bo'lish degani. 
+====
+ishda, o'qitishda, onlayn xarid qilishda, tibbiy ma'lumot olish.
+====
+jamoat hayotida ishtirok etishda, hordiq chiqarishda va hokazolarda raqamli texnologiyalardan ishonchli foydalanish.
+====
+kognitiv, kreativ, affektiv
+++++
+Neytral ma'noda targ'ibot(propaganda) –
+====
+#muayyan g'oyalarni tarqatish yoki targ'ib qilishni anglatadi. Bu murojaat qilgan kishi o'z niyatiga muvofiq javob yoki xatti-harakat olishni kutadigan muloqot shaklidir
+====
+odamlarga o‘z qarashlari va xulq-atvorini targ‘ibotchining niyatiga mos ravishda shakllantirishga ataylab va tizimli ta’sir ko‘rsatishdir
+====
+jamoat hayotida ishtirok etishda, hordiq chiqarishda va hokazolarda raqamli texnologiyalardan ishonchli foydalanish
+====
+tijoriy maqsadlarda tashriflar sonini ko‘paytirish uchun ma’lum kontentga maqsadli auditoriya e’tiborini jalb qiluvchi, qiziqish, qiziqish uyg‘otuvchi baland ovozli, aldamchi sarlavhalar
+++++
+…– odamlarga o‘z qarashlari va xulq-atvorini targ‘ibotchining niyatiga mos ravishda shakllantirishga ataylab va tizimli ta’sir ko‘rsatish bu?
+====
+ Terrorchi tashkilotlar
+====
+#Targ‘ibot(propaganda)
+====
+Turli amallarni bajarish
+====
+Soxta yangiliklar (fake news)
+++++
+… propaganda shakli, chunki u uyushgan moliyalashtirish bilan qo'llab-quvvatlanadigan muayyan mafkuraviy dastur doirasida ishlaydi
+====
+# Kiberterrorizm
+====
+Terrorchi tashkilotlar
+====
+Targ‘ibot(propaganda)
+====
+Turli amallarni bajarish
+++++
+… o'z saytlarini ko'rgan foydalanuvchilar haqida ma'lumot to'plash orqali tom ma'noda raqamli yo'llarni kuzatib boradilar.
+====
+#Terrorchi tashkilotlar,
+====
+Targ‘ibotchilar
+====
+Trollar
+====
+Blogerlar
+++++
+Soxta yangiliklar (fake news) –
+====
+# faktlarga zid bo'lgan va chalg'ituvchi yolg'on ma'lumotlarni ataylab tarqatish
+====
+har qanday shakldagi tashviqotni dekodlash va dezinformatsiyaga qarshi turishda juda muhim
+====
+odamlarga o‘z qarashlari va xulq-atvorini targ‘ibotchining niyatiga mos ravishda shakllantirishga ataylab va tizimli ta’sir ko‘rsatish
+====
+harbiy yoki boshqa strategik darajadagi maqsadlarga erishishga qaratilgan
+++++
+Tanqidiy fikrlashning roli –
+====
+#har qanday shakldagi tashviqotni dekodlash va dezinformatsiyaga qarshi turishda juda muhimdir
+====
+odamlarga o‘z qarashlari va xulq-atvorini targ‘ibotchining niyatiga mos ravishda shakllantirishga ataylab va tizimli ta’sir ko‘rsatishdir
+====
+bu faktlarga zid bo'lgan va chalg'ituvchi yolg'on ma'lumotlarni ataylab tarqatishdir
+====
+Ular o'z tashkilotiga ozgina bo’lsada qiziqish bildirganlar bilan bevosita aloqada bo'lishadi
+++++
+Propaganda – bu?
+====
+# tomoshabinlarni kerakli maqsadga yo'naltirish uchun: qo'rquv, umid, g'azab, umidsizlik, hamdardlik hissiyotlarini qo’zg’atadi
+====
+harbiy yoki boshqa strategik darajadagi maqsadlarga erishishga qaratilgan
+====
+insoniyat jamoalari o'rtasidagi qarama-qarshilikni anglatadi.
+====
+aholining dushman hududida sodir bo'layotgan voqealarga bahosini o'zgartirish, dushman tomonida muvaffaqiyatsizlik kayfiyatini rivojlantirish va axborot urushi rahbari tomoniga o'tishni ta'minlash.
+++++
+Axborot urushining eng umumiy ta'riflaridan biri qaysi javobda to’gri keltirilgan?
+====
+siyosiy, iqtisodiy, harbiy yoki boshqa strategik darajadagi maqsadlarga erishishga qaratilgan, insoniyat jamoalari o'rtasidagi qarama-qarshilikni anglatadi
+====
+bu kiruvchi ma'lumotlarni tahlil qilish, uni shubha ostiga qo'yish, asosli xulosalarni shakllantirish, sodir bo'layotgan voqealarga o'z bahosini berish va noaniqlik sharoitida asosli qarorlar qabul qilish imkonini beradigan usul
+====
+bu kiruvchi ma'lumotlarni tahlil qilish, uni shubha ostiga qo'yish, asosli xulosalarni shakllantirish, sodir bo'layotgan voqealarga o'z bahosini berish va noaniqlik sharoitida asosli qarorlar qabul qilish imkonini beradigan usul
+====
+bu muammoni aniqlash va uni hal qilish yo'llarini toppish, zarur ma'lumotlarni to'plash va tartibga solish, faktlarni sharhlash va ularni baholash, mantiqiy bog'lanishlar mavjudligi/yo'qligini aniqlash, qonuniy xulosalar chiqarish va ularni shubha ostiga qo'yish va oxir-oqibat o'z e'tiqod tizimini qayta tiklash qobiliyatisiz mumkin emas
+++++
+Axborot urushining maqsadi – ?
+====
+#Aholining dushman hududida sodir bo'layotgan voqealarga bahosini o'zgartirish, dushman tomonida muvaffaqiyatsizlik kayfiyatini rivojlantirish va axborot urushi rahbari tomoniga o'tishni ta'minlash
+====
+tomoshabinlarni kerakli maqsadga yo'naltirish uchun: qo'rquv, umid, g'azab, umidsizlik, hamdardlik hissiyotlarini qo’zg’atadi
+====
+bu ishonch; odatda muhokama uchun ochiq. Mutlaqo asossiz fikrlarni asosli mantiqiy mulohazalar - puxta mantiqiy fikrlash va puxta o'ylangan munozaralar asosida qurilgan e'tiqodlardan farqlash kerak
+====
+odamlarga o‘z qarashlari va xulq-atvorini targ‘ibotchining niyatiga mos ravishda shakllantirishga ataylab va tizimli ta’sir ko‘rsatish
+++++
+Tarafkashlik – bu…?
+====
+Aholining dushman hududida sodir bo'layotgan voqealarga bahosini o'zgartirish, dushman tomonida muvaffaqiyatsizlik kayfiyatini rivojlantirish va axborot urushi rahbari tomoniga o'tishni ta'minlash
+====
+bu ishonch; odatda muhokama uchun ochiq. Mutlaqo asossiz fikrlarni asosli mantiqiy mulohazalar - puxta mantiqiy fikrlash va puxta o'ylangan munozaralar asosida qurilgan e'tiqodlardan farqlash kerak
+====
+odamlarga o‘z qarashlari va xulq-atvorini targ‘ibotchining niyatiga mos ravishda shakllantirishga ataylab va tizimli ta’sir ko‘rsatishdir
+====
+#Keng qamrovli so'lchilar fitnasi natijasi emas, balki yangiliklarni yoritishni to'sib qo'yadigan va munozaraning faqat bir tomoniga adolatli tinglash imkonini beradigan ongsiz "guruh" mentalitetidir. Bu sodir bo'lganda, haqiqat jabr ko’radi
+++++
+
+Bo‘yoqlarni nurli yutish qobillariga asoslangan model                          
+====
+#CMYK
+====
+ RGB
+====
+ JPG
+====
+ GIF
+
+++++
+
+Bir necha linzalardan iborat murakkab optik tizim bu?                        
+====
+#Ob’ektiv
+====
+Fokus masofasi
+====
+Diaproektor
+====
+Reflektor
+
+++++
+
+bu ma'lumot, axborotlar va bilimlarni taqdim etishning grafik usuli.
+====
+#Infografika
+====
+Mediata’lim
+====
+Semiotika
+====
+Dramatizatsiya
+
+++++
+
+IP-quyidagi ko'rinishda bo'ladi:                            
+====
+#193.126.7.29
+====
+ 34.89.45
+ ====
+1.256.34.21
+====
+01
+
+++++
+
+Raqamlar ketma-ketligi va tovush bosimi o‘zgarishlarini o‘zgartiruvchi qurilma –                       
+====
+#Raqamli eshitish  qurilmasi
+====
+Magnitafon
+====
+Mikrofon 
+====
+Dinamik
+
+++++
+
+PR materiallaridagi belgilarning vizual darajasi birinchi navbatda nimani bajaradi
+====
+#estetik funktsiya
+====
+shartlilik
+====
+hususiyatlilik funksiyasi
+====
+visual
+====
+#estetik funktsiya
+
+++++
+
+...— real voqeaning statik tasvirini saqlash qurilmasi
+====
+#fotoapparat
+====
+videokamera
+====
+printer
+====
+plotter
+
+++++
+
+...— yorug’lik sezuvchi materiali matritsa bo’lgan qurilma
+====
+videokamera
+====
+printer
+====
+#raqamli fotoapparat
+====
+plotter
+
+++++
+
+Foydalaniluvchi formatga qarab raqamli videokameralarning qanday turlari mavjud:
+====
+DVD-kameralar, HDV
+====
+#MiniDV, DVD-kameralar, HDV
+====
+MiniDV, HDV
+====
+MiniDV, DVD-kameralar
+
+++++
+
+Internetdagi FTP xizmati bu…
+====
+elektron pochtaning ishlashini ta'minlash
+====
+telekonferentsiyani qo'llab-quvvatlash uchun
+====
+har qanday formatdagi fayllarni qabul qilish va uzatish uchun
+====
+#veb-sahifalarni yaratish, qabul qilish va uzatish;
+
+++++
+
+O‘quv qo‘llanma qanday maqsadga xizmat qiladi?                          
+====
+biror bir fanni qisman qoplovchi nashr turi
+====
+#o‘quv nashri bulib vaqtincha darslik o‘rnini bosishga xizmat qiladi
+====
+o‘quv adabiyotining bir turi bo‘lib darslik o‘rnini bosishga xizmat qiladi
+====
+mustaxkamlash va o‘z – o‘zini tekshirish uchun xizmat qiladi
+
+++++
+
+Taqdimot slaydlari va kitob sahifalari orasidagi farq nimadan iborat?                       
+====
+Sahifalar sonida
+====
+Slaydlar orasidagi o'tishlar boshqariluvchi obyektlar yordamida amalga oshiriladi
+====
+#Slaydlarda matndan tashqari multimediali obyektlarni ham joylashtirish mumkin
+====
+ma'lumotlar hajmida
+
+++++
+
+Brauzer bu...                             
+====
+tarmoqqa ulangan kompyuter
+====
+tarmoqdagi asosiy kompyuter
+====
+tarmoqqa ulanish
+====
+#gipermatn hujjatlarni ko'rish dasturi
+
+++++
+
+tovushni kodlashtirishning asosiy prinsiplari – bu ...                         
+====
+#raqamlashtirish
+====
+maksimal hajmdagi simvollardan foydalanish
+====
+audioadapterdan foydalanish
+====
+DT uchun maxsus foydalanish
+====
+
+++++
+
+Multimedia texnologiyasining muhim hususiyati:                            
+====
+animatsiya
+====
+#interaktivlik
+====
+ko'pvazifalilik
+====
+optimizatsiya
+
+++++
+
+Multimedianing apparat vositalari:                             
+====
+kolonka, sichqoncha
+====
+plotter, sichqoncha
+====
+#diskovod, tovush kartasi, CD-ROM
+====
+monitor, sichqoncha
+
+++++
+
+Telekommunikatsiya – bu
+====
+Telefon tarmog'I orqali odamlar orasidagi muloqot
+====
+Почта алоқаси ёрдамида масофадан маълумот алмашиш;
+====
+#Televizion ko'prik orqali odamlar orasidagi muloqot
+====
+Маълумотларни узатишнинг техник воситалари
+
+++++
+
+Ob'ektlar algoritm yoki protsedura yordamida tavsiflanuvchi modellashtirish qaysi turga kiradi
+====
+erkin modellashtirish
+====
+#protsedurali modellashtirish
+====
+konstruktiv modellashtirish
+====
+dasturiy modellashtirish
+
+++++
+
+Adobe Flash CS3 dasturida rolikni nashr qilish qanday amalga oshiriladi                        
+====
+File> Import
+====
+File> Print
+====
+#File>Publish
+====
+File> Save
+
+++++
+
+...- bu tasvir va ovoz yozish qurilmalari bo'lib, ularda video DV formatida siqiladi va lentaga raqamli shaklda yoziladi
+====
+raqamli fotoapparat
+====
+#Raqamli videokameralar 
+====
+printer
+====
+plotter
+
+++++
+
+Infografika
+====
+#- bu ma'lumot, axborotlar va bilimlarni taqdim etishning grafik usuli
+.- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar, tushunchalar, ma'lumotlarni taqdim etishning grafik usuli.
+====
+...- bu o'z fikrlaringiz, shaxsiy tajribangiz bilan bo'lishish, hissiy tashvishlarni yengish, o'zingizni nazorat qila olish, taklif qilingan savolga mos javob topish qobiliyatidir. 
+====
+... – bu o‘zingga tashqi tomondan qarash, xatti-harakatlaring va his-tuyg‘ularing, o‘z pozitsiyang, chiqishlaringga qarash imkoniyatidir
+
+++++
+
+...- bu har kimga veb-dizayn qilish imkonini beruvchi onlayn xizmat
+====
+Scribing
 ====
 Infografika
 ====
-ACL diagrammasi
+Kadr
 ====
-IT loyihalari
-====
-O'lchov xizmati
+#Canva
+
 ++++
-Taqdimot dasturini ko'rsating.
+
+- ommaviy axborot vositalarining har qanday shakli va janrida (gazeta maqolasi, teleko'rsatuv, videoklip, film va boshqalar) taqdim etilgan xabar
 ====
-# PowerPoint
+mediata'lim
+====
+intervyu
+====
+#mediamatn
+====
+Taxlil
+
+++++
+
+— tarixan rivojlangan adabiy-publisistik shakl boʻlib, muayyan barqaror xususiyatlarga ega
+====
+#janr
+====
+intervyu
+====
+Infografika
+====
+Taxlil
+
+++++
+
+Agar odamlar muammolarni hal qilishlari sababli sodir bo'layotgan voqealarga e'tibor qaratilsa, bu
+====
+ratsional jurnalistika
+====
+hissiy jurnalistika
+====
+#yangilik jurnalistikasi
+====
+janr
+
+++++
+
+Agar diqqat vazifalarga qaratilsa, bu
+====
+yangilik jurnalistikasi
+====
+hissiy jurnalistika
+====
+#ratsional jurnalistika
+====
+janr
+
+++++
+
+Agar e'tibor odamlarga qaratilgan bo'lsa, bu
+====
+yangilik jurnalistikasi
+====
+ratsional jurnalistika
+====
+janr
+====
+#hissiy jurnalistika
+
+++++
+
+…..mediamatnni talqin qilish jarayonini, mediamatn muallifi nuqtai nazariga va auditoriya nuqtai nazariga ta'sir qiluvchi madaniy, tarixiy omillarni o'rganish
+====
+#Germenevtik tahlil
+====
+Scribing
+====
+Ikonografik taxlil
+====
+Infografika
+
+++++
+
+...- media matnlardagi personajlar, xatti-harakatlar motivlari, g'oyaviy yo'nalishlari, qahramonlarning harakatlari / harakatlari tahlili
+====
+#Xarakterlarni tahlil qilish 
+====
+Germenevtik tahlil
+====
+Ikonografik taxlil
+====
+Infografika
+
+++++
+
+Mediamatn - bu ommaviy kommunikatsiyaning qanday global quyi tizimlarining yig'indisi?
+====
+janr, PR va reklama
+====
+infografika, PR va reclama
+====
+#jurnalistika, PR va reklama
+====
+jurnalistika, scribing va janr
+
+++++
+
+PR materiallari uchun qiziqarli xususiyat –
+====
+tashqi va ichki indekslarining ustunligi
+====
+#vizual va og'zaki indekslarining ustunligi
+====
+sodda va og'zaki indekslarining ustunligi
+====
+vizual va tashqi indekslarining ustunligi
+
+++++
+
+- auditoriyaning media savodxonligi darajasining oshishidir
+====
+Media ta'limining vazifasi
+====
+#Media ta'limining natijasi 
+====
+Media ta'limining maqsadi 
+====
+vizual va tashqi indekslarining ustunligi
+
+++++
+
+Media ta'limining markaziy va birlashtiruvchi kontseptsiyasi (media education)- bu
+====
+#reprezentatsiya
+====
+vizual va og'zaki indekslar
+====
+mediamatn
+====
+media ta'limi vositasi
+
+++++
+
+ …..- o'quvchilarga / talabalarga ommaviy axborot vositalarining hayotidagi ahamiyatini tushunib, tanqidiy nuqtai nazardan muloqot qilishga yordam beradi
+====
+vizual va og'zaki indekslar
+====
+#Media savodxonligi
+====
+mediamatn
+====
+media ta'limi vositasi
+
+++++
+
+Media ta'limini tashkil qilishning asosiy yondashuvlari
+====
+sodda va murakkab
+====
+individual va guruhli
+====
+#integratsiyalashgan va maxsus
+====
+shartli va shartsiz
+
+++++
+
+...-aloqa vositalaridan mohirona foydalanish qobiliyati.
+====
+#mediasavodxonlik
+====
+mediata'lim
+====
+mediamatn
+====
+reprezentatsiya
+
+++++
+
+Media savodxonligi
+====
+#- o'quvchilarga / talabalarga ommaviy axborot vositalarining hayotidagi ahamiyatini tushunib, tanqidiy nuqtai nazardan muloqot qilishga yordam beradi
+====
+- auditoriyaning media savodxonligi darajasining oshishidir
+====
+muayyan ommaviy axborot vositalarining yo'nalishiga qarab yuqori ixtisoslashgan bo'ladi.
+====
+yagona tizim sifatida koʻrib chiqiladigan belgilar bilan bogʻliq holda belgilanadi
+
+++++
+
+qiziqarli effektlar va sevimli musiqalar bilan noyob videolarni yaratish uchun bepul ko'p funktsiyali muharrir
+====
+#Wondershare Filmora 
+====
+Canva
+====
+Picasa
+====
+Pixlr
+
+++++
+
+kompyuter ekranidan erkin shakldagi video materialni olish, uni tahrirlash va AVI formatida saqlash uchun qulay dastur
+====
+#Camtasia Studio
+====
+Canva
+====
+Picasa
+====
+Pixlr
+
+++++
+
+Deyarli har qanday format va 4K eksportni qo'llab-quvvatlaydigan kuchli ochiq kodli video muharriri
+====
+#KDEnlive
+====
+Canva
+====
+Picasa
+====
+Pixlr
+
+++++
+
+bu turli joylarda joylashgan bir necha kishi kompyuterlar, videokameralar va telefon tarmog'idan iborat tizimdan foydalangan holda konferentsiya / munozarada ishtirok etishi mumkin bo'lgan zamonaviy telekommunikatsiya texnologiyasi
+====
+#Videokonferensaloqa
+====
+Audio konferentsiya
+====
+Elektron pochta
+====
+Kommunikatsiya
+
+++++
+
+Harakatlanuvchi bosma mashinasi kim tomonidan ixtiro qilingan
+====
+#Iogannes Gutenberg
+====
+Gulelmov Markoni
+====
+Nikola Tesla
+====
+Karl Braun
+
+++++
+
+1455 yilda ommaviy tirajda bosilgan birinchi kitob qaysi?
+====
+#Injil
+====
+Tavrot
+====
+Qur’on
+====
+Yo’riqnoma
+
+++++
+
+“Turkestanskie vedomosti” gazetasining birinchi soni qachon bosmadan chiqqan?
+====
+#1870 yil
+====
+1877 yil
+====
+1872 yil
+====
+1880 yil
+
+++++
+
+1906 yilda ilk ovozli xabarni efirga uzatgan shaxs kim?
+====
+#Reginald Fessenden
+====
+Iogannes Gutenberg
+====
+Nikola Tesla
+====
+Karl Braun
+
+++++
+
+Birinchi grafik brauzer 
+====
+#Mosaic
+====
+Google Chrome
+====
+Yandex
+====
+Internet Explorer
+
+++++
+
+Dunyodagi birinchi onlayn veb-sayt 
+====
+#http://info.cern.ch
+====
+http://google.com
+====
+http://info.org
+====
+http://wiki.org
+
+++++
+
+Dunyoda nechta shaxsda ommaviy axborot vositasi bo‘lgan “internet kalitlari“ mavjud?
+====
+#atigi 7 shaxsda
+====
+atigi 3 shaxsda
+====
+atigi 5 shaxsda
+====
+atigi 1 shaxsda
+
+++++
+
+Faqat hukumat amaldorlari va harbiylar internetga kirish imkoniga ega bo’lgan davlat qaysi?
+====
+#Shimoliy Koreya
+====
+Turkmaniston va Shimoliy Koreya
+====
+Afg’oniston va Turkmaniston
+====
+Shimoliy Korea, Afg’oniston va Turkmaniston
+
+++++
+
+Birinchi kompyuter tarmog‘I qaysi?
+====
+#ARPAnet
+====
+Ethernet
+====
+Internet
+====
+Localhost
+
+++++
+
+Birinchi smaylikni yuborgan shaxs kim edi? 
+====
+#Kevin Makkenzi
+====
+Nikola Tesla
+====
+Karl Braun
+====
+Mark Tsukerberg
+
+++++
+
+Tarqatish mazmuniga ko'ra nashrlar qanday turlarga bo'linadi?
+====
+#ommaviy va ixtisoslashgan
+====
+Verbal va noverbal
+====
+Interaktiv va passiv
+====
+Ochiq va yopiq
+
+++++
+
+Interferensiya bu –                             
+====
+#to‘lqinlar yig’ilishi xodisasi
+====
+to‘lqinlar sochilish hodisasi
+====
+to‘lqinni uzatish hodisasi
+====
+to‘lqinlarni yig’ilib sochilish hodisasi
+
+++++
+
+Yangiliklar
+====
+#bu yozma va audiovizual vositalar orqali uzatiladigan ayrim dolzarb voqealar haqidagi ma'lumotlar
+====
+bu potentsial xaridorni ma'lum bir mahsulot yoki xizmatni etkazib beruvchiga, ishlab chiqaruvchiga va sotuvchiga jalb qilish uchun reklama ta'sirini ko'rsatadigan maxsus tijorat mahsulotidir
+====
+ishontirish va rag'batlantirish shaklidagi muloqot yoki ommaviy taqdimot turi; bir yoki bir nechta mahsulot, xizmatlar, voqealar/hodisalar, g'oyalar, odamlar va/yoki iqtisodiy yoki notijorat tashkilotlar haqida haqiqiy va potentsial mijozlarni xabardor qilish, ishontirish va ta'sir qilish uchun mo'ljallangan reklama texnikasi
+====
+- bu ommaviy axborot vositalari ishlab chiqaruvchilari (eshittirish vositalari) media kanallar (televidenie, radio, gazeta, Internet va boshqalar) orqali media iste'molchilariga (qabul qiluvchilarga) uzatadigan kontentning maxsus shakli
+
+++++
+
+"Kino" so'zining ma’nosi? 
+====
+#yunoncha bo'lib, "harakatni ko’rsatish" degan ma'noni anglatadi
+====
+yunoncha bo'lib, "harakat qilish" degan ma'noni anglatadi
+====
+yunoncha bo'lib, "tasvirlar majmui" degan ma'noni anglatadi
+====
+yunoncha bo'lib, "yozib olish" degan ma'noni anglatadi
+
+++++
+
+Birinchi rangli film 1902 yilda kim tomonidan yaratilgan
+====
+#Georges Meliès
+====
+Sharl-Emil Reyno
+====
+Ogust va Lui Lyumyerlar
+====
+Jyul Vern
+
+++++
+
+Birinchi ovozli film qanday nomlangan?
+====
+#Jazz qo'shiqchisi
+====
+Oyga sayohat
+====
+Bechora Perrot
+====
+Jyul Vernning sarguzashtlari
+
+++++
+
+Birinchi rangli film qanday nomlangan?
+====
+#Oyga sayohat
+====
+Jazz qo'shiqchisi
+====
+Bechora Perrot
+====
+Jyul Vernning sarguzashtlari
+
+++++
+
+sotsiologik lug'atga ko'ra, ijtimoiy sub'ektni (shaxs, guruh, jamoa) o'z manfaatlariga emas, balki tashabbuskorning manfaatlariga muvofiq fikrlash va harakat qilishga undaydigan harakat
+====
+#Manipulyatsiya
+====
+Zo’ravonlik
+====
+Taxdid
+====
+Kiberbulling
+
+++++
+
+Ommaviy axborot vositalarida qo’llaniluvchi manipulyatsiyaning birinchi asosiy texnikasi qaysi javobda keltirilgan?
+====
+#Faktlarni tanlab taqdim etish
+====
+Faktlar va fikrlar aralashmasi
+====
+Iqtibosning buzilishi
+====
+Tafsilotlarni ta'kidlash va mohiyatni xiralashtirish
+
+++++
+
+Ommaviy axborot vositalarida qo’llaniluvchi manipulyatsiyaning ikkinchi asosiy texnikasi qaysi javobda keltirilgan?
+====
+#Faktlar va fikrlar aralashmasi
+====
+Faktlarni tanlab taqdim etish
+====
+Iqtibosning buzilishi
+====
+Tafsilotlarni ta'kidlash va mohiyatni xiralashtirish
+
+++++
+
+kompyuter, planshet yoki mobil telefon orqali amalga oshiriladigan har qanday haqoratli, kamsitish, zo'ravonlik yoki tahdidli harakat
+====
+#Kiberbulling
+====
+Bulling
+====
+Agressiya
+====
+Taxdid
+
+++++
+
+Scribing (inglizcha "scribe" - eskiz yoki chizmalarni chizish) 
+====
+#- bu uning mazmuni va ichki aloqalarini sodda va aniq aks ettiruvchi grafik belgilar yordamida ma'lumotni vizualizatsiya qilish usuli.
+====
+bu o'qilgan, ko'rilgan yoki eshitilgan narsalarni turli ifoda vositalaridan (intonatsiya, mimika, imo-ishoralar, pozitsiyalar, harakatlar, mizan-sahna) yordamida "yuzlarda" aks ettiruvchi faoliyatdir
+====
+bu ma'lumot, axborotlar va bilimlarni taqdim etishning grafik usuli.
+====
+- bu zamonaviy bola uchun zamonaviy teatrlashtirishning bir turi
+
+++++
+
+- bu har kimga veb-dizayn qilish imkonini beruvchi onlayn xizmat. Siz maxsus tayyorgarliksiz, qimmat dasturiy ta'minot va jihozlarsiz dizayner bo'lishingiz mumkin.
+====
+#Canva
+====
+Pinterest
+====
+Mediata’lim
+====
+Semiotika
+
+++++
+
+- bu voqealar xronologik tartibda chizilgan to'g'ridan-to'g'ri segment yoki vaqt shkalasidir.
+====
+#Vaqt shkalasi
+====
+Mediasavodxonlik
+====
+Tanqidiy taxlik
+====
+tarmoq manzili
+
+++++
+
+- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar, tushunchalar, ma'lumotlarni taqdim etishning grafik usuli.
+====
+#Intellektual xarita
+====
+Vaqt shkalasi
+====
+Mediasavodxonlik
+====
+Tanqidiy taxlik
+
+++++
+
+- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar, tushunchalar, ma'lumotlarni taqdim etishning grafik usuli.
+====
+#Intellektual xarita
+====
+Vaqt shkalasi
+====
+Mediasavodxonlik
+====
+Tanqidiy taxlik
+
+++++
+
+Eskizlar qanday guruhga bo'linadi
+====
+#Yagona va guruhli
+====
+Chizma va grafik
+====
+Oddiy va sodda
+====
+Interfaol va passiv
+
+++++
+
+Personifikatsiya - 
+====
+#real hayotdagi tarixiy personaj darsda o‘qituvchi yordamchisi sifatida qatnashadi
+====
+- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar,
+ ====
+tushunchalar, ma'lumotlarni taqdim etishning grafik usuli.
+====
+- bu har kimga veb-dizayn qilish imkonini beruvchi onlayn xizmat. Siz maxsus tayyorgarliksiz, qimmat dasturiy ta'minot va jihozlarsiz dizayner bo'lishingiz mumkin.
+====
+- bu voqealar xronologik tartibda chizilgan to'g'ridan-to'g'ri segment yoki vaqt shkalasidir.
+
+++++
+
+- kichik spektakl - teatr atributlaridan foydalangan holda oldindan tuzilgan ssenariy 
+bo'yicha rolli o'yinlar orqali tarixiy ma'lumotlarni o'quvchilarga etkazish usuli
+====
+#Tarixiy sahna
+====
+Personifikatsiya
+====
+Dramatizatsiya
+====
+Ikonografiya
+
+++++
+
+- axborotning turli tabiiy yoki maxsus tillarda ifodalanishi mumkinligini nazarda tutadi
+====
+#lingvistik tabiati
+====
+Axborotning orfografik tabiati
+====
+Axborotning lmantiqiy tabiati
+====
+Axborotning semiotik tabiati
+
+++++
+
+Ultratovush –                              
+====
+#18 – 20 KGs dan yuqori chastota diapazoni
+====
+16 – 18 KGs dan yuqori chastota diapazoni
+====
+14 – 16 KGs dan yuqori chastota diapazoni
+====
+20 – 22 KGs dan yuыori chastota diapazoni
+
+++++
+
+Qandaydir matnni to‘ldiruvchi yoki tushuntiruvchi tasvir –                         
+====
+#Illyustratsiya
+====
+Tasvir
+====
+Grafika
+====
+Animatsiya
+
+++++
+
+Gipermatn – bu                             
+====
+#web – saxifalar bo‘ylab  amashtirish imkonini beruvchi o‘zaro bog’lovchi  so‘z va ====
+so‘z birikmalarining tizimidir
+====
+web – saxifalarni o‘zaro bog’lovchi  so‘z va so‘z birikmalarining tizimidir
+internet brauzer
+====
+juda katta xajmdagi matn
+
+++++
+
+Corel PaintShop Pro X7 dasturida Shift+I tugmachalar kombinatsiyasi qanday vazifani bajaradi?                     
+====
+#Tasvir haqida ma’lumot olish
+====
+Tasvirdan nusxa olish
+====
+Tasvir o‘lchamini o‘zgartirish 
+====
+javoblarning barchasi
+
+++++
+
+Fayl Formati – bu                            
+====
+#Faylda saqlanadigan ma’lumotlar bo‘yicha qoidalar majmui
+====
+Faylda saqlanadigan ma’lumotlar bo‘yicha belgilar majmui 
+====
+Faylda saqlanadigan ma’lumotlar bo‘yicha formatlar majmui 
+====
+Faylni siqish usuli
+
+++++
+
+Rastrli grafika – bu ?                           
+====
+#element – piksellar  matritsasidan iborat bo‘lgan tasvirni saqlash usuli
+====
+element – formulalardan iborat bo‘lgan tasvirni saqlash usuli
+====
+tasvirni uch o‘lchamli hosil qilish usuli
+====
+faylni arxivlash
+
+++++
+
+Vektorli grafika – bu?                            
+====
+#Ob’ektlarni geometrik  izoxi ko‘rinishida saqlash usuli
+====
+Ob’ektlarni geometrik  saqlash usuli
+====
+Ob’ektlarni saqlash usuli
+====
+Ob’ektlarni geometrik  izoxi ko‘rinishida siqish usuli
+
+++++
+
+Vektorli tasvirlar - bilan ishlovchi dasturlar:                          
+====
+#COREL DRAW, Adobe Illystrator
+====
+Photoshop, Paint
+====
+ImageReady, CorelPhoto
+====
+KMP, WPM
+
+++++
+
+Additiv rang modeli qaysi:                            
+====
+#RGB 
+====
+CMYK
+====
+GIF
+
+++++
+
+Uch o`lchamli (3d)grafika — bu…?                          
+====
+#Faqat uzunlik va kenglik emas, balki chuqurlikka ega bo`lgan tavirlar yordamida yaratiladigan grafika
+====
+Harakatli grafika
+====
+Ikki yoki undan ortiq tasvirlarni birlashtiruvchi tasvir
+====
+Tasvirlarning o’lchamlarini aniqlovchi grafika
+
+++++
+
+Musiqa asboblari oxanglarini, tabiiy va kompyuterda yaratilgan yoki yozib olingan ovozlarni raqamli shaklda saqlash – bu?                
+====
+#Ovozli effektlar
+====
+Mp3
+====
+Raqamli tovush
+====
+Musiqa asboblari oxanglarini, tabiiy va kompyuterda yaratilgan yoki yozib olingan ovozlarni raqamli shaklda siqish
+
+++++
+
+Multimedia tushunchasi hayotimizda qachon paydo bo‘ldi                          
+====
+#90 yillar boshida 
+====
+80 yillar boshida
+====
+70 yillar boshida
+====
+60 yillar boshida
+
+++++
+
+Distant uslubi bu?                             
+====
+#O‘qituvchi bilan o‘quvchilar ma’lum bir masofada joylashgan holda ta’lim berish tizimi
+====
+O‘qituvchi bilan o‘quvchilar yaqin masofada joylashgan holda ta’lim berish tizimi
+====
+O‘qituvchi bilan o‘quvchilar ma’lum bir masofada joylashgan holda aloqa tizimi
+====
+O‘qituvchi bilan o‘quvchilar turli masofada joylashgan holda tekshiruv uslubi
+
+++++
+
+Distant uslubi asosida o‘qitish qanday texnologiyalarni o‘z ichiga oladi?                       
+====
+#Interaktiv va nointeraktiv texnologiyalar
+====
+Aktiv va passiv texnologiyalar
+====
+O‘qitish texnologiyalari
+====
+online  va offline
+
+++++
+
+Ma’lum maqsadga yo‘naltirilgan elementlarning tartiblangan ketma – ketligi                        
+====
+#Tizim
+====
+Texnologiya
+====
+Strategiya
+====
+Metod
+
+++++
+
+Media Text mualliflik tizimi qaerda ishlab chiqilgan?                         
+====
+#Michigan Universitetida
+====
+Garvard Universitetida
+====
+Oksford Universitetida
+====
+Seul milliy Universiteti
+
+++++
+
+Multimedianing MPower tizimi nimani aks ettiradi?                          
+====
+#foydalanuvchining videomuxitini
+====
+foydalanuvchi interfeysini
+====
+multimedia menyularini
+====
+multimedia dasturlari bilan ishlash imkoniyatini
+
+++++
+
+Hozirgi vaqtda tovushlar haqidagi ma’lumotlarni yozish va uzatish uchun qanday usullardan foydalaniladi?                    
+====
+#Analog va raqamli
+====
+Analog, raqamli va kombinatsiyali
+====
+Chiziqli va chiziqsiz
+====
+Analog va chiziqli
+
+++++
+
+Adobe Premiere…                              
+====
+#nisbatan keng tarqalgan raqamli video fayllar bilan ishlovchi dasturiy paket hisoblanib tarkibida ko’plab mahsus effektlar jamlanmasi mavjud
+====
+raqamli audio fayllar bilan ishlovchi dasturiy paket hisoblanib tarkibida ko’plab mahsus effektlar  mavjud
+====
+nisbatan keng tarqalgan raqamli audio fayllar bilan ishlovchi dasturiy paket bo’lib tarkibida ko’plab mahsus dasturlar mavjud
+====
+raqamli video fayllar bilan ishlovchi dastur hisoblanib tarkibida mahsus effektlar mavjud
+
+++++
+
+Immersivlik – bu?                             
+====
+#odamning virtual haqiqiylikda o`zini faraz qilishi
+====
+odamning virtual haqiqiylik ko’rishi
+====
+odamning virtual haqiqiylikka kirishi
+====
+odamning virtuallikni his etishi
+
+++++
+
+“National Art Gallery. London" nomli dasturiy mahsulotni kim yaratgan?                       
+====
+#Bill Geyts
+====
+F.Neyman
+====
+S.Jobs
+====
+M.Smit
+
+++++
+
+Web-sahifalar bo’ylab oson almashinish imkonini beruvchi o’zaro bog’langan so’z va so’z birikmalarining kuchli tizimi bu?                 
+====
+#Gipermatn
+====
+Gipermedia
+====
+Tasvir
+====
+Sarlavxa
+
+++++
+
+Gipermatnli xujjatlar belgilash tili bu?                           
+====
+#Hypertext Markup Language
+====
+Hiper Markup Language
+====
+HTTP
+====
+Fayl formati 
+
+++++
+
+Audio so’zi qanday ma’nosini bildiradi ?                          
+====
+#Eshitaman
+====
+Tingla
+====
+So’zla
+====
+Sezaman
+
+++++
+
+MCI-Media Control Interface – bu?                           
+====
+#turli qurilmalarni ishini boshqaradigan dastur
+====
+turli qurilmalarni ishini tezlashtiradigan dastur
+====
+turli qurilmalarni ishini ko’chiradigan dastur
+====
+turli qurilmalarni ishini to’xtatadigan dastur
+
+++++
+
+DCI-Display Control Interface – bu?                           
+====
+#displey drayverlarini boshqarish uchun ishlatiladi
+====
+tizim drayverlarini boshqarish uchun ishlatiladi
+====
+disk drayverlarini boshqarish uchun ishlatiladi
+====
+displey drayverlarini o’rnatish uchun ishlatiladi
+
+++++
+
+Multimedianing apparat vositalari:                             
+====
+#diskovod, tovush kartasi, CD-ROM
+====
+kolonka, sichqoncha
+====
+plotter, sichqoncha
+====
+monitor, sichqoncha
+
+++++
+
+Brauzer bu...                             
+====
+#gipermatn hujjatlarni ko'rish dasturi
+====
+tarmoqqa ulangan kompyuter
+====
+tarmoqdagi asosiy kompyuter
+====
+tarmoqqa ulanish
+
+++++
+
+Videoqamrash platasi nima?                             
+====
+#video kadrlarni ushlash, ularni o`zgartirish
+====
+Hotira qurilmasi
+====
+Turli amallarni bajarish
+====
+Tasvirlarning o’lchamlarini aniqlovchi grafika
+
+++++
+
+Animatsiya — bu…?                             
+====
+#xarakatlanuvchi tasvir taassurotini xosil qiluvchi tasvirlar ketma – ketligini ko`rsatish
+====
+tasvirlar ketma – ketligini ko`rsatish
+====
+Taqdimot yaratish usuli
+====
+Tasvirlarning o’lchamlarini aniqlovchi grafika
+
+++++
+
+MCI-Media Control Interface – bu?                           
+====
+#turli qurilmalarni ishini boshqaradigan dastur
+====
+turli qurilmalarni ishini tezlashtiradigan dastur
+====
+turli qurilmalarni ishini ko’chiradigan dastur
+====
+turli qurilmalarni ishini to’xtatadigan dastur
+
+++++
+
+Adobe Premier dasturi nima uchun foydalaniladi?                          
+====
+#videokliplarni qayta ishlashda
+====
+tasvirlarni qayta ishlashda 
+====
+tovushlarni qayta ishlashda
+
+++++
+
+Multimedia texnologiyasining muhim hususiyati:                            
+====
+animatsiya
+====
+#interaktivlik
+====
+ko'pvazifalilik
+====
+optimizatsiya
+
+++++
+
+Multimedianing apparat vositalari:                             
+====
+kolonka, sichqoncha
+====
+plotter, sichqoncha
+====
+#diskovod, tovush kartasi, CD-ROM
+
+
+
+
+
+++++
+Multiplikatsiyada foydalaniluvchi tezlik …
+====
+#Sekundda 28 kadrlar almashinuv chastotasi
+====
+Sekundda 24 kadrlar almashinuv chastotasi
+====
+Sekundda 25 kadrlar almashinuv chastotasi
+====
+Sekundda 26 kadrlar almashinuv chastotasi 
+
+++++
+      
+Quyidagi dasturlardan qaysi biri vektorli grafik muxarrirlar sirasiga kiradi? 
+====
+Photoshop
+====
+#Corel Draw, Adobe Illustrator
 ====
 Paint
 ====
-Word
-====
-Excel
+powerPoint
+
 ++++
-— natijasi raqamli ma’lumotlar massividan iborat bo’lgan fotografiya, yorug’lik sezuvchi material sifatida esaelektron qurilma – matritsadan foydalaniladi
+
+Vektorli grafikada tasvirlar qanday xosil qilinadi?
 ====
-# Raqamli fotografiya
+ekrandagi piksellarni bo‘yash orqali
+====
+pikseddi va fraktal tasvirlarni birlashtirish orqali
+====
+#matematik egri chiziqlarni rangi va bo‘yalish rangini ko‘rsatish
+====
+Oddiy usulda
+
+++++
+
+Tasvirlar matematik egri chiziqlarni rangi va bo‘yalish rangini ko‘rsatish orqali hosil qilingan tasvir                   
+====
+rastrli grafika
+====
+fraktal grafika
+====
+#vektorli grafika
+====
+uch o‘lchamli grafika
+
+++++
+
+Vektorli tasvirlarning qanday afzalligi mavjud?
+====
+bitta ekranda bir necha marta nusxa ko‘chirib joylashtirish imkoniyati
+====
+bir necha ob’ekt bilan birdaniga ishlash imkoniyati
+====
+xajmi
+====
+#ularning sifatini yo‘qotmagan holda kattalashtirish yoki kichiklashtirish imkoniyati
+
+++++
+
+Trassirovka – nima?
+====
+#rastrli grafikani vektorliga o‘zgartirish
+====
+tasvirlarni masshtablashtirish
+====
+tasvirlardan nusxa ko‘chirish
+====
+Parametrlarini o‘zgartirish
+
+++++
+
+Rastrli grafikani vektorliga o‘zgartirish nima?                           
+====
+#Trassirovka
+====
+Sinxronlashtirish
+====
+Animatsiyalash
+====
+Tiniqlashtirish
+
+++++
+
+qaysi kameralarda olingan video darhol miniDVD diskiga yoziladi va olingan videoni DVD pleer yoki kompyuterda ko'rish mumkin?
+====
+HDV
+====
+MiniDV
+====
+Analog
+====
+#DVD-kameralar
+Ovozli tebranishlarni elektr tokining tebranishiga, kirish moslamasiga aylantiruvchi elektroakustik qurilma
+====
+#mikrofon
+====
+kolonka
+====
+kamera
+====
+fotoapparat
+
+++++
+
+...– semiotik tahlil bilan bog'liq bo'lgan media matnidagi tasvirni assotsiativ tahlil qilish
+====
+Semiotik taxlil 
+====
+Ma'lumot taxlili 
+====
+#Ikonografik taxlil 
+====
+Grafik taxlil 
+
+++++
+... – bu o‘zingga tashqi tomondan qarash, xatti-harakatlaring va his-tuyg‘ularing, o‘z pozitsiyang, chiqishlaringga qarash imkoniyatidir
+====
+#mediateatr
+====
+mediata'lim
+====
+tanqid
+====
+intervyu
+
+++++
+
+...- bu o'z fikrlaringiz, shaxsiy tajribangiz bilan bo'lishish, hissiy tashvishlarni yengish, o'zingizni nazorat qila olish, taklif qilingan savolga mos javob topish qobiliyatidir.
+====
+mediateatr
+====
+mediata'lim
+====
+#intervyu
+====
+taxlil
+
+++++
+
+...- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar, tushunchalar, ma'lumotlarni taqdim etishning grafik usuli.
+====
+vaqt shkalasi
+====
+#Intellektual xarita 
+====
+kadr
+====
+infografika
+
+++++
+
+Scribing nima?
+====
+#- bu uning mazmuni va ichki aloqalarini sodda va aniq aks ettiruvchi grafik belgilar yordamida ma'lumotni vizualizatsiya qilish usuli
+====
+.- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar, tushunchalar, ma'lumotlarni taqdim etishning grafik usuli.
+====
+...- bu o'z fikrlaringiz, shaxsiy tajribangiz bilan bo'lishish, hissiy tashvishlarni yengish, o'zingizni nazorat qila olish, taklif qilingan savolga mos javob topish qobiliyatidir. 
+... – bu o‘zingga tashqi tomondan qarash, xatti-harakatlaring va his-tuyg‘ularing, o‘z pozitsiyang, chiqishlaringga qarash imkoniyatidir
+
+++++
+
+... - bu globalizm va axborot-kommunikatsiya texnologiyalarining (AKT) jadal rivojlanishi davrida o'zgargan, jamoat ongiga va shaxsning ijtimoiylashuv jarayoniga ta'sir ko'rsatadigan gumanitar fanlarning sintezi
+====
+Germenevtik tahlil
+====
+Ikonografik taxlil
+====
+#Medialogiya
+====
+Infografika
+
+++++
+
+... stilistika va mediologiyaning kesishgan sohasi bo'lib, unda ommaviy axborot vositalari hodisasi birinchi navbatda stilistika nuqtai nazaridan, u tomonidan ishlab chiqilgan ilmiy apparat va metodologiya yordamida, ularning zamonaviy rivojlanishini hisobga olgan holda o'rganiladi
+====
+Germenevtik tahlil
+====
+Ikonografik taxlil
+====
+#Mediastilistika
+====
+Infografika
+
+++++
+
+…- murakkab shaklga ega bo'lgan matn, ya'ni ikki yoki undan ortiq turli semiotik tizimlar birliklari birikmasiga asoslangan, o'zaro bog'liqlik, bir-birini to'ldirish, o'zaro ta'sir munosabatlariga kirishadi, bu esa adresatga murakkab ta'sir ko'rsatadi
+====
+Tanqidiy matn
+====
+Taxliliy matn
+====
+Germenevtik matn
+====
+#Kreollashtirilgan matn
+
+++++
+
+Semiotika
+====
+xarflar va raqamlar tizimlarini o'rganadi
+====
+#belgilar va belgilar tizimlarini o'rganadi
+====
+shartlar tizimlarini o'rganadi
+====
+bu muloqotni o'rganishni ma’qullaydigan pedagogikaning yo'nalishi
+
+++++
+
+Jurnalistik matnning funksional oʻziga xosligi
+====
+#jurnalistika sotsiologiyasida yagona tizim sifatida koʻrib chiqiladigan bir qator elementlar bilan bogʻliq holda belgilanadi
+ ====
+tizim sifatida koʻrib chiqiladigan elementlar bilan bogʻliq holda belgilanadi
+====
+yagona tizim sifatida koʻrib chiqiladigan belgilar bilan bogʻliq holda belgilanadi
+====
+bu muloqotni o'rganishni ma’qullaydigan pedagogikaning yo'nalishi
+
+++++
+
+PR-matnning maqsadi
+====
+#...- qabul qiluvchining qiyofasini shakllantirish
+====
+tizim sifatida koʻrib chiqiladigan elementlar bilan bogʻliq holda belgilanadi
+====
+bu muloqotni o'rganishni ma’qullaydigan pedagogikaning yo'nalishi
+====
+shartlar tizimlarini o'rganadi
+
+++++
+
+Onlayn ommaviy axborot vositalarida reklama……
+====
+#muayyan ommaviy axborot vositalarining yo'nalishiga qarab ham keng, ham yuqori ixtisoslashgan bo'lishi mumkin.
+====
+muayyan ommaviy axborot vositalarining yo'nalishiga qarab yuqori ixtisoslashgan bo'ladi.
+====
+medianing yo'nalishiga qarab keng ixtisoslashgan bo'ladi.
+====
+yagona tizim sifatida koʻrib chiqiladigan belgilar bilan bogʻliq holda belgilanadi
+
+++++
+
+Media matnning reklama turining asosi bu?
+====
+harflar
+====
+raqamlar
+====
+ranglar
+====
+#vikonik belgilar
+
+++++
+
+Internetdagi FTP xizmati quyidagilar uchun mo'ljallangan:
+====
+#veb-sahifalarni yaratish, qabul qilish va uzatish uchun
+====
+elektron pochtaning ishlashini ta'minlash;
+====
+telekonferentsiyani qo'llab-quvvatlash
+====
+har qanday formatdagi fayllarni qabul qilish va uzatish uchun;
+
+++++
+
+CSS zarur:                             
+====
+#html kodini qisqartirish uchun;
+ ====
+giperssilka qo'yish uchun;
+====
+saytni telefonda ko'rish uchun;
+====
+ tasvir joylashtirish uchun.
+
+++++
+
+ CSS stilida yozish uchun qaysi registrdan foydalaniladi                          
+====
+#kichik xarflar;
+====
+ katta xarflar;
+====
+ istalgan
+====
+katta bilan boshlanadi
+
+++++
+
+Flash MX da rolikni nashr qilish uchun                        
+====
+#File>Publish
+====
+File> Import
+====
+File> Print
+
+++++
+
+O'z manziliga ega bo'lgan alohida xujjat qanday ataladi?                         
+====
+#Web-sahifa
+====
+Web-server
+====
+Web-sayt
+====
+Web-brauzer
+
+++++
+
+Multimedia texnologiyalarining ijobiy jixatini ko'rsating                           
+====
+#mo'ljallangan foydalanuvchi bilan samarali o'zaro aloqa
+====
+video va animatsiyadan foydalanish
+====
+ video konvertatsiyasi
+====
+video va tasvirdan foydalanish
+
+++++
+
+Ommaviy axborot vositalari insonga qanday jihatlarda ta'sir qilishi mumkin?
+====
+#Kognitiv, affektiv, xulq-atvor
+====
+Affektiv, xulq-atvor 
+====
+Kognitiv, affektiv
+====
+Kognitiv, affektiv, xulq-atvor, estetik
+
+++++
+
+Tarbiyaviy ta’sir qanday ko‘rinishda namoyon bo‘ladi?
+====
+#Yashirin va oshkora
+====
+Verbal va noverbal
+====
+Interaktiv va passiv
+====
+Ochiq va yopiq
+
+++++
+
+“Moviy kit” oʻyini qaysi yillarda ommalashgan?
+====
+#2016-2017 yillar
+====
+2013-2015 yillar
+====
+2018-2019 yillar
+====
+2010-2011 yillar
+
+++++
+
+- bu ixtisoslashgan guruh tomonidan multimedia xabarlarini to'plash, qayta ishlash, ishlab chiqarish va texnik kanallar orqali, doimiy va raqobatbardosh rejimda, me'yoriy tizimga asoslangan katta, bir xil bo'lmagan va noma'lum auditoriyaga tarqatish jarayonidir
+====
+#Ommaviy aloqa
+====
+Mediamatn
+====
+Mediata’lim
+====
+Maxsus studiya
+
+++++
+
+Ommaviy nashrlar 
+====
+#o'quvchini turli sohalardagi ma'lumotlardan xabardor qilish: siyosat, iqtisodiyot, jamiyat, madaniyat
+====
+sport va boshqalar ma'lum bir auditoriya yoki hududga qaratilgan
+====
+boshqa tadbirlarni tomosha qilish
+====
+jonli video eshittirishlar
+
+++++
+
+Ixtisoslashgan nashrlar
+====
+#sport va boshqalar ma'lum bir auditoriya yoki hududga qaratilgan
+====
+o'quvchini turli sohalardagi ma'lumotlardan xabardor qilish: siyosat, iqtisodiyot, jamiyat, madaniyat
+====
+boshqa tadbirlarni tomosha qilish
+====
+jonli video eshittirishlar
+
+++++
+
+- bu ommaviy axborot vositalari ishlab chiqaruvchilari (eshittirish vositalari) media kanallar (televidenie, radio, gazeta, Internet va boshqalar) orqali media iste'molchilariga (qabul qiluvchilarga) uzatadigan kontentning maxsus shakli
+====
+#Mediama’lumotlar
+====
+Mediamatn
+====
+Mediasavodxonlik
+====
+Mediata’lim
+
+++++
+
+Moliyalashtirish manbalariga ko‘ra ommaviy axborot vositalari qandat turlarga bo‘linadi
+====
+#Hukumat  ommaviy axborot vositalari va Xususiy ommaviy axborot vositalari
+====
+Tijorat va hususiy
+====
+Shaxsiy va tijorat
+====
+Yuridik va jismoniy
+
+++++
+
+ishontirish va rag'batlantirish shaklidagi muloqot yoki ommaviy taqdimot turi; bir yoki bir nechta mahsulot, xizmatlar, voqealar/hodisalar, g'oyalar, odamlar va/yoki iqtisodiy yoki notijorat tashkilotlar haqida haqiqiy va potentsial mijozlarni xabardor qilish, ishontirish va ta'sir qilish uchun mo'ljallangan reklama texnikasi
+====
+#Reklama faoliyati
+====
+Reklama 
+====
+Yangilik
+====
+Mediamatn
+
+++++
+
+"Reklamaning otasi" deb hisoblanuvchi shaxs
+====
+#Devid Ogilvi
+====
+Reginald Fessenden
+====
+Iogannes Gutenberg
+====
+Nikola Tesla
+
+++++
+
+Reklama - 
+====
+#bu potentsial xaridorni ma'lum bir mahsulot yoki xizmatni etkazib beruvchiga, ishlab chiqaruvchiga va sotuvchiga jalb qilish uchun reklama ta'sirini ko'rsatadigan maxsus tijorat mahsulotidir
+====
+bu yozma va audiovizual vositalar orqali uzatiladigan ayrim dolzarb voqealar haqidagi ma'lumotlar
+
+====
+ishontirish va rag'batlantirish shaklidagi muloqot yoki ommaviy taqdimot turi; bir yoki bir nechta mahsulot, xizmatlar, voqealar/hodisalar, g'oyalar, odamlar va/yoki iqtisodiy yoki notijorat tashkilotlar haqida haqiqiy va potentsial mijozlarni xabardor qilish, ishontirish va ta'sir qilish uchun mo'ljallangan reklama texnikasi
+====
+- bu ommaviy axborot vositalari ishlab chiqaruvchilari (eshittirish vositalari) media kanallar (televidenie, radio, gazeta, Internet va boshqalar) orqali media iste'molchilariga (qabul qiluvchilarga) uzatadigan kontentning maxsus shakli
+
+++++
+
+Shantaj
+====
+#jabrlanuvchining shaxsiy tasvirlarini nashr etmaslik va unga, tajovuzkorlarga tahdid soladigan har qanday ma'lumotni oshkor qilmaslik sharti evaziga ma'lum xizmatlar yoki narsalarni talab qilish va shu orqali jabrlanuvchini shantaj qilish
+====
+ta'qibchilar shaxsni u o'zini tanishtirgan guruhdan ajratib turadigan kamsituvchi xabarlar va sharhlar yordamida ma'lum bir guruhni (do'stlar doirasi, u o'qiydigan sinf, boshqa manfaatlar guruhlari) tark etishga majburlamoqchi bo'ladi
+
+====
+salbiy sharhlar, shaxsiy xabarlar orqali ularni maqtash uchun foydalanuvchiga tezroq yaqinlashish uchun Internetdan foydalanadilar
+====
+Internet orqali tanishish
+
+++++
+
+voyaga yetmaganlar tomonidan internet orqali voyaga yetmaganlar bilan shaxsiy uchrashish va intim munosabatlarga kirishish maqsadida tanishish, shuningdek, ularni jinsiy ekspluatatsiya qilish maqsadida qo‘llaniladigan psixologik manipulyatsiya usuli
+====
+#Internet grooming
+====
+Shantaj
+====
+Kiberbulling
+====
+Bulling
+
+++++
+
+"Post" so'zining ma’nosi nima?
+====
+#Lotinchadan olingan bo'lib, "... statio posita in ...", "falon joyda joylashgan stantsiya" degan ma'noni anglatadi
+====
+Lotinchadan olingan bo'lib, "... statio posita in ...", "joylashuv o’rni" degan ma'noni anglatadi
+====
+Lotinchadan olingan bo'lib, "... statio posita in ...", "stantsiyagacha masofa" degan ma'noni anglatadi
+====
+Lotinchadan olingan bo'lib, "... statio posita in ...", "static ma’lumot uzatmasi" degan ma'noni anglatadi
+
+++++
+
+Elektron pochta manzillari tarkibida @ belgisidan foydalanishni kim taklif qilgan?
+====
+#Rey Tomilson
+====
+Elena Ungureanu
+====
+Georges Meliès
+====
+Sharl-Emil Reyno
+
+++++
+
+Elektron pochta orqali xabar yuborgan birinchi davlat rahbari kim? 
+====
+#Buyuk Britaniya qirolichasi Yelizaveta II
+====
+AQSh prezidenti
+Bill Klinton 
+====
+Germaniya kansleri Angela Merkel
+====
+Fransiya prezidenti 
+Emanuel Makron 
+
+++++
+
+Internet sleng nima?
+====
+#tarmoq jargoni
+====
+tarmoq manzili
+====
+har qanday ma'lumotni oshkor qilmaslik sharti evaziga ma'lum xizmatlar yoki narsalarni talab qilish
+====
+ba'zi shaxsiy ma'lumotlarning oshkor etilishi
+
+++++
+
+- bu zamonaviy bola uchun zamonaviy teatrlashtirishning bir turi
+====
+#Mediateatr
+====
+Mediasavodxonlik
+====
+Tanqidiy taxlik
+====
+tarmoq manzili
+
+++++
+
+Belgilar bilan bog'liq masalalar bilan shug'ullanadigan fan nima deb ataladi?
+====
+#Semiotika
+====
+Infografika
+====
+Mediata’lim
+====
+Belgilar
+
+++++
+
+bu o'qilgan, ko'rilgan yoki eshitilgan narsalarni turli ifoda vositalaridan (intonatsiya, mimika, imo-ishoralar, pozitsiyalar, harakatlar, mizan-sahna) yordamida "yuzlarda" aks ettiruvchi faoliyatdir
+====
+#Dramatizatsiya
+====
+Ikonografiya
+====
+Mediata’lim
+====
+Semiotika
+
+++++
+
+Dramatizatsiya badiiy asar ustida ishlashning barcha bosqichlariga qanday ta'sir ko'rsatadi?
+====
+#Ijobiy
+====
+Salbiy
+====
+Tezkor
+====
+Murakkab
+
+++++
+
+Spektakl - darslar – 
+====
+#bir darsda teatrlashtirilgan texnologiyalarning bir nechta texnikasining kombinatsiyasi
+====
+real hayotdagi tarixiy personaj darsda o‘qituvchi yordamchisi sifatida qatnashadi
+====
+- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar, tushunchalar, ma'lumotlarni taqdim etishning grafik usuli.
+====
+- bu har kimga veb-dizayn qilish imkonini beruvchi onlayn xizmat. Siz maxsus tayyorgarliksiz, qimmat dasturiy ta'minot va jihozlarsiz dizayner bo'lishingiz mumkin.
+
+++++
+
+"Reklamaning otasi" deb hisoblangan shaxs kim?
+====
+#Devid Ogilvi
+====
+Mark Tsukerberg
+====
+Donald Tramp
+====
+Tim Bernards Li
+
+++++
+
+Reklama xabari nimaga qaratilgan?
+====
+#to'g'ridan-to'g'ri mijozlarning istaklarini rag'batlantirishga va reklama qilingan mahsulot yoki kompaniyaga nisbatan ijobiy assotsiatsiyalarni shakllantirishga.
+====
+reklama qilingan mahsulot yoki kompaniyaga nisbatan ijobiy assotsiatsiyalarni shakllantirishga.
+====
+to'g'ridan-to'g'ri mijozlarning istaklarini rag'batlantirishga 
+====
+real hayotdagi tarixiy personaj darsda o‘qituvchi yordamchisi sifatida qatnashadi
+
+++++
+
+PR materiallari uchun qiziqarli xususiyat -.
+====
+#vizual (infografika, logotiplar) va og'zaki (brend nomi, kompaniya nomi) indekslarining ustunligi
+====
+real hayotdagi tarixiy personaj darsda o‘qituvchi yordamchisi sifatida qatnashadi
+====
+- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar, tushunchalar, ma'lumotlarni taqdim etishning grafik usuli.
+====
+- bu har kimga veb-dizayn qilish imkonini beruvchi onlayn xizmat. Siz maxsus tayyorgarliksiz, qimmat dasturiy ta'minot va jihozlarsiz dizayner bo'lishingiz mumkin.
+
+++++
+
+- shaxsni boshqaradigan ichki, ma'naviy fazilatlar, axloqiy me'yorlar; bu sifatlar bilan belgilanadigan xulq-atvor qoidalari
+====
+#AXLOQ
+====
+MANTIQ
+====
+ETIKA
+====
+VIJDON
+
+++++
+
+- atrofdagi odamlar, jamiyat oldida o'z xatti-harakati uchun ma'naviy javobgarlik hissi
+====
+#VIJDON
+====
+AXLOQ
+====
+MANTIQ
+====
+ETIKA
+
+++++
+
+- axborotning turli tabiiy yoki maxsus tillarda ifodalanishi mumkinligini nazarda tutadi
+====
+#Axborotning lingvistik tabiati
+====
+Axborotning orfografik tabiati
+====
+Axborotning lmantiqiy tabiati
+====
+Axborotning semiotik tabiati
+
+++++
+
+Tizim – bu...?                             
+====
+#ma’lum maqsadga yo‘naltirilgan elementlarning tartiblangan ketma - ketligi
+elementlar jamlanmasi 
+====
+ma’lum maqsadga yo‘naltirilgan elementlardan foydalanish
+====
+ma’lum maqsadga yo‘naltirilgan elementlar jamlanmasi 
+
+++++
+
+Musiqa  instrumentlarini raqamli interfeysi nima deyiladi?                          
+====
+#MIDI
+====
+MONO
+====
+TCP
+====
+MP3
+
+++++
+
+Avtorlik tizimlari klassifikatsiyasini fanga taklif qilgan olim qaysi?                        
+====
+#Dj.Siglar
+====
+F.Neyman
+====
+Mayer
+====
+M.Smit
+
+++++
+
+Ob’yektiv bu?                              
+====
+#Bir necha linzalardan iborat murakkab optik tizim
+====
+bitta linzadan iborat optik tizim
+====
+Ikkita linzadan iborat imitatsion optik tizim
+====
+Bir necha linzalardan iborat nurli optik tizim
+
+++++
+
+Bir necha linzalardan iborat murakkab optik tizim bu?                        
+====
+#Ob’ektiv
+====
+Fokus masofasi
+====
+Diaproektor
+====
+Reflektor
+
+++++
+
+Virtual haqiqiylik tizimi bu –?                           
+====
+#imitatsion dasturiy va texnik vositalar 
+====
+yordamchi dasturiy vositalar
+====
+imitatsion texnik vositalar
+
+++++
+
+Videoplata — bu...?                             
+====
+#videonazoratchi
+====
+Hotira qurilmasi
+====
+Amallarni bajarish qurilmasi
+====
+Bir necha linzalardan iborat nurli optik tizim
+
+++++
+
+Multimedia texnologiyalaridan turli kasb ustalari qanday maqsadlarda foydalanadilar?                        
+====
+#Kompyuter grafikasi vositalari, animatsiyalar, videofilmlarni ishlab chiqish, musiqa studialari.
+====
+Kompyuter grafikasi vositalari, animatsiyalar, videofilmlarni ishlab chiqish
+====
+Animatsiyalar, videofilmlarni ishlab chiqish, musiqa studialari
+====
+Kompyuter grafikasi vositalari, videofilmlarni ishlab chiqish, musiqa studialari
+
+++++
+
+Videonazorat qiluvchi qurilma bu?                            
+====
+#Videoplata
+====
+Monitor
+====
+Plotter
+====
+Kamera
+
+++++
+
+Videoqamrash platasi nima?                             
+====
+#video kadrlarni ushlash, ularni o`zgartirish
+====
+Hotira qurilmasi
+====
+Turli amallarni bajarish
+====
+Tasvirlarning o’lchamlarini aniqlovchi grafika
+
+++++
+
+Animatsiya — bu…?                             
+====
+#xarakatlanuvchi tasvir taassurotini xosil qiluvchi tasvirlar ketma – ketligini ko`rsatish
+====
+tasvirlar ketma – ketligini ko`rsatish
+====
+Taqdimot yaratish usuli
+====
+Tasvirlarning o’lchamlarini aniqlovchi grafika
+
+++++
+
+Multimedianing eng kup tarqalgan turlari uzida axborotning qanday turlarini jamlaydi?                      
+====
+#matn, rasmlar, sxema, jadval, diagramma, fotografiya, video va audio fragmentlar 
+====
+matn, rasmlar, sxema, jadval, diagramma, video va audio fragmentlar 
+====
+gipermatn, rasmlar, sxema, jadval, diagramma, fotografiya, video, audio fragmentlar va gipermedialar
+====
+rasm, tovush va video fayllarni
+
+++++
+
+Multimedia nima xisobiga o‘qitish samaradorligini oshirish va o‘qitishni intensifikatsiyalash imkoniyatini ta’minladi?                     
+====
+#audiovizual axborotni kayta ishlashning zamonaviy usullarini kullash
+====
+audio va matnli axborotlarni qayta ishlash usullari 
+====
+kerakli ma’lumotlarni kiritishning zamonaviy usullarini qo‘llash
+====
+axborotlarni shaklini o‘zgartirish
+
+++++
+
+Ta’limni muammoligini ta’minlash talablari nimalarga bog’liq?                          
+====
+#o‘quv – tushuntirish faoliyatining mavjudligi va xarakteriga
+====
+o‘quv faoliyatining to‘g’ri tashkil qilinishiga 
+====
+multimedia vositalariga 
+====
+O‘qituvchi bilan o‘quvchilar turli masofada joylashgan holda tekshiruv uslubi
+
+++++
+
+Adobe Premier dasturi nima uchun foydalaniladi?                          
+====
+#videokliplarni qayta ishlashda
+====
+tasvirlarni qayta ishlashda 
+====
+tovushlarni qayta ishlashda
+====
+multimedia dasturlarini mukammallashtirishda
+
+++++
+
+Videomontajni asosiy vazifalaridan biri bu?                           
+====
+#olingan kadrlarni keraksiz qismini kesib tashlash va o’tish joylarini bir-biriga moslab biriktirish vazifalarini bajarishi
+====
+olingan kadrlarni keraksiz qismini kesib tashlash vazifalarini bajarishi
+====
+olingan kadrlarni o’tish joylarini bir-biriga moslab biriktirish vazifalarini bajarishi
+====
+kadrlarni keraksiz o’tish joylarini bir-biriga moslab biriktirish vazifalarini bajarishi
+
+++++
+
+Digital Audio Player – bu ?                          
+====
+#raqamli audio fayllarni o'qiy oladigan electron qurilma
+====
+raqamli video fayllarni o'qiy oladigan electron qurilma
+====
+raqamli audio fayllarni taqdim etadigan electron qurilma
+====
+raqamli audio fayllarni arxivlaydigan electron qurilma
+
+++++
+
+Birinchi Digital Audio Player qachon yaratilgan?                          
+====
+#1981-yilda
+====
+1982-yilda
+====
+1985-yilda
+====
+1989-yilda
+
+++++
+
+Birinchi ko'chma MP3 player qachon ishlab chiqarilgan?                         
+====
+#1997 yilda
+====
+1995 yilda
+====
+1993 yilda
+====
+1991 yilda
+
+++++
+
+16-bitli ikkilik kodlash imkoniyatiga ega bo'lgan ovoz kartasi sizga ovozni … taqdim etib beradi
+====
+#8 intensivlik darajasida
+====
+16 intensivlik darajasi
+====
+256 intensivlik darajasi
+====
+65,536 intensivlik darajasi
+
+++++
+
+IP-manzil quyidagicha ko'rinishda bo'ladi?
+====
+34.89.45
+====
+#193.126.7.29
+====
+1.256.34.21
+====
+#12.56.34.21
+
+++++
+
+Domen bu…
+====
+Computerlar orasidagi aloqani amalga oshiruvchi dasturlar nomi;
+====
+#Tarmoqdagi foydalanuvchi kompyuter manzilini belgilovchi manzil qismi;
+====
+Computerlar orasidagi aloqani amalga oshiruvchi qurilmalar nomi;
+====
+Malumotlarni o'lchash birliklari
+
+++++
+
+Diskka yozish uchun qanday dasturlardan foydalanishingiz mumkin?
+====
+Adobe Premier
+====
+#Nero Burning Rom
+====
+Sound Forge
+====
+CorelDraw
+++++
+Lazerli qurilma diskka qayerdan boshlab yozadi?
+====
+tashuvchi markazidan
+====
+chetidan
+====
+#markaz o'qidan
+====
+tashuvchi turiga bog'liq
+++++
+Media ta’lim nima?
+====
+bu maktab o'qituvvchilari tomonidan muloqotni o'rganishni ma’qullaydigan pedagogikaning yo'nalishi
+====
+#bu maktab o'quvchilari tomonidan ommaviy muloqotni o'rganishni ma’qullaydigan pedagogikaning yo'nalishi
+====
+bu maktab o'quvchilari tomonidan san'atni o'rganishni ma’qullaydigan pedagogikaning yo'nalishi
+====
+bu muloqotni o'rganishni ma’qullaydigan pedagogikaning yo'nalishi
+++++
+- har qanday yoshdagi odamlarga ma'lumot qidirish va o'z pozitsiyasini bildirish qobiliyatini rivojlantirishda, tanqidiy fikrlash qobiliyatini, samarali muloqot qobiliyatini shakllantirishda, shuningdek faol fuqarolikni rivojlantirishda yordam berish
+====
+media ta'limining predmeti
+====
+media ta'limining hususiyati
+====
+media ta'limi vositasi
+====
+#media ta'limining maqsadi
+
+++++
+
+Natijasi raqamli ma’lumotlar massividan iborat bo’lgan fotografiya, yorug’lik sezuvchi material sifatida esaelektron qurilma – matritsadan foydalaniladi
+====
+#Raqamli fotografiya
 ====
 Raqamli animatsiya
 ====
@@ -680,1027 +3504,3 @@ Rastrli fotografiya
 ====
 Illyuziya
 ++++
-...- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar, tushunchalar, ma'lumotlarni taqdim etishning grafik usuli.
-====
-# Intellektual xarita
-====
-vaqt shkalasi
-====
-Kadr
-====
-Infografika
-++++
-mediamatnni talqin qilish jarayonini, mediamatn muallifi nuqtai nazariga va auditoriya nuqtai nazariga ta'sir qiluvchi madaniy, tarixiy omillarni o'rganish
-====
-# Germenevtik tahlil
-====
-Scribing
-====
-Ikonografik taxlil
-====
-Infografika
-++++
-…- murakkab shaklga ega bo'lgan matn, ya'ni ikki yoki undan ortiq turli semiotik tizimlar birliklari birikmasiga asoslangan, o'zaro bog'liqlik, bir-birini to'ldirish, o'zaro ta'sir munosabatlariga kirishadi, bu esa adresatga murakkab ta'sir ko'rsatadi
-====
-# Kreollashtirilgan matn
-====
-Tanqidiy matn
-====
-Taxliliy matn
-====
-Germenevtik matn
-++++
-PR materiallari uchun qiziqarli xususiyat – 
-====
-# vizual va og'zaki indekslarining ustunligi
-====
-tashqi va ichki indekslarining ustunligi
-====
-sodda va og'zaki indekslarining ustunligi
-====
-vizual va tashqi indekslarining ustunligi 
-++++
-O'z manziliga ega bo'lgan alohida xujjat qanday ataladi?   
-====
-#  Web-sahifa
-====
-Web-server
-====
-Web-sayt
-====
-Web-brauzer
-++++
-Odamlar ma'lumotni qayta ishlash uchun qanday asosiy o'rganish uslubidan foydalanadilar?
-====
-# Vizual, Eshitish, O‘qish/yozish, Kinestetik
-====
-Vizual, Eshitish, O‘qish/yozish, Grammatik
-====
-Vizual, Eshitish, O‘qish/yozish, Kinestetik, Grammatik
-====
-Vizual, Eshitish, O‘qish/yozish, Kinestetik, Grammatik, Stilistik
-++++
-Biznes uchun ma'lumotlarni vizualizatsiya qilishning afzalliklari?
-====
-# Qisqachalik, Tushunish, Harakat, Ishtirok etish
-====
-Qisqachalik, Tushunish, Harakat
-====
-Qisqachalik, Tushunish, Qayta aloqa, Ishtirok etish
-====
-Qisqachalik, Tushunish, Harakat, Ishtirok etish, Qiziqish
-++++
-O‘xshashlikni bildirish maqsadida atama yoki ibora so‘zma-so‘z qo‘llanilmaydigan biror narsaga nisbatan qo‘llaniladigan nutq shakli
-====
-# Metafora
-====
-Investitsiya
-====
-Statistika
-====
-Atama
-++++
-- bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora.
-====
-# Aysberg
-====
-Piramida
-====
-Klaster
-====
-Venn
-++++
-- bu turli tashkiliy elementlar yoki biznes toifalari qanday bog'liqligini va/yoki o'zaro bog'liqligini tavsiflash uchun ishlatiladigan yaxshi o'rnatilgan mexanizmlar
-====
-# Biznes modellari
-====
-tashqi va ichki indekslarining ustunligi
-====
-sodda va og'zaki indekslarining ustunligi
-====
-vizual va tashqi indekslarining ustunligi 
-++++
-Bu ishonchli xizmat xatcho'plar qo'yish, joylashtirish va teg qo'yishdan tashqariga chiqadi
-====
-# Evernote
-====
-Diigo
-====
-Google Bookmarks
-====
-Pinboard.in
-++++
-- bu axborotni boshqarish vositasi shunchaki xatcho'plardan ko'ra ko'proq narsani bajaradi?
-====
-# Diigo
-====
-Google Bookmarks
-====
-Pinboard.in
-++++
-roʻyxatlarni sozlash va sahifa nomi yoki arxiv sanasi boʻyicha saralash kabi asosiy funksiyalarni bajarishga imkon beradi
-====
-#  Google Bookmarks
-====
-Evernote
-====
-Diigo
-====
-Pinboard.in
-++++
-- bu tez va xavfsiz ekanligi bilan faxrlanadigan oddiy xatcho'plar sayti
-====
-# Pinboard.in
-====
-Google Bookmarks
-====
-Evernote
-====
-Diigo
-++++
-– kim, nima, qachon, qayerda, nima uchun va qanday qilib – jurnalistlar maqola uchun ma’lumot yig‘ishda berishni o‘rganadigan asosiy savollardir
-====
-# Beshta W va bitta H (5W1H)
-====
-Beshta H va bitta W (5H1W)
-====
-Beshta W va ikkita H (5W2H)
-====
-Beshta H va ikkita W (5H2W)
-++++
-- axborotni vizuallashtirishga bag'ishlangan eng katta Flickr guruhlaridan biri
-====
-# Info Graphics
-====
-Information is Beautiful
-====
-Good magazine 
-====
-Flowing Data
-++++
-Visual.ly, http://visual.ly – 
-====
-# Bu sayt bepul akkaunt bilan statik, interaktiv yoki video infografikalarni yuklash imkonini beradi
-====
-axborotni vizuallashtirishga bag'ishlangan eng katta Flickr guruhlaridan biri
-====
-bu axborotni boshqarish vositasi shunchaki xatcho'plardan ko'ra ko'proq narsani bajaradi
-====
-Siz saytning aloqa sahifasi orqali rasmga havola bilan infografikangiz tavsifini yuborishingiz mumkin.
-++++
-Siz saytning aloqa sahifasi orqali rasmga havola bilan infografikangiz tavsifini yuborishingiz mumkin.
-====
-# Cool Infographics
-====
-Daily Infographic
-====
-Dot Com Infographic
-====
-Visual.ly
-++++
-Siz sayt administratori Jey Uillinghamga aloqa sahifasi orqali elektron pochta orqali dizayningizni Kundalik Infografikada ko'rsatilishini so'rashingiz mumkin
-====
-# Daily Infographic
-====
-Dot Com Infographic
-====
-Visual.ly
-====
-Cool Infographics
-++++
-- bu turli xil diagrammalar, grafiklar, diagrammalar, xaritalar, o'lchovlar, vaqt jadvallari va boshqalarni yaratishga imkon beruvchi foydalanish uchun qulay ma'lumotlarni vizualizatsiya qilish veb-ilovasi
-====
-# Chartle
-====
-Creately
-====
-Diagram.ly
-====
-DIY chart
-++++
-StatPlanet - bu 
-====
-# interaktiv xaritalar, grafiklar va infografika yaratish uchun ish stoli dasturi
-====
-turli xil diagrammalar, grafiklar, diagrammalar, xaritalar, o'lchovlar, vaqt jadvallari va boshqalarni yaratishga imkon beruvchi foydalanish uchun qulay ma'lumotlarni vizualizatsiya qilish veb-ilovasi
-====
-axborotni vizuallashtirishga bag'ishlangan eng katta Flickr guruhlaridan biri
-====
-bu axborotni boshqarish vositasi shunchaki xatcho'plardan ko'ra ko'proq narsani bajaradi
-++++
-…  bu grafik elementlardan foydalangan holda ma'lumotlarni uzatish usuli 
-====
-#Infografika 
-====
-Ierarxiya
-====
-Canva
-====
-Geografiya
-++++
-Piktogrammalarning eng taniqli namunasi - qachon yaratilgan
-====
-#miloddan 3000 yil avval 
-====
-miloddan 4000 yil avval 
-====
-miloddan 4500 yil avval 
-====
-miloddan 2000 yil avval 
-++++
-grafik va diagrammalar ko'rinishida - infografika XVIII asrning oxirida paydo bo'ldi 
-====
-#infografika XVIII asrning oxirida 
-====
-infografika XIII asrning oxirida 
-====
-infografika XVII asrning oxirida 
-====
-infografika XV asrning oxirida 
-++++
-chiziqli diagramma nechanchi yilda ixtiro qilingan 
-====
-#1786-yilda 
-====
-1876-yilda 
-====
-1801-yilda 
-====
-1798-yilda
-++++
-doiraviy diagramma nechanchi yilda ixtiro qilingan 
-====
-1786-yilda 
-====
-1876-yilda 
-====
-#1801-yilda 
-====
-1798-yilda
-++++
-Infografika sizga qaysi yo’llar bilan bog'lanishingizga yordam beradigan hususiyatlar Ichida no’g’ri javobni ko’rsating?
-====
-Sizning potentsial mijozlaringiz uchun fikr yetakchiligi mahsulot xususiyatlari va afzalliklari 
-====
-Mijozlaringiz uchun biznes jarayonlari va xizmat ko'rsatish imkoniyatlari 
-====
-Sizning xodimlaringiz uchun g'oyalar va siyosatlar, Investorlaringiz uchun korporativ falsafa va strategiya 
-====
-# axborot uzatishning vizual va texnik vositalari
-++++
-VARK6 modeliga asoslanib  odamlar ma'lumotni qayta ishlash uchun nechta asosiy o'rganish uslubidan foydalanadilar
-====
-# 4 ta 
-====6 ta 
-5 ta 
-====
-8 ta 
-++++
-Infografika bilan bog'liq ba'zi o'rganish afzalliklari qaysi:
-====
-Axborot  g‘oyalar va tushunchalarni tushunish yaxshilandi 
-====
-Tanqidiy fikrlash va g'oyalarni ishlab chiqish va tartibga solish qobiliyatini oshiradi 
-====
-Axborotni saqlash va eslab qolish yaxshilandi 
-====
-# axborot uzatishning vizual va texnik vositalari
-++++
-Infografikani yaratish jarayoni qaysi bosqichni o'z ichiga oladi?
-====
-#Infografikani yaratish va auditoriyani aniqlash maqsadini shakllantirish. Ishlab chiqilgan axborot dizayni odatda ba'zi maqsadli auditoriya uchun mo'ljallangan  
-====
-Analitika va axborotni qayta ishlash. Yig'ilgan materialni tahlil qilish va qayta ishlash  bitta denominatorga keltirish kerak - odatda bu formatlanmagan grafikalar va gistogrammalar 
-====
-Foydalanish mumkin bo'lgan vizualizatsiya  maketni qurish  Barcha materiallar chiroyli vizual shaklda tuzilgan va taqdim etilgan  Format tanlanadi (maqsadlar va ma'lumotlar miqdoriga qarab) - taqdimot  slaydlar  bir sahifali rasm  video 
-====
-# Har bir qiymatning umumiy hajmdagi ulushini ko'rsatadi  U butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
-++++
-Infografika bilan ishlash qaysi yo'nalishda bo'lishi mumkin?
-====
-#o'qituvchi tomonidan yaratilgan infografikani talabalar tomonidan tahlili  mavjud ma'lumotlar asosida o'qituvchi rahbarligida talabalar tomonidan infografikani yaratish (loyiha faoliyati davomida  o'rganilgan material asosida) 
-====
-Analitika va axborotni qayta ishlash  Yig'ilgan materialni tahlil qilish va qayta ishlash  bitta denominatorga keltirish kerak - odatda bu formatlanmagan grafikalar va gistogrammalar 
-====
-Foydalanish mumkin bo'lgan vizualizatsiya  maketni qurish  Barcha materiallar chiroyli vizual shaklda tuzilgan va taqdim etilgan  Format tanlanadi (maqsadlar va ma'lumotlar miqdoriga qarab) - taqdimot  slaydlar  bir sahifali rasm  video 
-====
-Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi
-++++
-O'quv jarayonida infografikaning qaysi turlari qo'llaniladi:
-====
-ko'rsatmalar  eslatma 
-====
-Plakat  statistika 
-====
-yo’l ko’rsatuvchi(yo’riqnoma) 
-====
-# Freemockup
-+++++
-Infografikaning asosiy nimadan iborat 
-====
-#axborot berish  katta hajmdagi axborotni tushunarli tashkillashtirilgan shaklda taqdim etish 
-====
-bu mustaqil ravishda  hech kimning yordamisiz (sharh) va juda samarali o'rganish mumkin bo'lgan to'liq ma'lumot blokidir 
-====
-bu g'oyalarni tizimlashtirish  vaqtni rejalashtirish  katta hajmdagi ma'lumotlarni yodlash 
-====
-Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi
-++++
-Ideal tarzda bajarilgan infografika -…
-====
-axborot berish  katta hajmdagi axborotni tushunarli tashkillashtirilgan shaklda taqdim etish 
-====
-#bu mustaqil ravishda  hech kimning yordamisiz (sharh) va juda samarali o'rganish mumkin bo'lgan to'liq ma'lumot blokidir 
-====
-bu g'oyalarni tizimlashtirish  vaqtni rejalashtirish  katta hajmdagi ma'lumotlarni yodlash 
-====
-Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi 
-++++
-Infografika yaratish uchun nimalardan foydalanish mumkin 
-====
-Jadvallar
-====
-Diagrammalar 
-====
-grafik elementlar va boshqalar 
-====
-#Hamma javoblar to’g’ri 
-++++
-Aql xaritasi- … 
-====
-# Asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g‘oyalar  tushunchalar  ma’lumotlarni taqdim etishning grafik usulidir  Ya'ni  bu g'oyalarni tizimlashtirish  vaqtni rejalashtirish  katta hajmdagi ma'lumotlarni yodlash va aqliy hujum mashg'ulotlarini o'tkazish uchun vositadir 
-====
-Yozuvchining tarjimai holi yoki asari bilan ishlashda shuningdek  o‘quvchilarda tarixiy jarayonlar to‘g‘risida tizimli tasavvur hosil qilishda vaqt chizig‘i yoki lentadan foydalaniladi 
-====
-Vaqt jadvallarini qo'llash mumkin bo'lgan yana bir soha bu loyihani boshqarishdir 
-====
-Loyiha faoliyatidagi vaqt jadvallari ishtirokchilarga loyihani amalga oshirish bosqichlari va yakunlash sanalarini ko'rishga yordam beradi 
-++++
-Vaqt jadvali-…?
-====
-# Vaqt shkalasi  voqealar xronologik tartibda chizilgan to'g'ridan-to'g'ri segment 
-====
-Asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g‘oyalar  tushunchalar  ma’lumotlarni taqdim etishning grafik usulidir  
-====
-Bu g'oyalarni tizimlashtirish vaqtni rejalashtirish katta hajmdagi ma'lumotlarni yodlash va aqliy hujum mashg'ulotlarini o'tkazish uchun vositadir 
-====
-bu ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
-++++
-Scribing (inglizcha "scribe" - eskiz yoki chizmalarni chizish) bu? 
-====
-# bu uning mazmuni va ichki aloqalarini sodda va aniq aks ettiruvchi grafik belgilar yordamida ma'lumotni vizualizatsiya qilish usuli 
-====
-bu o'qilgan  ko'rilgan yoki eshitilgan narsalarni turli ifoda vositalaridan (intonatsiya  mimika  imo-ishoralar  pozitsiyalar  harakatlar  mizan-sahna) yordamida "yuzlarda" aks ettiruvchi faoliyatdir 
-====
-bu ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
-====
-bu zamonaviy bola uchun zamonaviy teatrlashtirishning bir turi 
-++++
-Tizimni kvantlash turli xil belgilar tizimlari bilan ifodalanadigan inson aqliy faoliyatining o'ziga xos xususiyatlaridan kelib chiqadi:
-====
-lingvistik 
-====
-ramziy(simvolli) 
-====
-grafik 
-====
-# kognitiv 
-++++
-Ta'lim ma'lumotlarini vizualizatsiya qilish texnologiyasi qaysi qismlarni o'z ichiga olgan?
-====
-o'quv bilimlari majmuasi  ularni ko'rsatishning vizual usullari 
-====
-axborot uzatishning vizual va texnik vositalari 
-====
-o'quv jarayonida vizual fikrlashni qo'llash va rivojlantirishning psixologik usullari to'plami 
-====
-# har bir qiymatning umumiy hajmdagi ulushini ko'rsatadi. U butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
-++++
-Vizualizatsiya – bu?
-====
-# Bu ma'lumotlarni iloji boricha oson tushunish uchun tasvir shaklida taqdim etish jarayoni 
-====
-axborot uzatishning vizual va texnik vositalari 
-====
-o'quv jarayonida vizual fikrlashni qo'llash va rivojlantirishning psixologik usullari to'plami 
-====
-U ma'lum bir ko'rsatkichning mintaqa  mamlakat  qit'a bo'yicha taqsimlanishini ko'rsatish kerak bo'lganda foydalaniladi 
-++++
-Xarita diagrammasi – bu?
-====
-#Bu diagrammaning geografik xarita yoki diagramma bilan kombinatsiyasi  U ma'lum bir ko'rsatkichning mintaqa mamlakat qit'a bo'yicha taqsimlanishini ko'rsatish kerak bo'lganda foydalaniladi 
-====
-Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi 
-====
-miya tanaga buyruqlar yuborish va vosita nazoratini  diqqatni hamda rejalashtirishni rag'batlantirish uchun foydalanadigan kimyoviy moddalardir  bu esa odamni harakatga undaydi 
-====
-Doira butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
-++++
-Doira (sektorli) diagrammasi-… ?
-====
-#Har bir qiymatning umumiy hajmdagi ulushini ko'rsatadi  U butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
-====
-ekstremal qiymatlarni yoki bo'shliqlar yoki og'ishlar mavjudligini vizual ravishda aniqlashga yordam beradi 
-====
-bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora 
-====
-axborot uzatishning vizual va texnik vositalari 
-++++
-Gistogrammalar- …?
-====
-# Qiymatlarning kontsentrtsiyasini shuningdek ekstremal qiymatlarni yoki bo'shliqlar yoki og'ishlar mavjudligini vizual ravishda aniqlashga yordam beradi 
-====
-ekstremal qiymatlarni yoki bo'shliqlar yoki og'ishlar mavjudligini vizual ravishda aniqlashga yordam beradi 
-====
-bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora 
-====
-bu turli tashkiliy elementlar yoki biznes toifalari qanday bog'liqligini va/yoki o'zaro bog'liqligini tavsiflash uchun ishlatiladigan yaxshi o'rnatilgan mexanizmlar 
-++++
-…bir  yoki bir nechta ko'rsatkichlarning dinamikasini ko'rsatadi  Vaqt o'tishi bilan turli xil ma'lumotlar to'plamlari qanday o'zgarishini solishtirmoqchi bo'lsangiz foydali bo'ladi 
-====
-# Chiziqli diogrammalar 
-====
-Aysberg 
-====
-Gistogrammalar 
-====
-Freemockup 
-++++
-…  - bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora
-====
-Chiziqli diogrammalar 
-====
-#Aysberg 
-====
-Gistogrammalar 
-====
-Doira 
-++++
-… - miya tanaga buyruqlar yuborish va vosita nazoratini diqqatni hamda rejalashtirishni rag'batlantirish uchun foydalanadigan kimyoviy moddalardir bu esa odamni harakatga undaydi 
-====
-# Neyrotransmitterlar 
-====
- Aysberg 
-====
-Gistogrammalar 
-====
-Akson
-++++
-… - bu turli tashkiliy elementlar yoki biznes toifalari qanday bog'liqligini va/yoki o'zaro bog'liqligini tavsiflash uchun ishlatiladigan yaxshi o'rnatilgan mexanizmlar 
-====
-# Biznes modellari 
-====
-Neyrotransmitterlar 
-====
-Aysberg 
-====
-Gistogrammalar 
-
-++++
-Quyidagi jarayonlar toifalari deyarli har bir tashkilotning strukturasini tashkil qiladi. Qaysi javob ortiqcha?
-====
-Menejment - strategiya  boshqaruv  Ma'muriyat - buxgalteriya  kadrlar 
-====
-Operatsiyalar - ishlab chiqarish  sifat nazorati  tarqatish  sotib olish 
-====
-Marketing – sotish  aksiyalar  mahsulot spetsifikatsiyalari  reklama  Mijozlarga xizmat ko'rsatish - savdoni qo'llab-quvvatlash  o'qitish  texnik yordam 
-====
-# Vizual ravishda so'nggi voqealar haqida hikoya qiladi  sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
-++++
-Infografika turlari noto’g’ri berilgan javobni ko’rsating.
-====
-Analitik yoki raqamli infografika 
-====
-Yangiliklar infografikasi, Tuzilish infografikasi 
-====
-Reklama infografikasi, Taqqoslash infografikasi 
-====
-#Hamma ajvoblar to’g’ri 
-++++
-Analitik yoki raqamli infografika
-====
-# U statistik ma'lumotlarni taqdim etish uchun ishlatiladi. Ko'p sonli raqamlar  diagrammalar  grafiklar va boshqalarni o'z ichiga oladi 
-====
-Vizual ravishda so'nggi voqealar haqida hikoya qiladi, sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
-====
-Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
-====
-Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
-++++
-Yangiliklar infografikasi?
-====
-U statistik ma'lumotlarni taqdim etish uchun ishlatiladi, Ko'p sonli raqamlar diagrammalar grafiklar va boshqalarni o'z ichiga oladi 
-====
-# Vizual ravishda so'nggi voqealar haqida hikoya qiladi, sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
-====
-Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
-====
-Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
-
-++++
-Tuzilish infografikasi bu?
-====
-U statistik ma'lumotlarni taqdim etish uchun ishlatiladi. Ko'p sonli raqamlar  diagrammalar  grafiklar va boshqalarni o'z ichiga oladi 
-====
-Vizual ravishda so'nggi voqealar haqida hikoya qiladi, sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
-====
- # Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini, ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
-====
-Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
-
-++++
-Mahsulotning afzalliklari va sotib olishning afzalliklarini tavsiflovchi yorqin rasm. Agar u yaxshi bajarilgan bo'lsa  mijozlarni jalb qilishi mumkin - ya'ni u malakali marketing va muvaffaqiyatli dizaynni birlashtiradgan infografika bu    
-====
-# Reklama infografikasi 
-====
-Taqqoslash infografikasi 
-====
-Tuzilish infografikasi 
-====
-Yangiliklar infografikasi 
-++++
-Taqqoslash infografikasi
-====
-U statistik ma'lumotlarni taqdim etish uchun ishlatiladi  Ko'p sonli raqamlar  diagrammalar  grafiklar va boshqalarni o'z ichiga oladi
-====
-Vizual ravishda so'nggi voqealar haqida hikoya qiladi  sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
-====
-Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
-====
-# Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa  uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
-++++
-… — kategoriya bo'yicha qulay qidiruvga ega rus tilidagi veb-sayt
-====
-# Freemockup 
-====
-Freepik 
-====
-Mockupworld 
-====
-Vizualizatsiya 
-++++
-…— fotosuratlar  piktogrammalar   ector rasmlari va ko’plab maketlarni o’z ichiga olgan stok  Siz ham pullik  ham bepul fayllarnitopishingiz mumkin
-====
-Freemockup 
-====
-# Freepik 
-====
-Mockupworld 
-====
-Vizualizatsiya 
-++++
-…  — mokaplar bilan ingliz tilidagi veb-sayt. Agar siz aniq narsani qidirsangiz  qidiruv satriga so'rovni kiritishingiz yoki toifalar bo'yicha kerakli mokaplarni topishingiz mumkin 
-====
-Freemockup 
-====
-Freepik 
-====
-# Mockupworld 
-====
-Vizualizatsiya 
-++++
-Vizualizatsiya - bu ma'lumotlarni iloji boricha oson tushunish uchun tasvir shaklida taqdim etish jarayoni 
-====
-Freemockup 
-====
-Freepik 
-====
-Mockupworld 
-====
-#Vizualizatsiya 
-++++
-… - aqliy tarkibning vizual tasvirga tushishi
-====
-# Vizualizatsiya jarayoni 
-====
- Freepik 
-====
-Mockupworld 
-====
-Vizualizatsiya 
-++++
-Ta'lim axborotini vizualizatsiya qilish texnologiyasining uslubiy asoslari qaysilar
-====
-Tizimli kvantlash printsipi 
-====
-Kognitiv vizuallashtirish printsipi 
-====
-Vizualizatsiya jarayoni 
-====
-# Tizimli kvantlash va kognitiv vizuallashtirish printsiplari
-++++
-…  - didaktik birliklarning mazmunini umumlashtirish va kengaytirish nazariyasiga asoslangan o'quv ma'lumotlarini siqishdan iborat bo'lgan printsipdir 
-====
- # Tizimli kvantlash printsipi 
-====
- Kognitiv vizuallashtirish printsipi 
-====
-Vizualizatsiya jarayoni 
-====
-Tizimli ishlash printsipi 
-++++
-Belgi tizimlari bu…?
-====
-lingvistik 
-====
-ramziy 
-====
-grafik 
-====
-# kognitiv
-++++
-Tizimli kvantlash printsipi qonuniyatlari qaysilar?
-====
-katta hajmdagi o'quv materialini eslab qolish qiyin 
-====
-ma'lum bir tizimda ixcham joylashgan o'quv materiali yaxshiroq qabul qilinadi 
-====
-o'quv materialida semantik mos yozuvlar nuqtalarini ajratib ko'rsatish samarali yodlashga yordam beradi 
-====
-# Tizimli kvantlash printsipi
-++++
-…   - bu illyustrativ funktsiyani bajaradigan va yangi bilimlarni olishning tabiiy-intellektual jarayoniga hissa qo'shadigan  vizualizatsiya 
-====
-Aql xaritasi 
-====
-Taymlayn 
-====
-#Kognitiv vizualizatsiya 
-====
-Tizimli kvantlash printsipi 
-++++
-Kognitiv vizuallashtirish printsipi qaysilar?
-====
-O'qitishda vizualizatsiya nafaqat tasviriy  balki kognitiv funktsiyani ham bajarsa  ya'ni kognitiv grafik ta'lim elementlari qo'llanilsa  assimilyatsiya samaradorligi ortadi 
-====
-"Tasavvur qiluvchi" o'ng yarim shar assimilyatsiya jarayoni bilan bog'liq 
-====
-“Yordamlar” (chizmalar diagrammalar modellar) mazmunini ixcham ko‘rsatib  bilimlarning tizimliligiga hissa qo‘shadi 
-====
-# Tizimli kvantlash printsipi
-++++
- …  vaqt jadvali  voqealar xronologik tartibda chizilgan to'g'ri chiziq 
-====
-Aql xaritasi 
-====
-# Taymlayn 
-====
-Kognitiv vizualizatsiya 
-====
-Tizimli kvantlash printsipi 
-++++
-… - g'oyalar  tushunchalar  ma'lumotlarni asosiy va ikkinchi darajali mavzulardan iborat xarita ko'rinishida taqdim etishning grafik usuli 
-====
-# Aql xaritasi 
-====
-Taymlayn 
-====
-Kognitiv vizualizatsiya 
-====
-Tizimli kvantlash printsipi 
-++++
-Scribing (inglizcha: “scribe” – sketching) – … ?
-====
-# ma’lumotni uning mazmuni va ichki aloqalarini sodda va aniq ko‘rsatuvchi grafik, belgilar yordamida vizuallashtirish usuli 
-====
-bu ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
-====
-bu zamonaviy bola uchun zamonaviy teatrlashtirishning bir turi 
-====
-interaktiv infografika, analitik infografika 
-++++
-Infografika toifalari qaysilar?
-====
-statik infografika, dinamik infografika 
-====
-interaktiv infografika, analitik infografika 
-====
-yangiliklar infografikasi, rekonstruksiya infografikasi 
-====
-# ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli
-++++
-Animatsiya elementlarisiz bitta tasvirlar qaysi infografika
-====
-# Statik infografika 
-====
-yangiliklar infografikasi 
-====
-analitik infografika 
-====
-interaktiv infografika 
-++++
-Dinamik infografika jonlantirilgan elementlar video infografika jonlantirilgan tasvirlar  taqdimotlar qaysi infografika?
-====
-# dinamik infografika 
-====
-yangiliklar infografikasi 
-====
-analitik infografika 
-====
-rekonstruksiya infografikasi
-++++
-…  foydalanuvchidan ma'lumotlarning ko'rinishini nazorat qilish imkoniyati beriladi
-====
-rekonstruksiya infografikasi
-====
-yangiliklar infografikasi 
-====
-analitik infografika 
-====
-# interaktiv infografika 
-++++
-… analitik materiallar yordamida tayyorlangan; Iqtisodiy infografika eng ko'p qo'llaniladi: tahlillar faqat iqtisodiy ko'rsatkichlar va tadqiqot ma'lumotlari asosida amalga oshiriladi 
-====
-rekonstruksiya infografikasi 
-====
-yangiliklar infografikasi 
-====
-# analitik infografika 
-====
-interaktiv infografika 
-++++
-…  Tezkor rejimda aniq yangiliklar uchun tayyorlanadi
-====
-rekonstruksiya infografikasi 
-====
-# yangiliklar infografikasi 
-====
-analitik infografika 
-====
-interaktiv infografika 
-++++
-… biror voqea haqidagi ma’lumotlarni asos qilib oladi, voqealar dinamikasini xronologik tartibda qayta yaratadi
-====
-# rekonstruksiya infografikasi 
-====
-yangiliklar infografikasi 
-====
-analitik infografika 
-====
-interaktiv infografika 
-++++
-Funktsional o'qishga qaratilgan vazifalar qaysilar
-====
-taqdim etilgan xarakterni (hodisani) tavsiflash 
-====
-ma'lumotlarni jadval ko'rinishida va kelajakda qanday o'zgarishini taqdim etish 
-====
-hikoya (reja) tuzing infografika yordamida matndagi etishmayotgan ma’lumotlarni to‘ldirish 
-====
-# Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
-++++
-Infografikani yaratish bosqichi qaysilar?
-====
-Yaratilish maqsadini shakllantirish va auditoriyani aniqlash. Mavzu bo'yicha ma'lum hajmdagi ma'lumotlar  materiallar to'plash (ma'lumotlar turli formatlarda taqdim etilishi mumkin - matn mazmuni  grafikalar  video materiallar  jadvallar sahifalari va boshqalar) 
-====
-Analitika va axborotni qayta ishlash (materialni bitta maxrajga qisqartirish: formatlanmagan grafiklar gistogrammalar) 
-====
-Ko'rish mumkin bo'lgan vizualizatsiya maketni qurish (barcha materiallar tuzilgan  chiroyli vizual shaklda taqdim etilgan  format tanlangan: taqdimot  slaydlar  bir sahifali rasm  video) 
-====
-# Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
-++++
-Dizayn fikrlash yordamida g'oyalarni topish jarayoni necha bosqichdan iborat 
-====
-# 5 
-====
-7 
-====
-3 
-====
-8 
-++++
-Biznes uchun infografikadan qanday va qayerda foydalanish mumkin?
-====
-Kompaniyaning reklama mahsulotlarida  mahsulot qadoqlarida Veb-saytda murakkab mahsulotlarni taqdim etish uchun (funktsionallikni aniq ko'rsatish uchun) 
-====
-Kompaniya blogida (mahsulotning batafsil tavsifi uchun) Ijtimoiy tarmoq sahifalarida kontent virusga aylanadi degan umidda 
-====
-Taqdimotlar yaratish (mahsulotni hamkorlarga investorlarga tadbirlarda va hokazolarni foydali tarzda taqdim etish) Axborot byulletenlari uchun 
-====
-# Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
-++++
-Biznesda infografikaning tamoyillari qaysilar?
-====
-Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
-====
-Ko'proq vizualizatsiya elementlari  Axborotni tashkil etish  Ta'minotning shaffofligi 
-====
-Taqdimotning aniqligi  Taqdim etishning dolzarbligi  Dizaynning soddaligi 
-====
-# Hamma javoblar to’g’ri 
-++++
-Infografikani mustaqil ravishda ishlab chiqish uchun qaysi yondashuv mavjud:
-====
-Xorijiy platformalarda tayyor mos materiallarni toping, o’zbek tiliga tarjima qiling,  ularni biroz tuzating (mavzu uchun kerak bo'lsa) va raqamlaringizni kiriting 
-====
-Internetda tayyor shablonni toping va yuklab oling yoki maxsus onlayn xizmatdan foydalaning (ular juda ko'p) 
-====
-Ishlab chiqishni noldan o'zingiz qiling 
-====
-# Hamma javoblar to’g’ri 
-++++
-Video infografika yaratish xizmatlari 
-====
- Animatron Sparcol Video
-====
-Scribe PowToon 
-====
-Goanimate Doodly
-====
-# Freemockup
-++++
-infografika barcha turdagi ma'lumotlarni qanday ko'rinishida taqdim etadi?
-====
-Jadvallar 
-====
-Grafiklar va diogrammalar 
-====
-Semalar va piktogrammalar 
-====
-# hamma javoblar to’g’ri 
-++++
-Biznes uchun infografikadan qanday va qayerda foydalanish mumkin: 
-====
-Kompaniyaning reklama mahsulotlarida  mahsulot qadoqlarida Veb-saytda murakkab mahsulotlarni taqdim etish uchun (funktsionallikni aniq ko'rsatish uchun) 
-====
-Kompaniya blogida (mahsulotning batafsil tavsifi uchun) Ijtimoiy tarmoq sahifalarida kontent virusga aylanadi degan umidda 
-====
-Taqdimotlar yaratish (mahsulotni hamkorlarga investorlarga tadbirlarda va hokazolarni foydali tarzda taqdim etish) Axborot byulletenlarida 
-====
-# o‘zingga tashqi tomondan qarash xatti-harakatlaring va his-tuyg‘ularing  o‘z pozitsiyang  chiqishlaringga qarash imkoniyatidir 
-++++
-Biznesda infografikaning bir necha turlari mavjud?
-====
-Faqat raqamlar va statistikadan iborat analitik. Qayta qurish infografikasi  masalan  "bu qanday edi - nima qilindi - qanday bo'ldi" 
-====
-Yangiliklar voqealarni komikslar formatida taqdim etish (hamma narsani xronologik tartibda ko'rsatish va bo'layotgan voqealarning oqibatlarini tomoshabinlarga yetkazish muhim) 
-====
-Mohiyatan mahsulot reklamasi bo'lgan taqdimot (afzallik va kamchiliklarni ko'rsatuvchi) shuningdek tahliliy ma'lumotlar 
-====
-# bu o‘zingga tashqi tomondan qarash xatti-harakatlaring va his-tuyg‘ularing  o‘z pozitsiyang  chiqishlaringga qarash imkoniyatidir 
-++++
-… shablonlar va rasmlarning kattasiga kutubxona ega mashhur bepul xizmat. Infografikaga qoʻshimcha ravshan masalan  taqdimotlar  plakatlar olishingiz mumkin 
-====
-Piktochart 
-====
-Easel ly 
-====
-# Canva 
-====
-Pinterest 
-++++
-… ushbu xizmat yordamida siz infografikalarni tezda jamlashingiz mumkin.  Bepul shablonlar  rasmlar  piktogrammalar va shriftlarning katta kutubxonasi mavjud 
-====
-Piktochart 
-====
-# Easel ly 
-====
-Canva 
-====
-Pinterest 
-++++
-Ushbu onlayn xizmat analitik infografika uchun juda foydali.  Siz ma'lumotlarni Excel fayli sifatida ko'rsatish mumkin 
-====
-#  Piktochart 
-====
-Easel ly 
-====
-Canva 
-====
-Pinterest 
-++++
-… kompaniya va texnologiyalarning rivojlanish bosqichlarini shaxslarning kasbiy yoki ijodiy yo'lini istalgan sohadagi o'zgaruvchan tendentsiyalarni va hokazolarni namoyish qilish uchun yaratilgan 
-====
-Ierarxik infografika 
-====
-Tarixiy infografika 
-====
-Statistik infografika 
-====
-#Xronologik infografika 
- 	
-++++
-… sotsiologik marketing va boshqa ilmiy tadqiqotlar natijalarini vizual tarzda taqdim etish uchun ishlatiladi?
-====
-Ierarxik infografika 
-====
-Tarixiy infografika 
-====
-#Statistik infografika 
-====
-Xronologik infografika 
- 	
-++++
-…… tarixiy voqealar miqyosi haqida tasavvur hosil qilishga  ularning ketma-ketligini eslab qolishga va munosabatlarni kuzatishga yordam beradi  Ko'pincha vaqt jadvaliga asoslanadi 
-====
-Ierarxik infografika 
-====
-#Tarixiy infografika 
-====
-Statistik infografika 
-====
-Xronologik infografika 
-+++++
-…   tizim elementlarini muhimlik tartibida tartibga solishga yordam beradi va/yoki ularning bir-biri bilan o'zaro ta'sirini ko'rsatadi?
-====
-# Ierarxik infografika 
-====
-Tarixiy infografika 
-====
-Statistik infografika 
-====
-Xronologik infografika 
-++++
-Nechta asosiy toifa bo'yicha infografik kontentingiz samaradorligini o'lchash uchun bir nechta real ko'rsatkichlardan foydalanishingiz mumkin?
-====
-# 4 ta
-====
-6 ta 
-====
-3 ta 
-====
-8 ta 
-++++
-Infografika bu - …?
-====
-# ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
-====
-- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar  tushunchalar  ma'lumotlarni taqdim etishning grafik usuli 
-====
-bu o'z fikrlaringiz shaxsiy tajribangiz bilan bo'lishish hissiy tashvishlarni yengish o'zingizni nazorat qila olish  taklif qilingan savolga mos javob topish qobiliyatidir  
-====
-bu o‘zingga tashqi tomondan qarash xatti-harakatlaring va his-tuyg‘ularing  o‘z pozitsiyang  chiqishlaringga qarash imkoniyatidir 
-+++++
-- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar  tushunchalar  ma'lumotlarni taqdim etishning grafik usuli 
-====
-#Intellektual xarita 
-====
-vaqt shkalasi 
-====
-infografika 
-====
-kadr 
-+++++
-- bu har kimga veb-dizayn qilish imkonini beruvchi onlayn xizmat
-====
-#Canva 
-====
-Kadr 
-====
-Infografika 
-====
-Scribing 
-+++++
- … - bu ma'lumot axborotlar va bilimlarni taqdim etishning grafik usuli? 
-====
- #Infografika 
-====
- Mediata’lim 
-====
- Semiotika 
-====
- Dramatizatsiya 
-+++++
- - bu har kimga veb-dizayn qilish imkonini beruvchi onlayn xizmat  Siz maxsus tayyorgarliksiz  qimmat dasturiy ta'minot va jihozlarsiz dizayner bo'lishingiz mumkin 
-====
-#Canva 
-====
- Pinterest 
-====
-Mediata’lim 
-====
-Semiotika 
-+++++
-  PR materiallaridagi belgilarning vizual darajasi birinchi navbatda nimani bajaradi
-====
- #estetik funksiya 
-====
- shartlilik 
-====
- hususiyatlilik funksiyasi 
-====
- visual 
-+++++
- O'quv jarayonida infografikadan foydalanish yo'nalishlari qaysilar?
-====
-axborotni maqsadli qabul qilishni tashkil etish, grafik tasvirlar asosida axborotni yodlash 
-====
-o‘rganilayotgan materialning tushunish uchun zarur bo‘lgan tomonlarini ko‘rsatish  bilim va tadqiqot natijalarini almashish usuli 
-====
-tadqiqot ma'lumotlarini qayta ishlash usuli tanqidiy fikrlashni rivojlantirish  funktsional o'qish ko'nikmalarini shakllantirish 
-====
-# Hamma javoblar to’gri 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
