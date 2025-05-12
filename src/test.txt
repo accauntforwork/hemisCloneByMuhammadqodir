@@ -68,7 +68,7 @@ Venngage servisi
 Chart servisi
 ====
 Tool servisi
-+++++
+++++
 2022 yil boshida Wordle marshruti keskin ko'tarilishi bilan nima paydo bo'la boshladi?
 ====
 #Klonlar
@@ -148,7 +148,7 @@ Jurnalistlar
 o'qituvchilar
 ====
 internet-marketing
-+++++
+++++
  Cinergix tomonidan qanday sxema ishlab chiqilgan?
 ====
 #Creately
@@ -519,7 +519,7 @@ Aqlli taqsimlash
 Aqlli ajratish
 ====
 Intellektual vizuallashtirish
-+++++
+++++
 Qaysi turdagi infografika qurilish inshootlari haqida ma'lumot beradi.
 ====
 # arxitektura infografikasi
@@ -535,7 +535,7 @@ Mualliflar isbotlaydilarki, qaysi fanni o'rganish jarayonida infografika bilan i
 #  Xorijiy til
 ====
 Informatika
-=====
+====
 Matematika
 ====
 Iqtisodiyot
@@ -581,7 +581,7 @@ URL – manzil
 Domen nomi
 ++++
 Axborot texnologiyalari bu:
-=====
+====
 # Usullar va avtomatlashtirish vositalaridan foydalangan holda ma'lumotlarni yig'ish, qayta ishlash, uzatish va saqlash bo'yicha operatsiyalar majmui Texnik vositalar to'plami
 ====
 Dasturiy vositalar to'plami.
@@ -589,7 +589,7 @@ Dasturiy vositalar to'plami.
 Tashkiliy vositalar yig'indisi
 ====
 Ko'p ma'lumot resurslari
-+++++
+++++
 Mobil ilova nima?
 ====
 # Smartfonlar, planshetlar va boshqa mobil qurilmalarda ishlash uchun mo'ljallangan dasturiy ta'minot
@@ -625,7 +625,7 @@ Infografika funksiyalari...?
 Ma'lumotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga bir vaqtning o'zida ma'lumot to'plashda yordam berish, chunki ular kiritilgan matnning tartibida farqlanadi.
 ====
 Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga darhol ma'lumot to'plashda yordam berish.
-=====
+====
 Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, o'quvchiga darhol ma'lumot to'plash, ularni kiritish tartibini diversifikatsiya qilish va etkazishda yordam berish
 ====
 Axborotni sintez qilish, murakkab ma'lumotlarni tushunishga yordam berish, ularni kiritish tartibini diversifikatsiya qilish va muloqot qilish.
@@ -635,7 +635,7 @@ Zamonaviy xaritalar, transport tizimlari uchun marshrut xaritalarida qanday usul
 # Infografika
 ====
 Dizayn
-=====
+====
 Ierarxiya
 ====
 Statik
@@ -673,13 +673,13 @@ Excel
 — natijasi raqamli ma’lumotlar massividan iborat bo’lgan fotografiya, yorug’lik sezuvchi material sifatida esaelektron qurilma – matritsadan foydalaniladi
 ====
 # Raqamli fotografiya
-=====
+====
 Raqamli animatsiya
 ====
 Rastrli fotografiya
 ====
 Illyuziya
-+++++
+++++
 ...- asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar, tushunchalar, ma'lumotlarni taqdim etishning grafik usuli.
 ====
 # Intellektual xarita
@@ -691,13 +691,13 @@ Kadr
 Infografika
 ++++
 mediamatnni talqin qilish jarayonini, mediamatn muallifi nuqtai nazariga va auditoriya nuqtai nazariga ta'sir qiluvchi madaniy, tarixiy omillarni o'rganish
-=====
+====
 # Germenevtik tahlil
 ====
 Scribing
 ====
 Ikonografik taxlil
-=====
+====
 Infografika
 ++++
 …- murakkab shaklga ega bo'lgan matn, ya'ni ikki yoki undan ortiq turli semiotik tizimlar birliklari birikmasiga asoslangan, o'zaro bog'liqlik, bir-birini to'ldirish, o'zaro ta'sir munosabatlariga kirishadi, bu esa adresatga murakkab ta'sir ko'rsatadi
@@ -753,13 +753,13 @@ Qisqachalik, Tushunish, Harakat, Ishtirok etish, Qiziqish
 O‘xshashlikni bildirish maqsadida atama yoki ibora so‘zma-so‘z qo‘llanilmaydigan biror narsaga nisbatan qo‘llaniladigan nutq shakli
 ====
 # Metafora
-=====
+====
 Investitsiya
-=====
+====
 Statistika
-=====
+====
 Atama
-+++++
+++++
 - bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora.
 ====
 # Aysberg
@@ -769,7 +769,7 @@ Piramida
 Klaster
 ====
 Venn
-+++++
+++++
 - bu turli tashkiliy elementlar yoki biznes toifalari qanday bog'liqligini va/yoki o'zaro bog'liqligini tavsiflash uchun ishlatiladigan yaxshi o'rnatilgan mexanizmlar
 ====
 # Biznes modellari
@@ -791,7 +791,7 @@ Google Bookmarks
 Pinboard.in
 ++++
 - bu axborotni boshqarish vositasi shunchaki xatcho'plardan ko'ra ko'proq narsani bajaradi?
-=====
+====
 # Diigo
 ====
 Google Bookmarks
@@ -827,7 +827,7 @@ Beshta H va bitta W (5H1W)
 Beshta W va ikkita H (5W2H)
 ====
 Beshta H va ikkita W (5H2W)
-+++++
+++++
 - axborotni vizuallashtirishga bag'ishlangan eng katta Flickr guruhlaridan biri
 ====
 # Info Graphics
@@ -843,11 +843,11 @@ Visual.ly, http://visual.ly –
 # Bu sayt bepul akkaunt bilan statik, interaktiv yoki video infografikalarni yuklash imkonini beradi
 ====
 axborotni vizuallashtirishga bag'ishlangan eng katta Flickr guruhlaridan biri
-=====
+====
 bu axborotni boshqarish vositasi shunchaki xatcho'plardan ko'ra ko'proq narsani bajaradi
 ====
 Siz saytning aloqa sahifasi orqali rasmga havola bilan infografikangiz tavsifini yuborishingiz mumkin.
-+++++
+++++
 Siz saytning aloqa sahifasi orqali rasmga havola bilan infografikangiz tavsifini yuborishingiz mumkin.
 ====
 # Cool Infographics
@@ -885,811 +885,810 @@ StatPlanet - bu
 turli xil diagrammalar, grafiklar, diagrammalar, xaritalar, o'lchovlar, vaqt jadvallari va boshqalarni yaratishga imkon beruvchi foydalanish uchun qulay ma'lumotlarni vizualizatsiya qilish veb-ilovasi
 ====
 axborotni vizuallashtirishga bag'ishlangan eng katta Flickr guruhlaridan biri
-=====
+====
 bu axborotni boshqarish vositasi shunchaki xatcho'plardan ko'ra ko'proq narsani bajaradi
-+++++
-+++++
+++++
 …  bu grafik elementlardan foydalangan holda ma'lumotlarni uzatish usuli 
-=====
+====
 #Infografika 
-=====
+====
 Ierarxiya
-=====
+====
 Canva
-=====
+====
 Geografiya
-+++++
+++++
 Piktogrammalarning eng taniqli namunasi - qachon yaratilgan
-=====
+====
 #miloddan 3000 yil avval 
-=====
+====
 miloddan 4000 yil avval 
-=====
+====
 miloddan 4500 yil avval 
-=====
+====
 miloddan 2000 yil avval 
-+++++
+++++
 grafik va diagrammalar ko'rinishida - infografika XVIII asrning oxirida paydo bo'ldi 
-=====
+====
 #infografika XVIII asrning oxirida 
-=====
+====
 infografika XIII asrning oxirida 
-=====
+====
 infografika XVII asrning oxirida 
-=====
+====
 infografika XV asrning oxirida 
-+++++
+++++
 chiziqli diagramma nechanchi yilda ixtiro qilingan 
-=====
+====
 #1786-yilda 
-=====
+====
 1876-yilda 
-=====
+====
 1801-yilda 
-=====
+====
 1798-yilda
-+++++
+++++
 doiraviy diagramma nechanchi yilda ixtiro qilingan 
-=====
+====
 1786-yilda 
-=====
+====
 1876-yilda 
-=====
+====
 #1801-yilda 
-=====
+====
 1798-yilda
-+++++
+++++
 Infografika sizga qaysi yo’llar bilan bog'lanishingizga yordam beradigan hususiyatlar Ichida no’g’ri javobni ko’rsating?
-=====
+====
 Sizning potentsial mijozlaringiz uchun fikr yetakchiligi mahsulot xususiyatlari va afzalliklari 
-=====
+====
 Mijozlaringiz uchun biznes jarayonlari va xizmat ko'rsatish imkoniyatlari 
-=====
+====
 Sizning xodimlaringiz uchun g'oyalar va siyosatlar, Investorlaringiz uchun korporativ falsafa va strategiya 
-=====
+====
 # axborot uzatishning vizual va texnik vositalari
-+++++
+++++
 VARK6 modeliga asoslanib  odamlar ma'lumotni qayta ishlash uchun nechta asosiy o'rganish uslubidan foydalanadilar
-=====
+====
 # 4 ta 
-=====6 ta 
+====6 ta 
 5 ta 
-=====
+====
 8 ta 
-+++++
+++++
 Infografika bilan bog'liq ba'zi o'rganish afzalliklari qaysi:
-=====
+====
 Axborot  g‘oyalar va tushunchalarni tushunish yaxshilandi 
-=====
+====
 Tanqidiy fikrlash va g'oyalarni ishlab chiqish va tartibga solish qobiliyatini oshiradi 
-=====
+====
 Axborotni saqlash va eslab qolish yaxshilandi 
-=====
+====
 # axborot uzatishning vizual va texnik vositalari
-+++++
+++++
 Infografikani yaratish jarayoni qaysi bosqichni o'z ichiga oladi?
 ====
 #Infografikani yaratish va auditoriyani aniqlash maqsadini shakllantirish. Ishlab chiqilgan axborot dizayni odatda ba'zi maqsadli auditoriya uchun mo'ljallangan  
 ====
 Analitika va axborotni qayta ishlash. Yig'ilgan materialni tahlil qilish va qayta ishlash  bitta denominatorga keltirish kerak - odatda bu formatlanmagan grafikalar va gistogrammalar 
-=====
+====
 Foydalanish mumkin bo'lgan vizualizatsiya  maketni qurish  Barcha materiallar chiroyli vizual shaklda tuzilgan va taqdim etilgan  Format tanlanadi (maqsadlar va ma'lumotlar miqdoriga qarab) - taqdimot  slaydlar  bir sahifali rasm  video 
-=====
+====
 # Har bir qiymatning umumiy hajmdagi ulushini ko'rsatadi  U butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
-+++++
+++++
 Infografika bilan ishlash qaysi yo'nalishda bo'lishi mumkin?
-=====
+====
 #o'qituvchi tomonidan yaratilgan infografikani talabalar tomonidan tahlili  mavjud ma'lumotlar asosida o'qituvchi rahbarligida talabalar tomonidan infografikani yaratish (loyiha faoliyati davomida  o'rganilgan material asosida) 
-=====
+====
 Analitika va axborotni qayta ishlash  Yig'ilgan materialni tahlil qilish va qayta ishlash  bitta denominatorga keltirish kerak - odatda bu formatlanmagan grafikalar va gistogrammalar 
-=====
+====
 Foydalanish mumkin bo'lgan vizualizatsiya  maketni qurish  Barcha materiallar chiroyli vizual shaklda tuzilgan va taqdim etilgan  Format tanlanadi (maqsadlar va ma'lumotlar miqdoriga qarab) - taqdimot  slaydlar  bir sahifali rasm  video 
-=====
+====
 Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi
-+++++
+++++
 O'quv jarayonida infografikaning qaysi turlari qo'llaniladi:
-=====
+====
 ko'rsatmalar  eslatma 
-=====
+====
 Plakat  statistika 
-=====
+====
 yo’l ko’rsatuvchi(yo’riqnoma) 
-=====
+====
 # Freemockup
-++++++
++++++
 Infografikaning asosiy nimadan iborat 
-=====
+====
 #axborot berish  katta hajmdagi axborotni tushunarli tashkillashtirilgan shaklda taqdim etish 
-=====
+====
 bu mustaqil ravishda  hech kimning yordamisiz (sharh) va juda samarali o'rganish mumkin bo'lgan to'liq ma'lumot blokidir 
-=====
+====
 bu g'oyalarni tizimlashtirish  vaqtni rejalashtirish  katta hajmdagi ma'lumotlarni yodlash 
-=====
+====
 Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi
-+++++
+++++
 Ideal tarzda bajarilgan infografika -…
-=====
+====
 axborot berish  katta hajmdagi axborotni tushunarli tashkillashtirilgan shaklda taqdim etish 
-=====
+====
 #bu mustaqil ravishda  hech kimning yordamisiz (sharh) va juda samarali o'rganish mumkin bo'lgan to'liq ma'lumot blokidir 
-=====
+====
 bu g'oyalarni tizimlashtirish  vaqtni rejalashtirish  katta hajmdagi ma'lumotlarni yodlash 
-=====
+====
 Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi 
-+++++
+++++
 Infografika yaratish uchun nimalardan foydalanish mumkin 
-=====
+====
 Jadvallar
-=====
+====
 Diagrammalar 
-=====
+====
 grafik elementlar va boshqalar 
-=====
+====
 #Hamma javoblar to’g’ri 
-+++++
+++++
 Aql xaritasi- … 
-=====
+====
 # Asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g‘oyalar  tushunchalar  ma’lumotlarni taqdim etishning grafik usulidir  Ya'ni  bu g'oyalarni tizimlashtirish  vaqtni rejalashtirish  katta hajmdagi ma'lumotlarni yodlash va aqliy hujum mashg'ulotlarini o'tkazish uchun vositadir 
-=====
+====
 Yozuvchining tarjimai holi yoki asari bilan ishlashda shuningdek  o‘quvchilarda tarixiy jarayonlar to‘g‘risida tizimli tasavvur hosil qilishda vaqt chizig‘i yoki lentadan foydalaniladi 
-=====
+====
 Vaqt jadvallarini qo'llash mumkin bo'lgan yana bir soha bu loyihani boshqarishdir 
-=====
+====
 Loyiha faoliyatidagi vaqt jadvallari ishtirokchilarga loyihani amalga oshirish bosqichlari va yakunlash sanalarini ko'rishga yordam beradi 
-+++++
+++++
 Vaqt jadvali-…?
-=====
+====
 # Vaqt shkalasi  voqealar xronologik tartibda chizilgan to'g'ridan-to'g'ri segment 
-=====
+====
 Asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g‘oyalar  tushunchalar  ma’lumotlarni taqdim etishning grafik usulidir  
-=====
+====
 Bu g'oyalarni tizimlashtirish vaqtni rejalashtirish katta hajmdagi ma'lumotlarni yodlash va aqliy hujum mashg'ulotlarini o'tkazish uchun vositadir 
-=====
+====
 bu ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
-+++++
+++++
 Scribing (inglizcha "scribe" - eskiz yoki chizmalarni chizish) bu? 
-=====
+====
 # bu uning mazmuni va ichki aloqalarini sodda va aniq aks ettiruvchi grafik belgilar yordamida ma'lumotni vizualizatsiya qilish usuli 
-=====
+====
 bu o'qilgan  ko'rilgan yoki eshitilgan narsalarni turli ifoda vositalaridan (intonatsiya  mimika  imo-ishoralar  pozitsiyalar  harakatlar  mizan-sahna) yordamida "yuzlarda" aks ettiruvchi faoliyatdir 
-=====
+====
 bu ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
-=====
+====
 bu zamonaviy bola uchun zamonaviy teatrlashtirishning bir turi 
-+++++
+++++
 Tizimni kvantlash turli xil belgilar tizimlari bilan ifodalanadigan inson aqliy faoliyatining o'ziga xos xususiyatlaridan kelib chiqadi:
-=====
+====
 lingvistik 
-=====
+====
 ramziy(simvolli) 
-=====
+====
 grafik 
-=====
+====
 # kognitiv 
-+++++
+++++
 Ta'lim ma'lumotlarini vizualizatsiya qilish texnologiyasi qaysi qismlarni o'z ichiga olgan?
-=====
+====
 o'quv bilimlari majmuasi  ularni ko'rsatishning vizual usullari 
-=====
+====
 axborot uzatishning vizual va texnik vositalari 
-=====
+====
 o'quv jarayonida vizual fikrlashni qo'llash va rivojlantirishning psixologik usullari to'plami 
-=====
+====
 # har bir qiymatning umumiy hajmdagi ulushini ko'rsatadi. U butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
-+++++
+++++
 Vizualizatsiya – bu?
-=====
+====
 # Bu ma'lumotlarni iloji boricha oson tushunish uchun tasvir shaklida taqdim etish jarayoni 
-=====
+====
 axborot uzatishning vizual va texnik vositalari 
-=====
+====
 o'quv jarayonida vizual fikrlashni qo'llash va rivojlantirishning psixologik usullari to'plami 
-=====
+====
 U ma'lum bir ko'rsatkichning mintaqa  mamlakat  qit'a bo'yicha taqsimlanishini ko'rsatish kerak bo'lganda foydalaniladi 
-+++++
+++++
 Xarita diagrammasi – bu?
-=====
+====
 #Bu diagrammaning geografik xarita yoki diagramma bilan kombinatsiyasi  U ma'lum bir ko'rsatkichning mintaqa mamlakat qit'a bo'yicha taqsimlanishini ko'rsatish kerak bo'lganda foydalaniladi 
-=====
+====
 Sektorlar maydoni ushbu parametrning qiymatlar yig'indisiga qo'shgan hissasiga to'g'ri keladi 
-=====
+====
 miya tanaga buyruqlar yuborish va vosita nazoratini  diqqatni hamda rejalashtirishni rag'batlantirish uchun foydalanadigan kimyoviy moddalardir  bu esa odamni harakatga undaydi 
-=====
+====
 Doira butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
-+++++
+++++
 Doira (sektorli) diagrammasi-… ?
-=====
+====
 #Har bir qiymatning umumiy hajmdagi ulushini ko'rsatadi  U butun ma'lumotlar to'plamini ifodalaydi va har bir alohida qiymatning nisbiy kattaligi doira sektori sifatida tasvirlangan 
-=====
+====
 ekstremal qiymatlarni yoki bo'shliqlar yoki og'ishlar mavjudligini vizual ravishda aniqlashga yordam beradi 
-=====
+====
 bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora 
-=====
+====
 axborot uzatishning vizual va texnik vositalari 
-+++++
+++++
 Gistogrammalar- …?
-=====
+====
 # Qiymatlarning kontsentrtsiyasini shuningdek ekstremal qiymatlarni yoki bo'shliqlar yoki og'ishlar mavjudligini vizual ravishda aniqlashga yordam beradi 
-=====
+====
 ekstremal qiymatlarni yoki bo'shliqlar yoki og'ishlar mavjudligini vizual ravishda aniqlashga yordam beradi 
-=====
+====
 bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora 
-=====
+====
 bu turli tashkiliy elementlar yoki biznes toifalari qanday bog'liqligini va/yoki o'zaro bog'liqligini tavsiflash uchun ishlatiladigan yaxshi o'rnatilgan mexanizmlar 
-+++++
+++++
 …bir  yoki bir nechta ko'rsatkichlarning dinamikasini ko'rsatadi  Vaqt o'tishi bilan turli xil ma'lumotlar to'plamlari qanday o'zgarishini solishtirmoqchi bo'lsangiz foydali bo'ladi 
-=====
+====
 # Chiziqli diogrammalar 
-=====
+====
 Aysberg 
-=====
+====
 Gistogrammalar 
-=====
+====
 Freemockup 
-+++++
+++++
 …  - bu mavzu doirasini sirtda ko'rinadigan narsadan tashqari masshtabda ifodalash uchun mashhur metafora
-=====
+====
 Chiziqli diogrammalar 
-=====
+====
 #Aysberg 
-=====
+====
 Gistogrammalar 
-=====
+====
 Doira 
-+++++
+++++
 … - miya tanaga buyruqlar yuborish va vosita nazoratini diqqatni hamda rejalashtirishni rag'batlantirish uchun foydalanadigan kimyoviy moddalardir bu esa odamni harakatga undaydi 
-=====
+====
 # Neyrotransmitterlar 
-=====
+====
  Aysberg 
-=====
+====
 Gistogrammalar 
-=====
+====
 Akson
-+++++
+++++
 … - bu turli tashkiliy elementlar yoki biznes toifalari qanday bog'liqligini va/yoki o'zaro bog'liqligini tavsiflash uchun ishlatiladigan yaxshi o'rnatilgan mexanizmlar 
-=====
+====
 # Biznes modellari 
-=====
+====
 Neyrotransmitterlar 
-=====
+====
 Aysberg 
-=====
+====
 Gistogrammalar 
 
-+++++
+++++
 Quyidagi jarayonlar toifalari deyarli har bir tashkilotning strukturasini tashkil qiladi. Qaysi javob ortiqcha?
-=====
+====
 Menejment - strategiya  boshqaruv  Ma'muriyat - buxgalteriya  kadrlar 
-=====
+====
 Operatsiyalar - ishlab chiqarish  sifat nazorati  tarqatish  sotib olish 
-=====
+====
 Marketing – sotish  aksiyalar  mahsulot spetsifikatsiyalari  reklama  Mijozlarga xizmat ko'rsatish - savdoni qo'llab-quvvatlash  o'qitish  texnik yordam 
-=====
+====
 # Vizual ravishda so'nggi voqealar haqida hikoya qiladi  sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
-+++++
+++++
 Infografika turlari noto’g’ri berilgan javobni ko’rsating.
-=====
+====
 Analitik yoki raqamli infografika 
-=====
+====
 Yangiliklar infografikasi, Tuzilish infografikasi 
-=====
+====
 Reklama infografikasi, Taqqoslash infografikasi 
-=====
+====
 #Hamma ajvoblar to’g’ri 
-+++++
+++++
 Analitik yoki raqamli infografika
-=====
+====
 # U statistik ma'lumotlarni taqdim etish uchun ishlatiladi. Ko'p sonli raqamlar  diagrammalar  grafiklar va boshqalarni o'z ichiga oladi 
-=====
+====
 Vizual ravishda so'nggi voqealar haqida hikoya qiladi, sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
-=====
+====
 Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
-=====
+====
 Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
-+++++
+++++
 Yangiliklar infografikasi?
-=====
+====
 U statistik ma'lumotlarni taqdim etish uchun ishlatiladi, Ko'p sonli raqamlar diagrammalar grafiklar va boshqalarni o'z ichiga oladi 
-=====
+====
 # Vizual ravishda so'nggi voqealar haqida hikoya qiladi, sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
-=====
+====
 Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
-=====
+====
 Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
 
-+++++
+++++
 Tuzilish infografikasi bu?
-=====
+====
 U statistik ma'lumotlarni taqdim etish uchun ishlatiladi. Ko'p sonli raqamlar  diagrammalar  grafiklar va boshqalarni o'z ichiga oladi 
-=====
+====
 Vizual ravishda so'nggi voqealar haqida hikoya qiladi, sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
-=====
+====
  # Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini, ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
-=====
+====
 Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
 
-+++++
+++++
 Mahsulotning afzalliklari va sotib olishning afzalliklarini tavsiflovchi yorqin rasm. Agar u yaxshi bajarilgan bo'lsa  mijozlarni jalb qilishi mumkin - ya'ni u malakali marketing va muvaffaqiyatli dizaynni birlashtiradgan infografika bu    
-=====
+====
 # Reklama infografikasi 
-=====
+====
 Taqqoslash infografikasi 
-=====
+====
 Tuzilish infografikasi 
-=====
+====
 Yangiliklar infografikasi 
-+++++
+++++
 Taqqoslash infografikasi
-=====
+====
 U statistik ma'lumotlarni taqdim etish uchun ishlatiladi  Ko'p sonli raqamlar  diagrammalar  grafiklar va boshqalarni o'z ichiga oladi
-=====
+====
 Vizual ravishda so'nggi voqealar haqida hikoya qiladi  sodir bo'layotgan voqealarning xronologiyasi va muhim bosqichlarini aks ettiradi 
-=====
+====
 Ob'ektning tuzilishi va tarkibiy qismlarini yoki hodisa mexanizmini ba'zan tarixiy voqeaning xronologiyasini va sabablarini ko'rsatadi 
-=====
+====
 # Turli ob'ektlarning xususiyatlarini solishtirish imkonini beradi. Agar kerak bo'lsa  uni batafsilroq tahlil qilish bilan to'ldirish mumkin 
-+++++
+++++
 … — kategoriya bo'yicha qulay qidiruvga ega rus tilidagi veb-sayt
-=====
+====
 # Freemockup 
-=====
+====
 Freepik 
-=====
+====
 Mockupworld 
-=====
+====
 Vizualizatsiya 
-+++++
+++++
 …— fotosuratlar  piktogrammalar   ector rasmlari va ko’plab maketlarni o’z ichiga olgan stok  Siz ham pullik  ham bepul fayllarnitopishingiz mumkin
-=====
+====
 Freemockup 
-=====
+====
 # Freepik 
-=====
+====
 Mockupworld 
-=====
+====
 Vizualizatsiya 
-+++++
+++++
 …  — mokaplar bilan ingliz tilidagi veb-sayt. Agar siz aniq narsani qidirsangiz  qidiruv satriga so'rovni kiritishingiz yoki toifalar bo'yicha kerakli mokaplarni topishingiz mumkin 
-=====
+====
 Freemockup 
-=====
+====
 Freepik 
-=====
+====
 # Mockupworld 
-=====
+====
 Vizualizatsiya 
-+++++
+++++
 Vizualizatsiya - bu ma'lumotlarni iloji boricha oson tushunish uchun tasvir shaklida taqdim etish jarayoni 
-=====
+====
 Freemockup 
-=====
+====
 Freepik 
-=====
+====
 Mockupworld 
-=====
+====
 #Vizualizatsiya 
-+++++
+++++
 … - aqliy tarkibning vizual tasvirga tushishi
-=====
+====
 # Vizualizatsiya jarayoni 
-=====
+====
  Freepik 
-=====
+====
 Mockupworld 
-=====
+====
 Vizualizatsiya 
-+++++
+++++
 Ta'lim axborotini vizualizatsiya qilish texnologiyasining uslubiy asoslari qaysilar
-=====
+====
 Tizimli kvantlash printsipi 
-=====
+====
 Kognitiv vizuallashtirish printsipi 
-=====
+====
 Vizualizatsiya jarayoni 
-=====
+====
 # Tizimli kvantlash va kognitiv vizuallashtirish printsiplari
-+++++
+++++
 …  - didaktik birliklarning mazmunini umumlashtirish va kengaytirish nazariyasiga asoslangan o'quv ma'lumotlarini siqishdan iborat bo'lgan printsipdir 
-=====
+====
  # Tizimli kvantlash printsipi 
-=====
+====
  Kognitiv vizuallashtirish printsipi 
-=====
+====
 Vizualizatsiya jarayoni 
-=====
+====
 Tizimli ishlash printsipi 
-+++++
+++++
 Belgi tizimlari bu…?
-=====
+====
 lingvistik 
-=====
+====
 ramziy 
-=====
+====
 grafik 
-=====
+====
 # kognitiv
-+++++
+++++
 Tizimli kvantlash printsipi qonuniyatlari qaysilar?
-=====
+====
 katta hajmdagi o'quv materialini eslab qolish qiyin 
-=====
+====
 ma'lum bir tizimda ixcham joylashgan o'quv materiali yaxshiroq qabul qilinadi 
-=====
+====
 o'quv materialida semantik mos yozuvlar nuqtalarini ajratib ko'rsatish samarali yodlashga yordam beradi 
-=====
+====
 # Tizimli kvantlash printsipi
-+++++
+++++
 …   - bu illyustrativ funktsiyani bajaradigan va yangi bilimlarni olishning tabiiy-intellektual jarayoniga hissa qo'shadigan  vizualizatsiya 
-=====
+====
 Aql xaritasi 
-=====
+====
 Taymlayn 
-=====
+====
 #Kognitiv vizualizatsiya 
-=====
+====
 Tizimli kvantlash printsipi 
-+++++
+++++
 Kognitiv vizuallashtirish printsipi qaysilar?
-=====
+====
 O'qitishda vizualizatsiya nafaqat tasviriy  balki kognitiv funktsiyani ham bajarsa  ya'ni kognitiv grafik ta'lim elementlari qo'llanilsa  assimilyatsiya samaradorligi ortadi 
-=====
+====
 "Tasavvur qiluvchi" o'ng yarim shar assimilyatsiya jarayoni bilan bog'liq 
-=====
+====
 “Yordamlar” (chizmalar diagrammalar modellar) mazmunini ixcham ko‘rsatib  bilimlarning tizimliligiga hissa qo‘shadi 
-=====
+====
 # Tizimli kvantlash printsipi
-+++++
+++++
  …  vaqt jadvali  voqealar xronologik tartibda chizilgan to'g'ri chiziq 
-=====
+====
 Aql xaritasi 
-=====
+====
 # Taymlayn 
-=====
+====
 Kognitiv vizualizatsiya 
-=====
+====
 Tizimli kvantlash printsipi 
-+++++
+++++
 … - g'oyalar  tushunchalar  ma'lumotlarni asosiy va ikkinchi darajali mavzulardan iborat xarita ko'rinishida taqdim etishning grafik usuli 
-=====
+====
 # Aql xaritasi 
-=====
+====
 Taymlayn 
-=====
+====
 Kognitiv vizualizatsiya 
-=====
+====
 Tizimli kvantlash printsipi 
-+++++
+++++
 Scribing (inglizcha: “scribe” – sketching) – … ?
-=====
+====
 # ma’lumotni uning mazmuni va ichki aloqalarini sodda va aniq ko‘rsatuvchi grafik, belgilar yordamida vizuallashtirish usuli 
-=====
+====
 bu ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
-=====
+====
 bu zamonaviy bola uchun zamonaviy teatrlashtirishning bir turi 
-=====
+====
 interaktiv infografika, analitik infografika 
-+++++
+++++
 Infografika toifalari qaysilar?
-=====
+====
 statik infografika, dinamik infografika 
-=====
+====
 interaktiv infografika, analitik infografika 
-=====
+====
 yangiliklar infografikasi, rekonstruksiya infografikasi 
-=====
+====
 # ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli
-+++++
+++++
 Animatsiya elementlarisiz bitta tasvirlar qaysi infografika
-=====
+====
 # Statik infografika 
-=====
+====
 yangiliklar infografikasi 
-=====
+====
 analitik infografika 
-=====
+====
 interaktiv infografika 
-+++++
+++++
 Dinamik infografika jonlantirilgan elementlar video infografika jonlantirilgan tasvirlar  taqdimotlar qaysi infografika?
-=====
+====
 # dinamik infografika 
-=====
+====
 yangiliklar infografikasi 
-=====
+====
 analitik infografika 
-=====
+====
 rekonstruksiya infografikasi
-+++++
+++++
 …  foydalanuvchidan ma'lumotlarning ko'rinishini nazorat qilish imkoniyati beriladi
-=====
+====
 rekonstruksiya infografikasi
-=====
+====
 yangiliklar infografikasi 
-=====
+====
 analitik infografika 
-=====
+====
 # interaktiv infografika 
-+++++
+++++
 … analitik materiallar yordamida tayyorlangan; Iqtisodiy infografika eng ko'p qo'llaniladi: tahlillar faqat iqtisodiy ko'rsatkichlar va tadqiqot ma'lumotlari asosida amalga oshiriladi 
-=====
+====
 rekonstruksiya infografikasi 
-=====
+====
 yangiliklar infografikasi 
-=====
+====
 # analitik infografika 
-=====
+====
 interaktiv infografika 
-+++++
+++++
 …  Tezkor rejimda aniq yangiliklar uchun tayyorlanadi
-=====
+====
 rekonstruksiya infografikasi 
-=====
+====
 # yangiliklar infografikasi 
-=====
+====
 analitik infografika 
-=====
+====
 interaktiv infografika 
-+++++
+++++
 … biror voqea haqidagi ma’lumotlarni asos qilib oladi, voqealar dinamikasini xronologik tartibda qayta yaratadi
-=====
+====
 # rekonstruksiya infografikasi 
-=====
+====
 yangiliklar infografikasi 
-=====
+====
 analitik infografika 
-=====
+====
 interaktiv infografika 
-+++++
+++++
 Funktsional o'qishga qaratilgan vazifalar qaysilar
-=====
+====
 taqdim etilgan xarakterni (hodisani) tavsiflash 
-=====
+====
 ma'lumotlarni jadval ko'rinishida va kelajakda qanday o'zgarishini taqdim etish 
-=====
+====
 hikoya (reja) tuzing infografika yordamida matndagi etishmayotgan ma’lumotlarni to‘ldirish 
-=====
+====
 # Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
-+++++
+++++
 Infografikani yaratish bosqichi qaysilar?
-=====
+====
 Yaratilish maqsadini shakllantirish va auditoriyani aniqlash. Mavzu bo'yicha ma'lum hajmdagi ma'lumotlar  materiallar to'plash (ma'lumotlar turli formatlarda taqdim etilishi mumkin - matn mazmuni  grafikalar  video materiallar  jadvallar sahifalari va boshqalar) 
-=====
+====
 Analitika va axborotni qayta ishlash (materialni bitta maxrajga qisqartirish: formatlanmagan grafiklar gistogrammalar) 
-=====
+====
 Ko'rish mumkin bo'lgan vizualizatsiya maketni qurish (barcha materiallar tuzilgan  chiroyli vizual shaklda taqdim etilgan  format tanlangan: taqdimot  slaydlar  bir sahifali rasm  video) 
-=====
+====
 # Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
-+++++
+++++
 Dizayn fikrlash yordamida g'oyalarni topish jarayoni necha bosqichdan iborat 
-=====
+====
 # 5 
-=====
+====
 7 
-=====
+====
 3 
-=====
+====
 8 
-+++++
+++++
 Biznes uchun infografikadan qanday va qayerda foydalanish mumkin?
-=====
+====
 Kompaniyaning reklama mahsulotlarida  mahsulot qadoqlarida Veb-saytda murakkab mahsulotlarni taqdim etish uchun (funktsionallikni aniq ko'rsatish uchun) 
-=====
+====
 Kompaniya blogida (mahsulotning batafsil tavsifi uchun) Ijtimoiy tarmoq sahifalarida kontent virusga aylanadi degan umidda 
-=====
+====
 Taqdimotlar yaratish (mahsulotni hamkorlarga investorlarga tadbirlarda va hokazolarni foydali tarzda taqdim etish) Axborot byulletenlari uchun 
 ====
 # Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
-+++++
+++++
 Biznesda infografikaning tamoyillari qaysilar?
-=====
+====
 Materiallarning qisqacha taqdimoti va Ijodiy yondashuv 
-=====
+====
 Ko'proq vizualizatsiya elementlari  Axborotni tashkil etish  Ta'minotning shaffofligi 
-=====
+====
 Taqdimotning aniqligi  Taqdim etishning dolzarbligi  Dizaynning soddaligi 
-=====
+====
 # Hamma javoblar to’g’ri 
-+++++
+++++
 Infografikani mustaqil ravishda ishlab chiqish uchun qaysi yondashuv mavjud:
-=====
+====
 Xorijiy platformalarda tayyor mos materiallarni toping, o’zbek tiliga tarjima qiling,  ularni biroz tuzating (mavzu uchun kerak bo'lsa) va raqamlaringizni kiriting 
-=====
+====
 Internetda tayyor shablonni toping va yuklab oling yoki maxsus onlayn xizmatdan foydalaning (ular juda ko'p) 
-=====
+====
 Ishlab chiqishni noldan o'zingiz qiling 
-=====
+====
 # Hamma javoblar to’g’ri 
-+++++
+++++
 Video infografika yaratish xizmatlari 
-=====
+====
  Animatron Sparcol Video
-=====
+====
 Scribe PowToon 
-=====
+====
 Goanimate Doodly
-=====
+====
 # Freemockup
-+++++
+++++
 infografika barcha turdagi ma'lumotlarni qanday ko'rinishida taqdim etadi?
-=====
+====
 Jadvallar 
-=====
+====
 Grafiklar va diogrammalar 
-=====
+====
 Semalar va piktogrammalar 
-=====
+====
 # hamma javoblar to’g’ri 
-+++++
+++++
 Biznes uchun infografikadan qanday va qayerda foydalanish mumkin: 
-=====
+====
 Kompaniyaning reklama mahsulotlarida  mahsulot qadoqlarida Veb-saytda murakkab mahsulotlarni taqdim etish uchun (funktsionallikni aniq ko'rsatish uchun) 
-=====
+====
 Kompaniya blogida (mahsulotning batafsil tavsifi uchun) Ijtimoiy tarmoq sahifalarida kontent virusga aylanadi degan umidda 
-=====
+====
 Taqdimotlar yaratish (mahsulotni hamkorlarga investorlarga tadbirlarda va hokazolarni foydali tarzda taqdim etish) Axborot byulletenlarida 
-=====
+====
 # o‘zingga tashqi tomondan qarash xatti-harakatlaring va his-tuyg‘ularing  o‘z pozitsiyang  chiqishlaringga qarash imkoniyatidir 
-+++++
+++++
 Biznesda infografikaning bir necha turlari mavjud?
-=====
+====
 Faqat raqamlar va statistikadan iborat analitik. Qayta qurish infografikasi  masalan  "bu qanday edi - nima qilindi - qanday bo'ldi" 
-=====
+====
 Yangiliklar voqealarni komikslar formatida taqdim etish (hamma narsani xronologik tartibda ko'rsatish va bo'layotgan voqealarning oqibatlarini tomoshabinlarga yetkazish muhim) 
-=====
+====
 Mohiyatan mahsulot reklamasi bo'lgan taqdimot (afzallik va kamchiliklarni ko'rsatuvchi) shuningdek tahliliy ma'lumotlar 
-=====
+====
 # bu o‘zingga tashqi tomondan qarash xatti-harakatlaring va his-tuyg‘ularing  o‘z pozitsiyang  chiqishlaringga qarash imkoniyatidir 
-+++++
+++++
 … shablonlar va rasmlarning kattasiga kutubxona ega mashhur bepul xizmat. Infografikaga qoʻshimcha ravshan masalan  taqdimotlar  plakatlar olishingiz mumkin 
-=====
+====
 Piktochart 
-=====
+====
 Easel ly 
-=====
+====
 # Canva 
-=====
+====
 Pinterest 
-+++++
+++++
 … ushbu xizmat yordamida siz infografikalarni tezda jamlashingiz mumkin.  Bepul shablonlar  rasmlar  piktogrammalar va shriftlarning katta kutubxonasi mavjud 
-=====
+====
 Piktochart 
-=====
+====
 # Easel ly 
-=====
+====
 Canva 
-=====
+====
 Pinterest 
-+++++
+++++
 Ushbu onlayn xizmat analitik infografika uchun juda foydali.  Siz ma'lumotlarni Excel fayli sifatida ko'rsatish mumkin 
-=====
+====
 #  Piktochart 
-=====
+====
 Easel ly 
-=====
+====
 Canva 
-=====
+====
 Pinterest 
-+++++
+++++
 … kompaniya va texnologiyalarning rivojlanish bosqichlarini shaxslarning kasbiy yoki ijodiy yo'lini istalgan sohadagi o'zgaruvchan tendentsiyalarni va hokazolarni namoyish qilish uchun yaratilgan 
-=====
+====
 Ierarxik infografika 
-=====
+====
 Tarixiy infografika 
-=====
+====
 Statistik infografika 
-=====
+====
 #Xronologik infografika 
  	
-+++++
+++++
 … sotsiologik marketing va boshqa ilmiy tadqiqotlar natijalarini vizual tarzda taqdim etish uchun ishlatiladi?
-=====
+====
 Ierarxik infografika 
-=====
+====
 Tarixiy infografika 
-=====
+====
 #Statistik infografika 
-=====
+====
 Xronologik infografika 
  	
-+++++
+++++
 …… tarixiy voqealar miqyosi haqida tasavvur hosil qilishga  ularning ketma-ketligini eslab qolishga va munosabatlarni kuzatishga yordam beradi  Ko'pincha vaqt jadvaliga asoslanadi 
-=====
+====
 Ierarxik infografika 
-=====
+====
 #Tarixiy infografika 
-=====
+====
 Statistik infografika 
-=====
+====
 Xronologik infografika 
-++++++
++++++
 …   tizim elementlarini muhimlik tartibida tartibga solishga yordam beradi va/yoki ularning bir-biri bilan o'zaro ta'sirini ko'rsatadi?
-=====
+====
 # Ierarxik infografika 
-=====
+====
 Tarixiy infografika 
-=====
+====
 Statistik infografika 
-=====
+====
 Xronologik infografika 
-+++++
+++++
 Nechta asosiy toifa bo'yicha infografik kontentingiz samaradorligini o'lchash uchun bir nechta real ko'rsatkichlardan foydalanishingiz mumkin?
-=====
+====
 # 4 ta
-=====
+====
 6 ta 
-=====
+====
 3 ta 
-=====
+====
 8 ta 
-+++++
+++++
 Infografika bu - …?
-=====
+====
 # ma'lumot  axborotlar va bilimlarni taqdim etishning grafik usuli 
-=====
+====
 - asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar  tushunchalar  ma'lumotlarni taqdim etishning grafik usuli 
-=====
+====
 bu o'z fikrlaringiz shaxsiy tajribangiz bilan bo'lishish hissiy tashvishlarni yengish o'zingizni nazorat qila olish  taklif qilingan savolga mos javob topish qobiliyatidir  
-=====
+====
 bu o‘zingga tashqi tomondan qarash xatti-harakatlaring va his-tuyg‘ularing  o‘z pozitsiyang  chiqishlaringga qarash imkoniyatidir 
-++++++
++++++
 - asosiy va ikkinchi darajali mavzulardan iborat xarita shaklida g'oyalar  tushunchalar  ma'lumotlarni taqdim etishning grafik usuli 
-=====
+====
 #Intellektual xarita 
-=====
+====
 vaqt shkalasi 
-=====
+====
 infografika 
-=====
+====
 kadr 
-++++++
++++++
 - bu har kimga veb-dizayn qilish imkonini beruvchi onlayn xizmat
-=====
+====
 #Canva 
-=====
+====
 Kadr 
-=====
+====
 Infografika 
-=====
+====
 Scribing 
-++++++
++++++
  … - bu ma'lumot axborotlar va bilimlarni taqdim etishning grafik usuli? 
-=====
+====
  #Infografika 
-=====
+====
  Mediata’lim 
-=====
+====
  Semiotika 
-=====
+====
  Dramatizatsiya 
-++++++
++++++
  - bu har kimga veb-dizayn qilish imkonini beruvchi onlayn xizmat  Siz maxsus tayyorgarliksiz  qimmat dasturiy ta'minot va jihozlarsiz dizayner bo'lishingiz mumkin 
-=====
+====
 #Canva 
-=====
+====
  Pinterest 
-=====
+====
 Mediata’lim 
-=====
+====
 Semiotika 
-++++++
++++++
   PR materiallaridagi belgilarning vizual darajasi birinchi navbatda nimani bajaradi
-=====
+====
  #estetik funksiya 
-=====
+====
  shartlilik 
-=====
+====
  hususiyatlilik funksiyasi 
-=====
+====
  visual 
-++++++
++++++
  O'quv jarayonida infografikadan foydalanish yo'nalishlari qaysilar?
 ====
 axborotni maqsadli qabul qilishni tashkil etish, grafik tasvirlar asosida axborotni yodlash 
-=====
+====
 o‘rganilayotgan materialning tushunish uchun zarur bo‘lgan tomonlarini ko‘rsatish  bilim va tadqiqot natijalarini almashish usuli 
-=====
+====
 tadqiqot ma'lumotlarini qayta ishlash usuli tanqidiy fikrlashni rivojlantirish  funktsional o'qish ko'nikmalarini shakllantirish 
-=====
+====
 # Hamma javoblar to’gri 
  
 
