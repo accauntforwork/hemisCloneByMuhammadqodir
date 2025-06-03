@@ -1,656 +1,1084 @@
 ++++
-Eng birinchi sanoat robotlari qachon va qayerda yaratilgan?
-====
-#1962-yil AQSHda
-====
-1962-yil Germaniyada
-====
-1962-yil Kanadada
-====
-1962-yil Yevropada
-++++
-Hozirgi kunda dunyoda robot ishlab chiqarish bo`yicha birinchi o`rinni qaysi davlat egallab turibdi?
-====
-#Yaponiya
-====
-AQSH
-====
-Kanada
-====
-Italiya
+Vijdon erkinligi nima?
+==== kishilarning o‘z milliy diniga etiqod qilish huquqi;
 
-++++
-++++
-Qanday robotlarda  qo`l yordamida va avtomatik boshqarish birgalikda olib boriladi?
-====
-#Yarimavtomatik
-====
-Avtonom
-====
-To`la avtomatik
-====
-Avtomatik
+==== fuqarolarning albatta biron bir jaxon diniga e’tiqod qilish zarurligi;
 
-++++
-Bajaradigan operatsiyalari turi bo`yicha sanoat robotlari necha turga bo`linadi?
-====
-#2 turga
-====
-3 turga
-====
-4 turga
-====
-Bo`linmaydi
+==== # fuqarolarning dinga e’tiqod qilish yoki e’tiqod qilmaslikni o‘zlari mustaqil xal qilish xuquqi;
 
-++++
-++++
-Robot so`zi birinchi marta qachon tilga olingan?
-====
-#1920-yil
-====
-1925-yil
-====
-1922-yil
-====
-1924-yil
-
-++++
-++++
-Yuritma nima?
-====
- Dvigatelning elektr tizimi
-====
-#  Harakatni o'zgartiruvchi va uzatuvchi mexanizm
-====
-Boshqaruv tizimi
-====
-Faoliyatni boshqaruvchi dastur
-
-++++
-Mexatronik tizimda yuritmalarni qanday nomlash mumkin?
-====
- “Aqlli tizim”
-====
-#  “Actuator ”
-====
- “Mikroprocesor”
-====
- “Asosiy boshqaruv tizimi
-++++
-Elektr yuritmalarni qanday xususiyatlar bilan tavsiflash mumkin?
-====
-Katta og'irlik va yuqori narx
-====
-# Kompaktlik va arzonlik
-====
-Katta kuchlanish va qizib ketish
-====
-Boshqarishning murakkabligi
-++++
-Elektr yuritmalarni afzalliklaridan biri nima?
-====
- Ishlash vaqtida yuqori energiya iste'moli
-====
-# Minimal texnik xizmat
-====
-Shovqin darajasining yuqoriligi
-====
-Yuqori qiymat
-
- 
-++++
-Gidravlik va pnevmatik yuritmalarga nisbatan, elektr yuritmalar qanday afzalliklarga ega?
-====
-Yuqori massogabarit xarakteristikalariga ega
-====
-# Tez va aniq ishlash
-====
-Katta energiya iste'moli
-====
-Tez qizib ketish
-
-++++
-Servoyuritmaning asosiy xususiyati nima?
-====
-Katta tezlikda ishlash
-====
-# Teskari aloqa yordamida holatni avtomatik ravishda rostlash
-====
-Yuqori quvvat iste'mol qilish
-====
-Faqat oddiy mexanik harakatlarni bajarish
-
-++++
-Servodvigatelni boshqarish qanday amalga oshiriladi?
-====
-Kollektor yordamida
-====
-Impulsli signal bilan
-====
-# Chastotani o'zgartiruvchi inverter yordamida
-====
-Qarshilik momentini oshirish orqali
-
+==== fuqarolarning dinga ishonmasligi va unga qarshi tashviqot olib borish xuquqi.
 ++++
 
-Pnevmatsik tizimlarda ishlatiladigan havo qanday xususiyatlarga ega?
-====
-Suvdan ko'ra zichroq
-====
-Isitish uchun qulay
-====
-# Yengil va toza
-====
-Haroratni o'zgartirishga qodir
+2. Dinning qanday ildizlari bor?
 
-++++
-Pnevmatik tizimda siqilgan havo qaysi energiyaga aylantiriladi?
-====
-Elektr energiyasi
-====
-Issiqlik energiyasi
-====
-# Mexanik energiya
-====
-Kimyoviy energiya
+==== genetik, tarixiy, psixologik;
 
-++++
-Gidroyuritmalar qanday suyuqlik yordamida ishlaydi?
-====
-Havo
-====
-# Suv yoki moy
-====
-Neft
-====
-Gaz
+==== # gnoseologik, sotsial, psixologik;
 
-++++
-Gidroyuritmada energiya qanday o'zgaradi?
-====
-Mexanik energiya elektr energiyasiga aylanadi
-====
-# Gidravlik energiya mexanik energiyaga aylanadi
-====
-Elektr energiya gidravlik energiyaga aylanadi
-====
-Mexanik energiya kimyoviy energiyaga aylanadi
-++++
-Gidroyuritmalarda qaysi komponent suyuqlikni harakatga keltiradi?
-====
-Gidrodvigatel
-====
-# Nasos
-====
-Gidrotsilindr
-====
-Filtr
+==== sotsial, biologik, iloxiy;
 
+==== afsonaviy, falsafiy, psixologik.
 ++++
-Pnevmoyuritmalarda energiya manbai nima?
-====
-Suv
-====
-# Havo
-====
-Elektr
-====
-Neft
 
-++++
- Tibbiy mexatronika qanday sohalarni qamrab oladi?
-====
-# Biomexanik protezlar, tibbiy asbob-uskunalar va diagnostika tizimlari
-====
-Farmatsevtika mahsulotlarini ishlab chiqarish
-====
-Bakteriyalarni o‘rganish va davolash
-====
- Faqat jarrohlik uskunalari yaratish
+3. Dinning unsurlarini sanab bering.
 
-++++
-Quyidagilardan qaysi biri tibbiy mexatronikaning asosiy rivojlanish yo‘nalishiga kiradi?
-====
-Uskunalar o‘lchamlarini kattalashtirish
-====
-Tibbiy robotlarni jarrohlikda taqiqlash
-====
-# Sun'iy intellekt asosida ishlaydigan tibbiy yordam tizimlari yaratish
-====
- Tibbiy texnologiyalarni faqat qo‘l bilan boshqarish
+==== tasavvur, diniy psixologiya, diniy tashkilotlar;
 
-++++
-Elektr yuritma tizimining asosiy vazifasi nima?
-====
- #Elektr energiyasini mexanik energiyaga aylantirish
-====
-Elektr energiyasini saqlash 
-====
-Boshqaruv tizimi
-====
-Faoliyatni boshqaruvchi dastur
+==== diniy tasavvur, diniy axloq, diniy mafkura;
 
-++++
-++++
-Mexatronik tizimda boshqaruvni nima amalga oshiradi?
-====
-Elektr dvigatel 
-====
-# Mikroprotsessor 
-====
-Katta kuchlanish va qizib ketish
-====
-Boshqaruvchi qurilma (BQ )
+====  #diniy ong, diniy xis-tuyg‘u (psixologiy====, diniy ibodat, diniy tashkilotlar;
 
+==== xudoga, payg‘ambarlarga, farishta va jin-ajinalarga ishonish.
 ++++
-Mexatronik tizimda qanday energiya manbalaridan foydalanish mumkin?
-====
-Yuqori massogabarit xarakteristikalariga ega
-====
-# Elektr, gidravlik, pnevmatik energiya manbalar             
-====
-Faqat elektr energiyasi.
-====
-Faqat mexanik energiya.
+4. Dinning funksiyalari.
 
-++++
-Mexatronik tizimda axborot oqimlari qanday ishlaydi?
-====
-Faqat elektr dvigatelida.
-====
-# Axborot va energiya oqimlari bir-biriga bog'liq bo'ladi. 
-====
-Axborot oqimi faqat sensorlar orqali o'tadi.
-====
-Axborot oqimi faqat boshqaruv qurilmasidan chiqadi.
+==== axloqiy, tarbiyaviy, mavkuraviy;
 
-++++
-Mexatronik tizimda teskari aloqaning vazifasi nima?
-====
-Tizimning haroratini boshqarish 
-====
-# Tizimning joriy holati haqida ma'lumot uzatish
-====
-Motorning tezligini oshirish.
-====
-Datchiklarni faollashtirish 
+==== # to‘ldiruvchilik, birlashtiruvchilik, o‘zaro aloqadorlik, tartibga soluvchilik;
 
-++++
-Mexatronik tizimda boshqaruvchi qurilma nima qiladi?
-====
+==== tinchlik, do‘stlik, tenglik, tabiatni muxofaza qilish;
 
-# Kiruvchi signallar asosida boshqaruv signallari ishlab chiqaradi
-====
-Elektr energiyasini boshqaradi 
-====
-Harakatlantiruvchi mexanizmni boshqaradi
-====
-Tizimning sovutish tizimini boshqaradi 
+==== gnoseologik, antronologik, teologik, psixologik.
+++++
+5. Din - bu:
 
-++++
-Mexatronik tizimda o'zgartirgichlar qanday vazifani bajaradi?
-====
-Tizimni sovutadi.
-====
-# Elektr energiyasini mexanik energiyaga aylantiradi
-====
-Datchiklarni faollashtiradi 
-====
-Faqat axborot oqimini boshqaradi.
+==== xalq uchun afyun;
 
-++++
-Quyida harakat o'zgartiruvchi qurilmalardan birini ko‘rsating:  
-=====
- Dinamometr  
-=====
-#Elektr motor
-=====  
-Termometr 
-===== 
- Barometr   
+==== insonning xudo bilan o‘zaro munosabat usuli;
 
-++++
-Mexatronika atamasi qachon va kim tomonidan yaratilgan?
-====
-1972-yilda, Tetsuro Mori tomonidan.
-====
-#1969-yilda, Tetsuro Mori tomonidan.
-====
-1983-yilda, Yaskawa Electric kompaniyasining muhandislari tomonidan.
-====
-1984-yilda, Kaliforniya Universiteti tomonidan.
+====  #tashqi olam kuchlarining kishi ongida g‘ayritabiiy ifodalanishi:
 
+==== gnoseologik, antronologik, teologik, psixologik.
 ++++
-Mexatronika atamasi qanday so‘zlarning birlashuvidan paydo bo‘lgan?
-====
-# Mexanika va elektronika.
-====
-Mexanika va informatsika.
-====
-Mexanika va elektrotexnika.
-====
-Mexanika va kompyuter.
+6. Din - bu:
 
-++++
-Mexatronika fani nima maqsadda o‘rganiladi?
-====
-Elektronika va kompyuter texnikasi sohalarini alohida-alohida o‘rganish.
-====
-Kompyuterli tizimlarni mexanik tizimlardan ajratib, ularni boshqarish.
-====
-#Mexanik va elektron qismlarni birlashtirib, yangi tizimlar va mahsulotlar yaratish.
-====
-Faqat mexanik tizimlarni o‘rganish.
+====  #madaniy taraqqiyotning qonuniyatli bosqichi;
 
- ++++
-Mexatronika sohasidagi birinchi ilmiy maqolalar qachon chop etilgan?
-====
-1980-yillarda.
-====
-#1970-yillarning oxirlarida.
-====
-1969-yilda.
-====
-1990-yillarda.
+==== ruhoniylar kiritgan xayoliy dunyoqarash;
 
-++++
-“Mexatronika” so‘zining ma’nosi qanday?
-====
-Elektronika va kompyuter texnikasining alohida ishlatilishi.
-====
-Mexanikani va elektronika texnologiyalarini alohida ishlatish.
-====
-#Mexanik va elektronika sohalarining integratsiyasi, ya’ni mexanik tizimlar va
-elektronika birlashib, bir-birini mukammal qo‘llashi.
-====
-Faqat mexanikaning elektronika yordamida boshqarilishi.
+==== kishilarga Olloh in’om etgan haqiqat;
 
+==== Barcha javoblar noto‘g‘ri.
 ++++
-Mexatronika fani bo‘yicha qaysi nashr 1983-yilda chop etila boshlandi?
-====
-# “Mexatronika” ilmiy jurnali.
-====
-“Yaskawa Electric” jurnali.
-====
-“Mechatronics” International Journal.
-====
-“Robotics” jurnali.
-++++
-Mexatronika sohasining asosiy tamoyillari va komponentlarini qanday tushuntirsa
-bo‘ladi?
-====
-Mexatronika faqat mexanik va elektr tizimlarning integratsiyasidir.
-====
-# Mexatronika - bu sensorlar, aktuatorlar, signallar, elektronika, qaror qabul qilish va
-boshqaruv algoritmlarining birlashuvidir.
-====
-Mexatronika faqat kompyuter texnologiyasini o‘rganadi.
-====
-Mexatronika faqat mexanik tizimlar asosida ishlaydi
+7. Qaysi bir din eng qadimgi?
 
-++++
-Mexatronika sohasining ilmiy markazi qachon Kaliforniya universitetida tashkil topdi?
-====
-1980-yilda.
-====
-1988-yilda.
-====
-1990-yilda
-====
-#1985-yilda
+==== pravoslaviya;
 
-++++
-Mashina yuritma qismining vazifasi nima?
-====
-#Elektr energiyasini mexanik energiyaga aylantirish va ishchi organlarni harakatga
-keltirish.
-====
-Faqat boshqarish tizimini ishlab chiqish.
-====
-Faoliyatni mexanik ish bilan to'ldirish.
-====
-Elektr ta’minotini boshqarish.
-++++
-Sanoat roboti  qanday tarkibiy qismlardan tashkil topgan?
-====
-Faqat manipulyator va ishchi asbob
-====
-#Manipulyator va dasturiy boshqaruv qurilmasi
-====
- Faqat boshqarish qurilmasi
-====
- Ishlab chiqarish va transport tizimlari
+==== proteotantizm;
 
-++++
- Robototexnik tizimi nima?
-====
-# Sanoat robotlaridan foydalanadigan texnik tizim
-====
- Faqat ishlab chiqarishni avtomatlashtirishga oid tizim
-====
- Faqat robotlarni boshqarish tizimi
-====
- Sanoatdagi barcha avtomatik qurilmalar tizimi
+==== islom;
 
+==== # yaxudiylik.
 ++++
- Sanoat roboti manipulyatorining ishchi a’zosi nima?
-====
- Robotning harakatni boshqaradigan qurilmasi
-====
-#Robotning tashqi muhit bilan aloqasini ta’minlaydigan qurilma
-====
- Robotning dasturiy boshqaruv qurilmasi
-====
- Robotning transport tizimi
+8. Musulmonlar hijriy yil hisobi qachondan boshlanadi?
 
-++++
- Sanoat robotini dasturiy boshqarish nima?
-====
-#Robot harakatini va ishchi jihozlarni boshqarish
-====
- Robotning energiya ta’minotini boshqarish
-====
- Robotning holatlari haqida axborot yig‘ish
-====
- Robotning tashqi muhit bilan aloqasini boshqarish
+==== Muhammad payg‘ambarning tug‘ilishidan;
 
-++++
- Sanoat robotining nominal yuk ko‘tarish qobiliyati nima bilan xarakterlanadi?
-====
- Robotning ishlash tezligi
-====
- Robotning maksimal harakat uzunligi
-====
-#Ishlab chiqarish predmeti yoki ishchi asbobning kafolatlangan massasining eng katta qiymati
-====
- Robotning harakat nuqtalari soni
+==== Muhammad payg‘ambarning payg‘ambarlik faoliyati boshlani-shidan;
 
-++++
-Sanoat robotining pozitsiyalashtirilgan boshqarilishi qanday boshqaruv turini anglatadi?
-====
- Robotning harakatini tezlik bo‘yicha boshqarish
-====
-#Robotning harakatini nuqtalar ketma-ketligi orqali boshqarish
-====
- Robotning holatini tezlik bilan boshqarish
-====
- Robotning ishlash jarayonini to‘liq avtomatik boshqarish
+==== Qur’onning paydo bo‘lishidan;
 
+====  #dastlabki musulmonlarning Yasrib (Madin==== ga ko‘chib borishidan.
 ++++
- "Sanoat robotini adaptiv boshqarish" nima?
-====
- Robotning harakatini va pozitsiyasini oldindan belgilash
-====
-#Boshqarish jarayonini robot holati va tashqi muhitga qarab o‘zgartirib borish
-====
- Robotni dasturlashni amalga oshirish
-====
- Robotning harakatini tezlik bilan boshqarish
 
-++++
-Sanoat robotlari manipulyatorlarining soni qanday bo‘lishi mumkin?
-====
-Faqat bitta manipulyator
-====
-Bitta yoki ikkita manipulyator
-====
-#Bitta, ikki, uch yoki to‘rt manipulyator
-====
-Har doim ikkita manipulyator
+9. Jahon dinlari qaysi dinlar?
 
-++++
-Robotlarda qo‘llaniladigan yuritmalarni qanday guruhlarga bo‘lish mumkin?
-====
-#Elektrik, gidravlik, pnevmatik va aralash yuritmalar
-====
-Pnevmatik, gidravlik va oddiy yuritmalar
-====
-Elektrik va gazli yuritmalar
-====
-Aralash va kichik quvvatli yuritmalar
+====  #buddizm, xristianlik, islom;
 
-++++
-Uchinchi avlod intellektual robotlar qanday vazifalarni bajaradi?
-====
-Ular faqat oddiy mexanik harakatlarni bajaradi
-====
-Ular faqat qisqa muddatli ishlarni bajaradi
-====
-#Odamga o‘xshash turli intellektual va oldindan rejalashtirilgan harakat funksiyalarini bajaradi
-====
-Ular faqat fizikal operatsiyalarni bajaradi
+==== buddizm, iudaizm, sintoizm;
 
-++++
-Intellektual robotlarning xususiyatlari qanday?
-====
-Ular faqat programmalashtirilgan harakatlarni bajaradi
-====
-Ular tashqi muhitni aks ettirmaydi
-====
-#Ular tashqi muhitni o‘zida aks ettirishi va qaror qabul qilishi mumkin
-====
-Ular faqat bir nechta oddiy vazifalarni bajaradi
+==== xristianlik, islom, protestansizm;
 
+==== provoslaviya, katolitsizm, braxmanizm.
 ++++
-Sanoat robotlarining qanday qismlaridan tashkil topadi?
-====
-#Manipulyator va boshqaruv qurilmasi 
-====
-Qurilish va harakatlanish tizimi
-====
-Faqat boshqaruv qurilmasi
-====
-Harakatlanish va energiya ta'minoti
+10. Yaponiyaning milliy dini qaysi din?
 
+====  #sintoizm;
+
+==== buddizm;
+
+==== konfutsiychilik;
+
+==== krishnaizm.
 ++++
-Robotlarning asosiy vazifalaridan biri nima?
-====
-#Murakkab operatsiyalarni bajarish 
-====
-Oddiy ishlarni tizimlash
-====
-Faqat ishlashni ta’minlash
-====
-Yalpi ishlarni ko‘paytirish
+
+11. Fetishizm nimani ilohiylashtiradi?
+
+==== hayvonlarni;
+
+==== odamlarni;
+
+====  #moddiy narsalarni;
+
+==== Barcha javoblar to‘g‘ri.
+++++
+
+12. O‘rta Osiyoda qaysi din eng ko‘p tarqalgan?
+
+==== induizm;
+
+==== xristianlik;
+
+==== buddizm;
+
+==== # islom.
+++++
+
+13. Xristianlikning asosiy oqimlari qaysi oqimlar?
+
+==== # katolik, pravoslavie, protestantizm;
+
+==== baptizm, pravoslavie, fetishizm;
+
+==== lyuteranlik, pravoslavie, katolitsizm;
+
+==== iudaizm, sintoizm, shamanizm.
+++++
+
+14. Islom dinining asosiy yo‘nalishlari qaysilar?
+
+==== # sunniylar va shialar;
+
+==== fundamentalizm va sunnizm;
+
+==== vahhobiylar va sunniylar;
+
+==== so‘fiylik, shialar, ismoiliylar.
+++++
+
+15. Dinlarning o‘hshashligi nimada?
+
+==== har bir millatning o‘z diniga e’tiqodida;
+
+==== turli tillarda namoz o‘qilishida;
+
+==== ketma-ket paydo bo‘lishida;
+
+====  #xammasi ham ilohiy kuchga ishonishida.
+++++
+
+16. Inson tabiat qonunlaridan o‘z manfaatlari yo‘lida foydalanishi mumkinmi?
+
+==== mumkin, agar xudoga ishonsa;
+
+==== mumkin, agar ma’lumotli bo‘lsa;
+
+==== mumkin, agar katta lavozimlarda ishlasa;
+
+====  #mumkin, agar ilm-fanni egallab, moddiy olamga ob’ektiv tarzda yondoshsa.
+++++
+
+17. Nima uchun ba’zi bemorlar dinga, folbin va shu kabilarga murojaat qiladilar?
+
+==== tibbiyot fanining kuchsizligidan;
+
+====  #diniy psixologiya xalq ongiga chuqur singib ketganligidan;
+
+==== shifokorlar uzoq yillar davomida bemorlarga befarq qarab kelganligidan;
+
+==== ma’lumoti kamligidan.
+++++
+
+18. Shariat nima?
+
+==== islom dini qoidalarini o‘rgatuvchi ta’limot;
+
+==== # barcha musulmonlar uchun bajarilishi majbur bo‘lgan qonunlar, huquqiy-ahloqiy ko‘rsatmalar tizimi;
+
+==== xadislar asosida tuzilgan to‘plam;
+
+==== oilaviy munosabatlarni tartibga soluvchi qonun.
 
 ++++
 
-Sanoat robotining harakatini amalga oshiradigan qurilma nima?
-====
-#Dvigatel va uzatish mexanizmi 
-====
-Faqat boshqaruv tizimi
-====
-Sensorlar
-====
-Energiya ta'minoti
+19. Hozirgi islomda qanday sektalar mavjud?
 
-++++
-Hozirgi sanoat robotlari qaysi operatsiyalarni bajaradilar?
-====
-Tarmoqni boshqarish
-====
-#Yig‘uv, payvandlash, bo‘yash va boshqa texnologik operatsiyalar
-====
- O‘quv dasturlari ishlab chiqish
-====
- Sanoat texnikalarini ta'mirlash
+==== xorijiylar, imomiylar, ismoiliylar, aliiloxiylar, bobiylar, vaxxobiylar;
 
-++++
-Sanoat robotlarini harakatlantirishda qanday harakat turlari mavjud?
-====
-Faqat chiziqli harakat
-====
- Faqat aylanma harakat
-====
-#Chiziqli va aylanma harakatlar
-====
- Harakatlar mavjud emas
+==== sunniylar, shialar, ismoiliylar, xanifiylar;
 
-++++
-Robotning harakatlanish qurilmasi qanday qismdan tashkil topadi?
-====
-Mexanik zvenolardan
-====
- Dvigatellardan
-====
-#Yurish qismi va yuritmalardan
-====
-Elektron platalardan
+==== shialar, xanifiylar, zardushtiylar;
 
-++++
-Intellektual tizimlarda inson miyasi funktsiyasiga o'xshash texnologiya qanday nomlanadi?
-====
-Algoritmik boshqaruv
-====
-# Neyron tarmoqlar va noaniq mantiq
-====
-Dasturlash texnologiyalari
-====
-Yopiq tizimlar boshqaruvi
-
-++++
-Сигналлар неча хил бўлади?
-====
-#Аналог ва рақамли
-====
-Манфий ва мусбат 
-====
-Математик ва физик
-====
-Тўлиқ ва кучли
-++++
-Робот-ахборот тизими нима?
-====
-#робот, компьютер, компьютер тармоқлари, фойдаланувчилар, сигналлар, ахборот ва дастурий таъминот
-====
-робот,  компьютер тармоқлари, фойдаланувчилар, сигналлар, ахборот ва дастурий таъминот
-====
-робот, компьютер, компьютер тармоқлари, фойдаланувчилар, сигналлар, дастурий таъминот
-====
- компьютер, компьютер тармоқлари, фойдаланувчилар, сигналлар, ахборот ва дастурий таъминот
-++++
-O‘rnatilgan tizim бу-
-====
-
-#maxsus mikroprotsesorli boshqarish, nazorat va monitoring tizimi
-====
-maxsus mikroprotsesorli boshqarish, nazorat va fizik tizimi
-====
-maxsus mikroprotsesorli boshqarish, nazorat va murakkab tizimi
-====
-maxsus mikroprotsesor boshqarish, nazorat va texnik tizimi
-++++
-Arduino nima-
-====
-#bu unchalik katta bo'lmagan plata bo'lib o'zining protsessori (mikrokontrolleri) va xotirasiga ega bo'lgan qurilma hisoblanadi.
-====
-bu maxsus mikroprotsesorli boshqarish, nazorat va fizik tizimi
-====
-bu unchalik katta bo'lmagan dastur bo'lib o'zining protsessori (mikrokontrolleri) va xotirasiga ega bo'lgan dastur  hisoblanadi.
-====
-bu maxsus mikroprotsesor boshqarish, nazorat va texnik tizimi
+====  #Barcha javoblar noto‘g‘ri.
 ++++
 
+20. Islom sobiq SSRning qaysi mintaqalarida keng tarqalgan?
+
+==== Ozarbayjon, Janubiy Osetiya, Dog‘iston, Oltoy o‘lkasi va O‘rta Osiyoda;
+
+==== # O‘rta Osiyo, Qozog‘iston, Tatariston, Bashqirdiston, Shimoliy Kavkaz, Dog‘iston va ayrim Kavkaz orti respublikalarida;
+
+==== Ukraina, Tojikiston, Estoniya, Qirg‘iziston va Shimoliy Osetiyada.
+==== Rossiya, Tatariston , Belorusiya,  Osetiyada.
+++++
+21. O‘zbekiston Respublikasida dindorlar qaysi qonunga rioya qilishlari kerak?
+
+==== faqat Movarounnaxr Diniy boshqarmasi nizomi va hujjatlariga;
+
+====  #o‘z nizomi va davlat qarorlariga;
+
+==== faqat O‘zbekiston Respublikasi Konstitutsiyasiga;
+
+==== jahon musulmonlari uyushmasining buyruqlariga.
+++++
+
+22. Diniy tashkilotlarning qonunchilikka rioya qilishni kim nazorat qiladi?
+
+==== O‘zbekiston Xalq-demokratik partiyasi;
+
+==== O‘zbekiston Prezidenti;
+
+==== mahalliy Sovetlar va hokimliklar;
+
+==== # O‘zbekiston Vazirlar Mahkamasi.
+++++
+
+23. Dindorlar davlatning rahbar lavozimlarida ishlashlari mumkinmi? Mumkin, agar:
+
+==== Makkaga haj qilgan bo‘lsa;
+
+==== biron siyosiy partiya a’zosi bo‘lsa;
+
+==== # lavozimga loyiq ma’lumotga ega bo‘lsa va tegishli darajada faoliyat ko‘rsatsa;
+
+==== diniy boshqarma yoki muftiy tavsiya qilsa.
+++++
+
+24. Nima uchun islom Rossiya va boshqa mintaqalarda keng tarqala olmagan?
+
+==== ularda islomni qabul qilishga ehtiyoj yo‘qligidan;
+
+==== o‘z vaqtida islomni joriy etish mumkin bo‘lmaganligidan;
+
+==== keng tarqalgan xristian dini borligidan;
+
+====  #diniy ijtimoiy psixologiya bu dinga mos kelmaganidan.
+++++
+
+25. Hadislar nima?
+
+==== jahon musulmon ulomalari uyushmasi chiqargan qonun-qoidalar;
+
+==== Qur’oni karimga yozilgan sharhlar;
+
+====  #Muhammad payg‘ambarning hayoti, faoliyati, diniy va ahloqiy ko‘rsatmalarini mujassamlashtirgan ta’limot;
+
+==== shariat qonunlari va oliy ulomalar fatvolari jamlangan diniy kitob.
+++++
+
+26. Turkistonlik buyuk muhaddislar kimlar?
+
+==== Ismoil al-Buxoriy, Alisher Navoi, Al-Farobiy;
+
+==== # Imom at-Termiziy, Ismoil al-Buxoriy, Abu Iso as-Samarqandiy, imom Muslim;
+
+==== Abu Ali Ibn Sino, Imom at-Termiziy, Beruniy;
+
+==== Shayx Sa’diy, Rudakiy, Axmad Yassaviy, Jomiy.
+++++
+
+27. Inson kamolati nimalarga bog‘liq?
+
+==== faqat Ollohga;
+
+==== Qur’on, hadislarni yaxshi bilib, musulmonchilik qoidalarini bajarishga;
+
+==== kechayu kunduz tinmay ishlashga;
+
+====  #umuminsoniy qadriyatlarga rioya qilib, ilm olish, halol, oqilona mehnat qilishga.
+++++
+
+28. Islomdagi asosiy amaliy va marosimiy talablar qaysilar?
+
+==== sunnat, bibiseshanba, irim-sirimlar;
+
+====  #ro‘za tutish, namoz o‘qish, zakot berish, iloji bo‘lsa hajga borish;
+
+==== janoza, xudoyi, ashur oshi, navro‘z, nikox.
+==== xudoyi, ashur oshi. sunnat
+++++
+
+29. Iso Masih qaysi dinning payg‘ambari?
+
+==== buddizm va sintoizmning;
+
+==== islom, xinduizm va katolitsizmning;
+
+====  #butun dunyo xristianlari, ularning mazxab va oqimlarining;
+
+==== faqat pravoslav va protestantlarning.
+++++
+
+30. Avesto qaysi dinning muqaddas kitobi?
+
+==== musulmonlarning;
+
+==== xristianlarning;
+
+====  #zarastrizm(zardushtiylik)ning;
+
+==== buddistlar va yaxudiylarning.
+++++
+
+31. Dindorlar xalq noibi (deputati) bo‘lib saylanishi mumkinmi? Mumkin, agar:
+
+==== tegishli ma’lumoti, diplomi bo‘lsa;
+
+==== Makkayu - Madinaga haj qilgan bo‘lsa;
+
+====  #munosib bo‘lib, tegishli tashkilot saylovchilari nomzodini ko‘rsatib xalq saylasa;
+
+==== Movarounnaxr Diniy boshqarmasi kengashining a’zosi bo‘lsa.
+++++
+
+32. Totemizm nima?
+
+==== tarixiy din shakllaridan biri;
+
+====  #ibtidoiy jamoada turli hayvonlarni urug‘ga asos solgan deb hisoblab, ilohiylashtirish va sig‘inish;
+
+==== tush ko‘rish va boshqa irim-sirimlarga ishonish;
+
+==== jonsiz narsalarni ilohiylashtirish va sig‘inish.
+++++
+
+33. O‘zbekistonda masjid va boshqa namozgohlardagi mulkning egasi kim?
+
+==== hamma islom va boshqa dinlarga e’tiqod qiluvchilar;
+
+==== hajga borib kelganlar;
+
+==== davlat;
+
+====  #O‘zbekiston musulmonlar Diniy idorasi.
+++++
+
+34. Dindorlar jinoiy javobgarlikka tortilishi mumkinmi?
+
+Mumkin, agar:
+
+==== islomning 5 ta asosiy amaliy va marosimiy talablarini bajarmasa;
+
+==== xech yerda ishlamasa, faqat ibodat bilan kuch kechirsa;
+
+====  #O‘zbekiston davlati fuqarolar uchun belgilab qo‘ygan qonun-qoidadan chetga chiqsa;
+
+==== chet ellarda qavm-qarindoshlari bo‘lsa.
+++++
+
+35. O‘zbekiston aholisi ko‘proq qaysi jahon dinlariga e’tiqod qiladi?
+
+====  # islom diniga;
+
+==== islom, xristianlik, buddizm va iudaizmga;
+
+==== islom va xristianlikka;
+
+==== islom, iudaizm, sintoizm va katolitsizmga.
+++++
+
+36. Islom dinining nazariy va g‘oyaviy manbalari nima?
+
+==== shariat qonun-qoidalari;
+
+==== muxaddislar yozgan xadisi shariflar;
+
+==== # Qur’oni karim, hadisi sharif va fatvolar;
+
+==== Ollo-taolo kalomi bo‘lgan Qur’on.
+++++
+
+37. Qur’oni karim sura va oyatlariga o‘zgartirish kiritish mumkinmi?
+
+==== mumkin, agar ulamolar qaror qilsa;
+
+==== agar jamiyat hayotiga zid kelib qolsa;
+
+==== # yo‘q, chunki Qur’on - ilohiy hisoblanadi va uni o‘zgartirish man etiladi;
+
+==== Movarounnaxr Diniy boshqarmasi o‘zgartishi mumkin.
+
+++++
+38. Dinlarning bir-biridan farqi nimada?
+
+==== turli tillarda ibodat qilishida;
+
+==== mintaqalarida turli axolining joylanishida;
+
+====  #diniy urf-odat va marosimlar amalga oshirilishida;
+
+==== jaxonda tinchlik uchun kurashishda.
+
+++++
+39. Qur’onda hammasi bo‘lib nechta sura bor?
+
+==== 100;
+
+====  #114;
+
+==== 124;
+
+==== 130.
+
+++++
+40. Xristianlikning qaysi oqimi Yevropa va Lotin Amerikasida eng ko‘p tarqalgan?
+
+==== pravoslaviya;
+
+==== beptizm;
+
+====  #katolitsizm;
+
+==== protestansizm.
+
+++++
+41. Musulmonlarning tushunchasi bo‘yicha Muhammad ibn Abdulloh kim?
+
+==== u oddiy inson va diniy shaxs;
+
+==== xudoning suyukli bandasi;
+
+==== # xudo tomonidan yuborilgan elchi, vakil, eng oxirgi payg‘ambar;
+
+==== Barcha javoblar to‘g‘ri.
+
+++++
+42. Islom dini O‘rta Osiyoga qachon tarqala boshlagan?
+
+====  #VII asr oxiri - VIII asr boshlarida;
+
+==== V asrda;
+
+==== VIII asrda;
+
+==== VI asr oxiri va VII asr boshida.
+
+++++
+43. Musulmon diniy boshqarmalari rahbarlari qanday nom bilan ataladi?
+
+====  #muftiy;
+
+==== so‘fi;
+
+==== muxtasib;
+
+==== imom.
+
+++++
+44. Musulmonlarning kundalik nomoz o‘qish tartibi qanday?
+
+==== har juma kuni;
+
+====  #kuniga 5 mahal;
+
+==== kuniga 3 mahal;
+
+==== kuniga 4 mahal.
+
+++++
+45. Muhammad payg‘ambarning tug‘ilishiga bag‘ishlangan marosimning nomi nima?
+
+==== haj;
+
+==== hijrat;
+
+==== me’roj;
+
+====  #mavlud.
+
+++++
+46. Fatvo nima?
+
+==== Qur’onga berilgan sharxlar;
+
+==== masjidlarda hayit namozida aytiladigan muhim axborotlar;
+
+====  #oliy darajadagi ulamolar yig‘ini qabul qilgan Qur’on, hadis va shariatga oid qonun-qoidalar;
+
+==== har bir imom-xatibning turli masalalar yuzasidan bergan tavsiyalari.
+
+++++
+47. Islom va xristianlik nuqtai nazarida har bir inson taqdirini (hayot yo‘lini) kim belgilaydi?
+
+==== insonning o‘zi, uning irodasi;
+
+==== tabiat va koinot;
+
+==== hukmdor shaxslar, davlat, ota-bobolar;
+
+====  #faqat yakka xudo.
+
+++++
+48. Politeizm nima ma’noni anglatadi.
+
+==== # ko‘pxudolik;
+
+==== yakkaxudolik;
+
+==== vedachilik;
+
+==== dinning ibtidoiy formalari.
+
+++++
+49. Katolik oqimining bosh ruhoniysi?
+
+==== monax;
+
+==== pop;
+
+==== kardinal;
+
+==== # papa;
+
+++++
+50. Islomga qadar Markaziy Osiyoda hukm surgan din?
+
+====  #zardushtiylik;
+
+==== buddaviylik;
+
+==== konfutsiyachilik;
+
+==== broxmanchilik.
+
+++++
+51. Xristian cherkovlarida oliy ierarx qanday ataladi?
+
+====  #yepiskop;
+
+==== kardinal;
+
+==== senator;
+
+==== oligarx.
+
+++++
+52. Cherkov, ikonalarga qarshi chiqqan oqim nomi?
+
+==== pravoslav;
+
+==== katolik;
+
+====  #protestant;
+
+==== hamma savollar to‘g‘ri.
+
+++++
+53. Yaxudiylikda hukmronlik o‘rnatish maqsadida vujudga kelgan diniy siyosiy oqim?
+
+==== ekstremizm;
+
+==== vahobizm;
+
+====  #massonizm;
+
+==== modernizm.
+
+++++
+54. Fiqh qanday fan?
+
+====  #shariat qonun-qoidalarini o‘rganuvchi fan;
+
+==== shariatda hadislarni tashkil qiluvchi fan;
+
+==== rivoyatlarni o‘rganuvchi fan;
+
+==== b va v javoblar to‘g‘ri.
+
+++++
+55. Fath nima?
+
+==== # biror shahar yoki mamlakatga islomni olib kirish;
+
+==== islom hadislarini yoyish;
+
+==== buddaviylik oqimi;
+
+==== yahudiylik ta’limoti.
+
+++++
+56.Din fenomenologiyasi deganda nimani tushunasiz?
+====	 #Dinning ko‘zga ko‘rinuvchi, tashqarida aks etuvchi jihatlarini o‘rganuvchi ilm sohasi.
+====	Barcha dinlar qadriyatlariga hurmat bilan qarash, ularni qadrlash madaniyati.
+====	Dinshunoslikning tarix, falsafa, psixologiya, sotsiologiya, arxeologiya va boshqa ijtimoiy fanlar bilan mustahkam bog‘liqligi uning nazariyasi.
+====	Dinshunoslikning qator fanlar bilan o‘zaro munosabati.
+
+++++
+57.  Din sotsiologiyasi nimalarni o‘rgatadi?
+====   #Tarix bo‘yicha xususiy va mushohadaga suyanuvchi din va jamiyat tadqiqotlarini; dinning ijtimoiy hayotdagi ko‘rinishlarini o‘rganadi. 
+==== Diniy tuyg‘u va bu tuyg‘uning ko‘rinishlarini o‘rganadi.
+==== Dinga nisbatan munosabatni o‘rganadi.
+==== Dinning mohiyati va uning kishilik jamiyati taraqqiyotidagi turli tarixiy bosqichlarda tutgan mavqeini o‘rganadi.
+
+++++
+58.Din psixologiyasining asosiy mavzusi nimadan iborat?
+====	|Barcha dinlar qadriyatlariga hurmat
+====	Ibtidoiy diniy tasavvurlar, milliy va jahon dinlari ta’limotlari
+====	Xalqlarning o‘z dini, urf-odatlari va an’analari 
+==== #Kishining diniy his, tushuncha va yashash tarzi
 
 
+++++
+59.Din falsafasining vazifasi nimalardan iborat?
+====	Barcha dinlar va diniy tasavvurlarda birinchi odamning paydo bo‘lishi, Xudo yoki xudolar tomonidan yaratilish g‘oyasini o‘rganishdan iborat.
+====	Fanlar bilan o‘zaro munosabatga kirishishi natijasida uning turli sohalari yuzaga kelishini o‘rganishdan iborat.
+====	 #Yaratuvchi kuch e’tiqodiga falsafiy bir asos topish, diniy hukmlarning mantig‘i va mohiyatini ochib berish, dinning mohiyati, insonning diniy haqiqatlar bilan bo‘lgan bog‘liqligini o‘rganishdan iborat.
+====	Barcha dinlar qadriyatlariga hurmat bilan qarash, ularni qadrlash madaniyatini o‘rganishdan iborat.
+
+++++
+60.Din so‘zining ma’nosi-
+====	دان»  («dâna»)  fe’lidan yasalgan bo‘lib, «kimgadir haqorat qilmoq, itoatsiz, kimdandir gap eshitmoq» kabi ma’nolarni bildiradi.
+====	» دان» («dâna»)  fe’lidan yasalgan bo‘lib, «kimnidir yoqtirmoq, rahm  etmoq» kabi ma’nolarni bildiradi.
+====	دان » («dâna»)  fe’lidan yasalgan bo‘lib, «kimgadir gapirmoq, tasdiqlamoq, tuzatmoq» kabi ma’nolarni bildiradi.
+====	  # دان »  («dâna»)  fe’lidan yasalgan bo‘lib, «kimgadir bo‘ysunmoq, bo‘yin egmoq, itoat etmoq, kimdandir qarzdor bo‘lmoq, e’tiqod qilmoq, qilgan ishiga yarasha mukofotlamoq» kabi ma’nolarni bildiradi.
+
+++++
+61.  Dinning “kompensatorlik funksiyasi” qanday vazifani bajaradi?
+====  tartibga soluvchilik vazifasini.
+====  birlashtiruvchilik vazifasini.
+====  # tasalli beruvchilik vazifasini.
+====  aloqa bog’lashlik vazifasini.
+++++
+62. Jоn, ruhlarning bоrligiga, ularning abadiyligiga ishоnish nima dеb ataladi?
+==== Sеhrgarlik.
+==== Tоtеmizm.
+==== Fеtishizm.
+====  #Animizm.
+++++
+63. Ibtidоiy din shakllaridan qaysi birida оdamlar оdamga sig’inganlar?
+==== Animizmda.           
+====  #Shоmanizmda
+==== Magiya.
+==== Tоtеmizmda.
+++++
+64. Tоtеmizm nima?
+==== tush ko’rish va bоshqa irim-sirimlarga ishоnish.
+==== jоnsiz narsalarni ilоhiylashtirish va ularga sig’inish.
+====  #ibtidоiy  jamоada  turli  hayvоnlarni  urug’ga  asоs sоlgan dеb hisоblab, ilоhiylashtirish va sig’inish.
+==== tariхiy din shakillaridan biri.
+++++
+65. Хinduiylik va kоnfutsiychilik ta’limоtiga ko’ra qaysi din shakliga to‘g‘ri keladi?
+==== Urug’-qabilachilik
+==== Mоnоtеistik.              
+====  #Pоlitеistik.     
+==== Animistik.
+++++
+66. Buddaviylik dini qachоn paydо bo’ldi?
+==== Eramizning V-VI asrida.
+====  #Eramizdan oldingi VI-V  asrda.
+==== Eramizning I-II asrida.
+==== Eramizdan oldingi XIII asrda.
+
+++++
+67. Buddaviylik¬ning asоsiy aqidasi nimadan iborat?
+==== Nirvana.
+==== Itоatkorlik.
+==== Gunоh.
+====  #Azоb-Uqubat.
+
+++++
+68. Mil. av. I asr va milodning IV asrlari oralig‘ida Kushon imperiyasida Buddaviylikning qaysi yo‘nalishi davlat dini deb e’lon qilindi.
+==== Nirvana
+==== # Maxayana
+==== Nirvana
+==== Xinayana
+
+++++
+69. Buddaviylik¬ning asоsiy yo’nalishlari qaysilar?
+==== Sunnalik, shialik, хorijiylik.
+==== Хinayana, shivaizm, jaynizm.
+==== Pravоslaviya, katоlisizm, lamaizm.
+====  #Хinayana, maхayana, lamaizm.
+
+++++
+70. Buddaviylik ta’limoti necha  qismdan iborat?
+==== 2  qismdan iborat.
+====  #3  qismdan iborat.
+==== 4  qismdan iborat.
+==== 5  qismdan iborat.
+++++
+71.	Kibermakon deganda nimani tushunasiz?
+====	 #dunyo kompyuter tarmoqlarining «virtual» umumiy majmui.
+====	dunyo kompyuter tarmoqlari
+====	dunyo kompyuter tarmoqlari jamoasi
+====	to ‘g’ri javob yo‘q
+++++
+72.	Kibermakon atamasi 1984 yilda kim tomonidan qo‘llanilgan?
+====	Jan Jak Russo
+====	 #Uilyam Gibson
+====	Teodor Smit
+====	Dyuperron
+++++
+73.	Qanday vositalar kibermakondan erkin foydalanish imkonini yaratish bilan bir vaqtda, mazkur makondagi xavf-xatarlarning ko‘z ilg‘amas darajada yuqoriligini anglatadi?
+==== video qurilmalar; telefon yozishmalari
+==== # internetga chiqish imkoniyati mavjud mobil telefonlar; onlayn pulli o‘yinlar;  tarmoqdan tashqarida foydalanish imkonini beruvchi dasturiy ta’minotlar.
+==== Seminarlar, amaliy nashg ‘ulotlar
+==== videodarslar, ijtimoiy diniy tarmoqlar
+
+++++
+74.	O‘zbekistonda eng ko‘p yuklab olinayotgan dastur ichida qaysilari yetakchi o‘rinni egallaydi?
+====	«Instagram», «odnoklasniki» tarmoqlari
+====	«Facebook», «Intogram» tarmoqlari
+====	«Whats you», «Face app» tarmoqlari
+====	 #«WhatsApp», «Telegram» tarmoqlari
+
+++++
+75.Yoshlarning barchasi internet tarmog‘idan faqat ilm yo‘lida foydalanmoqdami?
+====	O ‘zbekiston yoshlariga internet tarmog‘idan barcha ma ‘lumotlar olish uchun qulay sharoit yaratilgan.
+====	 #Afsuski, internetdan noto‘g‘ri, buzg‘unchilik va behayolikka doir ma’lumotlarni olishda ham foydalanmoqda.
+====	O ‘zbekiston yoshlari internet tarmog‘idan faqat ilm yo‘lida foydalanadi.
+====	Barcha javoblar to ‘g ‘ri
+++++
+76.Missionerlik so‘zi qanday ma’noni anglatadi?
+====	Ingliz tilidagi «missio» so‘zidan olingan bo‘lib, «Inson huquqlarini himoya qilish», «Vijdon erkinligini ta’minlash» ma’nolarini bildiradi.
+====	 #lotin tilidagi «missio» fe’lidan olingan bo‘lib, belgilangan vazifalarni hal qilishga qaratilgan nazariy va amaliy faoliyat majmui ma’nolarini bildiradi.
+====	fransuz tilidagi «missio» so‘zidan olingan bo‘lib, ma’naviy-mafkuraviy tahdid vositasi ma’nolarini bildiradi.
+====	nemis tilidan olingan bo‘lib davlatning ichki hayoti ma’nolarini bildiradi.
+
+++++
+77. “Prozelitizm” tushunchasi deganda nimani tushunasiz?
+====  #Yangi mazhabni qabul qilgan kishi, ya’ni boshqa mazhabdagilarni, avvalo, musulmonlarni xristianlikka kiritish degan ma’noni bildiradi.
+==== Mafkuraviy immunitetni shakllantirish degan ma’noni bildiradi.
+==== Milliy istiqlol mafkurasining asosiy g‘oyalari degan ma’noni bildiradi.
+==== Xalqning milliy ma’naviyati degan ma’noni bildiradi.
+++++
+78. “Kiberxavfsizlik toʻgʻrisida”gi Qonun qachon qabul qilingan?
+==== 2023-yil 15 mart.
+==== 2022-yil 1 aprel.
+====  #2022-yil 15 aprel.
+==== #2023-yil 15 may.
+++++
+79. Missionerlik va prozelitizm g‘oyasi qanday g‘oya?
+==== ma’naviy g‘oya
+====  #buzg‘unchi  g‘oya
+==== madaniy g‘oya
+==== milliy g‘oya
+++++
+80. Hozirgi kunda missionerlik harakati asosan qanday  niqob ostida faoliyat yuritmoqda
+==== Moliyaviy tashkilotlar niqobi ostida
+====  #nashriyotlar, xayriya, tibbiy yordam ko‘rsatish niqobi ostida
+==== Davlat tashkilotlari niqobi ostida
+==== Yuridik shaxslar niqobi ostida
+++++
+81.Diniy ekstremizm nima?
+====	 #Jamiyat uchun an’anaviy bo‘lgan diniy qadriyatlar va aqidalarni rad etish, ularga zid g‘oyalarni aldov va zo‘rlik bilan targ‘ib qilishga asoslangan nazariya va amaliyotni anglatadi. 
+====	mutaassib fikr va qarashlarning paydo bo‘lishidir
+====	«dindan qaytganlar» degan ma’noni bildiradi
+====	An’anaviy  diniy qadriyatlar va aqidalar to ‘plami
+
+++++
+82.	Diniy fundamentalizm  nima?
+==== #«Ma’lum din vujudga kelgan ilk davriga qaytish va bu yo‘l bilan zamonaning barcha muammolarini hal qilish mumkin», degan fikrni ilgari surish ta’limotini anglatadi.
+==== Islom niqobidagi ekstremizmning g‘oyaviy ildizlari degan ma’noni bilditadi
+==== Mutaassib fikr va qarashlarning paydo bo‘lishidir degan tushunchalarni bilditadi
+==== xayrixoh bo‘lmagan hukmdorlarga suiqasd uyushtirish degan tushunchalarni bilditadi
+
+++++
+83.«Musulmon birodarlar» jamoasi qachon tashkil etilgan?
+====	 #1928 yil mart oyida
+====	1929 yil aprel oyida
+====	1930 yil may oyida
+====	1931 yil mart oyida
+++++
+84.Hizbut-tahrir al-islomiy (Islom ozodlik partiyasi)ning asoschisi kim?
+====	Saudiya Arabistonida yashovchi  Yusuf Xamadoniy
+====	Akrom Yo‘ldashev
+====	 # Falastinlik Taqiyiddin Nabahoniy
+====	Juma Namangoniy
+
+++++
+85.«Akromiylar» harakat siyosiy hokimiyatga erishishning nechta bosqichiga asoslanadi?
+====	2 ta
+====	3 ta
+====	4 ta
+====	 #5 ta
+
+++++
+86.“Yahudiy va salbchilarga qarshi xalqaro islom fronti” uyushmasi  qachon tuzildi?
+====	1997 yilda
+====	1996yilda
+====	 #1998 yilga
+====	1991 yilda
+++++
+87.“Yahudiy va salbchilarga qarshi xalqaro islom fronti” uyushmasiga kim boshchilik qilgan?
+====	 #Usoma bin Lodin
+====	Akron Yo‘ldashev
+====	Juma Namangoniy
+====	Muhammad Solih
+
+++++
+88.	2001 yilning 11 sentabrida Amerika Qo‘shma Shtatlarida qanday voqea yuz berdi?
+====	“Yahudiy va salbchilarga qarshi xalqaro islom fronti” uyushmasi tuzildi
+====	AQShning Tanzaniya va Keniyadagi elchixonalari oldida bomba ortilgan mashinalarni portlatilgan
+====	 #To‘rtta “Boing–757” samolyoti “al-Qoida” guruhi tomonidan egallab olinib, ularning ikkitasi Nyu-Yorkdagi xalqaro savdo Markazi joylashgan “egizak” binolarga, bittasi esa AQSh qurolli kuchlari shtabi – Pentagonga yo‘naltirildi.
+====	Somalidagi beqarorliklarning oldini olish uchun kiritilgan BMT tinchlikparvarlik kuchlari tarkibidagi AQSh maxsus qo‘shinlarining 18 harbiy xizmatchisini o‘ldirishgan
+++++
+89.	Diniy ekstremizm va terrorizmga qarshi kurash olib borishda qanday chora-tadbirlarni qo‘llash muhim ahamiyatga ega?
+====	 #kompleks va tizimli, shu jumladan, ijtimoiy-iqtisodiy va mafkuraviy chora-tadbirlar
+====	Shavqatsiz kurash chora-tadbirlari
+====	musulmon bo‘lmagan mamlakatlar aholisi o‘rtasida islomni yoyish chora-tadbirlari
+++++
+90.	Dunyo bo‘yicha qancha terrorchilik tashkilotlari faoliyat ko‘rsatmoqda?
+====	400 ga yaqin
+====	300 ga yaqin
+====	 #500 ga yaqin
+====	200 ga yaqin
+
+++++
+91.Davlatimizning vijdon erkinligiga munosabati – O‘zbekiston Respublikasi Konstitutsiyasining nechanchi moddasida mustahkamlab qo‘yilgan?
+====	31-moddasida
+====	 #35-moddasida
+====	36- moddasida
+====	41 – moddasida
+
+++++
+92.Hanafiya mazhabi sunniylik yo'nalishiga mansub bo'lgan musulmonlarning  necha foizini o'z ichiga oladi. 
+====  #47%
+==== 17%
+==== 27%
+==== 1,5%
+
+++++
+93. O‘rta Osiyoda keng tarqalgan sunniylik oqimi
+====Shofi’iya
+====Imomiya
+====  #Xanafiya
+==== Vahhobiylik
+  
+
+
+
+
+++++
+92.O‘zbekiston Respublikasi Konstitutsiyasida aniq belgilab qo‘yilgan davlat va jamiyat qurilishining  bosh maqsadlardan biri-
+====  #Yuksak ma’naviyat va hurfikrlilikka asoslangan, vijdon erkinligi amalda barqaror bo‘lgan jamiyatni barpo etish 
+==== islomiy qadriyatlar maktablarda axloqiy tarbiyada e’tiborga olinishi
+==== musulmon bo‘lmagan mamlakatlar aholisi o‘rtasida islomni yoyish chora-tadbirlari
+==== Mafkuraviy chora-tadbirlarni belgilanishi
+
+++++
+93.	Davlat bilan din (diniy tashkilotlar) o‘rtasidagi munosabatlar qanday usullarda tartibga solinadi?
+====	 # Identifikatsion, Separatsion, kooperetsion
+====	Kompensatorlik, regyulativlik
+====	Separatsion, Kompensatorlik
+====	Konservatorlik, koorparativ
+
+++++
+94.	Davlat-diniy tashkilot modeliga qaysi davlatni misol keltirishimiz mumkin?
+====	 #Daniya, Buyuk Britaniya, Gresiya, Shvesiya, Finlyandiya
+====	AQSh, Rossiya, Polsha, Germaniya
+====	Daniya, Ispaniya, Italiya, Misr
+====	Braziliya, Argentina, Sudan, Efiopiya
+
+++++
+95.	O‘zbekistonda tarkib topgan davlat va din o‘rtasidagi munosabat o‘z mohiyati, mazmuni va huquqiy asoslariga ko‘ra qanday modelga asoslanadi?
+====	 #Separatsion model
+====	Kooperatsion
+====	Identifikatsion
+====	Kompensator
+++++
+96.	Bugungi kunda O‘zbekistonda Adliya organlaridan rasman ro‘yxatdan o‘tgan nechta diniy konfessiya faoliyat olib bormoqda?
+====	10 ta
+====	11 ta
+====	15 ta
+====	 #16 ta
+++++
+97.	Qonunchilikda diniy tashkilotlarning qnday turlari e’tirof etiladi?
+====	 # diniy jamiyatlar, diniy o‘quv yurtlari, masjidlar, cherkovlar, sinagogalar, monastirlar va boshqa tashkilotlar.
+====	Diniy maktablar, madrasalar. cherkovlar
+====	Diniy firqalar, mazhablar, oqimlar
+====	Diniy qo‘mita tasarrufidagi barcha binolar
+
+++++
+98.«Konfessiya» so‘zi qanday ma’noni anglatadi?
+====	 #o‘zbek tiliga aynan tarjima qilinganda «e’tiqod qilish», degan ma’noni anglatadi.
+====	 «faoliyat olib bormoq», degan ma’noni anglatadi.
+====	«buysundirmoq», degan ma’noni anglatadi.
+====	o‘zbek tiliga aynan tarjima qilinganda «kurash», degan ma’noni anglatadi.
+++++
+99. Diniy konfessiya deganda  nimani tushunasiz?
+==== #muayyan diniy ta’limot doirasida shakllangan va o‘ziga xos xususiyatlarga ega e’tiqod va ushbu e’tiqodga ergashuvchilar jamoasi tushuniladi.
+     ==== diniy ta’limotlar ichida rivojlangan e’tiqod turi tushuniladi.
+==== jamiyat hayotining tarkibiy qismi sifatida kishilarning ijtimoiylashuvi tushuniladi.
+==== e’tiqodga ergashuvchilar jamoasi tushuniladi.
+
+++++
+100.«Sekta»so‘zi qanday ma’noni anglatadi?
+==== #Muayyan diniy, siyosiy yoki falsafiy qarashlarga ergashuvchilar guruhini anglatadi.
+==== Muayyan diniy boshqaruvchilarini anglatadi.
+==== Ma’lum bir dindagi rasmiy aqidalarga ishonuvchilar tushuniladi
+==== Ma’lum falsafiy qarashlarni o ‘rgatuvchilar guruhini anglatadi
+
+++++
+101.	Xristianlik dini qachоn paydо bo’ldi?
+==== Eramizdan oldingi I asrda.
+====  #Eramizning I asrida.
+==== Eramizdan oldingi III asrda.
+==== Eramizning V asrida.
+
+++++
+102. Sharq dinlaridan qaysi biri xristianlik diniga eng ko’p ta’sir ko’rsatdi?
+==== Zardushtiylik.
+==== Buddaviylik.
+====  #Yahudiylik.
+==== Islоm.
+
+++++
+103. Katoliklarning markazi Vatikan qachondan boshlab davlat maqomiga ega bo’ldi?
+==== 1909 yidan.
+====  #1929 yidan.
+==== 1959 yidan.
+==== 1989 yidan.
+
+++++
+104. Bibliya so‘zi qanday ma’nolarni  anglatadi?
+====  #grek tilida biblia – “kitob”, “o‘ram” 
+==== lotin tilida bibliya- “varoq”
+==== Fors tilida bible- “Bеsh kitоb”
+==== Ingliz tilida bible-“Eski ahd”
+
+++++
+105. Martin Lyuter boshchiligidagi reformatsiyalar tufayli Xristianlik dinida qaysi yo’nalish vujudga keldi?
+====  #Protestantizm.
+==== Provaslav.
+==== Katolik.
+==== Baptizm.
+++++
+106. Xristianlikning muqaddas kitobi qaysi? 
+==== Veda.
+ ==== Tavrot.
+==== #Bibliya. 
+==== Zabur. 
+++++
+107. Rim papasi xristianlikning qaysi oqimining boshlig‘i sanaladi?
+==== Katolik.
+ ==== Pravoslav.
+==== Protestant.
+ ==== Baptizm.
+++++
+108.  Arabiston yarim orolining islom dinidan avvalgi davrini nima deb ataganlar?
+==== #Johiliya
+ ====  Nodonlik
+====   Butparastlik 
+==== Ma’rifatsizlik
+++++
+109. Hadislar bilan shug‘ullanadigan olim kim?
+ ==== Mutakallim 
+==== #Muhaddis
+====   Mutasavvif
+==== Faqih
+++++
+110.  Qur’on suralarini tashkil etuvchi qism “jumlalar” qanday nomlanadi?
+==== Sura 
+====  #Oyat 
+====   Juz
+ ==== Pora
+++++
+111. Umumiy soni 114 bo‘lgan Qur’onning tashkil etuvchi qismlar qaysi variantda to‘g‘ri yozilgan?
+==== Pora
+ ====  Juz 
+====  Oyat
+ ==== #Sura 
+++++
+113. VII-asrda paydo bulgan musulmon davlati nima deb ataladi?
+====Musulmonlar davlati
+====Islom imperiyasi
+====Arab imperiyasi
+==== #Arab xalifaligi
+++++
+115.Talmud qaysi dinning muqaddas kitoblaridan biridir?
+====Buddizm
+ ====Nasroniylik
+ ==== #Iuddaizm 
+====Islom 
+++++
+116. Bibliya qaysi dinning muqaddas kitobi?
+==== Buddizm
+ ==== #Xristianlik
+ ==== Iuddaizm 
+==== Islom 
+++++
+117. Tripitaka qaysi dinning muqaddas kitobi?
+==== #Buddizm
+ ==== Nasroniylik
+ ==== Iuddaizm 
+==== Islom 
+++++
+118. Buddaviylik dinining asoschisi kim?
+==== Iso Masix
+==== #Siddxartha Gautama
+ ==== Krishna 
+==== Deva 
+++++
+119. O‘zbekistonda qancha diniy tashkilotlar faoliyat yuritadi?
+==== # 3 mingdan ziyod
+==== 2 mingdan ziyod
+ ==== 1 mingdan ziyod
+==== 4 mingdan ziyod
+++++
+120.1900 –yilda Tripitaka matni ilk bor kitob holida nashr etildi, uning hajmi necha jildni tashkil etgan?
+==== 36 jild
+==== 40 jild 
+====  #38 jild
+ ==== 48 jild
+++++
+121. «Vijdon erkinligi va diniy tashkilotlar to‘g‘risida»gi Qonunnining 10-moddasida qanday masalaga bag‘ishlangan?
+==== 36-modda
+==== #10-modda 
+==== 20-modda
+ ==== 15-modda
+++++
+122. Fuqarolarning dinga e’tiqod qilish yoki e’tiqod qilmaslikni mustaqil hal qilishlari qanday ataladi?
+==== Burch erkinligi
+==== qadriyat erkinligi 
+==== #vijdon erkinligi
+ ==== fikr erkinligi
+++++
+123. “Monoteizm” tushunchasining ma’nosi nima?
+==== #Yakkaxudolik
+==== ko‘pxudolik 
+==== diniy ta’limot
+ ==== diniy fikr
+++++
+124. O‘rta Osiyodagi qaysi davlatda budda dini asosiy (hukmron) din edi?
+==== #Xorazmshohlar
+==== Dovon
+==== Kushon
+ ==== Qang‘
+++++
+125. Jahonda e’tiqod qiluvchilar soni jihatdan eng katta milliy din….
+==== sintoizm
+==== Yahudiylik
+==== #Konfutsiylik
+ ==== hidduiylik
+
+++++
+126. Tasaffuv ilmining yirik namoyondasi bo‘lgan Xo‘ja Ahmad Yassaviy yili deb qachon e’lon qilindi?
+==== 1994 yil
+==== 1995 yil
+====  #1993 yil
+ ==== 1996 yil
+++++
+127. O’zbekiston Respublikasi birinchi Prezidenti farmoni bilan Toshkent islom universiteti qaysi yilda ochildi?
+====  #1999 yil
+==== 1998 yil
+==== 1993 yil
+ ==== 1996 yil
+++++
+128. “Mehrjon” va “Navro‘z” bayramlari qaysi dinga tegishli?
+==== Islom
+==== Yahudiylik
+==== Konfutsiylik
+ ==== #Zardushtiylik
+++++
+129. Diniy tashkilotlar xayriya va mehr-muruvvat faoliyatini amalga oshirishga…
+==== Ba’zan mumkin
+==== # Haqli
+==== Ayrim hollarda haqli
+ ==== Ruxsat berilmaydi
+++++
+130. Diniy bag‘rikenglik bu…
+==== Diniy hamkorlik
+==== # Barcha dinlarga hurmat bilan munosabatda bo‘lish
+==== Barcha dinlar bir xil
+ ==== Dunyoviy haqiqatlarga amal qilish
